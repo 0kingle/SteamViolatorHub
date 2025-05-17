@@ -1,0 +1,40 @@
+{
+    "appid": "3398040",
+    "type": "Music",
+    "name": "Unrailed 2: Back on Track – Soundtrack",
+    "schinese_name": "一起开火车2：汽笛重鸣 — 原声带",
+    "isfreeapp": "0",
+    "change_number": "29003997",
+    "update_time": "2025-05-15 22:05:00",
+    "depot": {
+        "3398050": {
+            "manifests": {
+                "public": {
+                    "gid": "1444568486168921750",
+                    "size": "222915433",
+                    "download": "216440352"
+                }
+            },
+            "decryptionkey": "5dcc0dfd9e1e3c98cb265b2b4a9492eef4b3fd9f270e7576b2e6ed1feb28f07c"
+        },
+        "3398051": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5527022774105089715",
+                    "size": "1062078510",
+                    "download": "896705488"
+                }
+            },
+            "decryptionkey": "e3a1280804b4895be2fa660fd9809e9a36c712d0b8dcc6ba9bd360fca376c1be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18477099",
+                "timeupdated": "1747317877"
+            }
+        }
+    }
+}
