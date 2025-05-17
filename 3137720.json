@@ -1,0 +1,51 @@
+{
+    "appid": "3137720",
+    "type": "Demo",
+    "name": "Commandos: Origins - Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28393149",
+    "update_time": "2025-04-10 03:14:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3137721": {
+            "manifests": {
+                "public": {
+                    "gid": "2715972498301728861",
+                    "size": "23072041549",
+                    "download": "10744865136"
+                }
+            },
+            "decryptionkey": "99ca77a79de0e2ee5fc084025fde9d6fec734bfdd6db12ea67c42bc18a1b8c40"
+        },
+        "3137722": {
+            "manifests": {
+                "public": {
+                    "gid": "1032431936649599373",
+                    "size": "23072037453",
+                    "download": "10744301744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16038480",
+                "timeupdated": "1729007867"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
