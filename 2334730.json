@@ -1,0 +1,45 @@
+{
+    "appid": "2334730",
+    "type": "Game",
+    "name": "Death Must Die",
+    "schinese_name": "死神必须死",
+    "isfreeapp": "0",
+    "change_number": "29010947",
+    "update_time": "2025-05-16 04:24:47",
+    "depot": {
+        "baselanguages": "english",
+        "2334731": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7011997208649093531",
+                    "size": "2771489859",
+                    "download": "467838496"
+                }
+            },
+            "decryptionkey": "c853e34553e6dd49da4def65bb28703c7fe9d7f6cda4458faf04d8aa95cd16bb"
+        },
+        "2334732": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3289076278620599490",
+                    "size": "2792631271",
+                    "download": "474032992"
+                }
+            },
+            "decryptionkey": "45a23685a1639d2dbbd78516c4adb31fd11257137e5e367e327de766cfd56e98"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18409076",
+                "timeupdated": "1746829482"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
