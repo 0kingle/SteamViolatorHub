@@ -1,0 +1,27 @@
+{
+    "appid": "1912590",
+    "type": "Game",
+    "name": "vision\\memory\\maze",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 19:36:21",
+    "depot": {
+        "1912591": {
+            "manifests": {
+                "public": {
+                    "gid": "6661017031750311706",
+                    "size": "62269014",
+                    "download": "18253104"
+                }
+            },
+            "decryptionkey": "771510fdd4b94b25cec794a120eb8ae2ee0e0bdd75fd8b560c9116f4e9ec919b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8293390",
+                "timeupdated": "1646137996"
+            }
+        }
+    }
+}
