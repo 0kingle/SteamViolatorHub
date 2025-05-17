@@ -1,0 +1,71 @@
+{
+    "appid": "1297160",
+    "type": "Game",
+    "name": "a new life.",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985976",
+    "update_time": "2025-05-15 01:06:40",
+    "depot": {
+        "1297161": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3875067598442512903",
+                    "size": "94303510",
+                    "download": "48165008"
+                }
+            }
+        },
+        "1316110": {
+            "dlcappid": "1316110",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6735580563083307454",
+                    "size": "60188374",
+                    "download": "59611568"
+                }
+            },
+            "decryptionkey": "a6dfc5e26dfc386be97f61c84a43d429bb2468de8ba412f2cad80c6f82df1cc5"
+        },
+        "1297162": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8906443644177481958",
+                    "size": "84721425",
+                    "download": "44692144"
+                }
+            },
+            "decryptionkey": "10c82cecfcd259269d23e759dec8dbe785f3cb79117ae5a6d62e99337237ce80"
+        },
+        "1297163": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6829757715233586435",
+                    "size": "102281599",
+                    "download": "48348320"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5033297",
+                "timeupdated": "1589546010"
+            }
+        }
+    }
+}
