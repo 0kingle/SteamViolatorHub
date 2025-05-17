@@ -1,0 +1,26 @@
+{
+    "appid": "515880",
+    "type": "Demo",
+    "name": "001 Game Creator Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28964553",
+    "update_time": "2025-05-14 00:33:22",
+    "depot": {
+        "347401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "253065536830586219",
+                    "size": "1650124125",
+                    "download": "366451120"
+                }
+            },
+            "depotfromapp": "347400",
+            "decryptionkey": "3b7940247a68bcd03fe6fea16b52132e6250e07b85edfef9405a0c795602e92b"
+        },
+        "branches": {}
+    }
+}
