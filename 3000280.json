@@ -1,0 +1,44 @@
+{
+    "appid": "3000280",
+    "type": "Game",
+    "name": "Sexcalibur: Knights of the Pound Table",
+    "schinese_name": "骑士团长怀孕了",
+    "isfreeapp": "0",
+    "change_number": "29015726",
+    "update_time": "2025-05-16 11:06:49",
+    "depot": {
+        "3000281": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2919947433575288799",
+                    "size": "1711643239",
+                    "download": "1554878512"
+                }
+            },
+            "decryptionkey": "bba113a74795b652ee0f2167ea4e9e929a8b8e51345b5e44bae31ecc64ef92be"
+        },
+        "3000282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8834447026420409057",
+                    "size": "1663522291",
+                    "download": "1532532784"
+                }
+            },
+            "decryptionkey": "cdedb84303ffa9713b365f17e03e81bb312974c53b29f3ed8b3cd5ed6a2066a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18363321",
+                "timeupdated": "1746560011"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
