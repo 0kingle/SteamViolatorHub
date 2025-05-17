@@ -1,0 +1,76 @@
+{
+    "appid": "351700",
+    "type": "Game",
+    "name": "UnReal World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28526871",
+    "update_time": "2025-04-17 18:32:41",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "351701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2111549023287369406",
+                    "size": "61147752",
+                    "download": "43315760"
+                }
+            },
+            "decryptionkey": "2860d3368a7d51e1ec64a474b7520b899d8180c32a37f235c0da64ff94ced30f"
+        },
+        "351702": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6040703813920143305",
+                    "size": "52743302",
+                    "download": "40227872"
+                }
+            },
+            "decryptionkey": "5594624953cc7f9497a6d2ce0d62304ac00cb0fd0253b0a30f8d27cf5f6e7a78"
+        },
+        "351704": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7860194789574188619",
+                    "size": "58177084",
+                    "download": "41713344"
+                }
+            },
+            "decryptionkey": "2fcf3dd7b2e105b80b82b575b7d2f035f7d2158f6cd573b1f65d86400a224ab5"
+        },
+        "505100": {
+            "manifests": {
+                "public": {
+                    "gid": "278324748428359",
+                    "size": "1284755525",
+                    "download": "1295208144"
+                }
+            },
+            "dlcappid": "505100",
+            "decryptionkey": "e7634b75c7ebeddd4277d9148933c29d6b0428490027a6617833004f330ec5e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18131804",
+                "timeupdated": "1744885957"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
