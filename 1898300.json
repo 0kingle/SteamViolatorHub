@@ -1,0 +1,46 @@
+{
+    "appid": "1898300",
+    "type": "Game",
+    "name": "ASKA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990836",
+    "update_time": "2025-05-15 06:33:15",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,romanian,brazilian,ukrainian",
+        "1898301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4552620514661910911",
+                    "size": "6620872337",
+                    "download": "3494732176"
+                }
+            },
+            "decryptionkey": "32c13d15c0ef56699f2d009163b995a3a06463310ea381191d1d19e332af2f6c"
+        },
+        "1898302": {
+            "config": {
+                "oslist": "windows,linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "625878494983877653",
+                    "size": "6621227421",
+                    "download": "3491819792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494331",
+                "timeupdated": "1747414167"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
