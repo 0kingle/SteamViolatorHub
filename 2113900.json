@@ -1,0 +1,40 @@
+{
+    "appid": "2113900",
+    "type": "Game",
+    "name": "Touge Shakai",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28537189",
+    "update_time": "2025-04-18 03:59:37",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2113901": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1116670194475055974",
+                    "size": "4975463226",
+                    "download": "3682424512"
+                }
+            },
+            "decryptionkey": "d03fdcdcf28115c77266a7bf1d508c6d652c3363082bcf0a9253513570db4285"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18149047",
+                "timeupdated": "1744919973"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
