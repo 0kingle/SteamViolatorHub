@@ -1,0 +1,27 @@
+{
+    "appid": "2375080",
+    "type": "Game",
+    "name": "Sakura Bunny Girls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011300",
+    "update_time": "2025-05-16 04:48:46",
+    "depot": {
+        "2375081": {
+            "manifests": {
+                "public": {
+                    "gid": "128424161170338312",
+                    "size": "279327208",
+                    "download": "161937184"
+                }
+            },
+            "decryptionkey": "2fde335bf401b9750e2881cd4b1ed89e54913fb1b0b45677d13a059d2bae1544"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11640931",
+                "timeupdated": "1688655972"
+            }
+        }
+    }
+}
