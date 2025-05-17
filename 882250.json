@@ -1,0 +1,31 @@
+{
+    "appid": "882250",
+    "type": "Game",
+    "name": "Metro Sim Hustle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28979943",
+    "update_time": "2025-05-14 22:47:51",
+    "depot": {
+        "882251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2826553759984841930",
+                    "size": "9639453920",
+                    "download": "3262073344"
+                }
+            },
+            "decryptionkey": "b4dc0b25c145cdeef78cb8784dab38313013a666898cb30a20109b6295e26943"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18104764",
+                "timeupdated": "1744664113"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
