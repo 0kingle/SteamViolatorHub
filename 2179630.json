@@ -1,0 +1,27 @@
+{
+    "appid": "2179630",
+    "type": "Game",
+    "name": "OnlyFap Simulator 3 💦",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009471",
+    "update_time": "2025-05-16 02:42:50",
+    "depot": {
+        "2179631": {
+            "manifests": {
+                "public": {
+                    "gid": "4437204719317708035",
+                    "size": "408245167",
+                    "download": "179786544"
+                }
+            },
+            "decryptionkey": "aba04c3c88a1794e1fe00731fceb91b8200da2b7636f84238f0064fe55c09ce3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9754749",
+                "timeupdated": "1666189490"
+            }
+        }
+    }
+}
