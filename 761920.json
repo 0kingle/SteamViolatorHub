@@ -1,0 +1,27 @@
+{
+    "appid": "761920",
+    "type": "Game",
+    "name": "Zenodeath",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 09:49:50",
+    "depot": {
+        "761921": {
+            "manifests": {
+                "public": {
+                    "gid": "7798421664538814835",
+                    "size": "146238494",
+                    "download": "126369552"
+                }
+            },
+            "decryptionkey": "01b1b22c536ea8ac8788430a1229c1b25fee9c038adb20714a78d23b93ed68ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5535459",
+                "timeupdated": "1599908429"
+            }
+        }
+    }
+}
