@@ -1,0 +1,52 @@
+{
+    "appid": "1188930",
+    "type": "Game",
+    "name": "Chrono Ark",
+    "schinese_name": "超时空方舟",
+    "isfreeapp": "0",
+    "change_number": "28984968",
+    "update_time": "2025-05-15 00:13:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1188930",
+        "1188931": {
+            "manifests": {
+                "public": {
+                    "gid": "5398769677423704881",
+                    "size": "10089604215",
+                    "download": "2055621952"
+                }
+            },
+            "decryptionkey": "2569525f62e7ec50cd4c99a87ac4c92412b017bef46ec0ebdee283c482bf438e"
+        },
+        "1188932": {},
+        "branches": {
+            "public": {
+                "buildid": "18121286",
+                "timeupdated": "1744763515"
+            }
+        },
+        "workshopdepotdecryptionkey": "7f77f7fbabbe52e9a96a377b6232e8686c81ac910e9425074b76f8fb5f8bdfd7"
+    }
+}
