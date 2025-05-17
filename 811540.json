@@ -1,0 +1,27 @@
+{
+    "appid": "811540",
+    "type": "Game",
+    "name": "Amazon Rush",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28992689",
+    "update_time": "2025-05-15 09:15:00",
+    "depot": {
+        "811541": {
+            "manifests": {
+                "public": {
+                    "gid": "2697358236097989179",
+                    "size": "254404120",
+                    "download": "35007136"
+                }
+            },
+            "decryptionkey": "31fe4b69cae77c142a5fec26d6eddb2bdede2ddb8778b5bad0366f856f27e965"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2584716",
+                "timeupdated": "1520453563"
+            }
+        }
+    }
+}
