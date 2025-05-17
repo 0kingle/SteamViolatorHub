@@ -1,0 +1,28 @@
+{
+    "appid": "1788540",
+    "type": "Game",
+    "name": "No man`s Island Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989950",
+    "update_time": "2025-05-15 05:26:34",
+    "depot": {
+        "1788541": {
+            "manifests": {
+                "public": {
+                    "gid": "247292558834027891",
+                    "size": "10262856662",
+                    "download": "3914045920"
+                }
+            },
+            "decryptionkey": "2ce08b24c1eace40ea1ef141fdf9237bb846866cd779badd8f24c0a44aca194f"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "9240328",
+                "timeupdated": "1659737787"
+            }
+        }
+    }
+}
