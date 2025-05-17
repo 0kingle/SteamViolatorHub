@@ -1,0 +1,28 @@
+{
+    "appid": "3437170",
+    "type": "Game",
+    "name": "壶中日月",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28961302",
+    "update_time": "2025-05-13 21:33:23",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3437171": {
+            "manifests": {
+                "public": {
+                    "gid": "3103718483938329989",
+                    "size": "438345591",
+                    "download": "103212256"
+                }
+            },
+            "decryptionkey": "0cec0016673a70d36d7643d8e0f1ddaac468ce5540573d1d6d3a6a01c437c131"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18407546",
+                "timeupdated": "1746817260"
+            }
+        }
+    }
+}
