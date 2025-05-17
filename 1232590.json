@@ -1,0 +1,58 @@
+{
+    "appid": "1232590",
+    "type": "Game",
+    "name": "Dreamgate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985316",
+    "update_time": "2025-05-15 00:33:21",
+    "depot": {
+        "1232591": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "672744122276293149",
+                    "size": "491907852",
+                    "download": "155111456"
+                }
+            },
+            "decryptionkey": "0c0ac6df5a4e5eecb3cfc81392270a5dc413f38807cc323a9e6cb9dc781c6e25"
+        },
+        "1232592": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5907037872761575859",
+                    "size": "505870976",
+                    "download": "160969264"
+                }
+            }
+        },
+        "1232593": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "691680195337882169",
+                    "size": "510973619",
+                    "download": "163155744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7268928",
+                "timeupdated": "1630243341"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
