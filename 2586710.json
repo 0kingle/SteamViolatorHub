@@ -1,0 +1,27 @@
+{
+    "appid": "2586710",
+    "type": "Game",
+    "name": "Futanari Tales 💕🔞",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987169",
+    "update_time": "2025-05-15 02:14:48",
+    "depot": {
+        "2586711": {
+            "manifests": {
+                "public": {
+                    "gid": "7466432320213991448",
+                    "size": "500287452",
+                    "download": "436259392"
+                }
+            },
+            "decryptionkey": "e7a2a101d563bc845dfacff78e67bce69307f5bc85afd1ae3dfea7a17d62a8b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12757974",
+                "timeupdated": "1707899909"
+            }
+        }
+    }
+}
