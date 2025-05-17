@@ -1,0 +1,40 @@
+{
+    "appid": "1981250",
+    "type": "Game",
+    "name": "Date Ariane Remastered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987973",
+    "update_time": "2025-05-15 03:11:35",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1981251": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7642653922825985764",
+                    "size": "794132451",
+                    "download": "688514336"
+                }
+            },
+            "decryptionkey": "2c5f3a2869823ebe3f4d5b4ba905dc3a64f6de7d6ea22fe8f685ed7f0a881073"
+        },
+        "1981252": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12502746",
+                "timeupdated": "1697937041"
+            }
+        }
+    }
+}
