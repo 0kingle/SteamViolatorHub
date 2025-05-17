@@ -1,0 +1,27 @@
+{
+    "appid": "2520590",
+    "type": "Game",
+    "name": "Femdom University Prequel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012764",
+    "update_time": "2025-05-16 06:42:44",
+    "depot": {
+        "2520591": {
+            "manifests": {
+                "public": {
+                    "gid": "3370777798884769977",
+                    "size": "1332280471",
+                    "download": "1037591856"
+                }
+            },
+            "decryptionkey": "ee989ae0cf673b59d68a153a29683f53f06ddacdf914f655574a66450d85494e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14805876",
+                "timeupdated": "1719082387"
+            }
+        }
+    }
+}
