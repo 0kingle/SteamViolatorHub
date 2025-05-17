@@ -1,0 +1,61 @@
+{
+    "appid": "1458300",
+    "type": "Game",
+    "name": "The Gap",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987341",
+    "update_time": "2025-05-15 02:26:42",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1458301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5734610119519055963",
+                    "size": "2467518805",
+                    "download": "1676820368"
+                }
+            },
+            "decryptionkey": "b9b0464ccaf56518a3d1dcc20795d7b087e0e74ce00d259e23b2132fc2640e20"
+        },
+        "1458302": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3738463418700655000",
+                    "size": "2467518805",
+                    "download": "1677058208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "14664046",
+                "timeupdated": "1718025182"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
