@@ -1,0 +1,78 @@
+{
+    "appid": "3117820",
+    "type": "Game",
+    "name": "Sultan's Game",
+    "schinese_name": "苏丹的游戏",
+    "isfreeapp": "0",
+    "change_number": "29023738",
+    "update_time": "2025-05-16 20:09:35",
+    "depot": {
+        "3117821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5038269056627420150",
+                    "size": "2574570159",
+                    "download": "560111696"
+                },
+                "devtest-0.2": {
+                    "gid": "2708524691989434518",
+                    "size": "630537478",
+                    "download": "154384768"
+                },
+                "devtest-0.3": {
+                    "gid": "8745392836043176886",
+                    "size": "757193962",
+                    "download": "179010656"
+                }
+            },
+            "decryptionkey": "6da5c61617ae1bce4dec442e070762a2b581103f5765d3067a24cc1276dd0461"
+        },
+        "3117822": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2708835732891758272",
+                    "size": "2611004102",
+                    "download": "562497600"
+                }
+            }
+        },
+        "3117823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1643545450988294106",
+                    "size": "2667508160",
+                    "download": "578837280"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "workshopdepot": "3117820",
+        "branches": {
+            "public": {
+                "buildid": "18385788",
+                "timeupdated": "1746759248"
+            },
+            "devtest-0.2": {
+                "buildid": "15365016",
+                "description": "0.2测试分支",
+                "timeupdated": "1723620227"
+            },
+            "devtest-0.3": {
+                "buildid": "15543771",
+                "description": "0.3测试分支",
+                "timeupdated": "1725016346"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "5b953b3aff2ae34d4eee90a135eaee5a3e1377be9a5c4c6af9c218072aff7589"
+    }
+}
