@@ -1,0 +1,68 @@
+{
+    "appid": "2881860",
+    "type": "Demo",
+    "name": "TaleSpire - Guest Edition",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29010287",
+    "update_time": "2025-05-16 03:37:13",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2881861": {
+            "manifests": {
+                "public": {
+                    "gid": "7641681099645409661",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "cbd8ce4646d9d45d308b6d2924a5906f88d43fa7fd67cede83b6801a8be9a253"
+        },
+        "2881862": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6877906964825845475",
+                    "size": "4214201408",
+                    "download": "3874241136"
+                }
+            },
+            "decryptionkey": "82466bde9b6d5c552f145d95417ee2420f808fc41490c403a0cda479e48766c2"
+        },
+        "2881863": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5886164460705603778",
+                    "size": "4232136799",
+                    "download": "3880415504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18471246",
+                "timeupdated": "1747398807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
