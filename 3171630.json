@@ -1,0 +1,28 @@
+{
+    "appid": "3171630",
+    "type": "Game",
+    "name": "Witch's Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28844397",
+    "update_time": "2025-05-06 23:29:59",
+    "depot": {
+        "3171631": {
+            "manifests": {
+                "public": {
+                    "gid": "4863913228630626842",
+                    "size": "1933868227",
+                    "download": "184051808"
+                }
+            },
+            "decryptionkey": "de061bb5cc63d88e03762671dc7021105d7f54aaf42713b1ddc895616c9aa703"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18067647",
+                "timeupdated": "1744454599"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
