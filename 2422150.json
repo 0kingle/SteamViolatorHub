@@ -1,0 +1,44 @@
+{
+    "appid": "2422150",
+    "type": "Game",
+    "name": "Speedway Challenge 2023",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011796",
+    "update_time": "2025-05-16 05:24:43",
+    "depot": {
+        "2422151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1225153266610539707",
+                    "size": "1127048906",
+                    "download": "960754320"
+                }
+            },
+            "decryptionkey": "fc9a1ade5c49becd23dd5c1d38d4c773c0b5a956d78762b235d7f8e3f5337d7c"
+        },
+        "2422152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5933994515939607670",
+                    "size": "1360092605",
+                    "download": "1190555648"
+                }
+            }
+        },
+        "baselanguages": "english,polish",
+        "branches": {
+            "public": {
+                "buildid": "12797028",
+                "timeupdated": "1700911720"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
