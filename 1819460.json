@@ -1,0 +1,28 @@
+{
+    "appid": "1819460",
+    "type": "Game",
+    "name": "Mika and The Witch's Mountain",
+    "schinese_name": "米卡与魔女之山",
+    "isfreeapp": "0",
+    "change_number": "29004135",
+    "update_time": "2025-05-15 22:10:42",
+    "depot": {
+        "1819461": {
+            "manifests": {
+                "public": {
+                    "gid": "7507735666822419459",
+                    "size": "2949255393",
+                    "download": "1430077232"
+                }
+            },
+            "decryptionkey": "9a49390f0d51e7adc680b6ad02d11982f4cef3eea7617f744eb842ccfbed979d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18476580",
+                "timeupdated": "1747318239"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
