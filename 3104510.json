@@ -1,0 +1,42 @@
+{
+    "appid": "3104510",
+    "type": "Game",
+    "name": "Town Keeper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016213",
+    "update_time": "2025-05-16 11:54:51",
+    "depot": {
+        "3104511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7474731859378892410",
+                    "size": "145902960",
+                    "download": "67175856"
+                }
+            },
+            "decryptionkey": "dbfd1edd08c9a1c6661ed9ec6e85040ccad2e89692a34eef2c199b1a9a7c71f8"
+        },
+        "3104512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2088554513325058854",
+                    "size": "183189773",
+                    "download": "75914256"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16598531",
+                "timeupdated": "1733130614"
+            }
+        }
+    }
+}
