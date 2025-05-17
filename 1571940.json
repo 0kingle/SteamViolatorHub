@@ -1,0 +1,38 @@
+{
+    "appid": "1571940",
+    "type": "Game",
+    "name": "Ctrl Alt Ego",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28965164",
+    "update_time": "2025-05-14 01:06:12",
+    "depot": {
+        "1571941": {
+            "manifests": {
+                "public": {
+                    "gid": "9176797081397613644",
+                    "size": "16697798999",
+                    "download": "4725284928"
+                },
+                "public-beta": {
+                    "gid": "9088469555942744393",
+                    "size": "16697811575",
+                    "download": "4725318400"
+                }
+            },
+            "decryptionkey": "9fcaa2ca4296d7938fff3dd398411b087022b6a7265d484698fd16bc59a178cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18257024",
+                "timeupdated": "1746368071"
+            },
+            "public-beta": {
+                "buildid": "18448190",
+                "description": "public beta test branch",
+                "timeupdated": "1747155969"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
