@@ -1,0 +1,45 @@
+{
+    "appid": "3108510",
+    "type": "Game",
+    "name": "FlyKnight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016213",
+    "update_time": "2025-05-16 11:54:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3108511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2583853406838022270",
+                    "size": "655843923",
+                    "download": "505487808"
+                }
+            },
+            "decryptionkey": "be53921572a1059b702c1eba9cb4b0432b7abc632123699f9384ece6d5e2b34b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18042973",
+                "timeupdated": "1744212621"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
