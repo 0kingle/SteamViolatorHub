@@ -1,0 +1,43 @@
+{
+    "appid": "3339940",
+    "type": "Demo",
+    "name": "Torque Drift 2 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29019188",
+    "update_time": "2025-05-16 15:54:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3339941": {
+            "manifests": {
+                "public": {
+                    "gid": "3800559310533402699",
+                    "size": "60600006084",
+                    "download": "59769615424"
+                }
+            },
+            "decryptionkey": "bcdc7ce9427633eb341bfb74bdd12bd2c7cb389d4141853156720501d5136f5f"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18485352",
+                "timeupdated": "1747369276"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
