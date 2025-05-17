@@ -1,0 +1,31 @@
+{
+    "appid": "1423980",
+    "type": "Game",
+    "name": "Streatham Hill Stories",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28189679",
+    "update_time": "2025-03-28 19:55:19",
+    "depot": {
+        "1423981": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2331313666089830151",
+                    "size": "1099630477",
+                    "download": "516223744"
+                }
+            },
+            "decryptionkey": "2d5f52ebf40c5a0d76772252bec833dbe1687710ea3234457c216ce3b69303b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17897408",
+                "timeupdated": "1743162914"
+            }
+        }
+    }
+}
