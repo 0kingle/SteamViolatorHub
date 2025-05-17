@@ -1,0 +1,59 @@
+{
+    "appid": "3079250",
+    "type": "Demo",
+    "name": "Captain Blood Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28839452",
+    "update_time": "2025-05-06 18:39:39",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,brazilian,ukrainian,vietnamese",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3079251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1163861746157188256",
+                    "size": "5611927142",
+                    "download": "2002809152"
+                }
+            },
+            "decryptionkey": "8e67ba9b8827a6dd80dbdd9a68f6f106d8ead78847c3512ea2b76ca11a4ce3f9"
+        },
+        "3079252": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4872401014712244594",
+                    "size": "2732163727",
+                    "download": "1546005248"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18355509",
+                "timeupdated": "1746527911"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
