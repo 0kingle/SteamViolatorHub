@@ -1,0 +1,32 @@
+{
+    "appid": "2747820",
+    "type": "Game",
+    "name": "Iconia Defenders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014343",
+    "update_time": "2025-05-16 09:00:47",
+    "depot": {
+        "2747821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1818476523884110441",
+                    "size": "1140305009",
+                    "download": "216890160"
+                }
+            },
+            "decryptionkey": "edd4aa1d21ad5612f6213a399a87f0b09b2e4005e8f42c32316b6084ea8cfc54"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "16944936",
+                "timeupdated": "1736379320"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
