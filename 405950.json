@@ -1,0 +1,70 @@
+{
+    "appid": "405950",
+    "type": "Game",
+    "name": "Lowglow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 22:37:25",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "405951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4711899857649867492",
+                    "size": "177786733",
+                    "download": "116747424"
+                }
+            },
+            "decryptionkey": "2b1876bf89b9938ac20dfb79a43ee9f2e7f9d5fe326694ce3cf5083a365329a1"
+        },
+        "405952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8197143765604672760",
+                    "size": "200475376",
+                    "download": "141655104"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "982972"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
