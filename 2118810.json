@@ -1,0 +1,46 @@
+{
+    "appid": "2118810",
+    "type": "Game",
+    "name": "Breachway",
+    "schinese_name": "星尘战线 Breachway",
+    "isfreeapp": "0",
+    "change_number": "29008846",
+    "update_time": "2025-05-16 02:06:50",
+    "depot": {
+        "2118811": {
+            "manifests": {
+                "public": {
+                    "gid": "5237484778346641503",
+                    "size": "3468129273",
+                    "download": "1584623344"
+                },
+                "experimental": {
+                    "gid": "5237484778346641503",
+                    "size": "3468129273",
+                    "download": "1584623344"
+                }
+            },
+            "decryptionkey": "fe842fa8b3b9df7aad5d259d932cdaa24ecc7b4336b1e4370d1de3ba806c7b85"
+        },
+        "2118812": {
+            "config": {
+                "oslist": "windows",
+                "language": "english",
+                "osarch": "64"
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18494142",
+                "timeupdated": "1747414382"
+            },
+            "experimental": {
+                "buildid": "18494142",
+                "description": "Testing new features and content",
+                "timeupdated": "1747412713"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
