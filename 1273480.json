@@ -1,0 +1,33 @@
+{
+    "appid": "1273480",
+    "type": "Game",
+    "name": "The Highrise",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 06:18:02",
+    "depot": {
+        "1273481": {
+            "manifests": {
+                "public": {
+                    "gid": "7995093962889223116",
+                    "size": "1861442439",
+                    "download": "1370790480"
+                }
+            },
+            "decryptionkey": "00f9a620dab7ccfd76083e360e69f050b80c9eb4c2e9950f41af85680097c08c"
+        },
+        "1273482": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12831467",
+                "timeupdated": "1701284724"
+            }
+        }
+    }
+}
