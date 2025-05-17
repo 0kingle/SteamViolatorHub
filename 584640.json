@@ -1,0 +1,54 @@
+{
+    "appid": "584640",
+    "type": "Game",
+    "name": "SUPER CHICKEN JUMPER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28975145",
+    "update_time": "2025-05-14 22:38:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,portuguese,brazilian",
+        "584641": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8306148154826931269",
+                    "size": "32877669",
+                    "download": "22205296"
+                }
+            },
+            "decryptionkey": "21b593c003dc1fa9d6fc01ee6011affa58ddf5a99d6f018a87a15eb27c8a5f1f"
+        },
+        "workshopdepot": "584640",
+        "branches": {
+            "public": {
+                "buildid": "11298504",
+                "timeupdated": "1684856075"
+            }
+        }
+    }
+}
