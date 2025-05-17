@@ -1,0 +1,41 @@
+{
+    "appid": "821250",
+    "type": "Game",
+    "name": "Flotsam",
+    "schinese_name": "漂流品",
+    "isfreeapp": "0",
+    "change_number": "28979231",
+    "update_time": "2025-05-14 22:46:28",
+    "depot": {
+        "821251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3378428114400007714",
+                    "size": "1194902298",
+                    "download": "410830832"
+                },
+                "experimental": {
+                    "gid": "3378428114400007714",
+                    "size": "1194902298",
+                    "download": "410830832"
+                }
+            },
+            "decryptionkey": "56d2732aafc44c77401e0dfc97a9374d19b16610b85b9446aadcbaccdfaf7c20"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18045766",
+                "timeupdated": "1744225835"
+            },
+            "experimental": {
+                "buildid": "18045766",
+                "description": "Experimental",
+                "timeupdated": "1744225807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
