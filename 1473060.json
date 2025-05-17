@@ -1,0 +1,48 @@
+{
+    "appid": "1473060",
+    "type": "Game",
+    "name": "Reality Break",
+    "schinese_name": "轮回的瓦尔基里",
+    "isfreeapp": "0",
+    "change_number": "29013451",
+    "update_time": "2025-05-16 07:47:59",
+    "depot": {
+        "1473061": {
+            "manifests": {
+                "public": {
+                    "gid": "6460172209612172975",
+                    "size": "7226194740",
+                    "download": "1915130480"
+                },
+                "beta": {
+                    "gid": "5263737448103197620",
+                    "size": "7242969133",
+                    "download": "1915232848"
+                },
+                "previous": {
+                    "gid": "9130946225113339913",
+                    "size": "7128849470",
+                    "download": "1908905056"
+                }
+            },
+            "decryptionkey": "813b4f7543cf33a09418f93a9486d5a134acd5e5926b333f838cda068f746ec8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18483625",
+                "timeupdated": "1747413486"
+            },
+            "beta": {
+                "buildid": "18416288",
+                "description": "beta testing",
+                "timeupdated": "1746910052"
+            },
+            "previous": {
+                "buildid": "17328065",
+                "description": "most recent build",
+                "timeupdated": "1739564976"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
