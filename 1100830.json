@@ -1,0 +1,100 @@
+{
+    "appid": "1100830",
+    "type": "Game",
+    "name": "BIOHAZARD RE:3 Z Version",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:54",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,arabic,brazilian,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1100831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7448340415452564679",
+                    "size": "25210968322",
+                    "download": "21698936960"
+                },
+                "dx11_non-rt": {
+                    "gid": "1084168017707740840",
+                    "size": "23826712820",
+                    "download": "20170039504"
+                }
+            },
+            "decryptionkey": "917db16c7f4a8c0b38c7e2cca6c449a569b03b6f74339e08f1673ceaae7706e3"
+        },
+        "1100832": {
+            "dlcappid": "1158760",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6386329552968953863",
+                    "size": "680638783",
+                    "download": "569504784"
+                },
+                "dx11_non-rt": {
+                    "gid": "4559264628436778923",
+                    "size": "641141601",
+                    "download": "509725344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1100833": {
+            "dlcappid": "1348150",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3470296994178922947",
+                    "size": "11404",
+                    "download": "10800"
+                },
+                "dx11_non-rt": {
+                    "gid": "3455615187095337569",
+                    "size": "9924",
+                    "download": "9296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "11961615",
+                "timeupdated": "1695603705"
+            },
+            "dx11_non-rt": {
+                "buildid": "11047603",
+                "timeupdated": "1682584060"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
