@@ -1,0 +1,41 @@
+{
+    "appid": "2457850",
+    "type": "Demo",
+    "name": "Never Ending Beyond Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28576059",
+    "update_time": "2025-04-21 07:40:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2457851": {
+            "manifests": {
+                "public": {
+                    "gid": "5922641631854916750",
+                    "size": "1083995348",
+                    "download": "237131456"
+                }
+            },
+            "decryptionkey": "9c2871974f3e6dd76fef829a0b8d3808bd61069db6edd328338954e258df9d8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18175645",
+                "timeupdated": "1745192426"
+            }
+        }
+    }
+}
