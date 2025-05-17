@@ -1,0 +1,36 @@
+{
+    "appid": "1959140",
+    "type": "Game",
+    "name": "Diesel Legacy: The Brazen Age",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:29",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1959141": {
+            "manifests": {
+                "public": {
+                    "gid": "5145930653362295216",
+                    "size": "3875876197",
+                    "download": "3854113984"
+                }
+            },
+            "decryptionkey": "866b0d91fa3fad3b3817c84e21b53d14a2104b3a03410fb32e024f32768e49d5"
+        },
+        "baselanguages": "english,german,french,italian,spanish,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17887256",
+                "timeupdated": "1744146016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
