@@ -1,0 +1,57 @@
+{
+    "appid": "1613680",
+    "type": "Game",
+    "name": "Arrow Sudoku",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:15",
+    "depot": {
+        "1613681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8796453296564624915",
+                    "size": "195351996",
+                    "download": "22039776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1613682": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3865635182886721864",
+                    "size": "203011492",
+                    "download": "24485360"
+                }
+            },
+            "decryptionkey": "624cc1ee35a1b59af626281a549b38ee60a126b263da6f0fc657e64bff1a8d30"
+        },
+        "1613683": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3876855025708048075",
+                    "size": "225815512",
+                    "download": "31500816"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8693599",
+                "timeupdated": "1651867490"
+            }
+        }
+    }
+}
