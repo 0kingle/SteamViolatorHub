@@ -1,0 +1,45 @@
+{
+    "appid": "1360450",
+    "type": "Game",
+    "name": "Runeverse: The Card Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986440",
+    "update_time": "2025-05-15 01:33:16",
+    "depot": {
+        "baselanguages": "english,italian",
+        "1360451": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "639901614164699358",
+                    "size": "1381993164",
+                    "download": "815052384"
+                }
+            },
+            "decryptionkey": "47999b3a5c862e888c4b7650429c78484f6f9de686082ad9009500e2a9eee23f"
+        },
+        "1360452": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5592680729685919265",
+                    "size": "1392232683",
+                    "download": "816609312"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6748152",
+                "timeupdated": "1621851485"
+            }
+        }
+    }
+}
