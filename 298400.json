@@ -1,0 +1,60 @@
+{
+    "appid": "298400",
+    "type": "Game",
+    "name": "Knightmare Tower",
+    "schinese_name": "骑士恶梦塔",
+    "isfreeapp": "0",
+    "change_number": "28971452",
+    "update_time": "2025-05-14 09:37:51",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "298401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5944418575305810292",
+                    "size": "198716296",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "2c5c7c5aa419c8ef51d3c12230455e7671b760086fb6ea0545961cd2bab8117c"
+        },
+        "298402": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8334146568768410036",
+                    "size": "205545533",
+                    "download": "0"
+                }
+            }
+        },
+        "298403": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7226131346051709743",
+                    "size": "208502770",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "294418"
+            }
+        }
+    }
+}
