@@ -1,0 +1,27 @@
+{
+    "appid": "1084220",
+    "type": "Game",
+    "name": "Cavity Busters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983991",
+    "update_time": "2025-05-14 23:23:53",
+    "depot": {
+        "1084221": {
+            "manifests": {
+                "public": {
+                    "gid": "6805810625980941800",
+                    "size": "191536892",
+                    "download": "127907664"
+                }
+            },
+            "decryptionkey": "7340f96ac043fcae777cf34e24caadcfafee665113c35449b877adef8b2264fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18105959",
+                "timeupdated": "1744672560"
+            }
+        }
+    }
+}
