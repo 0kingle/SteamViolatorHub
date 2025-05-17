@@ -1,0 +1,44 @@
+{
+    "appid": "1517160",
+    "type": "Game",
+    "name": "Under The Ghost Mountain",
+    "schinese_name": "鬼山之下",
+    "isfreeapp": "0",
+    "change_number": "28388365",
+    "update_time": "2025-04-09 22:41:18",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese",
+        "1517162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "446370378834926498",
+                    "size": "297445620",
+                    "download": "133837088"
+                }
+            }
+        },
+        "1517161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4465441097579741519",
+                    "size": "253371936",
+                    "download": "126808304"
+                }
+            },
+            "decryptionkey": "27de55f2e60253bd896ca7525ceb4f1bdb6a2acaa63c828afee4ea0d347161c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18042476",
+                "timeupdated": "1744209023"
+            }
+        }
+    }
+}
