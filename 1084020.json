@@ -1,0 +1,79 @@
+{
+    "appid": "1084020",
+    "type": "Game",
+    "name": "TheoTown",
+    "schinese_name": "西奥小镇",
+    "isfreeapp": "0",
+    "change_number": "28983991",
+    "update_time": "2025-05-14 23:23:52",
+    "depot": {
+        "baselanguages": "english",
+        "1084021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4970041023070759628",
+                    "size": "225429352",
+                    "download": "145662608"
+                },
+                "beta": {
+                    "gid": "8121515414205493261",
+                    "size": "225407007",
+                    "download": "145639216"
+                }
+            },
+            "decryptionkey": "53cf5369fb7f8fcacfe7efc6a6a640c7eeaddaa4cbcc283666eab8fbb1e0bd95"
+        },
+        "1084022": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3616560167324209246",
+                    "size": "251295826",
+                    "download": "149735664"
+                },
+                "beta": {
+                    "gid": "5217410057264913399",
+                    "size": "251273481",
+                    "download": "149713360"
+                }
+            },
+            "decryptionkey": "763370776404b2a8d74f827a2c6d2d78c3c78f09f1c84716c6132cea41ec391b"
+        },
+        "1084023": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2279619332951312023",
+                    "size": "121898505",
+                    "download": "120147200"
+                },
+                "beta": {
+                    "gid": "5209142651487934408",
+                    "size": "121876160",
+                    "download": "120124896"
+                }
+            },
+            "decryptionkey": "cc1ec45db95ff8755bdce02c1ecc91357a849f489c8bc19660d0d960cd77bd0a"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18278037",
+                "timeupdated": "1746027385"
+            },
+            "beta": {
+                "buildid": "18298206",
+                "description": "Branch for testing new features",
+                "timeupdated": "1746090742"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
