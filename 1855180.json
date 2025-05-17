@@ -1,0 +1,58 @@
+{
+    "appid": "1855180",
+    "type": "Game",
+    "name": "TBTE - The Button Tycoon Experience",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990480",
+    "update_time": "2025-05-15 06:06:31",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1855181": {
+            "manifests": {
+                "public": {
+                    "gid": "5992658200641292889",
+                    "size": "431881756",
+                    "download": "319081824"
+                }
+            },
+            "decryptionkey": "17d3f9e590b8ea6872710b699b43a1f4e19e641cd46e5767165800de4ecfc0e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10265083",
+                "timeupdated": "1672963248"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
