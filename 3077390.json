@@ -1,0 +1,42 @@
+{
+    "appid": "3077390",
+    "type": "Game",
+    "name": "MotoGP™25",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017502",
+    "update_time": "2025-05-16 14:03:17",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3077391": {
+            "manifests": {
+                "public": {
+                    "gid": "3873427665152404473",
+                    "size": "27643984802",
+                    "download": "26206459424"
+                }
+            },
+            "decryptionkey": "ee460f4a0c4fdcfbdd31a8e7d084bd72dab87c59bde5939c020cc9c2da9ba48b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18383980",
+                "timeupdated": "1746718187"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
