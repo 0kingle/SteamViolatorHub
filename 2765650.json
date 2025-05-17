@@ -1,0 +1,45 @@
+{
+    "appid": "2765650",
+    "type": "Demo",
+    "name": "Deconstruction Simulator Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28749559",
+    "update_time": "2025-04-30 21:03:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2765651": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2285339413546838747",
+                    "size": "8285744743",
+                    "download": "7310495584"
+                }
+            },
+            "decryptionkey": "ec6b2b94f45928dc4c8a74a9407b346c3b15f7751adaed7fc55066d9b5953a43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18281756",
+                "timeupdated": "1746011804"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
