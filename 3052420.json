@@ -1,0 +1,32 @@
+{
+    "appid": "3052420",
+    "type": "Game",
+    "name": "The Better Deal",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015969",
+    "update_time": "2025-05-16 11:30:48",
+    "depot": {
+        "3052421": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6388072606630366783",
+                    "size": "969337041",
+                    "download": "808394368"
+                }
+            },
+            "decryptionkey": "cde5d50fe9a5fa6d3203d173dea3a5e4caae84629c6a5f7de9af1fc87d701d89"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18122144",
+                "timeupdated": "1744769532"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
