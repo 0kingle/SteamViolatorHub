@@ -1,0 +1,60 @@
+{
+    "appid": "1235110",
+    "type": "Game",
+    "name": "Rising Star 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985316",
+    "update_time": "2025-05-15 00:33:16",
+    "depot": {
+        "1235111": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2638619081009087153",
+                    "size": "2827735248",
+                    "download": "1515839840"
+                },
+                "pre-live": {
+                    "gid": "4780635147040363416",
+                    "size": "2827701720",
+                    "download": "1515819968"
+                }
+            },
+            "decryptionkey": "77efe9c6fc784f5803d59de8f5cf7985378b0b7e8ad4688274fe956cd484b0e0"
+        },
+        "1235112": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2770401540375271633",
+                    "size": "2828724336",
+                    "download": "1517356688"
+                },
+                "pre-live": {
+                    "gid": "1493719007908749295",
+                    "size": "2828785412",
+                    "download": "1517344736"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18441198",
+                "timeupdated": "1747127042"
+            },
+            "pre-live": {
+                "buildid": "18415814",
+                "description": "Allow players to test an update before making it live.",
+                "timeupdated": "1746903374"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
