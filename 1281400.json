@@ -1,0 +1,31 @@
+{
+    "appid": "1281400",
+    "type": "Game",
+    "name": "Good Knight",
+    "schinese_name": "骑士镇魂曲",
+    "isfreeapp": "0",
+    "change_number": "28985793",
+    "update_time": "2025-05-15 00:59:59",
+    "depot": {
+        "1281401": {
+            "manifests": {
+                "public": {
+                    "gid": "8611991171304837029",
+                    "size": "1306552169",
+                    "download": "378308624"
+                }
+            },
+            "decryptionkey": "2f6d9f973f2f844d284116a5b517b40d1a9b75108dd95867cfe39f47b5119962"
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "1281400",
+        "branches": {
+            "public": {
+                "buildid": "9803801",
+                "timeupdated": "1666792745"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "30c220155d18931d4c05a5a0982a08aa2d0dc2cbc3c68e11ad66a17f90c951cf"
+    }
+}
