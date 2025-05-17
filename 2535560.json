@@ -1,0 +1,55 @@
+{
+    "appid": "2535560",
+    "type": "Game",
+    "name": "Sunstone War",
+    "schinese_name": "太阳石大战",
+    "isfreeapp": "0",
+    "change_number": "29012872",
+    "update_time": "2025-05-16 06:54:50",
+    "depot": {
+        "2535561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8251679114551113881",
+                    "size": "427484728",
+                    "download": "154759760"
+                }
+            },
+            "decryptionkey": "a1d2e537221dd843cfee24860e447f55e0c7c183d75a46b9f43a8882c95eb299"
+        },
+        "2535562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7839136216876882077",
+                    "size": "450232329",
+                    "download": "161596144"
+                }
+            }
+        },
+        "2535563": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6294530377435271232",
+                    "size": "431742680",
+                    "download": "155514432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16485098",
+                "timeupdated": "1732187140"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
