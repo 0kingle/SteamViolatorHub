@@ -1,0 +1,42 @@
+{
+    "appid": "3369880",
+    "type": "Demo",
+    "name": "Hardware Store Simulator Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017793",
+    "update_time": "2025-05-16 14:26:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3369881": {
+            "manifests": {
+                "public": {
+                    "gid": "2796043831303036418",
+                    "size": "1102582557",
+                    "download": "245088848"
+                }
+            },
+            "decryptionkey": "92971a1510efbf54c973a8f133c4ae3cc36dcaf2be883c96039478701595446f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18486738",
+                "timeupdated": "1747376791"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
