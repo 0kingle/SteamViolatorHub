@@ -1,0 +1,77 @@
+{
+    "appid": "1429880",
+    "type": "Game",
+    "name": "Little Sim World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015191",
+    "update_time": "2025-05-16 10:21:06",
+    "depot": {
+        "baselanguages": "english",
+        "1429881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4988139088843716376",
+                    "size": "3873253747",
+                    "download": "948549952"
+                },
+                "beta": {
+                    "gid": "4988139088843716376",
+                    "size": "3873253747",
+                    "download": "948549952"
+                }
+            },
+            "decryptionkey": "3faa97d2844a3dbe09fc697d4a781583446c83202f4ef4129091ba7c261426ff"
+        },
+        "1429882": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6175514037233825515",
+                    "size": "1173638926",
+                    "download": "794315632"
+                },
+                "beta": {
+                    "gid": "6175514037233825515",
+                    "size": "1173638926",
+                    "download": "794315632"
+                }
+            }
+        },
+        "1429883": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4181262525962964504",
+                    "size": "3741187393",
+                    "download": "745292224"
+                },
+                "beta": {
+                    "gid": "4181262525962964504",
+                    "size": "3741187393",
+                    "download": "745292224"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18466994",
+                "timeupdated": "1747260713"
+            },
+            "beta": {
+                "buildid": "18466994",
+                "description": "Public beta branch",
+                "timeupdated": "1747260687"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
