@@ -1,0 +1,27 @@
+{
+    "appid": "1258710",
+    "type": "Game",
+    "name": "BEAR, VODKA, FALL OF BERLIN! 🐻",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985548",
+    "update_time": "2025-05-15 00:46:46",
+    "depot": {
+        "1258711": {
+            "manifests": {
+                "public": {
+                    "gid": "6796986798597164283",
+                    "size": "538419017",
+                    "download": "336350000"
+                }
+            },
+            "decryptionkey": "a2394885c7df53fbb870466c32486dcf0492ff4dbf7c04905a8583302aa5901e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5061281",
+                "timeupdated": "1590088142"
+            }
+        }
+    }
+}
