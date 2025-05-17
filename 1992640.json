@@ -1,0 +1,57 @@
+{
+    "appid": "1992640",
+    "type": "Game",
+    "name": "Anime vs Evil: Apocalypse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28996566",
+    "update_time": "2025-05-15 15:10:08",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1992641": {
+            "manifests": {
+                "public": {
+                    "gid": "8728644057185370331",
+                    "size": "7081621814",
+                    "download": "894373808"
+                }
+            },
+            "decryptionkey": "2e206f156d52565d9065ae1a8be4d682c34b93b360c5c4899591ef2b4b4aea5c"
+        },
+        "1999010": {
+            "dlcappid": "1999010",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2348115564318145382",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d2049664cfb93fd26ac4c218ee86f5a6da66d9a3dab346252631515686e044f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13099927",
+                "timeupdated": "1704451607"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
