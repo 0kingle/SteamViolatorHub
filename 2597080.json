@@ -1,0 +1,28 @@
+{
+    "appid": "2597080",
+    "type": "Game",
+    "name": "Realm of Ink",
+    "schinese_name": "墨境",
+    "isfreeapp": "0",
+    "change_number": "29013338",
+    "update_time": "2025-05-16 07:36:42",
+    "depot": {
+        "2597081": {
+            "manifests": {
+                "public": {
+                    "gid": "1974095777008710322",
+                    "size": "7707992604",
+                    "download": "3686268016"
+                }
+            },
+            "decryptionkey": "30b38a65aea230571a237b595825b0e4500f6c3717546e14cf300291af6b4891"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18108424",
+                "timeupdated": "1744698148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
