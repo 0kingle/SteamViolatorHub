@@ -1,0 +1,53 @@
+{
+    "appid": "2640350",
+    "type": "Demo",
+    "name": "Slipgate Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28913135",
+    "update_time": "2025-05-10 10:33:10",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2640353": {
+            "config": {
+                "language": "russian",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "344308287853241077",
+                    "size": "2780731865",
+                    "download": "843192784"
+                }
+            }
+        },
+        "2640352": {
+            "config": {
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4880975013417079401",
+                    "size": "2932213415",
+                    "download": "913644048"
+                }
+            },
+            "decryptionkey": "db556642f4e4a23d6da93e5c0a859fe15aa38819fff39d97c58bf1a3707a4aca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17990186",
+                "timeupdated": "1743797209"
+            }
+        }
+    }
+}
