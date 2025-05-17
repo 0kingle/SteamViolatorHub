@@ -1,0 +1,61 @@
+{
+    "appid": "1967260",
+    "type": "Game",
+    "name": "Double Dragon Gaiden: Rise of the Dragons",
+    "schinese_name": "双截龙外传：双龙出海",
+    "isfreeapp": "0",
+    "change_number": "28992630",
+    "update_time": "2025-05-15 09:10:04",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,dutch,brazilian",
+        "1967261": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5292277626236311091",
+                    "size": "2938481650",
+                    "download": "594495168"
+                }
+            },
+            "decryptionkey": "f72501396cb0ffeadaddc1c636085b6d618b31ef376acd0afd663cb13ea83d80"
+        },
+        "1967262": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7333097334252290378",
+                    "size": "2518142367",
+                    "download": "273802816"
+                }
+            },
+            "decryptionkey": "b441dc4e9638bd4630f8f06d2a2d660cc2e0663b61e99793a4b3e7631ecc8b9d"
+        },
+        "1967263": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2342630857980481047",
+                    "size": "2480651916",
+                    "download": "256723072"
+                }
+            },
+            "decryptionkey": "2676fe5f1108633d33e11f3fca8e4637990795e339a7702bff50d72f85fa339f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18402244",
+                "timeupdated": "1747067817"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
