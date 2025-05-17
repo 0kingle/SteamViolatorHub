@@ -1,0 +1,27 @@
+{
+    "appid": "1941170",
+    "type": "Game",
+    "name": "The Jelly Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991108",
+    "update_time": "2025-05-15 06:59:48",
+    "depot": {
+        "1941171": {
+            "manifests": {
+                "public": {
+                    "gid": "2816762127785414303",
+                    "size": "60134513",
+                    "download": "13429760"
+                }
+            },
+            "decryptionkey": "bccc79c8e79ca43debc28bed15aea30b57bed6f6509cee5fe79667d4dc1674cc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8397255",
+                "timeupdated": "1647607168"
+            }
+        }
+    }
+}
