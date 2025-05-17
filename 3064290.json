@@ -1,0 +1,44 @@
+{
+    "appid": "3064290",
+    "type": "Game",
+    "name": "Trizon",
+    "schinese_name": "卡牌少女不会受伤 Trizon",
+    "isfreeapp": "0",
+    "change_number": "29022797",
+    "update_time": "2025-05-16 19:15:44",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3064291": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3714523566379009139",
+                    "size": "346362752",
+                    "download": "241478688"
+                }
+            },
+            "decryptionkey": "44726536451c08d05f6f607caaabb1f1da65fab81da68b36824792727e8f759d"
+        },
+        "3064292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5713041577991214508",
+                    "size": "426675814",
+                    "download": "258649456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494182",
+                "timeupdated": "1747412611"
+            }
+        }
+    }
+}
