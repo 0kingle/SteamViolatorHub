@@ -1,0 +1,175 @@
+{
+    "appid": "335620",
+    "type": "Game",
+    "name": "Star Traders: Frontiers",
+    "schinese_name": "星际贸易：前沿",
+    "isfreeapp": "0",
+    "change_number": "28972020",
+    "update_time": "2025-05-14 10:27:55",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "workshopdepot": "335620",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "335622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2690727507100365854",
+                    "size": "362199776",
+                    "download": "289045728"
+                },
+                "macos_legacy": {
+                    "gid": "9159283462575776845",
+                    "size": "329551094",
+                    "download": "281109488"
+                }
+            }
+        },
+        "335621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7771172710065567039",
+                    "size": "452747254",
+                    "download": "334137808"
+                },
+                "macos_legacy": {
+                    "gid": "4265853423276177915",
+                    "size": "343028817",
+                    "download": "313776224"
+                }
+            },
+            "decryptionkey": "678b3e7ff99c7a163c2ecf6c6ab19fc90e85bda2778f1aec6b47d5c7fad89cba"
+        },
+        "335623": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7031662696789747909",
+                    "size": "444879744",
+                    "download": "337424624"
+                },
+                "macos_legacy": {
+                    "gid": "3336597720972692846",
+                    "size": "441656855",
+                    "download": "334625488"
+                }
+            }
+        },
+        "335624": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4303922459052946619",
+                    "size": "471688971",
+                    "download": "339301200"
+                },
+                "macos_legacy": {
+                    "gid": "8774250622056180412",
+                    "size": "468303990",
+                    "download": "336465040"
+                }
+            }
+        },
+        "335625": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1820064107396685016",
+                    "size": "345976326",
+                    "download": "314457056"
+                },
+                "macos_legacy": {
+                    "gid": "1744483469484396667",
+                    "size": "343037009",
+                    "download": "311693856"
+                }
+            },
+            "decryptionkey": "7a5ee5f16abd7018a3fff840da0f93cba2f72884cbd66f41f58ad673972f1cfe"
+        },
+        "335626": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7426384238711222485",
+                    "size": "362103615",
+                    "download": "286843072"
+                },
+                "macos_legacy": {
+                    "gid": "4273326057040281186",
+                    "size": "329539797",
+                    "download": "279018896"
+                }
+            }
+        },
+        "335627": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8629357508228648672",
+                    "size": "445163820",
+                    "download": "335410400"
+                },
+                "macos_legacy": {
+                    "gid": "2504836318969651033",
+                    "size": "441944663",
+                    "download": "332594624"
+                }
+            }
+        },
+        "335628": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1311752777283336639",
+                    "size": "472096571",
+                    "download": "337337424"
+                },
+                "macos_legacy": {
+                    "gid": "2837760443847693553",
+                    "size": "468721382",
+                    "download": "334478112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18396751",
+                "timeupdated": "1746753369"
+            },
+            "macos_legacy": {
+                "buildid": "16495484",
+                "description": "A branch for older versions of Mac OS that cannot run the current version of the game locked at version v3.3.59",
+                "timeupdated": "1732248920"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6a3309cb704a367a6525897e951af3425c966976d1673f7280c2ba88392c7523"
+    }
+}
