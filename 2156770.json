@@ -1,0 +1,28 @@
+{
+    "appid": "2156770",
+    "type": "Game",
+    "name": "Ghost Signal: A Stellaris Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009242",
+    "update_time": "2025-05-16 02:30:40",
+    "depot": {
+        "2156771": {
+            "manifests": {
+                "public": {
+                    "gid": "17404820130150983",
+                    "size": "5118971565",
+                    "download": "3553496480"
+                }
+            },
+            "decryptionkey": "8b3869e8bf50bcd7a529edadddf3437a4bdb2ab901fae1c56f3615dc280bf178"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12187215",
+                "timeupdated": "1694687924"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
