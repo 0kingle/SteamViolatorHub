@@ -1,0 +1,56 @@
+{
+    "appid": "1578220",
+    "type": "Game",
+    "name": "Mister Furry: Hot Muscles",
+    "schinese_name": "毛茸茸的先生: 火辣肌肉",
+    "isfreeapp": "0",
+    "change_number": "28926887",
+    "update_time": "2025-05-12 00:03:06",
+    "depot": {
+        "1578221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5210207949826790023",
+                    "size": "7852565019",
+                    "download": "6907372352"
+                }
+            },
+            "decryptionkey": "02abf18c40a810d2ca7c35ff7a19b961ed0218e59b27497ff85ce9fcba4d8820"
+        },
+        "1578222": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4123630821569127711",
+                    "size": "7848645064",
+                    "download": "6908093296"
+                }
+            },
+            "decryptionkey": "94edc13ef668e841ad8434fcc1ecf5b9c5345b13ff0c5e8d082d1000dfc08dd9"
+        },
+        "1578223": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "951284672426415590",
+                    "size": "7933574469",
+                    "download": "6959851680"
+                }
+            },
+            "decryptionkey": "ec2ba4195c61bca3e3a7b952d125dcc8874673985fa821800896298f818c5f7f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18408750",
+                "timeupdated": "1746824286"
+            }
+        }
+    }
+}
