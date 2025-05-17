@@ -1,0 +1,42 @@
+{
+    "appid": "2928510",
+    "type": "Demo",
+    "name": "Interior Designer Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28445026",
+    "update_time": "2025-04-12 22:11:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2928511": {
+            "manifests": {
+                "public": {
+                    "gid": "7297444258770021498",
+                    "size": "3304201935",
+                    "download": "2790237472"
+                }
+            },
+            "decryptionkey": "42d2a1de4c5b175996bfdd24ccb396ea9aab744294ae4715eb09d997b411bc82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16018727",
+                "timeupdated": "1730288449"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
