@@ -1,0 +1,32 @@
+{
+    "appid": "2020630",
+    "type": "Game",
+    "name": "Haisonmeguri",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29004121",
+    "update_time": "2025-05-15 22:10:14",
+    "depot": {
+        "baselanguages": "",
+        "2020631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2027375187589761447",
+                    "size": "925704273",
+                    "download": "160677568"
+                }
+            },
+            "decryptionkey": "b6302b6ad5c7189310a7582267fca4a529e1b412738460c512904f0b3b47cbc0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9153790",
+                "timeupdated": "1658294460"
+            }
+        }
+    }
+}
