@@ -1,0 +1,43 @@
+{
+    "appid": "1830780",
+    "type": "Game",
+    "name": "Hentai Houseparty: Gyaru Gangbang",
+    "schinese_name": "辣妹连续中出",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:09",
+    "depot": {
+        "1830781": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7884066348826693249",
+                    "size": "1214865959",
+                    "download": "1082835824"
+                }
+            },
+            "decryptionkey": "40a3c68a844974a7828431bfbd5e95e95a87887654bc3dfeadd635245b9618ca"
+        },
+        "1830782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6923543516582338783",
+                    "size": "1164124005",
+                    "download": "1068576544"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17518400",
+                "timeupdated": "1740600864"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
