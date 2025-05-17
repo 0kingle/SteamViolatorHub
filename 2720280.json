@@ -1,0 +1,43 @@
+{
+    "appid": "2720280",
+    "type": "Game",
+    "name": "Follow the meaning",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014231",
+    "update_time": "2025-05-16 08:48:43",
+    "depot": {
+        "2720281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1608851403112426322",
+                    "size": "343091117",
+                    "download": "265888208"
+                }
+            },
+            "decryptionkey": "00dbfcda03b6c0849975da310050594b36a4880b42579700be195ab9857a7013"
+        },
+        "2720282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3714322753833164378",
+                    "size": "365583133",
+                    "download": "274242736"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18125076",
+                "timeupdated": "1744809954"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
