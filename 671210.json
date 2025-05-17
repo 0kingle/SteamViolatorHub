@@ -1,0 +1,36 @@
+{
+    "appid": "671210",
+    "type": "Demo",
+    "name": "FINAL FANTASY XV WINDOWS EDITION PLAYABLE DEMO",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27931801",
+    "update_time": "2025-03-16 09:09:48",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian",
+        "671211": {
+            "manifests": {
+                "public": {
+                    "gid": "5056110263865243249",
+                    "size": "21060396331",
+                    "download": "20092469200"
+                }
+            },
+            "decryptionkey": "3383be02d1061e253fe87279ed601f5b1e39790b6b043ecad540b6cf85ead809"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2636672",
+                "timeupdated": "1522947799"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
