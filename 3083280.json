@@ -1,0 +1,41 @@
+{
+    "appid": "3083280",
+    "type": "Demo",
+    "name": "Kebabstar Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982093",
+    "update_time": "2025-05-14 22:51:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3083281": {
+            "manifests": {
+                "public": {
+                    "gid": "7835852651388886939",
+                    "size": "4781323880",
+                    "download": "4277270512"
+                }
+            },
+            "decryptionkey": "01fa213516d5514f220a5267d452beacded8604fd316337845da7f5868979664"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493693",
+                "timeupdated": "1747411444"
+            }
+        }
+    }
+}
