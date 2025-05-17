@@ -1,0 +1,31 @@
+{
+    "appid": "2470860",
+    "type": "Game",
+    "name": "Knockout Master",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012286",
+    "update_time": "2025-05-16 06:00:47",
+    "depot": {
+        "2470861": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6715690499561385380",
+                    "size": "12270522458",
+                    "download": "11834298992"
+                }
+            },
+            "decryptionkey": "56aa7d21970278e132f55d2322a35f9cf613e485ff6f4e176bae2e7b831b498d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18413867",
+                "timeupdated": "1746877028"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
