@@ -1,0 +1,46 @@
+{
+    "appid": "2828860",
+    "type": "Game",
+    "name": "The Forever Winter",
+    "schinese_name": "永恒寒冬",
+    "isfreeapp": "0",
+    "change_number": "29014776",
+    "update_time": "2025-05-16 09:42:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,ukrainian",
+        "2828861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "898085811130253940",
+                    "size": "120549211464",
+                    "download": "84062079568"
+                }
+            },
+            "decryptionkey": "e333c16789028087fd8925929beb0a6117f7fdb30559fa9f02677adfd32b076c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18362914",
+                "timeupdated": "1746560526"
+            }
+        }
+    }
+}
