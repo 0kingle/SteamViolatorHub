@@ -1,0 +1,44 @@
+{
+    "appid": "1080630",
+    "type": "Game",
+    "name": "Hero Express",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983991",
+    "update_time": "2025-05-14 23:23:55",
+    "depot": {
+        "baselanguages": "english",
+        "1080631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1701611488363658540",
+                    "size": "425214161",
+                    "download": "52832960"
+                }
+            },
+            "decryptionkey": "e5b745076d31c33b70c7a0f815072eb6e0d892bebd4984cccb35d71e0871d859"
+        },
+        "1080632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7232048349313831296",
+                    "size": "425197466",
+                    "download": "52504544"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4331140",
+                "timeupdated": "1572258787"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
