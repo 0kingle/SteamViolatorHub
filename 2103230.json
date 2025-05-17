@@ -1,0 +1,51 @@
+{
+    "appid": "2103230",
+    "type": "Game",
+    "name": "マクロス -Shooting Insight-",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28761103",
+    "update_time": "2025-05-01 09:01:44",
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "2103231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2149739813776805324",
+                    "size": "2670168525",
+                    "download": "1905184608"
+                }
+            },
+            "decryptionkey": "858a7b36202fa56abfee4b60b61dd0f089b55293604578d898d3d40050264df4"
+        },
+        "2203520": {
+            "dlcappid": "2203520",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2189332020650126238",
+                    "size": "258787792",
+                    "download": "228420256"
+                }
+            },
+            "decryptionkey": "422c610c04d5b04793a1c171b47948e66a561757639c7e46cfdd3b2aa5b89d11"
+        },
+        "workshopdepot": "2103230",
+        "branches": {
+            "public": {
+                "buildid": "17982187",
+                "timeupdated": "1746061297"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "556fd10e68330c2bf66993ff1febf1550236637fc98a4c09c3f8d009ff5cb468"
+    }
+}
