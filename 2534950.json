@@ -1,0 +1,33 @@
+{
+    "appid": "2534950",
+    "type": "Game",
+    "name": "OIL FILLING",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012872",
+    "update_time": "2025-05-16 06:54:47",
+    "depot": {
+        "baselanguages": "english",
+        "2534952 ": {},
+        "2534951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3904854955232597831",
+                    "size": "1182394191",
+                    "download": "669011216"
+                }
+            },
+            "decryptionkey": "05d5156252661c2b22a2dd15ef5a9798a9e6c7254f7d229dcbb0c7f0d8eba0de"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12735337",
+                "timeupdated": "1700258207"
+            }
+        }
+    }
+}
