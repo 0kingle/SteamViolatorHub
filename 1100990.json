@@ -1,0 +1,57 @@
+{
+    "appid": "1100990",
+    "type": "Game",
+    "name": "Aimbeast",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:52",
+    "depot": {
+        "workshopdepot": "1100990",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1100991": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4043674501361378076",
+                    "size": "3319397525",
+                    "download": "3021751552"
+                }
+            },
+            "decryptionkey": "69f99e6fabb2960fe0df5b6923e0eab32bb388925a069afe327c6fa649413315"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18360984",
+                "timeupdated": "1746545591"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8e140df334ce9c52d1265a6aa3f94f1c29d3ccfb7240e6b5f5c5c9e2535220b4"
+    }
+}
