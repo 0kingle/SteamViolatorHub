@@ -1,0 +1,35 @@
+{
+    "appid": "3155730",
+    "type": "Game",
+    "name": "Venus Vacation PRISM - DEAD OR ALIVE Xtreme -",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016345",
+    "update_time": "2025-05-16 12:06:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3155731": {
+            "manifests": {
+                "public": {
+                    "gid": "5453751672566898454",
+                    "size": "13114772904",
+                    "download": "11982079776"
+                }
+            },
+            "decryptionkey": "f5f3f46814cdec1b4afab690622f6dffb042619e839eb1b08310252f9099e0fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18217496",
+                "timeupdated": "1746086188"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
