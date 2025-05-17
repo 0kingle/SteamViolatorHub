@@ -1,0 +1,30 @@
+{
+    "appid": "2966850",
+    "type": "Game",
+    "name": "Shotgun Cop Man",
+    "schinese_name": "Shotgun Cop Man - 霰弹警长",
+    "isfreeapp": "0",
+    "change_number": "29002113",
+    "update_time": "2025-05-15 20:30:23",
+    "depot": {
+        "2966851": {
+            "manifests": {
+                "public": {
+                    "gid": "615432144141916562",
+                    "size": "367824353",
+                    "download": "175980880"
+                }
+            },
+            "decryptionkey": "0c7cc7204dc7a30359eab52bf0a87d45c2f269e869c4807174017100c63df61c"
+        },
+        "workshopdepot": "2966850",
+        "branches": {
+            "public": {
+                "buildid": "18432972",
+                "timeupdated": "1747311294"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
