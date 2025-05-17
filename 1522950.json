@@ -1,0 +1,30 @@
+{
+    "appid": "1522950",
+    "type": "Game",
+    "name": "Dadish",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987808",
+    "update_time": "2025-05-15 02:59:57",
+    "depot": {
+        "1522951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6830104636544287851",
+                    "size": "42018311",
+                    "download": "19002496"
+                }
+            },
+            "decryptionkey": "005e22bf4cde647cd3dadb2411e3ffcc1927dc3c743430ac48908cff4e9627e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6506697",
+                "timeupdated": "1617860001"
+            }
+        }
+    }
+}
