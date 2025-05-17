@@ -1,0 +1,31 @@
+{
+    "appid": "1659040",
+    "type": "Game",
+    "name": "HITMAN World of Assassination",
+    "schinese_name": "杀手3",
+    "isfreeapp": "0",
+    "change_number": "28988909",
+    "update_time": "2025-05-15 04:13:18",
+    "depot": {
+        "1659041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2672127975667806282",
+                    "size": "81731519398",
+                    "download": "70381053808"
+                }
+            },
+            "decryptionkey": "891bd9670c03fa74065659fe448680b55b5279707dfe40493d5f00372e02b42f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18052870",
+                "timeupdated": "1744283289"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
