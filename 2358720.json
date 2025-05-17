@@ -1,0 +1,54 @@
+{
+    "appid": "2358720",
+    "type": "Game",
+    "name": "Black Myth: Wukong",
+    "schinese_name": "黑神话：悟空",
+    "isfreeapp": "0",
+    "change_number": "29011216",
+    "update_time": "2025-05-16 04:42:39",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "2358721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2985710911012900154",
+                    "size": "144483260479",
+                    "download": "130350196064"
+                }
+            },
+            "decryptionkey": "78d5a284965b2206de191dc4ca99d43c9caf5b5e78b47cf0c366fbbb884190d8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18095325",
+                "timeupdated": "1744876695"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
