@@ -1,0 +1,28 @@
+{
+    "appid": "3170180",
+    "type": "DLC",
+    "name": "Lyndaria: Lust Adventure - Hot Animation Pack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28296158",
+    "update_time": "2025-04-04 04:10:38",
+    "depot": {
+        "3170180": {
+            "manifests": {
+                "public": {
+                    "gid": "6073012996718955968",
+                    "size": "11269634741",
+                    "download": "11405090368"
+                }
+            },
+            "dlcappid": "3170180",
+            "decryptionkey": "7dffeacfc74b0c497258f32ab79a23d26e824b2f645ffbdc3baed3cbfaea08eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17943433",
+                "timeupdated": "1743607560"
+            }
+        }
+    }
+}
