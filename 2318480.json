@@ -1,0 +1,38 @@
+{
+    "appid": "2318480",
+    "type": "Game",
+    "name": "Last Train Outta' Wormtown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010787",
+    "update_time": "2025-05-16 04:12:59",
+    "depot": {
+        "2318481": {
+            "manifests": {
+                "public": {
+                    "gid": "180049137144378693",
+                    "size": "939963867",
+                    "download": "386741184"
+                },
+                "betapublic": {
+                    "gid": "8154854876010806241",
+                    "size": "937850864",
+                    "download": "385995264"
+                }
+            },
+            "decryptionkey": "7f4f46de883df069f69f74a2c4bb0bbdde62672bf784388ed429fa7ef8108718"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18117593",
+                "timeupdated": "1744995066"
+            },
+            "betapublic": {
+                "buildid": "17034994",
+                "description": "public beta branch",
+                "timeupdated": "1737084092"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
