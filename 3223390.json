@@ -1,0 +1,51 @@
+{
+    "appid": "3223390",
+    "type": "Game",
+    "name": "BLACKSHARD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016468",
+    "update_time": "2025-05-16 12:19:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3223391": {
+            "manifests": {
+                "public": {
+                    "gid": "4362923739318975198",
+                    "size": "13835325398",
+                    "download": "13440614048"
+                },
+                "beta": {
+                    "gid": "4362923739318975198",
+                    "size": "13835325398",
+                    "download": "13440614048"
+                }
+            },
+            "decryptionkey": "4036bdc314ed64ad1efaef4cd271ca400910b4048fcec7a40b2bf0ac4cb18989"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18361569",
+                "timeupdated": "1746609971"
+            },
+            "beta": {
+                "buildid": "18361569",
+                "description": "Testing before public",
+                "timeupdated": "1746546446"
+            }
+        }
+    }
+}
