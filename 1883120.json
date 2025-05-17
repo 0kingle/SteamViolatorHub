@@ -1,0 +1,27 @@
+{
+    "appid": "1883120",
+    "type": "Game",
+    "name": "Lofi Furries",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29002951",
+    "update_time": "2025-05-15 21:12:10",
+    "depot": {
+        "1883121": {
+            "manifests": {
+                "public": {
+                    "gid": "460031460601457832",
+                    "size": "493121179",
+                    "download": "328853296"
+                }
+            },
+            "decryptionkey": "5ae7c574a832fc91c58ff39f306dc8a59f4878d734024c5128d49b0f889d318f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9005886",
+                "timeupdated": "1656150862"
+            }
+        }
+    }
+}
