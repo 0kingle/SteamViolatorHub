@@ -1,0 +1,41 @@
+{
+    "appid": "3321350",
+    "type": "Demo",
+    "name": "Human Fast Food Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28680436",
+    "update_time": "2025-04-26 15:55:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3321351": {
+            "manifests": {
+                "public": {
+                    "gid": "3623059826677841513",
+                    "size": "1269419089",
+                    "download": "1101086384"
+                }
+            },
+            "decryptionkey": "045aaf899b1401665a74a30bede19dcb85f7cf26be0fd57fdf993978dace1433"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18123472",
+                "timeupdated": "1744778193"
+            }
+        }
+    }
+}
