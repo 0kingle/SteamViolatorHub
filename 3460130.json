@@ -1,0 +1,45 @@
+{
+    "appid": "3460130",
+    "type": "Demo",
+    "name": "LockYourDoor Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28871375",
+    "update_time": "2025-05-08 07:02:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3460131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4135799514608139367",
+                    "size": "2310672194",
+                    "download": "2102988672"
+                }
+            },
+            "decryptionkey": "7c1a606ac8019410432d66301516fc9b51879c5f3eb70e9471cfaacf7194ac9b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18283217",
+                "timeupdated": "1745945336"
+            }
+        }
+    }
+}
