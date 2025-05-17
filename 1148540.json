@@ -1,0 +1,85 @@
+{
+    "appid": "1148540",
+    "type": "Game",
+    "name": "Griddlers Victorian Picnic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984394",
+    "update_time": "2025-05-14 23:46:52",
+    "depot": {
+        "1148541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696631231639600200",
+                    "size": "111595150",
+                    "download": "54264912"
+                }
+            },
+            "decryptionkey": "88edb37e447c3922a948a398373a63528315e2a86f6a0091c1cd0b79f384533b"
+        },
+        "1148542": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6245418760438754007",
+                    "size": "111595150",
+                    "download": "54264912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1148543": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7926775545069496307",
+                    "size": "111595150",
+                    "download": "54264912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1148544": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1478139671847181686",
+                    "size": "111595150",
+                    "download": "54264912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1148545": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7940898687283652371",
+                    "size": "109941173",
+                    "download": "54868816"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "4189335",
+                "timeupdated": "1568276185"
+            }
+        }
+    }
+}
