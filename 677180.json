@@ -1,0 +1,53 @@
+{
+    "appid": "677180",
+    "type": "Game",
+    "name": "Pantropy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986107",
+    "update_time": "2025-05-15 01:14:34",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "677181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1516435165212235557",
+                    "size": "7371507824",
+                    "download": "2426439984"
+                }
+            },
+            "decryptionkey": "414af428e65286150be150baf05d388507ac50cf019204d97342abaa078ad545"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6869851",
+                "timeupdated": "1623743352"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
