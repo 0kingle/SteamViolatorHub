@@ -1,0 +1,27 @@
+{
+    "appid": "2526500",
+    "type": "Game",
+    "name": "Caught On Camera",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28947262",
+    "update_time": "2025-05-13 04:31:19",
+    "depot": {
+        "2526501": {
+            "manifests": {
+                "public": {
+                    "gid": "1906793706427694785",
+                    "size": "1888973159",
+                    "download": "886440880"
+                }
+            },
+            "decryptionkey": "17a714418c1d3c0257477380d09482f244a73e78f84a289bcda7c5ca4f843600"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18421740",
+                "timeupdated": "1747007239"
+            }
+        }
+    }
+}
