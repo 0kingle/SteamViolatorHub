@@ -1,0 +1,41 @@
+{
+    "appid": "1409740",
+    "type": "Game",
+    "name": "Cybernetic Fault",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28959199",
+    "update_time": "2025-05-13 19:27:58",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1409741": {
+            "manifests": {
+                "public": {
+                    "gid": "1948970340764043245",
+                    "size": "3070446040",
+                    "download": "2765065584"
+                }
+            },
+            "decryptionkey": "08b41dab281f27feecb5d8d99bd15362520df84abd0fad0b462e782f307f52ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18346269",
+                "timeupdated": "1746449280"
+            }
+        }
+    }
+}
