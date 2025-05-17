@@ -1,0 +1,30 @@
+{
+    "appid": "2219000",
+    "type": "Game",
+    "name": "A Promise Best Left Unkept",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009830",
+    "update_time": "2025-05-16 03:06:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2219001": {
+            "manifests": {
+                "public": {
+                    "gid": "8172300798638682318",
+                    "size": "2309647095",
+                    "download": "2151488288"
+                }
+            },
+            "decryptionkey": "38e570b65bae7fd172f56d7cc23ce824736c6137580ef5a8630b23f1b699b2ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332975",
+                "timeupdated": "1746290499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
