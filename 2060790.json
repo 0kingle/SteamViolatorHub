@@ -1,0 +1,53 @@
+{
+    "appid": "2060790",
+    "type": "Game",
+    "name": "Hauntii",
+    "schinese_name": "幽灵霍迪",
+    "isfreeapp": "0",
+    "change_number": "29008256",
+    "update_time": "2025-05-16 01:36:48",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2060791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1330889922857133361",
+                    "size": "4805581977",
+                    "download": "660034224"
+                },
+                "open_beta": {
+                    "gid": "1330889922857133361",
+                    "size": "4805581977",
+                    "download": "660034224"
+                },
+                "local": {
+                    "gid": "5141390205761373275",
+                    "size": "2071145769",
+                    "download": "540220784"
+                }
+            },
+            "decryptionkey": "6a2d2c54786c45e38c28c3cd9dd6e00bdff5071ae9b77ff215e23e49759b4b37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18337322",
+                "timeupdated": "1746414423"
+            },
+            "open_beta": {
+                "buildid": "18337322",
+                "description": "open beta for testing new features",
+                "timeupdated": "1746353810"
+            },
+            "local": {
+                "buildid": "11074667",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1682323747"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
