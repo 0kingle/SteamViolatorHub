@@ -1,0 +1,30 @@
+{
+    "appid": "2232880",
+    "type": "Game",
+    "name": "灵兽江湖",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023866",
+    "update_time": "2025-05-16 20:18:02",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "schinese",
+        "2232882": {
+            "manifests": {
+                "public": {
+                    "gid": "1866117806142656981",
+                    "size": "2909237581",
+                    "download": "1861033936"
+                }
+            },
+            "decryptionkey": "71d9f856e62caa4bf86b498cab27355028f4af93ca0b6abfaea4a2c7296c8d0d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492705",
+                "timeupdated": "1747405497"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
