@@ -1,0 +1,27 @@
+{
+    "appid": "3057410",
+    "type": "Game",
+    "name": "Mounted War",
+    "schinese_name": "骑战：烈火之剑",
+    "isfreeapp": "0",
+    "change_number": "29022289",
+    "update_time": "2025-05-16 18:47:59",
+    "depot": {
+        "3057411": {
+            "manifests": {
+                "public": {
+                    "gid": "2100346076102876111",
+                    "size": "6753031977",
+                    "download": "3004568128"
+                }
+            },
+            "decryptionkey": "1ea34118b8f46445e19bc0fab21225d96648db634ab6655ed4d47c6ac0879eb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18489877",
+                "timeupdated": "1747392475"
+            }
+        }
+    }
+}
