@@ -1,0 +1,27 @@
+{
+    "appid": "1330190",
+    "type": "Game",
+    "name": "A Town Uncovered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:20:05",
+    "depot": {
+        "1330191": {
+            "manifests": {
+                "public": {
+                    "gid": "1891034867514925944",
+                    "size": "1682343043",
+                    "download": "1170265744"
+                }
+            },
+            "decryptionkey": "1dce5d071f791e4cf7d4c1b571bdcaae26f359a3743bf6f52b9f3c048f1680d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18328241",
+                "timeupdated": "1746232533"
+            }
+        }
+    }
+}
