@@ -1,0 +1,31 @@
+{
+    "appid": "1587260",
+    "type": "Game",
+    "name": "归路：见证",
+    "schinese_name": "归路：见证",
+    "isfreeapp": "0",
+    "change_number": "28980569",
+    "update_time": "2025-05-14 22:48:33",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1587261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5184950587315282015",
+                    "size": "1977591550",
+                    "download": "1754281856"
+                }
+            },
+            "decryptionkey": "d7efee0434e658e734a91f4085423a42b9f3f8109e6a652e7ba7263644b23f30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18491822",
+                "timeupdated": "1747401617"
+            }
+        }
+    }
+}
