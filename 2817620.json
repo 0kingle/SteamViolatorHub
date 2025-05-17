@@ -1,0 +1,31 @@
+{
+    "appid": "2817620",
+    "type": "Game",
+    "name": "Machinika: Atlas",
+    "schinese_name": "异星装置：Atlas",
+    "isfreeapp": "0",
+    "change_number": "29014726",
+    "update_time": "2025-05-16 09:36:49",
+    "depot": {
+        "2817621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3991042980351571695",
+                    "size": "4676763835",
+                    "download": "1544375360"
+                }
+            },
+            "decryptionkey": "6f999510e0319de0fa5c57dfebb31ccbbfa59fcac892e17b985561da7970cf9a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16288348",
+                "timeupdated": "1730734535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
