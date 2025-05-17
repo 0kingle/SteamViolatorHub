@@ -1,0 +1,71 @@
+{
+    "appid": "3077200",
+    "type": "Game",
+    "name": "monoch room",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28323843",
+    "update_time": "2025-04-05 21:43:33",
+    "depot": {
+        "baselanguages": "english,schinese,russian,japanese",
+        "3077201": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8913709133706658399",
+                    "size": "266081586",
+                    "download": "203545392"
+                }
+            },
+            "decryptionkey": "3d58eb0ce7ceb1d5f1facdb9b6f0729d35b698a7e1cdf68c149314724093a8dc"
+        },
+        "3077202": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1977042227993076735",
+                    "size": "266081473",
+                    "download": "203538752"
+                }
+            },
+            "decryptionkey": "e4617a0a4accdbaa45de8a05390c560f6c263b5a65a26d642e9e5d008127279d"
+        },
+        "3077204": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7244502295409072023",
+                    "size": "266082674",
+                    "download": "203538288"
+                }
+            }
+        },
+        "3077203": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8768016138588401379",
+                    "size": "266082207",
+                    "download": "203540208"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17996019",
+                "timeupdated": "1743860608"
+            }
+        }
+    }
+}
