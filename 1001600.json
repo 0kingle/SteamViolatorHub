@@ -1,0 +1,27 @@
+{
+    "appid": "1001600",
+    "type": "Game",
+    "name": "Diggerman",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982217",
+    "update_time": "2025-05-14 22:51:11",
+    "depot": {
+        "1001601": {
+            "manifests": {
+                "public": {
+                    "gid": "6870867600928096874",
+                    "size": "303839673",
+                    "download": "26062688"
+                }
+            },
+            "decryptionkey": "938e8243bdd9d93749c830f058db0758176f85908a289ce17d411fcf21c16210"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3894004",
+                "timeupdated": "1559819365"
+            }
+        }
+    }
+}
