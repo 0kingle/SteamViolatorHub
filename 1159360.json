@@ -1,0 +1,46 @@
+{
+    "appid": "1159360",
+    "type": "Game",
+    "name": "MeiQi Season1",
+    "schinese_name": "孙美琪疑案 第一季",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 12:27:18",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "1159361": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2765833866080423923",
+                    "size": "4891189946",
+                    "download": "1118674432"
+                }
+            },
+            "decryptionkey": "68fd8ce619f4d8641c58897cd7a22c44534fa818e7d4ee428de19704ada4fbc6"
+        },
+        "1159362": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3617155241448527496",
+                    "size": "4899363687",
+                    "download": "1124267328"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4571520",
+                "timeupdated": "1579065826"
+            }
+        }
+    }
+}
