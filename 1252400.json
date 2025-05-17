@@ -1,0 +1,45 @@
+{
+    "appid": "1252400",
+    "type": "Game",
+    "name": "Discord Rich Me! Engine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28913093",
+    "update_time": "2025-05-10 10:25:28",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1252401": {
+            "manifests": {
+                "public": {
+                    "gid": "146304051215131235",
+                    "size": "27602362",
+                    "download": "7481376"
+                }
+            },
+            "decryptionkey": "fd1e001fede00fe25f4301863bcad8e94a06bbe81432024b478bbca66931a6ae"
+        },
+        "1252402": {
+            "manifests": {
+                "public": {
+                    "gid": "5472387419038445206",
+                    "size": "27602362",
+                    "download": "7481376"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18411104",
+                "timeupdated": "1746843925"
+            }
+        }
+    }
+}
