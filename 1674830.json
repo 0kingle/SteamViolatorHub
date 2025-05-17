@@ -1,0 +1,61 @@
+{
+    "appid": "1674830",
+    "type": "Game",
+    "name": "Victory At Sea Atlantic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989105",
+    "update_time": "2025-05-15 04:26:33",
+    "depot": {
+        "1674831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4139009010671978829",
+                    "size": "19401630028",
+                    "download": "11288645936"
+                },
+                "firstlook": {
+                    "gid": "4139009010671978829",
+                    "size": "19401630028",
+                    "download": "11288645936"
+                }
+            },
+            "decryptionkey": "9b5fcc1db7c8baf4fea68fde86c9cc64170df6287337a5e23290dad5afccb213"
+        },
+        "1674832": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6025687893174623353",
+                    "size": "19401630028",
+                    "download": "11290775968"
+                },
+                "firstlook": {
+                    "gid": "6025687893174623353",
+                    "size": "19401630028",
+                    "download": "11290775968"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "1674830",
+        "branches": {
+            "public": {
+                "buildid": "18363880",
+                "timeupdated": "1746610166"
+            },
+            "firstlook": {
+                "buildid": "18363880",
+                "description": "Public preview build",
+                "timeupdated": "1746610180"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cebc144e8329e01bcdfed50bab13843ca40b875cd21a5e0c1174d06624b42058"
+    }
+}
