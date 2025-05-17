@@ -1,0 +1,33 @@
+{
+    "appid": "2000270",
+    "type": "Game",
+    "name": "Dual Universe",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28998500",
+    "update_time": "2025-05-15 17:10:09",
+    "depot": {
+        "2000271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3102479880064504922",
+                    "size": "19092390393",
+                    "download": "7521172864"
+                }
+            },
+            "decryptionkey": "7fef8099bb5e23c5d3858f700b2436628176289e85257a44685003a3164a2c11"
+        },
+        "baselanguages": "english,german,french",
+        "branches": {
+            "public": {
+                "buildid": "15343894",
+                "timeupdated": "1723627537"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
