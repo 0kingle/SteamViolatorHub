@@ -1,0 +1,75 @@
+{
+    "appid": "1861610",
+    "type": "Game",
+    "name": "Endorphin Vice",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28923807",
+    "update_time": "2025-05-11 16:02:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1861611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8512950549759625005",
+                    "size": "19585178849",
+                    "download": "11891538368"
+                }
+            },
+            "decryptionkey": "7489182c47f6a761d23386980f67532ee1b2d6b49a6ed40c3d5de146c142e7a4"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1861610",
+        "branches": {
+            "public": {
+                "buildid": "18251496",
+                "timeupdated": "1745694256"
+            }
+        }
+    }
+}
