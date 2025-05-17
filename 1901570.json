@@ -1,0 +1,42 @@
+{
+    "appid": "1901570",
+    "type": "Demo",
+    "name": "Celestial Empire Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 17:07:07",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1901571": {
+            "manifests": {
+                "public": {
+                    "gid": "3924431680577093738",
+                    "size": "17074820271",
+                    "download": "8758804928"
+                }
+            },
+            "decryptionkey": "dc11c23686c8f80f2f14b4b7b53b66e9c6b6a56649c1daa25b68f12263cab9e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17227639",
+                "timeupdated": "1738612438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
