@@ -1,0 +1,32 @@
+{
+    "appid": "2622140",
+    "type": "Application",
+    "name": "Virtual Handheld",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28964727",
+    "update_time": "2025-05-14 00:44:56",
+    "depot": {
+        "2622141": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "739266832671578475",
+                    "size": "92680818",
+                    "download": "29535392"
+                }
+            },
+            "decryptionkey": "f610f0d1e29f613aad524d2301d42bc97f4374dd5ec069fb52a0c226151d24f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447891",
+                "timeupdated": "1747154385"
+            }
+        }
+    }
+}
