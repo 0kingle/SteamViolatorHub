@@ -1,0 +1,40 @@
+{
+    "appid": "2844540",
+    "type": "DLC",
+    "name": "JR EAST Train Simulator: Takasaki Line (Ueno to Takasaki) E233-3000 series",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28661666",
+    "update_time": "2025-04-25 20:57:48",
+    "depot": {
+        "2844541": {
+            "manifests": {
+                "public": {
+                    "gid": "954162782718036486",
+                    "size": "646385168",
+                    "download": "475448720"
+                }
+            },
+            "dlcappid": "2844540",
+            "decryptionkey": "cd3468c292f004a6312f2a428070144db9c4e9b9e07135c09e3f7935b89f324b"
+        },
+        "2844542": {
+            "manifests": {
+                "public": {
+                    "gid": "565356863892970318",
+                    "size": "23678881120",
+                    "download": "24002856736"
+                }
+            },
+            "dlcappid": "2844540",
+            "decryptionkey": "a7fadc3111116c8531fbe0ee6396b05da4f388ae4f3deaab52f365a075d5d9d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18201064",
+                "timeupdated": "1745569017"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
