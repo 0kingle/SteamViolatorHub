@@ -1,0 +1,38 @@
+{
+    "appid": "1169020",
+    "type": "Game",
+    "name": "Dark Fall: Ghost Vigil",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984653",
+    "update_time": "2025-05-15 00:00:44",
+    "depot": {
+        "1169021": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2257524458978459022",
+                    "size": "5749853713",
+                    "download": "2708597120"
+                }
+            },
+            "decryptionkey": "9f565410cb07055bb135b5ab14966ba9bb9a470443faaf9d48146e78e07a3e4e"
+        },
+        "1169022": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "5071107",
+                "timeupdated": "1590321862"
+            }
+        }
+    }
+}
