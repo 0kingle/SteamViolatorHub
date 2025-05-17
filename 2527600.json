@@ -1,0 +1,28 @@
+{
+    "appid": "2527600",
+    "type": "Game",
+    "name": "The Detective Reaper Invites",
+    "schinese_name": "侦探死神向你招手",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 11:12:16",
+    "depot": {
+        "2527601": {
+            "manifests": {
+                "public": {
+                    "gid": "915458664782202114",
+                    "size": "98545444",
+                    "download": "69717600"
+                }
+            },
+            "decryptionkey": "bab73ddd85e1779bfd4bb4587794ebd969217391d2c8b9be53d7954ff32a9955"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14776332",
+                "timeupdated": "1718887716"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
