@@ -1,0 +1,28 @@
+{
+    "appid": "2295610",
+    "type": "Game",
+    "name": "Abathor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010510",
+    "update_time": "2025-05-16 03:54:46",
+    "depot": {
+        "2295611": {
+            "manifests": {
+                "public": {
+                    "gid": "3450194895225788814",
+                    "size": "2242681728",
+                    "download": "1513448784"
+                }
+            },
+            "decryptionkey": "8f2eddb84ea6342d6f394369a9e4efb2acc8686d096e3a57199d8f63bdb7f788"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17958414",
+                "timeupdated": "1744880835"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
