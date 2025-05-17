@@ -1,0 +1,30 @@
+{
+    "appid": "2671480",
+    "type": "Game",
+    "name": "Car Parking Real Driving Sim",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011654",
+    "update_time": "2025-05-16 05:13:29",
+    "depot": {
+        "2671481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4117567358990498878",
+                    "size": "180045968",
+                    "download": "110684432"
+                }
+            },
+            "decryptionkey": "35311d0ecebc5ec86e7ca50fc7419c21bbf860624ae94a780ce4d29b15e83873"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12544803",
+                "timeupdated": "1698339236"
+            }
+        }
+    }
+}
