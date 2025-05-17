@@ -1,0 +1,41 @@
+{
+    "appid": "1949770",
+    "type": "Game",
+    "name": "Rock Simulator 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:32",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1949771": {
+            "manifests": {
+                "public": {
+                    "gid": "3124653347092893735",
+                    "size": "13405589525",
+                    "download": "12745900624"
+                }
+            },
+            "decryptionkey": "ac20b38673a43e87c88bb08fd348ff833cf803a857d41dd3ec5aa332d0ce7829"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18218177",
+                "timeupdated": "1745466412"
+            }
+        }
+    }
+}
