@@ -1,0 +1,27 @@
+{
+    "appid": "2547750",
+    "type": "Game",
+    "name": "E-Startup 2 : Business Tycoon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012939",
+    "update_time": "2025-05-16 07:00:47",
+    "depot": {
+        "2547751": {
+            "manifests": {
+                "public": {
+                    "gid": "4267862319074598948",
+                    "size": "311432928",
+                    "download": "209640048"
+                }
+            },
+            "decryptionkey": "641e5df0211eb8a9c534afe4d8544495c1f6bed07d4bf601a3c3e1e01d080f95"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18031461",
+                "timeupdated": "1744143427"
+            }
+        }
+    }
+}
