@@ -1,0 +1,32 @@
+{
+    "appid": "1218900",
+    "type": "Game",
+    "name": "Zup! Z",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985209",
+    "update_time": "2025-05-15 00:26:47",
+    "depot": {
+        "1218901": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8315994543825125821",
+                    "size": "67876952",
+                    "download": "59553232"
+                }
+            },
+            "decryptionkey": "58faddec42b4d6f9a87614b8356987f511e9f76876f6a078fdfe783fc35ab5f2"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "6219813",
+                "timeupdated": "1612974049"
+            }
+        }
+    }
+}
