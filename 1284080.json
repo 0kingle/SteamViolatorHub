@@ -1,0 +1,66 @@
+{
+    "appid": "1284080",
+    "type": "Game",
+    "name": "Legion Gold",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985793",
+    "update_time": "2025-05-15 01:00:03",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1284081": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3810404681476049398",
+                    "size": "78785887",
+                    "download": "51188480"
+                },
+                "compat": {
+                    "gid": "3810404681476049398",
+                    "size": "78785887",
+                    "download": "51188480"
+                }
+            },
+            "decryptionkey": "fe30c93be4c0c4d72523dd2b7ed08ac8777ccdef02f1b209d606ceffc30d0826"
+        },
+        "1284082": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4780286577171771573",
+                    "size": "20534051",
+                    "download": "17389680"
+                },
+                "compat": {
+                    "gid": "4780286577171771573",
+                    "size": "20534051",
+                    "download": "17389680"
+                }
+            },
+            "decryptionkey": "884e02e171e872238b8a8976c56bfb3e48b7eb0676249b2543c24922a1fc1b3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5255659",
+                "timeupdated": "1594035800"
+            },
+            "compat": {
+                "buildid": "5255659",
+                "description": "Launcher Compatibility",
+                "timeupdated": "1628009042"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
