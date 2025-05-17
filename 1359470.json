@@ -1,0 +1,33 @@
+{
+    "appid": "1359470",
+    "type": "Game",
+    "name": "Kawaii Girl 2",
+    "schinese_name": "Kawaii Girl 2",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 07:57:23",
+    "depot": {
+        "workshopdepot": "1359470",
+        "hasdepotsindlc": "1",
+        "1359471": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7506089555276228380",
+                    "size": "716041440",
+                    "download": "182073696"
+                }
+            },
+            "decryptionkey": "f9d1c13db622941f717cb144768f6d18494e5ae2cbbce46299a20c53f78d7e0f"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "6058796",
+                "timeupdated": "1613475273"
+            }
+        }
+    }
+}
