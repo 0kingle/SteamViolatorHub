@@ -1,0 +1,209 @@
+{
+    "appid": "1131410",
+    "type": "Game",
+    "name": "Sable's Grimoire: Man And Elf",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984279",
+    "update_time": "2025-05-14 23:40:05",
+    "depot": {
+        "1131411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4456153381880589913",
+                    "size": "0",
+                    "download": "0"
+                },
+                "oldstable": {
+                    "gid": "4456153381880589913",
+                    "size": "0",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "4456153381880589913",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "bc60ca366ad1c1625d0b527dd8a31142282f739ae3a6395b7a730ea05c89c095"
+        },
+        "1131412": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "788578682809291889",
+                    "size": "0",
+                    "download": "0"
+                },
+                "oldstable": {
+                    "gid": "788578682809291889",
+                    "size": "0",
+                    "download": "0"
+                },
+                "testing": {
+                    "gid": "788578682809291889",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "1131413": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3248738539431965298",
+                    "size": "337607583",
+                    "download": "308074944"
+                },
+                "oldstable": {
+                    "gid": "16708059945239630",
+                    "size": "337313197",
+                    "download": "307713280"
+                },
+                "testing": {
+                    "gid": "3248738539431965298",
+                    "size": "337607583",
+                    "download": "308074944"
+                }
+            }
+        },
+        "1336930": {
+            "dlcappid": "1336930",
+            "manifests": {
+                "public": {
+                    "gid": "3147481693943846624",
+                    "size": "850314",
+                    "download": "427712"
+                },
+                "oldstable": {
+                    "gid": "4822302669034750439",
+                    "size": "850312",
+                    "download": "427744"
+                },
+                "testing": {
+                    "gid": "3147481693943846624",
+                    "size": "850314",
+                    "download": "427712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1131414": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5536194854063324300",
+                    "size": "348603540",
+                    "download": "311171248"
+                },
+                "oldstable": {
+                    "gid": "889073951547554677",
+                    "size": "348734311",
+                    "download": "311234112"
+                },
+                "testing": {
+                    "gid": "5536194854063324300",
+                    "size": "348603540",
+                    "download": "311171248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1131415": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3705237487400202963",
+                    "size": "340434709",
+                    "download": "308149776"
+                },
+                "oldstable": {
+                    "gid": "5691148376072932570",
+                    "size": "340565480",
+                    "download": "308212640"
+                },
+                "testing": {
+                    "gid": "3705237487400202963",
+                    "size": "340434709",
+                    "download": "308149776"
+                }
+            }
+        },
+        "1131416": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "580748839712290129",
+                    "size": "348678818",
+                    "download": "311371488"
+                },
+                "oldstable": {
+                    "gid": "2624635242681319004",
+                    "size": "348809589",
+                    "download": "311434352"
+                },
+                "testing": {
+                    "gid": "580748839712290129",
+                    "size": "348678818",
+                    "download": "311371488"
+                }
+            },
+            "decryptionkey": "b61581eb0769f6e189de8892e7b76c7d5f8c69143e5b4950c8c1d19dd72defca"
+        },
+        "1131417": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6614877367822634796",
+                    "size": "339284720",
+                    "download": "308146608"
+                },
+                "oldstable": {
+                    "gid": "3845001432067087654",
+                    "size": "339415491",
+                    "download": "308209472"
+                },
+                "testing": {
+                    "gid": "6614877367822634796",
+                    "size": "339284720",
+                    "download": "308146608"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11990582",
+                "timeupdated": "1693087114"
+            },
+            "oldstable": {
+                "buildid": "10235818",
+                "description": "old stable branch",
+                "timeupdated": "1693087096"
+            },
+            "testing": {
+                "buildid": "11990582",
+                "description": "testing branch",
+                "timeupdated": "1692608165"
+            }
+        }
+    }
+}
