@@ -1,0 +1,95 @@
+{
+    "appid": "898580",
+    "type": "Game",
+    "name": "Premium Bowling",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28917878",
+    "update_time": "2025-05-10 22:48:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "898581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2923464051901543572",
+                    "size": "2611372728",
+                    "download": "1854861152"
+                },
+                "alpha": {
+                    "gid": "2923464051901543572",
+                    "size": "2611372728",
+                    "download": "1854861152"
+                },
+                "beta": {
+                    "gid": "2923464051901543572",
+                    "size": "2611372728",
+                    "download": "1854861152"
+                },
+                "prev": {
+                    "gid": "1372398506598827310",
+                    "size": "3303640965",
+                    "download": "1458253376"
+                }
+            },
+            "decryptionkey": "339637c6f246111ff4ded245726ff874fb03ccaea1ef3afe940e1f79970885b4"
+        },
+        "898582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5069438751876412890",
+                    "size": "3618746534",
+                    "download": "1240184224"
+                },
+                "alpha": {
+                    "gid": "5069438751876412890",
+                    "size": "3618746534",
+                    "download": "1240184224"
+                },
+                "beta": {
+                    "gid": "5069438751876412890",
+                    "size": "3618746534",
+                    "download": "1240184224"
+                },
+                "prev": {
+                    "gid": "5069438751876412890",
+                    "size": "3618746534",
+                    "download": "1240184224"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18414756",
+                "timeupdated": "1746888508"
+            },
+            "alpha": {
+                "buildid": "18414756",
+                "description": "Too Early Versions",
+                "timeupdated": "1746888201"
+            },
+            "beta": {
+                "buildid": "18414756",
+                "description": "Public Beta Versions",
+                "timeupdated": "1746888208"
+            },
+            "prev": {
+                "buildid": "17437927",
+                "description": "Old Versions",
+                "timeupdated": "1742805145"
+            }
+        }
+    }
+}
