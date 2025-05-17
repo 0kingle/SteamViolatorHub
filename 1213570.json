@@ -1,0 +1,43 @@
+{
+    "appid": "1213570",
+    "type": "Game",
+    "name": "Cave Quest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:19:58",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,danish,dutch,swedish,hungarian,czech,romanian,turkish,brazilian",
+        "1213571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8871941892008524136",
+                    "size": "113666298",
+                    "download": "99292256"
+                }
+            },
+            "decryptionkey": "c7795bf6bc5a3cb32da58800c2709a045007a21a5bc72b45f09b9a240c15268e"
+        },
+        "1213572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7287666720290426306",
+                    "size": "122112381",
+                    "download": "106511184"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9692487",
+                "timeupdated": "1665432400"
+            }
+        }
+    }
+}
