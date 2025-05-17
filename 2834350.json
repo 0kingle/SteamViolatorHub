@@ -1,0 +1,78 @@
+{
+    "appid": "2834350",
+    "type": "DLC",
+    "name": "BOOK OF HOURS: HOUSE OF LIGHT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28822560",
+    "update_time": "2025-05-05 21:07:02",
+    "depot": {
+        "2834353": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1775256991251158567",
+                    "size": "4385106",
+                    "download": "530640"
+                },
+                "beta": {
+                    "gid": "1775256991251158567",
+                    "size": "4385106",
+                    "download": "530640"
+                }
+            },
+            "dlcappid": "2834350",
+            "decryptionkey": "ea39314ee5a94396c075184f7fa4c77b383749b07651c4f07cab72ce249cd58c"
+        },
+        "2834354": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1353314254577828233",
+                    "size": "4385106",
+                    "download": "530640"
+                },
+                "beta": {
+                    "gid": "1353314254577828233",
+                    "size": "4385106",
+                    "download": "530640"
+                }
+            },
+            "dlcappid": "2834350"
+        },
+        "2834355": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7829537583588213356",
+                    "size": "4385106",
+                    "download": "530640"
+                },
+                "beta": {
+                    "gid": "7829537583588213356",
+                    "size": "4385106",
+                    "download": "530640"
+                }
+            },
+            "dlcappid": "2834350"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18281606",
+                "timeupdated": "1746450417"
+            },
+            "beta": {
+                "buildid": "18281606",
+                "description": "should be stable, might sometimes not be",
+                "timeupdated": "1745937249"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
