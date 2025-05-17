@@ -1,0 +1,126 @@
+{
+    "appid": "1621690",
+    "type": "Game",
+    "name": "Core Keeper",
+    "schinese_name": "护核纪元",
+    "isfreeapp": "0",
+    "change_number": "29002859",
+    "update_time": "2025-05-15 21:07:39",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1621691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4991921541406284994",
+                    "size": "682951771",
+                    "download": "372617056"
+                },
+                "moddebug": {
+                    "gid": "8264758014702397107",
+                    "size": "682951772",
+                    "download": "372616656"
+                },
+                "1.1.1.3": {
+                    "gid": "121614764084874537",
+                    "size": "683699756",
+                    "download": "372351568"
+                },
+                "1.1.1.1": {
+                    "gid": "4094074205140658297",
+                    "size": "682623533",
+                    "download": "372058496"
+                },
+                "1.0.0.14": {
+                    "gid": "5973228659389730391",
+                    "size": "704793444",
+                    "download": "372727568"
+                },
+                "0.7.5": {
+                    "gid": "3825122943240230913",
+                    "size": "662619714",
+                    "download": "354903040"
+                }
+            },
+            "decryptionkey": "a2bb442f3eecb2b4c84232418b1d1b417a033b4c3ec1dca7caa4943d477026af"
+        },
+        "1621692": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8010683958095466522",
+                    "size": "801845726",
+                    "download": "381856064"
+                },
+                "moddebug": {
+                    "gid": "1043061423820173464",
+                    "size": "801845722",
+                    "download": "381856464"
+                },
+                "1.1.1.3": {
+                    "gid": "2056494364239529980",
+                    "size": "800822637",
+                    "download": "381414096"
+                },
+                "1.1.1.1": {
+                    "gid": "5296072932155160181",
+                    "size": "800658371",
+                    "download": "381360448"
+                },
+                "1.0.0.14": {
+                    "gid": "5830350493317616469",
+                    "size": "808844560",
+                    "download": "378346896"
+                },
+                "0.7.5": {
+                    "gid": "1269421896563067135",
+                    "size": "755397570",
+                    "download": "364310416"
+                }
+            },
+            "decryptionkey": "70e686d10c357b0098e61a583d60a7ea311e5776fbc4729261c0a86a2e83bd1f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18344532",
+                "timeupdated": "1747214753"
+            },
+            "moddebug": {
+                "buildid": "18344533",
+                "description": "For mod debugging",
+                "timeupdated": "1747214434"
+            },
+            "1.1.1.3": {
+                "buildid": "18115279",
+                "description": "Legacy build - 1.1.1.3 - 18115279",
+                "timeupdated": "1747314455"
+            },
+            "1.1.1.1": {
+                "buildid": "17882823",
+                "description": "Legacy build - 1.1.1.1 - 17882823",
+                "timeupdated": "1746092658"
+            },
+            "1.0.0.14": {
+                "buildid": "16065825",
+                "description": "Legacy build - 1.0.0.14 - 16065825",
+                "timeupdated": "1730369406"
+            },
+            "0.7.5": {
+                "buildid": "15443697",
+                "description": "Legacy build - 0.7.5.0 - 15443697",
+                "timeupdated": "1724316427"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
