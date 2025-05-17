@@ -1,0 +1,32 @@
+{
+    "appid": "3023070",
+    "type": "Game",
+    "name": "BEYBLADE X XONE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015847",
+    "update_time": "2025-05-16 11:19:24",
+    "depot": {
+        "3023071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7405787003857727691",
+                    "size": "3924155472",
+                    "download": "2428105520"
+                }
+            },
+            "decryptionkey": "c2398467d4fb3dd94f8253f01ba913f4fc14c3a4c59d63d7dec87ccec838cb62"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18140418",
+                "timeupdated": "1744956331"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
