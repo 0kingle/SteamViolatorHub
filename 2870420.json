@@ -1,0 +1,27 @@
+{
+    "appid": "2870420",
+    "type": "Game",
+    "name": "Mech Builder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015010",
+    "update_time": "2025-05-16 10:06:44",
+    "depot": {
+        "2870421": {
+            "manifests": {
+                "public": {
+                    "gid": "6195869639308795756",
+                    "size": "2756864295",
+                    "download": "216158704"
+                }
+            },
+            "decryptionkey": "9740b034c8f797deda1999d63c23282f1d6c1420fd7e3eb3a38aed9b15c5f9a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18175955",
+                "timeupdated": "1745196545"
+            }
+        }
+    }
+}
