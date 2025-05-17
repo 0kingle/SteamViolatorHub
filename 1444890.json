@@ -1,0 +1,27 @@
+{
+    "appid": "1444890",
+    "type": "Game",
+    "name": "Crazy Mafioso",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28994667",
+    "update_time": "2025-05-15 12:15:40",
+    "depot": {
+        "1444891": {
+            "manifests": {
+                "public": {
+                    "gid": "5131787050244783984",
+                    "size": "85164781",
+                    "download": "38069664"
+                }
+            },
+            "decryptionkey": "ee1da080db540ebf6de5851b6a0e13e8b831e7d98a804e4fdbb8d116abb648f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5700328",
+                "timeupdated": "1605550272"
+            }
+        }
+    }
+}
