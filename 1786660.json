@@ -1,0 +1,43 @@
+{
+    "appid": "1786660",
+    "type": "Game",
+    "name": "Marimoth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28729889",
+    "update_time": "2025-04-29 22:54:57",
+    "depot": {
+        "1786661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "586568797919373399",
+                    "size": "57190202",
+                    "download": "54369056"
+                }
+            },
+            "decryptionkey": "b544f24e1ab9720bcaa374b076ff44cb4cd15a50db1158c0a175b57ea546cf9c"
+        },
+        "1786662": {
+            "config": {
+                "language": "brazilian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1747011745361346536",
+                    "size": "57193198",
+                    "download": "54368368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17628847",
+                "timeupdated": "1741313540"
+            }
+        }
+    }
+}
