@@ -1,0 +1,45 @@
+{
+    "appid": "2096620",
+    "type": "Game",
+    "name": "Death or Treat",
+    "schinese_name": "不给糖就去死!",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 05:23:04",
+    "depot": {
+        "2096621": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8479173531519494112",
+                    "size": "15232570753",
+                    "download": "1594711264"
+                }
+            },
+            "decryptionkey": "2b6cbbd752f9a5cebb26f95ffc450b43859ecf8048a019d0c5270ad29c325d54"
+        },
+        "2096622": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "327917559446499917",
+                    "size": "15274063621",
+                    "download": "1606071840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11252604",
+                "timeupdated": "1684320301"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
