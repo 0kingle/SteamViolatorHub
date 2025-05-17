@@ -1,0 +1,28 @@
+{
+    "appid": "2377230",
+    "type": "Game",
+    "name": "Claws & Chaos",
+    "schinese_name": "利爪大乱斗 Claws & Chaos",
+    "isfreeapp": "0",
+    "change_number": "29011398",
+    "update_time": "2025-05-16 04:54:41",
+    "depot": {
+        "2377231": {
+            "manifests": {
+                "public": {
+                    "gid": "5591224530095995416",
+                    "size": "1273763457",
+                    "download": "324920256"
+                }
+            },
+            "decryptionkey": "edf035cddbddc9d391b7f1dda148b55c36e4ed8db6cd202a02011830b7ccc4d6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17884713",
+                "timeupdated": "1743092160"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
