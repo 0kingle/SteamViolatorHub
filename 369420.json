@@ -1,0 +1,54 @@
+{
+    "appid": "369420",
+    "type": "Game",
+    "name": "9 Clues 2: The Ward",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 12:41:48",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "369421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6352071408777556708",
+                    "size": "748843842",
+                    "download": "628062992"
+                }
+            },
+            "decryptionkey": "d3198ed147cd20baf54ab3f62f4128c6560b5fd5a3e4036cbb5954685a4b39ad"
+        },
+        "369422": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3914155262819955031",
+                    "size": "806714188",
+                    "download": "641694432"
+                }
+            }
+        },
+        "369423": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3621275199599708304",
+                    "size": "761245769",
+                    "download": "631735968"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "721327"
+            }
+        }
+    }
+}
