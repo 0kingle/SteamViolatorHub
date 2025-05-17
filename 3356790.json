@@ -1,0 +1,46 @@
+{
+    "appid": "3356790",
+    "type": "Game",
+    "name": "Cozy Solitaire",
+    "schinese_name": "悠享纸牌",
+    "isfreeapp": "0",
+    "change_number": "28877691",
+    "update_time": "2025-05-08 16:19:47",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "hasdepotsindlc": "0",
+        "3356791": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6014563022495788808",
+                    "size": "55770136",
+                    "download": "44406272"
+                }
+            },
+            "decryptionkey": "80554c66b4b33ada3fea50de7fccf1d1006aa3f2d99ba9a7c98a9ad380aacbcb"
+        },
+        "3356792": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5424336469015895912",
+                    "size": "317816409",
+                    "download": "135055632"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18385800",
+                "timeupdated": "1746692383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
