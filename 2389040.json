@@ -1,0 +1,44 @@
+{
+    "appid": "2389040",
+    "type": "Game",
+    "name": "ShapeHero Factory",
+    "schinese_name": "ShapeHero Factory 涂鸦英雄工厂",
+    "isfreeapp": "0",
+    "change_number": "29014779",
+    "update_time": "2025-05-16 09:43:02",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "2389041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6126300561814115316",
+                    "size": "823290266",
+                    "download": "397921024"
+                }
+            },
+            "decryptionkey": "e02efa2085a6430f99abd6920f993e651b6e7c6d4ea524a92eba66a689f5ae59"
+        },
+        "2389042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4183400255623224521",
+                    "size": "937958032",
+                    "download": "420205616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18483585",
+                "timeupdated": "1747359779"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
