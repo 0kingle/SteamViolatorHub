@@ -1,0 +1,44 @@
+{
+    "appid": "1710830",
+    "type": "Game",
+    "name": "Super Nano Blaster",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 11:57:36",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,latam",
+        "1710831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3623697264142299181",
+                    "size": "592853442",
+                    "download": "281791632"
+                }
+            },
+            "decryptionkey": "82cf667ce95f2d7ea24f58bb3ce9dede7aa69847ce30949b14788b744b493e67"
+        },
+        "1710832": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8371732656688360211",
+                    "size": "594316590",
+                    "download": "282036320"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8967420",
+                "timeupdated": "1655741499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
