@@ -1,0 +1,66 @@
+{
+    "appid": "1081300",
+    "type": "Game",
+    "name": "Sacre Bleu",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983991",
+    "update_time": "2025-05-14 23:24:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1081301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1201651965158165491",
+                    "size": "2845137613",
+                    "download": "2625234048"
+                },
+                "debug-branch": {
+                    "gid": "1139271928216098612",
+                    "size": "3030042887",
+                    "download": "2735818912"
+                },
+                "dev-branch": {
+                    "gid": "3709555818694012613",
+                    "size": "2845133517",
+                    "download": "2625186176"
+                }
+            },
+            "decryptionkey": "96033ddc5fed5310d0569e5ec8b4983ade23472946d1acc073f2e1d32dea5801"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18320303",
+                "timeupdated": "1746393555"
+            },
+            "debug-branch": {
+                "buildid": "18450201",
+                "description": "Here are builds with debug-volumes",
+                "timeupdated": "1747166893"
+            },
+            "dev-branch": {
+                "buildid": "18421911",
+                "description": "Development Branch",
+                "timeupdated": "1746994146"
+            }
+        }
+    }
+}
