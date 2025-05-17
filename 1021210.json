@@ -1,0 +1,63 @@
+{
+    "appid": "1021210",
+    "type": "Game",
+    "name": "Cyber Knights: Flashpoint",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014345",
+    "update_time": "2025-05-16 09:00:49",
+    "depot": {
+        "baselanguages": "english",
+        "1021212": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9176475317818448700",
+                    "size": "12132967555",
+                    "download": "7191476272"
+                }
+            },
+            "decryptionkey": "ca8eecda387085ee0ddead4b8e6f11eb31acbf246bff8341d302488f02613fc4"
+        },
+        "1021214": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4881556663176112124",
+                    "size": "12318054086",
+                    "download": "7279608112"
+                }
+            }
+        },
+        "1021217": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5167897521717004919",
+                    "size": "11926826702",
+                    "download": "7117917936"
+                }
+            }
+        },
+        "1021213": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18484292",
+                "timeupdated": "1747357245"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
