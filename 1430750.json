@@ -1,0 +1,37 @@
+{
+    "appid": "1430750",
+    "type": "Game",
+    "name": "Blacksmith Legends",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:21",
+    "depot": {
+        "1430751": {
+            "manifests": {
+                "public": {
+                    "gid": "4542874511593658397",
+                    "size": "3790363125",
+                    "download": "1481854544"
+                },
+                "legacy": {
+                    "gid": "8135193638636136158",
+                    "size": "5052104984",
+                    "download": "1916252048"
+                }
+            },
+            "decryptionkey": "0b99274b953f6a13ac30098764720cd76549fb73c1596a6710039b22724d6411"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10948158",
+                "timeupdated": "1680798228"
+            },
+            "legacy": {
+                "buildid": "8976909",
+                "description": "legacy",
+                "timeupdated": "1678972534"
+            }
+        }
+    }
+}
