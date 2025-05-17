@@ -1,0 +1,42 @@
+{
+    "appid": "1911940",
+    "type": "Game",
+    "name": "Twilight Monk",
+    "schinese_name": "伏魔行者",
+    "isfreeapp": "0",
+    "change_number": "28990907",
+    "update_time": "2025-05-15 06:39:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1911941": {
+            "manifests": {
+                "public": {
+                    "gid": "6454569089038894001",
+                    "size": "2386641624",
+                    "download": "1338577472"
+                }
+            },
+            "decryptionkey": "47af141dd232750fa872debb725881a41b05cb4124f59feea60ca89d344ae839"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18108400",
+                "timeupdated": "1744695085"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
