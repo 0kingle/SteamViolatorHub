@@ -1,0 +1,42 @@
+{
+    "appid": "1364760",
+    "type": "Game",
+    "name": "COTTOn Rock'n'Roll",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986551",
+    "update_time": "2025-05-15 01:39:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1364761": {
+            "manifests": {
+                "public": {
+                    "gid": "5300380769747921487",
+                    "size": "2399709048",
+                    "download": "1926658480"
+                }
+            },
+            "decryptionkey": "d6e0a91c184b5daccafdd35a61687c82e6b24242040af1634b39fd3f84b7a89f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10296193",
+                "timeupdated": "1674460697"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
