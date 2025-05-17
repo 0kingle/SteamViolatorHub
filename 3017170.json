@@ -1,0 +1,27 @@
+{
+    "appid": "3017170",
+    "type": "Game",
+    "name": "双门勇者棋",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28949283",
+    "update_time": "2025-05-13 07:04:43",
+    "depot": {
+        "3017171": {
+            "manifests": {
+                "public": {
+                    "gid": "2975753351976652426",
+                    "size": "670841277",
+                    "download": "75970800"
+                }
+            },
+            "decryptionkey": "9c3c76afecb6ccfdb5a567bfc1a52af0393e6a33ee38a875969c867ce86b1487"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18436274",
+                "timeupdated": "1747091078"
+            }
+        }
+    }
+}
