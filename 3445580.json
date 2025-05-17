@@ -1,0 +1,70 @@
+{
+    "appid": "3445580",
+    "type": "Game",
+    "name": "Ambidextro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016664",
+    "update_time": "2025-05-16 12:42:49",
+    "depot": {
+        "baselanguages": "english",
+        "3445581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7331921354625384265",
+                    "size": "205337460",
+                    "download": "123978768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3445582": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7944088689449878451",
+                    "size": "195551444",
+                    "download": "122871984"
+                }
+            },
+            "decryptionkey": "86dc6cbfea22e6552e75979de093cfb92aeb610555d73ec461c55569975187e4"
+        },
+        "3445583": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6436681876932359764",
+                    "size": "182674464",
+                    "download": "119090384"
+                }
+            }
+        },
+        "3445584": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5439200524127916832",
+                    "size": "268644012",
+                    "download": "138119984"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18449589",
+                "timeupdated": "1747163505"
+            }
+        }
+    }
+}
