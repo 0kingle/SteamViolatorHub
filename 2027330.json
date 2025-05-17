@@ -1,0 +1,41 @@
+{
+    "appid": "2027330",
+    "type": "Game",
+    "name": "GoreBox",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29006579",
+    "update_time": "2025-05-16 00:10:03",
+    "depot": {
+        "2027331": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6170434827376736413",
+                    "size": "722568223",
+                    "download": "462633344"
+                },
+                "beta": {
+                    "gid": "6170434827376736413",
+                    "size": "722568223",
+                    "download": "462633344"
+                }
+            },
+            "decryptionkey": "fe55366b35c183a95c0ec8968cfc7df1e903ba74e41b8c298201fda9946a0b7d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447543",
+                "timeupdated": "1747153309"
+            },
+            "beta": {
+                "buildid": "18447543",
+                "description": "experimental updates",
+                "timeupdated": "1747153287"
+            }
+        }
+    }
+}
