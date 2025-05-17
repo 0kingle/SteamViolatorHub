@@ -1,0 +1,63 @@
+{
+    "appid": "793460",
+    "type": "Game",
+    "name": "112 Operator",
+    "schinese_name": "112接线员",
+    "isfreeapp": "0",
+    "change_number": "28978768",
+    "update_time": "2025-05-14 22:45:27",
+    "depot": {
+        "793461": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2805110022672170003",
+                    "size": "3763835460",
+                    "download": "1480657920"
+                },
+                "open_beta": {
+                    "gid": "2805110022672170003",
+                    "size": "3763835460",
+                    "download": "1480657920"
+                }
+            },
+            "decryptionkey": "2923abff356f40a6626759eef98e74c0fab20968d61d1d0a75916c77ea6bc0b6"
+        },
+        "793462": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6135015662444699188",
+                    "size": "3775514480",
+                    "download": "1484660512"
+                },
+                "open_beta": {
+                    "gid": "6135015662444699188",
+                    "size": "3775514480",
+                    "download": "1484660512"
+                }
+            },
+            "decryptionkey": "6f789024b4260378373b82f48b9ebf951de6ee06ca48a46558fdbfd80b5efd04"
+        },
+        "workshopdepot": "793460",
+        "branches": {
+            "public": {
+                "buildid": "9656889",
+                "timeupdated": "1664968524"
+            },
+            "open_beta": {
+                "buildid": "9656889",
+                "description": "Public beta branch",
+                "timeupdated": "1664968550"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "502854089d81c8c121c1277de8da3d540638ba2786fdd7f539b01e293cde8609"
+    }
+}
