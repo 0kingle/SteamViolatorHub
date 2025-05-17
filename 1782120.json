@@ -1,0 +1,43 @@
+{
+    "appid": "1782120",
+    "type": "Game",
+    "name": "ZERO Sievert",
+    "schinese_name": "零希沃特",
+    "isfreeapp": "0",
+    "change_number": "29021056",
+    "update_time": "2025-05-16 17:37:49",
+    "depot": {
+        "1782121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6168800683760520878",
+                    "size": "528182565",
+                    "download": "273913920"
+                },
+                "legacy": {
+                    "gid": "2620672129137811620",
+                    "size": "329597268",
+                    "download": "183542208"
+                }
+            },
+            "decryptionkey": "0bc5588f4c3b046a032c9a572cad93842f26607606bbfa76dbf4468046feabec"
+        },
+        "workshopdepot": "1782120",
+        "branches": {
+            "public": {
+                "buildid": "18488616",
+                "timeupdated": "1747388264"
+            },
+            "legacy": {
+                "buildid": "15528948",
+                "description": "Build 0.52.7",
+                "timeupdated": "1729690791"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "859081face538d716778d1af6b2128c2fee9768e71487407cdc393f4be7f969c"
+    }
+}
