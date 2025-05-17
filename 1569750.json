@@ -1,0 +1,56 @@
+{
+    "appid": "1569750",
+    "type": "Game",
+    "name": "忍者明：悟",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28483570",
+    "update_time": "2025-04-15 17:17:38",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1569752": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6759870847898933036",
+                    "size": "108810202",
+                    "download": "35443984"
+                }
+            },
+            "decryptionkey": "d10299de9a87c0f7248102793f835c70e82179d9d153e4629adb72ef2ada17fa"
+        },
+        "1569753": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8726085234098033863",
+                    "size": "171537285",
+                    "download": "47191600"
+                }
+            }
+        },
+        "1569754": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7140277416315427328",
+                    "size": "130637988",
+                    "download": "36540144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18111203",
+                "timeupdated": "1744708651"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
