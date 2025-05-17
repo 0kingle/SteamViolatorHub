@@ -1,0 +1,42 @@
+{
+    "appid": "2423070",
+    "type": "Game",
+    "name": "Speakeasy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011796",
+    "update_time": "2025-05-16 05:24:45",
+    "depot": {
+        "2423077": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1953720972404087989",
+                    "size": "1245418628",
+                    "download": "1148944592"
+                }
+            },
+            "decryptionkey": "f6eae9ae03e558befa678982498ac3bd84bc71ab2d03f13980011c60febf19a1"
+        },
+        "2423078": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2337239983154232582",
+                    "size": "1259981847",
+                    "download": "1152424160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17019656",
+                "timeupdated": "1736986051"
+            }
+        }
+    }
+}
