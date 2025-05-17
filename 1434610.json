@@ -1,0 +1,68 @@
+{
+    "appid": "1434610",
+    "type": "Game",
+    "name": "Darkzone",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:22",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1434611": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4674191687496440197",
+                    "size": "1944346621",
+                    "download": "329236768"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1434612": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4962617415586711735",
+                    "size": "505094417",
+                    "download": "385435264"
+                }
+            }
+        },
+        "1434613": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8490117441211149797",
+                    "size": "2215195719",
+                    "download": "389863936"
+                }
+            },
+            "decryptionkey": "2a24f68294aefde149a1b062d38602b691401262e9b4300b371ee9ae25b19a03"
+        },
+        "1434614": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7853520243260991011",
+                    "size": "626503210",
+                    "download": "470666496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8168966",
+                "timeupdated": "1644367152"
+            }
+        }
+    }
+}
