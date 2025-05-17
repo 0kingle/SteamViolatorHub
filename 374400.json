@@ -1,0 +1,27 @@
+{
+    "appid": "374400",
+    "type": "Application",
+    "name": "VoiceBot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28603760",
+    "update_time": "2025-04-22 23:03:00",
+    "depot": {
+        "374401": {
+            "manifests": {
+                "public": {
+                    "gid": "1313086272908277372",
+                    "size": "227980617",
+                    "download": "86806624"
+                }
+            },
+            "decryptionkey": "99467c9b1ca1addba943fe61d5dab63c27ce76e7140e65abb1fd6467bacaff31"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18194851",
+                "timeupdated": "1745334174"
+            }
+        }
+    }
+}
