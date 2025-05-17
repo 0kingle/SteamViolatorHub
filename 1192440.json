@@ -1,0 +1,28 @@
+{
+    "appid": "1192440",
+    "type": "Game",
+    "name": "The Monster Breeder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29001789",
+    "update_time": "2025-05-15 20:14:15",
+    "depot": {
+        "baselanguages": "english",
+        "1192441": {
+            "manifests": {
+                "public": {
+                    "gid": "5265871721357159887",
+                    "size": "6663851071",
+                    "download": "2822071808"
+                }
+            },
+            "decryptionkey": "10e9dff3873410e66ee903a07fc79cc45126ff4ea846e8b9370fe01857ad3444"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18397107",
+                "timeupdated": "1746756560"
+            }
+        }
+    }
+}
