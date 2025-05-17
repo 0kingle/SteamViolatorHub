@@ -1,0 +1,41 @@
+{
+    "appid": "356880",
+    "type": "Game",
+    "name": "Eron",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972338",
+    "update_time": "2025-05-14 10:57:41",
+    "depot": {
+        "356881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "500141860976461881",
+                    "size": "100412057",
+                    "download": "14942336"
+                }
+            },
+            "decryptionkey": "b270e41dd00990c3dac5e27630bbe46d26a1f09971c94554c1064443141500e8"
+        },
+        "356882": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7053886175267239829",
+                    "size": "107543409",
+                    "download": "16967312"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "648662"
+            }
+        }
+    }
+}
