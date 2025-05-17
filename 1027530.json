@@ -1,0 +1,46 @@
+{
+    "appid": "1027530",
+    "type": "Game",
+    "name": "Robohazard 2077",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28476845",
+    "update_time": "2025-04-15 08:09:13",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1027531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3637312820349961744",
+                    "size": "4084591176",
+                    "download": "1340620064"
+                }
+            },
+            "decryptionkey": "c220ba3c2aa8b445a8fac39524b130f0424dc5204b9526f396beda47c418e34e"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "3526161",
+                "timeupdated": "1549117178"
+            }
+        }
+    }
+}
