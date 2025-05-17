@@ -1,0 +1,41 @@
+{
+    "appid": "589150",
+    "type": "Game",
+    "name": "Viking Rage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28468036",
+    "update_time": "2025-04-14 22:08:11",
+    "depot": {
+        "589151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7942345055523569818",
+                    "size": "1296368641",
+                    "download": "1047631024"
+                },
+                "legacy": {
+                    "gid": "1932449564817921347",
+                    "size": "3169783998",
+                    "download": "934934224"
+                }
+            },
+            "decryptionkey": "5ef30364e563dc5f58927ee690b42231aa19a1313e6ae40fabd6ea4f2729b1ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10812084",
+                "timeupdated": "1679326799"
+            },
+            "legacy": {
+                "buildid": "2022211",
+                "description": "Version 1.1 (Version 2017)",
+                "timeupdated": "1625488531"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
