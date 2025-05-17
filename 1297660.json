@@ -1,0 +1,54 @@
+{
+    "appid": "1297660",
+    "type": "Game",
+    "name": "Fragment's Moonrise",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28685105",
+    "update_time": "2025-04-27 01:53:37",
+    "depot": {
+        "1297661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6566870349212338560",
+                    "size": "3639714578",
+                    "download": "743302512"
+                }
+            },
+            "decryptionkey": "189bd4f0cd81206ffdfe0f930f6edb2b1c8513ecdbaa0a3f0b05e4836aed03c4"
+        },
+        "1297663": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1327024766536554738",
+                    "size": "3631416138",
+                    "download": "726966928"
+                }
+            }
+        },
+        "1297664": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3499247888549465413",
+                    "size": "3737962047",
+                    "download": "775064080"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18004973",
+                "timeupdated": "1743983515"
+            }
+        }
+    }
+}
