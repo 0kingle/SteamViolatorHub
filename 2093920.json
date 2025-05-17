@@ -1,0 +1,27 @@
+{
+    "appid": "2093920",
+    "type": "Game",
+    "name": "Dread Dawn",
+    "schinese_name": "灾变前夜",
+    "isfreeapp": "0",
+    "change_number": "29008646",
+    "update_time": "2025-05-16 01:54:46",
+    "depot": {
+        "2093921": {
+            "manifests": {
+                "public": {
+                    "gid": "6813797247638397623",
+                    "size": "29013832630",
+                    "download": "28262628816"
+                }
+            },
+            "decryptionkey": "0b7690fca6032ce22908ebba2fc124ecd63424ccd07fa2e5d02381c53b208595"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456836",
+                "timeupdated": "1747310173"
+            }
+        }
+    }
+}
