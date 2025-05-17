@@ -1,0 +1,37 @@
+{
+    "appid": "1494810",
+    "type": "Game",
+    "name": "Mortal Sin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29019128",
+    "update_time": "2025-05-16 15:51:30",
+    "depot": {
+        "1494811": {
+            "manifests": {
+                "public": {
+                    "gid": "8034804025274064638",
+                    "size": "2341400049",
+                    "download": "1014399888"
+                },
+                "beta": {
+                    "gid": "5514634982093602923",
+                    "size": "2455051154",
+                    "download": "1075380704"
+                }
+            },
+            "decryptionkey": "0a511e83da83f4164929f78b0220da9474d343cbf334e814f37b5731de7196be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18406858",
+                "timeupdated": "1746813267"
+            },
+            "beta": {
+                "buildid": "18487695",
+                "description": "Experimental beta branch",
+                "timeupdated": "1747381885"
+            }
+        }
+    }
+}
