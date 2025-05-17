@@ -1,0 +1,41 @@
+{
+    "appid": "3585310",
+    "type": "Game",
+    "name": "KUNKUN Defender 2",
+    "schinese_name": "坤化危机2",
+    "isfreeapp": "0",
+    "change_number": "29023821",
+    "update_time": "2025-05-16 20:17:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3585311": {
+            "manifests": {
+                "public": {
+                    "gid": "8442810175985427461",
+                    "size": "2845717316",
+                    "download": "2715067120"
+                }
+            },
+            "decryptionkey": "e63391377a8b4ed2b810095a95514975f4ef29f1ad14e86c78005d5ad845dd11"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18472163",
+                "timeupdated": "1747295576"
+            }
+        }
+    }
+}
