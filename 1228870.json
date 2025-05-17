@@ -1,0 +1,39 @@
+{
+    "appid": "1228870",
+    "type": "Game",
+    "name": "Bartlow's Dread Machine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985209",
+    "update_time": "2025-05-15 00:26:46",
+    "depot": {
+        "1228871": {
+            "manifests": {
+                "public": {
+                    "gid": "2432276276823221596",
+                    "size": "2695056809",
+                    "download": "1297526208"
+                },
+                "original_release": {
+                    "gid": "6711879948219250595",
+                    "size": "2694317049",
+                    "download": "1297119152"
+                }
+            },
+            "decryptionkey": "ab3bf7330ec3302d0761278bed006e5820285cf742a76bc40e5878dbe8236089"
+        },
+        "baselanguages": "english,german,french,italian,spanish,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "5929982",
+                "timeupdated": "1608766992"
+            },
+            "original_release": {
+                "buildid": "5619505",
+                "description": "original release before updates.",
+                "timeupdated": "1631538604"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
