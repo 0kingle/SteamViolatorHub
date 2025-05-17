@@ -1,0 +1,31 @@
+{
+    "appid": "1420160",
+    "type": "Game",
+    "name": "Paranormal Stories",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:33",
+    "depot": {
+        "1420161": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3335060448672731288",
+                    "size": "904369761",
+                    "download": "238035984"
+                }
+            },
+            "decryptionkey": "3cafd0c6acff8c68b7a9bff435db6f09ebbd338008f93203aeca14b5fca11404"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5525343",
+                "timeupdated": "1599727360"
+            }
+        }
+    }
+}
