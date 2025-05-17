@@ -1,0 +1,28 @@
+{
+    "appid": "3160500",
+    "type": "Game",
+    "name": "Kingdom of Cards",
+    "schinese_name": "王牌卡国",
+    "isfreeapp": "0",
+    "change_number": "29016345",
+    "update_time": "2025-05-16 12:06:50",
+    "depot": {
+        "3160501": {
+            "manifests": {
+                "public": {
+                    "gid": "3849921486288494100",
+                    "size": "863384432",
+                    "download": "151097088"
+                }
+            },
+            "decryptionkey": "d38985ce515aca8fc52fac0ace682a9ff7fe646d423661b251c2578bb1e3a461"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18464269",
+                "timeupdated": "1747245268"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
