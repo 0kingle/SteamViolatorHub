@@ -1,0 +1,43 @@
+{
+    "appid": "3171460",
+    "type": "Game",
+    "name": "Hatsuyuki Sakura",
+    "schinese_name": "初雪樱 ",
+    "isfreeapp": "0",
+    "change_number": "29016345",
+    "update_time": "2025-05-16 12:06:51",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3171461": {
+            "manifests": {
+                "public": {
+                    "gid": "7777268070575869187",
+                    "size": "10129558073",
+                    "download": "9777548304"
+                }
+            },
+            "decryptionkey": "06f3fb6f36c37950fc4b799d34278264560ea98204d6d18f311671a90e89a5d9"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18420724",
+                "timeupdated": "1746982058"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
