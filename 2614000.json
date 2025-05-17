@@ -1,0 +1,46 @@
+{
+    "appid": "2614000",
+    "type": "Game",
+    "name": "TRAMCITY HAKODATE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28497650",
+    "update_time": "2025-04-16 08:01:08",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "2614001": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "441456503030519536",
+                    "size": "2924769552",
+                    "download": "504918496"
+                }
+            },
+            "decryptionkey": "a86a278b9826eb3ccfe0661e49ae7bd31b2a2cbd1e8d64f18ed80e52b35e1eb8"
+        },
+        "2614002": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "986802651967894032",
+                    "size": "2986006981",
+                    "download": "509370752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18084302",
+                "timeupdated": "1744513238"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
