@@ -1,0 +1,42 @@
+{
+    "appid": "2072760",
+    "type": "Demo",
+    "name": "Voidborn Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28346700",
+    "update_time": "2025-04-07 21:45:12",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2072761": {
+            "manifests": {
+                "public": {
+                    "gid": "1438648862166003478",
+                    "size": "677663490",
+                    "download": "564539520"
+                }
+            },
+            "decryptionkey": "fd7bc6e26d81b8e400de7692f223a8de3456934a4ebb9c9dabc11a63b544fb4e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11507114",
+                "timeupdated": "1687189053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
