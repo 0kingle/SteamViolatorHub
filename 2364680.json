@@ -1,0 +1,42 @@
+{
+    "appid": "2364680",
+    "type": "Beta",
+    "name": "Billie Bust Up Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28604426",
+    "update_time": "2025-04-22 23:36:09",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2364681": {
+            "manifests": {
+                "public": {
+                    "gid": "5026620333577433748",
+                    "size": "3022792641",
+                    "download": "2759660752"
+                }
+            },
+            "decryptionkey": "e1eabf83cbdfbfced2d7849a20f94f1a7677f8d390912cd0836940f578a61516"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18195206",
+                "timeupdated": "1745336164"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
