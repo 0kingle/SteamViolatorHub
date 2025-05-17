@@ -1,0 +1,38 @@
+{
+    "appid": "3465160",
+    "type": "DLC",
+    "name": "雪ミク「SNOW MIKU 2025 Ver.」 DLC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28877415",
+    "update_time": "2025-05-08 16:05:20",
+    "depot": {
+        "3465160": {
+            "manifests": {
+                "public": {
+                    "gid": "4471162327121294726",
+                    "size": "17429064",
+                    "download": "17667616"
+                },
+                "debug": {
+                    "gid": "4471162327121294726",
+                    "size": "17429064",
+                    "download": "17667616"
+                }
+            },
+            "dlcappid": "3465160",
+            "decryptionkey": "7a1e4b009760e36441de4593f40020f18b3372217a998f459694bcc43b371cbd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18203354",
+                "timeupdated": "1746691516"
+            },
+            "debug": {
+                "buildid": "18203354",
+                "description": "debug",
+                "timeupdated": "1745389182"
+            }
+        }
+    }
+}
