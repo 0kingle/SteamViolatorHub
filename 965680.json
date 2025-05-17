@@ -1,0 +1,35 @@
+{
+    "appid": "965680",
+    "type": "Game",
+    "name": "Boomerang Fu",
+    "schinese_name": "随动回旋镖",
+    "isfreeapp": "0",
+    "change_number": "28981363",
+    "update_time": "2025-05-14 22:50:13",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "965681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1738001015534433881",
+                    "size": "697095274",
+                    "download": "120527568"
+                }
+            },
+            "decryptionkey": "05685e2eda75d5459cd0ec3a1735e0eed68414c8fb3a56585c6c0938b3102f57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18087614",
+                "timeupdated": "1744517806"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
