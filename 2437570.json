@@ -1,0 +1,28 @@
+{
+    "appid": "2437570",
+    "type": "Game",
+    "name": "Chambers",
+    "schinese_name": "荒野左轮",
+    "isfreeapp": "0",
+    "change_number": "29019576",
+    "update_time": "2025-05-16 16:12:53",
+    "depot": {
+        "2437571": {
+            "manifests": {
+                "public": {
+                    "gid": "6407494203311449372",
+                    "size": "3508375217",
+                    "download": "1236598064"
+                }
+            },
+            "decryptionkey": "a01bb6c5dca131fceeab493d75c07e7f850f66af3c0e405a6709a5b4abfa6c4d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18477522",
+                "timeupdated": "1747322713"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
