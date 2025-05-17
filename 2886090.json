@@ -1,0 +1,28 @@
+{
+    "appid": "2886090",
+    "type": "Game",
+    "name": "Novice Dungeon Master",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015158",
+    "update_time": "2025-05-16 10:18:47",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,japanese",
+        "2886091": {
+            "manifests": {
+                "public": {
+                    "gid": "5578688944720256208",
+                    "size": "1064387094",
+                    "download": "96063376"
+                }
+            },
+            "decryptionkey": "748c3cf843ff66cdf4f1b2fcb2f16166fbed77f506e0dbac85d33a24fb9c5db9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18470928",
+                "timeupdated": "1747287457"
+            }
+        }
+    }
+}
