@@ -1,0 +1,29 @@
+{
+    "appid": "2168200",
+    "type": "Game",
+    "name": "NervBox",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009500",
+    "update_time": "2025-05-16 02:44:28",
+    "depot": {
+        "2168202": {
+            "manifests": {
+                "public": {
+                    "gid": "2530886537159587123",
+                    "size": "6642682764",
+                    "download": "1973267072"
+                }
+            },
+            "decryptionkey": "ae3ee43260181bf64fc642f55288dc960d332e872eea283b4b89e621b6fc6d84"
+        },
+        "2168201": {},
+        "branches": {
+            "public": {
+                "buildid": "18123576",
+                "timeupdated": "1745625777"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
