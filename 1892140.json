@@ -1,0 +1,30 @@
+{
+    "appid": "1892140",
+    "type": "Game",
+    "name": "Cryptid Farm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990746",
+    "update_time": "2025-05-15 06:26:37",
+    "depot": {
+        "1892141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2673321019728104172",
+                    "size": "552120913",
+                    "download": "81069840"
+                }
+            },
+            "decryptionkey": "9a3e4bcb7ee383a8d1fde22c4f94ccec8f457f8aa6adc8f427699a6cc52cf303"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18435695",
+                "timeupdated": "1747087253"
+            }
+        }
+    }
+}
