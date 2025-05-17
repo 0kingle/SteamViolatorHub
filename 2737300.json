@@ -1,0 +1,58 @@
+{
+    "appid": "2737300",
+    "type": "Game",
+    "name": "Parking Garage Rally Circuit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016268",
+    "update_time": "2025-05-16 11:59:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,latam",
+        "workshopdepot": "2737300",
+        "2737301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5716905389499465",
+                    "size": "244586432",
+                    "download": "179382112"
+                }
+            },
+            "decryptionkey": "90dedf7af32e5263c433582527aa3915a84f51e3fd6b4041e4b3d0f2508dd5d4"
+        },
+        "2737302": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2968833472681138790",
+                    "size": "263876143",
+                    "download": "183810592"
+                }
+            }
+        },
+        "2737303": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7160888583683660354",
+                    "size": "534311056",
+                    "download": "409858896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18273194",
+                "timeupdated": "1745890486"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a8c381143dc90253a743e77e35a1dfa3447edd802b94ec19ba713125b34edeea"
+    }
+}
