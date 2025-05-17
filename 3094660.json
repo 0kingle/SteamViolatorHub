@@ -1,0 +1,41 @@
+{
+    "appid": "3094660",
+    "type": "Game",
+    "name": "Climb and Cry",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28858859",
+    "update_time": "2025-05-07 17:51:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3094661": {
+            "manifests": {
+                "public": {
+                    "gid": "7554582564876277514",
+                    "size": "2751636452",
+                    "download": "2447464608"
+                }
+            },
+            "decryptionkey": "c47665c8085701b63fa4908c6b6c63a65ed8b96b208f090ba9aa52934bc4210a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18372017",
+                "timeupdated": "1746611475"
+            }
+        }
+    }
+}
