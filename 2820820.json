@@ -1,0 +1,43 @@
+{
+    "appid": "2820820",
+    "type": "Game",
+    "name": "Jotunnslayer: Hordes of Hel",
+    "schinese_name": "巨人杀手：暗黑之潮",
+    "isfreeapp": "0",
+    "change_number": "29023209",
+    "update_time": "2025-05-16 19:38:19",
+    "depot": {
+        "2820821": {
+            "manifests": {
+                "public": {
+                    "gid": "6617430817496326205",
+                    "size": "15689664821",
+                    "download": "5084682736"
+                }
+            },
+            "decryptionkey": "6c3ca2723bed87cab9ee1a573779e7cd92ddfaa4f61727af0e5f5219c736611d"
+        },
+        "3431390": {
+            "dlcappid": "3431390",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2085888886786368912",
+                    "size": "65704167",
+                    "download": "58699120"
+                }
+            },
+            "decryptionkey": "aa6311cfc779ff46fdbcde4dc361ae59e77a942ab4ec0431eb5d1f560793426f"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18472617",
+                "timeupdated": "1747297548"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
