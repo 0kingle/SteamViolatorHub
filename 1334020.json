@@ -1,0 +1,44 @@
+{
+    "appid": "1334020",
+    "type": "Game",
+    "name": "Aeon on Mosaic: Anemone 时间碎片：奇迹",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 07:49:56",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1334021": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3013797050165140333",
+                    "size": "322651080",
+                    "download": "270783360"
+                }
+            },
+            "decryptionkey": "6e347d434ff4bbbf51f1bc72bdb6f0658ab34864509d8b502f5ca01038c9fb7a"
+        },
+        "1334022": {
+            "config": {
+                "oslist": "macos,linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4738187551998642891",
+                    "size": "50143537",
+                    "download": "14752416"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10428294",
+                "timeupdated": "1674991031"
+            }
+        }
+    }
+}
