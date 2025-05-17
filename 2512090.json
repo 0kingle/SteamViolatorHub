@@ -1,0 +1,54 @@
+{
+    "appid": "2512090",
+    "type": "Game",
+    "name": "The Political Machine 2024",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28689070",
+    "update_time": "2025-04-27 12:54:08",
+    "depot": {
+        "workshopdepot": "2512090",
+        "2512091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8903226987137768192",
+                    "size": "727160608",
+                    "download": "456250960"
+                }
+            }
+        },
+        "2512092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8468135489622189764",
+                    "size": "730892070",
+                    "download": "457639680"
+                }
+            }
+        },
+        "2512093": {
+            "manifests": {
+                "public": {
+                    "gid": "8771070721990514701",
+                    "size": "41405301",
+                    "download": "35646848"
+                }
+            },
+            "decryptionkey": "0a23c0a99732f66a1317934a2ae2cbfb0b2b89550f9828d80fd63007a0fb80f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18151104",
+                "timeupdated": "1745412647"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cb6f2b58da93604b029517d279bbcc69df708f6e3a8cdfc17c33707787efccac"
+    }
+}
