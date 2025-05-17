@@ -1,0 +1,43 @@
+{
+    "appid": "1440090",
+    "type": "Game",
+    "name": "Viewergames Racing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:18",
+    "depot": {
+        "1440091": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1182186243436122790",
+                    "size": "3190333319",
+                    "download": "677981888"
+                },
+                "testing": {
+                    "gid": "1182186243436122790",
+                    "size": "3190333319",
+                    "download": "677981888"
+                }
+            },
+            "decryptionkey": "b087cf40bbc88b83839517afc31a4bd9d12acebf2f8c1e2af5032539f3afde53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10254304",
+                "timeupdated": "1672838210"
+            },
+            "testing": {
+                "buildid": "10254304",
+                "description": "TESTING - Upcoming, not yet fully tested, update",
+                "timeupdated": "1672835114"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
