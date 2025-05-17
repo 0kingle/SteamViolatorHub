@@ -1,0 +1,43 @@
+{
+    "appid": "3175860",
+    "type": "Game",
+    "name": "Driving Is Hard",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016408",
+    "update_time": "2025-05-16 12:12:45",
+    "depot": {
+        "baselanguages": "english",
+        "3175861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4836378984245174125",
+                    "size": "1772367715",
+                    "download": "1393020320"
+                }
+            },
+            "decryptionkey": "1f54e0f21259d580e51e729346b6575b40001019724d7f2079cac7b0deb65172"
+        },
+        "3175862": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5591976857571628440",
+                    "size": "1988276508",
+                    "download": "1517683504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18025178",
+                "timeupdated": "1744112071"
+            }
+        }
+    }
+}
