@@ -1,0 +1,41 @@
+{
+    "appid": "3108540",
+    "type": "Demo",
+    "name": "Joilab VR [DEMO]",
+    "schinese_name": "手淫指示 VR [DEMO] - 辅助手淫",
+    "isfreeapp": "0",
+    "change_number": "28865500",
+    "update_time": "2025-05-08 00:12:10",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3108541": {
+            "manifests": {
+                "public": {
+                    "gid": "4680508182901299268",
+                    "size": "1038267596",
+                    "download": "834419520"
+                }
+            },
+            "decryptionkey": "578de9a5685506c84c1e7f128a339d10a8e23f034119050d10fe7463cb8228be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16147051",
+                "timeupdated": "1732235194"
+            }
+        }
+    }
+}
