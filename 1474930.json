@@ -1,0 +1,57 @@
+{
+    "appid": "1474930",
+    "type": "Game",
+    "name": "Heavy Cargo - The Truck Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29002044",
+    "update_time": "2025-05-15 20:26:19",
+    "depot": {
+        "workshopdepot": "1474930",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1474931": {
+            "manifests": {
+                "public": {
+                    "gid": "3945061257070616144",
+                    "size": "19308681406",
+                    "download": "5615680608"
+                },
+                "open_beta": {
+                    "gid": "7259673600105334040",
+                    "size": "29018266493",
+                    "download": "6514094528"
+                }
+            },
+            "decryptionkey": "9ebe45ec36b6017e74fbffec6a0f5877792ef03b356231266a2e8503a72f999b"
+        },
+        "3581920": {
+            "dlcappid": "3581920"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18440933",
+                "timeupdated": "1747303431"
+            },
+            "open_beta": {
+                "buildid": "16177261",
+                "description": "Branch for Beta Tests",
+                "timeupdated": "1730104509"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
