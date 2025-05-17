@@ -1,0 +1,70 @@
+{
+    "appid": "3362990",
+    "type": "Game",
+    "name": "The Three Kingdoms: The Tales of Jian An",
+    "schinese_name": "三国志：建安外史",
+    "isfreeapp": "0",
+    "change_number": "28753527",
+    "update_time": "2025-05-01 00:15:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese,tchinese",
+        "3362991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3635591092046595130",
+                    "size": "31084528",
+                    "download": "11615344"
+                }
+            },
+            "decryptionkey": "d1f8c1d20b6f71281f05cf7dbb076f6be0b6cca082d9b1c96ce53e7b044af80e"
+        },
+        "3362992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5764213363356704702",
+                    "size": "696487996",
+                    "download": "488111984"
+                }
+            },
+            "decryptionkey": "9798990a39e5d194686a71b75300b0a1496099a09f87f7c0462ec9217dac84a4"
+        },
+        "3362993": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "3362994": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5248894890356709378",
+                    "size": "582208202",
+                    "download": "456747312"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18124960",
+                "timeupdated": "1744789421"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
