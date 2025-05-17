@@ -1,0 +1,54 @@
+{
+    "appid": "726340",
+    "type": "Game",
+    "name": "Alchemist's Castle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977752",
+    "update_time": "2025-05-14 22:43:41",
+    "depot": {
+        "726341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8069578264953817438",
+                    "size": "177944771",
+                    "download": "63594528"
+                }
+            },
+            "decryptionkey": "9c1722f14b785699720cf8528653e047ee0677b7202c1318eb2adcecb8f3bb12"
+        },
+        "726342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8030261339869336840",
+                    "size": "188622423",
+                    "download": "66449840"
+                }
+            }
+        },
+        "726343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4335972547287250314",
+                    "size": "188915035",
+                    "download": "68166368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11609068",
+                "timeupdated": "1688313772"
+            }
+        }
+    }
+}
