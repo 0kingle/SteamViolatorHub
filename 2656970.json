@@ -1,0 +1,42 @@
+{
+    "appid": "2656970",
+    "type": "Demo",
+    "name": "Chasmal Fear Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28555882",
+    "update_time": "2025-04-19 04:56:20",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2656971": {
+            "manifests": {
+                "public": {
+                    "gid": "503655114983308421",
+                    "size": "13458282362",
+                    "download": "12919252832"
+                }
+            },
+            "decryptionkey": "962405abca0d25c57c495af94f304830f8428c820898ee4f24a7a43240a8a7e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18066582",
+                "timeupdated": "1744347111"
+            }
+        }
+    }
+}
