@@ -1,0 +1,32 @@
+{
+    "appid": "3453600",
+    "type": "Game",
+    "name": "Supercar Collection Simulator",
+    "schinese_name": "超级跑车收藏模拟器",
+    "isfreeapp": "0",
+    "change_number": "29023851",
+    "update_time": "2025-05-16 20:17:34",
+    "depot": {
+        "3453601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2270230610230423964",
+                    "size": "5645077747",
+                    "download": "1426302032"
+                }
+            },
+            "decryptionkey": "ce8d6b5c4d99db4329aa5baa99ef1de9422793b7c659c2d8474c46aea1e95b8b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18464788",
+                "timeupdated": "1747246339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
