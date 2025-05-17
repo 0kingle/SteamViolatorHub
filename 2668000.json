@@ -1,0 +1,34 @@
+{
+    "appid": "2668000",
+    "type": "Game",
+    "name": "Wizdom Academy",
+    "schinese_name": "巫智学院",
+    "isfreeapp": "0",
+    "change_number": "29013863",
+    "update_time": "2025-05-16 08:18:50",
+    "depot": {
+        "2668001": {
+            "manifests": {
+                "public": {
+                    "gid": "6196089528278278366",
+                    "size": "2055723280",
+                    "download": "1365120576"
+                }
+            },
+            "decryptionkey": "3dd1c855b7c0bb401b866d7c25733268d3d4cb89542df6a8dc98910a67c60484"
+        },
+        "2668002": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18375320",
+                "timeupdated": "1746627907"
+            }
+        }
+    }
+}
