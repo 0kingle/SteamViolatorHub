@@ -1,0 +1,56 @@
+{
+    "appid": "2455140",
+    "type": "Game",
+    "name": "Wings of Seduction : Bust 'em out!",
+    "schinese_name": "魅惑之翼：少女的爆衣攻略",
+    "isfreeapp": "0",
+    "change_number": "28984815",
+    "update_time": "2025-05-15 00:06:26",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "hasdepotsindlc": "1",
+        "2455141": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6790884676028349853",
+                    "size": "2186710615",
+                    "download": "319273328"
+                }
+            },
+            "decryptionkey": "e56d527feb9f291762063d087cf3b8d957180349512aeb778ae05f1a13234d4b"
+        },
+        "2455142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2038297927343369708",
+                    "size": "2281813260",
+                    "download": "340394784"
+                }
+            }
+        },
+        "2927450": {
+            "dlcappid": "2927450",
+            "manifests": {
+                "public": {
+                    "gid": "2562078111598257020",
+                    "size": "672519010",
+                    "download": "179170608"
+                }
+            },
+            "decryptionkey": "576789dddab6f6630416f262c8c48c95e33a95e984fbe982f1e3fa29bd401c86"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18358079",
+                "timeupdated": "1746528641"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
