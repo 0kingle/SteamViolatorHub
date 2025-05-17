@@ -1,0 +1,58 @@
+{
+    "appid": "1336600",
+    "type": "Game",
+    "name": "Cabin Fever",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986316",
+    "update_time": "2025-05-15 01:26:43",
+    "depot": {
+        "1336601": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1541464995653306202",
+                    "size": "270817217",
+                    "download": "213894912"
+                }
+            },
+            "decryptionkey": "d65df9b0b4bdb8d02d47dcf8c75f0b11213365679a914f6fb57cb88a03053607"
+        },
+        "1336602": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "504273426300890841",
+                    "size": "277780507",
+                    "download": "216875152"
+                }
+            }
+        },
+        "1336603": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1963866597517280447",
+                    "size": "309105273",
+                    "download": "227114304"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12097313",
+                "timeupdated": "1693693557"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
