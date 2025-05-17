@@ -1,0 +1,58 @@
+{
+    "appid": "2710480",
+    "type": "Game",
+    "name": "The Wife Next Door",
+    "schinese_name": "隔壁的美艳人妻",
+    "isfreeapp": "0",
+    "change_number": "29014159",
+    "update_time": "2025-05-16 08:42:44",
+    "depot": {
+        "2710481": {
+            "manifests": {
+                "public": {
+                    "gid": "8081626685395559993",
+                    "size": "12208510415",
+                    "download": "10580217600"
+                },
+                "1.2.6": {
+                    "gid": "2693765431769453103",
+                    "size": "11076310752",
+                    "download": "9604485504"
+                },
+                "1.3.17": {
+                    "gid": "7251890266694955128",
+                    "size": "12141134652",
+                    "download": "10519358752"
+                },
+                "1.3.19": {
+                    "gid": "335895300741004985",
+                    "size": "12201741450",
+                    "download": "10574234048"
+                }
+            },
+            "decryptionkey": "7765451235157fe8932eeebf00a41af0f17b2267a35e3795492dd9b7b3931572"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18361487",
+                "timeupdated": "1746546627"
+            },
+            "1.2.6": {
+                "buildid": "17543140",
+                "description": "v1.2.6",
+                "timeupdated": "1745635465"
+            },
+            "1.3.17": {
+                "buildid": "18248067",
+                "description": "v1.3.17",
+                "timeupdated": "1745923325"
+            },
+            "1.3.19": {
+                "buildid": "18309117",
+                "description": "v1.3.19",
+                "timeupdated": "1746541055"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
