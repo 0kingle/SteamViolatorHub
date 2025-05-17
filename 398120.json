@@ -1,0 +1,72 @@
+{
+    "appid": "398120",
+    "type": "Game",
+    "name": "AGP::Epica",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28992689",
+    "update_time": "2025-05-15 09:14:59",
+    "depot": {
+        "baselanguages": "english",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "398121": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1035664680579683320",
+                    "size": "5083192403",
+                    "download": "4677137264"
+                },
+                "linuxrollback": {
+                    "gid": "2131816282151916544",
+                    "size": "4471071136",
+                    "download": "4103226720"
+                }
+            },
+            "decryptionkey": "acb07a4778df14837c9e2990cbc3e809f296008b79c2aeb8e6a65e96bc3591e1"
+        },
+        "398122": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2250438266797134324",
+                    "size": "7907175621",
+                    "download": "7012790896"
+                },
+                "linuxrollback": {
+                    "gid": "3995026789678766382",
+                    "size": "8971908935",
+                    "download": "2930699824"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2901740",
+                "timeupdated": "1530191611"
+            },
+            "linuxrollback": {
+                "buildid": "2389903",
+                "description": "Linux Rollback",
+                "timeupdated": "1530390257"
+            }
+        }
+    }
+}
