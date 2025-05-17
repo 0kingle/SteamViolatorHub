@@ -1,0 +1,68 @@
+{
+    "appid": "609420",
+    "type": "Game",
+    "name": "Never Give Up",
+    "schinese_name": "绝不放弃",
+    "isfreeapp": "0",
+    "change_number": "28975549",
+    "update_time": "2025-05-14 22:39:18",
+    "depot": {
+        "workshopdepot": "609420",
+        "609421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6384403930755519603",
+                    "size": "2467237180",
+                    "download": "1448222624"
+                }
+            },
+            "decryptionkey": "aa2e9b606fd32a4dfb6923d14a7d0ebe9ea6ec60a3bc151f8a50249ffef8662c"
+        },
+        "609422": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1501836348145812993",
+                    "size": "2511257757",
+                    "download": "1447781344"
+                }
+            }
+        },
+        "609423": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1738830625841827347",
+                    "size": "1158433559",
+                    "download": "473308592"
+                }
+            }
+        },
+        "609424": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7874088816534190097",
+                    "size": "1162492598",
+                    "download": "470442832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5593822",
+                "timeupdated": "1601914554"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
