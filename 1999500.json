@@ -1,0 +1,32 @@
+{
+    "appid": "1999500",
+    "type": "Game",
+    "name": "Blazing Strike",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016743",
+    "update_time": "2025-05-16 12:51:14",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
+        "1999501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1377289533229646132",
+                    "size": "6939642949",
+                    "download": "1156542576"
+                }
+            },
+            "decryptionkey": "a97888e7a1f8639bff57bae45974448902ab76e4c561c98290704ac737d4349f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18271931",
+                "timeupdated": "1746511829"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
