@@ -1,0 +1,28 @@
+{
+    "appid": "1609230",
+    "type": "Game",
+    "name": "Scarlet Hollow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:19",
+    "depot": {
+        "1609232": {
+            "manifests": {
+                "public": {
+                    "gid": "1661915533872232469",
+                    "size": "4519733070",
+                    "download": "4057604352"
+                }
+            },
+            "decryptionkey": "29646f7f269c032994c7c4bdbb56e6a72f01de4549e0439384a040e54a4c6f24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18197641",
+                "timeupdated": "1745349466"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
