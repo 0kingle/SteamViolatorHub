@@ -1,0 +1,41 @@
+{
+    "appid": "2392640",
+    "type": "Game",
+    "name": "exclusion| 間引き",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 19:32:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2392641": {
+            "manifests": {
+                "public": {
+                    "gid": "9158341720688288265",
+                    "size": "699153684",
+                    "download": "597048448"
+                }
+            },
+            "decryptionkey": "7aa699e51c2f44432a11dfd6e701cf7fa7155002dff92a0a1931a529f27ab0dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12809230",
+                "timeupdated": "1701105029"
+            }
+        }
+    }
+}
