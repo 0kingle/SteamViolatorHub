@@ -1,0 +1,67 @@
+{
+    "appid": "1098770",
+    "type": "Game",
+    "name": "The Crimson Diamond",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:51",
+    "depot": {
+        "baselanguages": "english",
+        "1098773": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2538665670823707625",
+                    "size": "206215422",
+                    "download": "66585552"
+                },
+                "tcd_presspreview": {
+                    "gid": "2976531964411151896",
+                    "size": "202209707",
+                    "download": "63671632"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1098775": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1563093625650628411",
+                    "size": "206215422",
+                    "download": "66577536"
+                }
+            },
+            "decryptionkey": "73e00d89b64ff22dcb811b4235062cc94838ade87dd7bd88f825ed17e09584ce"
+        },
+        "1098771": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8998274642098395380",
+                    "size": "216002541",
+                    "download": "69893552"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18081374",
+                "timeupdated": "1746067444"
+            },
+            "tcd_presspreview": {
+                "buildid": "15124483",
+                "description": "Press Preview",
+                "timeupdated": "1722416415"
+            }
+        }
+    }
+}
