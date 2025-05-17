@@ -1,0 +1,33 @@
+{
+    "appid": "2461050",
+    "type": "Game",
+    "name": "晨昏线",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28866591",
+    "update_time": "2025-05-08 01:11:26",
+    "depot": {
+        "baselanguages": "schinese",
+        "2461052": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4052924560011856560",
+                    "size": "25348441463",
+                    "download": "21660224864"
+                }
+            },
+            "decryptionkey": "6d2bdb440edff19e5cf3e558f6e6ec15de7c498e40a7e479aef0f073c5eb171f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18067561",
+                "timeupdated": "1744697607"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
