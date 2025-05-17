@@ -1,0 +1,81 @@
+{
+    "appid": "1700300",
+    "type": "Game",
+    "name": "World Warfare & Economics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989266",
+    "update_time": "2025-05-15 04:39:50",
+    "depot": {
+        "baselanguages": "english,german,french,russian",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1700301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2688359270063109117",
+                    "size": "7955186034",
+                    "download": "2370588800"
+                },
+                "public-beta": {
+                    "gid": "8629131365925485303",
+                    "size": "7159624746",
+                    "download": "1619918336"
+                }
+            },
+            "decryptionkey": "9e302ff310351f40c8227c049200a023fa2b77f4a176710df7fe8293fa3857a3"
+        },
+        "1700302": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3686657074104425849",
+                    "size": "7924365466",
+                    "download": "2359843104"
+                },
+                "public-beta": {
+                    "gid": "8142250630301292368",
+                    "size": "7124259289",
+                    "download": "1607323696"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18272973",
+                "timeupdated": "1745888923"
+            },
+            "public-beta": {
+                "buildid": "18327092",
+                "description": "Public Beta",
+                "timeupdated": "1746224570"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
