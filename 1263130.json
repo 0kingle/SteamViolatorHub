@@ -1,0 +1,27 @@
+{
+    "appid": "1263130",
+    "type": "Game",
+    "name": "Pizza Delivery Boy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 06:30:31",
+    "depot": {
+        "1263131": {
+            "manifests": {
+                "public": {
+                    "gid": "5919735739040116186",
+                    "size": "1508011726",
+                    "download": "524112992"
+                }
+            },
+            "decryptionkey": "0e83292a6b3cfee44792351b096ef2a5abe3271d2863836dd0023961107daa8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5099888",
+                "timeupdated": "1590859752"
+            }
+        }
+    }
+}
