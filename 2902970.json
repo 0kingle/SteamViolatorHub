@@ -1,0 +1,28 @@
+{
+    "appid": "2902970",
+    "type": "DLC",
+    "name": "RPG Maker MZ - RPG Character Pack 12",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28604975",
+    "update_time": "2025-04-23 00:03:18",
+    "depot": {
+        "2902970": {
+            "manifests": {
+                "public": {
+                    "gid": "2125524915362674739",
+                    "size": "94753994",
+                    "download": "90625296"
+                }
+            },
+            "dlcappid": "2902970",
+            "decryptionkey": "afd37068ea44404dcc0a5a8f412a84338641cf43bc2b59dddd6249f127103281"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18195628",
+                "timeupdated": "1745337792"
+            }
+        }
+    }
+}
