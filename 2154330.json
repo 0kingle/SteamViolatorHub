@@ -1,0 +1,29 @@
+{
+    "appid": "2154330",
+    "type": "Game",
+    "name": "The Seven Realms: Terran",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009139",
+    "update_time": "2025-05-16 02:24:47",
+    "depot": {
+        "2154331": {
+            "manifests": {
+                "public": {
+                    "gid": "668261993686345717",
+                    "size": "2646279482",
+                    "download": "2503862064"
+                }
+            },
+            "decryptionkey": "301400af25781cf3689238601d5557b04a6df2cc65971d4da3ae48d5fd2b4ae3"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18166317",
+                "timeupdated": "1745924166"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
