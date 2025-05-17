@@ -1,0 +1,32 @@
+{
+    "appid": "3011560",
+    "type": "Game",
+    "name": "City Lights Love Bites Season 0 [Pilot Season]",
+    "schinese_name": "爱欲之都开篇季",
+    "isfreeapp": "0",
+    "change_number": "29015780",
+    "update_time": "2025-05-16 11:12:45",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3011561": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7034366034903900239",
+                    "size": "13245514181",
+                    "download": "13241265824"
+                }
+            },
+            "decryptionkey": "1d00e46b6cf91037e5bcc758b2e7730e71037025ab3c8af09a8a00789bac23a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18177868",
+                "timeupdated": "1745217331"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
