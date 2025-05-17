@@ -1,0 +1,28 @@
+{
+    "appid": "1010260",
+    "type": "Game",
+    "name": "The Coroner Saga",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982432",
+    "update_time": "2025-05-14 22:51:26",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1010261": {
+            "manifests": {
+                "public": {
+                    "gid": "3975855326076145345",
+                    "size": "1003942652",
+                    "download": "911660688"
+                }
+            },
+            "decryptionkey": "bd1e1da9568ebdec22fc6e2880257644d73e09c40c326f99eaa30187d52fb9c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9165086",
+                "timeupdated": "1658416723"
+            }
+        }
+    }
+}
