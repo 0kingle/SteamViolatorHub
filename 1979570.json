@@ -1,0 +1,45 @@
+{
+    "appid": "1979570",
+    "type": "Game",
+    "name": "Tomomon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29001700",
+    "update_time": "2025-05-15 20:08:58",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1979571": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6375196403364666875",
+                    "size": "3014799422",
+                    "download": "539094496"
+                }
+            },
+            "decryptionkey": "844232df2a55e212a92ed0176f96a9789f443bbb30fe1bd584e712825c07f6ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18475465",
+                "timeupdated": "1747310934"
+            }
+        }
+    }
+}
