@@ -1,0 +1,27 @@
+{
+    "appid": "1553800",
+    "type": "Game",
+    "name": "Ninja Fights",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988089",
+    "update_time": "2025-05-15 03:19:55",
+    "depot": {
+        "1553801": {
+            "manifests": {
+                "public": {
+                    "gid": "4558845663145527705",
+                    "size": "258668388",
+                    "download": "64758032"
+                }
+            },
+            "decryptionkey": "48f186914e693684ab2653aad085f68c47393f6d14a4962c03dec0db71c0cb51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17370565",
+                "timeupdated": "1739556817"
+            }
+        }
+    }
+}
