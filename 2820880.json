@@ -1,0 +1,30 @@
+{
+    "appid": "2820880",
+    "type": "Game",
+    "name": "Commute",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 21:49:15",
+    "depot": {
+        "2820881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "508605354124790838",
+                    "size": "1383198727",
+                    "download": "592672560"
+                }
+            },
+            "decryptionkey": "d1b2aba9a5d89b530f533ea0ad2c26ff45311516206efdcb758bb03977976d8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14204622",
+                "timeupdated": "1714363052"
+            }
+        }
+    }
+}
