@@ -1,0 +1,54 @@
+{
+    "appid": "341720",
+    "type": "Game",
+    "name": "Among Ripples",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28908612",
+    "update_time": "2025-05-10 03:32:20",
+    "depot": {
+        "341721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8838920639200184471",
+                    "size": "215365303",
+                    "download": "35067584"
+                }
+            },
+            "decryptionkey": "457bf082fc694a0b3100ff7be5105426a12f96af9a559b4923b8ca598b207ad8"
+        },
+        "341722": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6950059423225759421",
+                    "size": "265630444",
+                    "download": "50288880"
+                }
+            }
+        },
+        "341723": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7550170620466008741",
+                    "size": "265871258",
+                    "download": "49733264"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4416166",
+                "timeupdated": "1574425706"
+            }
+        }
+    }
+}
