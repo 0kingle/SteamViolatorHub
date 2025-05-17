@@ -1,0 +1,28 @@
+{
+    "appid": "2658470",
+    "type": "Game",
+    "name": "Is This Game Trying To Kill Me?",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013792",
+    "update_time": "2025-05-16 08:12:42",
+    "depot": {
+        "2658471": {
+            "manifests": {
+                "public": {
+                    "gid": "7618890623197387716",
+                    "size": "1839995779",
+                    "download": "634041552"
+                }
+            },
+            "decryptionkey": "aa61cedb0af4b715216e59b4737dbd6866d82c0908f25fe4be43b3a38a795313"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17073227",
+                "timeupdated": "1737548490"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
