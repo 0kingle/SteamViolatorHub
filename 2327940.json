@@ -1,0 +1,43 @@
+{
+    "appid": "2327940",
+    "type": "Game",
+    "name": "Digs: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010877",
+    "update_time": "2025-05-16 04:18:48",
+    "depot": {
+        "2327941": {},
+        "2327942": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "95815297418136047",
+                    "size": "585598684",
+                    "download": "147825616"
+                }
+            },
+            "decryptionkey": "8d7a19569bd3e51e4a2954e47e7b26bbb08cc2932de4ccad47b3d1ef95ed3744"
+        },
+        "2327943": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6763380121421391153",
+                    "size": "648154248",
+                    "download": "165656432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11226613",
+                "timeupdated": "1684011711"
+            }
+        }
+    }
+}
