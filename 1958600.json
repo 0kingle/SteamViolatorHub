@@ -1,0 +1,67 @@
+{
+    "appid": "1958600",
+    "type": "Game",
+    "name": "Barro F22",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:30",
+    "depot": {
+        "1958601": {
+            "manifests": {
+                "public": {
+                    "gid": "9209329568900763153",
+                    "size": "2922287459",
+                    "download": "841300784"
+                },
+                "old_version": {
+                    "gid": "293619198539259042",
+                    "size": "1417395270",
+                    "download": "341768576"
+                },
+                "pre_release": {
+                    "gid": "9209329568900763153",
+                    "size": "2922287459",
+                    "download": "841300784"
+                }
+            },
+            "decryptionkey": "424a2053b7f97f7adc33929e301ba09b1327ee21dec838135634c325ea04d8e2"
+        },
+        "1958602": {
+            "manifests": {
+                "public": {
+                    "gid": "8133903685973550999",
+                    "size": "148059752",
+                    "download": "44982736"
+                },
+                "old_version": {
+                    "gid": "3942695217380228376",
+                    "size": "146853032",
+                    "download": "45409584"
+                },
+                "pre_release": {
+                    "gid": "8133903685973550999",
+                    "size": "148059752",
+                    "download": "44982736"
+                }
+            },
+            "decryptionkey": "768a3437b36a25d7a67d3e8231d08470fce764751fd7a8e3437d0569d97e7246"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18160795",
+                "timeupdated": "1745001385"
+            },
+            "old_version": {
+                "buildid": "17780056",
+                "description": "old_version",
+                "timeupdated": "1742387018"
+            },
+            "pre_release": {
+                "buildid": "18160795",
+                "description": "pre_release",
+                "timeupdated": "1745000791"
+            }
+        }
+    }
+}
