@@ -1,0 +1,27 @@
+{
+    "appid": "942300",
+    "type": "Game",
+    "name": "Johnny Rocket",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980982",
+    "update_time": "2025-05-14 22:49:29",
+    "depot": {
+        "942301": {
+            "manifests": {
+                "public": {
+                    "gid": "8083695328226561904",
+                    "size": "941691727",
+                    "download": "215603344"
+                }
+            },
+            "decryptionkey": "9ca3e87bc9e584036f35c7aea528e6dcd5943004096a10011761795ba2e9600c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5800270",
+                "timeupdated": "1604838647"
+            }
+        }
+    }
+}
