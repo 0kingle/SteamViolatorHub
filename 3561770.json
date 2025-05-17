@@ -1,0 +1,48 @@
+{
+    "appid": "3561770",
+    "type": "Game",
+    "name": "イル・ドー",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28999255",
+    "update_time": "2025-05-15 17:48:06",
+    "depot": {
+        "baselanguages": "japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3561771": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8151415523275686160",
+                    "size": "1827447307",
+                    "download": "1394477888"
+                }
+            },
+            "decryptionkey": "7e348a4267151d68fa1b4bd51cab9d743124e9865d4dcb6f78728d5e40c14992"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18471785",
+                "timeupdated": "1747302482"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
