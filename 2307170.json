@@ -1,0 +1,56 @@
+{
+    "appid": "2307170",
+    "type": "Game",
+    "name": "Everwarder",
+    "schinese_name": "永恒守望",
+    "isfreeapp": "0",
+    "change_number": "29010613",
+    "update_time": "2025-05-16 04:00:48",
+    "depot": {
+        "baselanguages": "english",
+        "2307172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1141121119896943011",
+                    "size": "286391460",
+                    "download": "74088000"
+                }
+            },
+            "decryptionkey": "595b95c6367ad08263a3cbd1cbe186de67639897fef301f39880378abc3d706b"
+        },
+        "2307171": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8941891509101680262",
+                    "size": "283587460",
+                    "download": "72930800"
+                }
+            }
+        },
+        "2307173": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3039760009042861886",
+                    "size": "302898032",
+                    "download": "80485408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18277265",
+                "timeupdated": "1745917833"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
