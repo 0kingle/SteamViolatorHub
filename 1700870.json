@@ -1,0 +1,53 @@
+{
+    "appid": "1700870",
+    "type": "Game",
+    "name": "Clanfolk",
+    "schinese_name": "族人 Clanfolk",
+    "isfreeapp": "0",
+    "change_number": "29013821",
+    "update_time": "2025-05-16 08:15:13",
+    "depot": {
+        "1700871": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4844206081650178142",
+                    "size": "809012760",
+                    "download": "252658064"
+                },
+                "testing": {
+                    "gid": "6834074102787458452",
+                    "size": "809014316",
+                    "download": "252649040"
+                },
+                "update16": {
+                    "gid": "5939123074703077233",
+                    "size": "717693520",
+                    "download": "228497264"
+                }
+            },
+            "decryptionkey": "279d4f9fe1b44e97299ee0c570d08dfc6aa69119cc9c5c1a5d1cc3467f4811c7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18478006",
+                "timeupdated": "1747326628"
+            },
+            "testing": {
+                "buildid": "18483736",
+                "description": "test Clanfolk between major version releases",
+                "timeupdated": "1747354510"
+            },
+            "update16": {
+                "buildid": "17730231",
+                "description": "older Update 16 build prior to World Map",
+                "timeupdated": "1747332618"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
