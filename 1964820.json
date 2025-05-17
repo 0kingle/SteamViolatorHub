@@ -1,0 +1,29 @@
+{
+    "appid": "1964820",
+    "type": "Game",
+    "name": "Sprout Valley",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28992630",
+    "update_time": "2025-05-15 09:10:04",
+    "depot": {
+        "1964821": {
+            "manifests": {
+                "public": {
+                    "gid": "1018214732958591363",
+                    "size": "172903567",
+                    "download": "124140736"
+                }
+            },
+            "decryptionkey": "ab8d136ee492812ab5eff9f625ac687e13f2b83190324b50f9b42c7758bfe887"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "17833984",
+                "timeupdated": "1743065294"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
