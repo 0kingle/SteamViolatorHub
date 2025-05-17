@@ -1,0 +1,41 @@
+{
+    "appid": "1999270",
+    "type": "Music",
+    "name": "V Rising Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28839835",
+    "update_time": "2025-05-06 18:56:30",
+    "depot": {
+        "1999271": {
+            "manifests": {
+                "public": {
+                    "gid": "873845939608994832",
+                    "size": "372240404",
+                    "download": "282881712"
+                }
+            },
+            "decryptionkey": "018b653b9b20cb999529b75c5893c842325de70b50a9d294e1425f2461089604"
+        },
+        "1999272": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5505416664520345647",
+                    "size": "2100919128",
+                    "download": "1986502960"
+                }
+            },
+            "decryptionkey": "bc8a0725a46c16535d2b0ea0ca3671bc100e16c5feb496ba92fa7bbfacc89061"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18250938",
+                "timeupdated": "1745841954"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
