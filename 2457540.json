@@ -1,0 +1,47 @@
+{
+    "appid": "2457540",
+    "type": "Game",
+    "name": "VGDD2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29021899",
+    "update_time": "2025-05-16 18:23:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2457541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7668454867059688886",
+                    "size": "27753776169",
+                    "download": "16281508976"
+                }
+            },
+            "decryptionkey": "5195261e7ca5f37ebc06fd9599b9b8cbc1b172ea54cec4096d3e60b8f176643e"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18180274",
+                "timeupdated": "1745396312"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
