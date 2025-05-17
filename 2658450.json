@@ -1,0 +1,52 @@
+{
+    "appid": "2658450",
+    "type": "Game",
+    "name": "LOLLIPOP CHAINSAW RePOP",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013792",
+    "update_time": "2025-05-16 08:12:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,tchinese,japanese,brazilian,latam",
+        "2658451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4089020302028573631",
+                    "size": "15009532144",
+                    "download": "14066396032"
+                }
+            },
+            "decryptionkey": "d3c09b507a343a7ba3c75abd0ce562ceb1c9f33c4a5c840a65bf5f245df9d891"
+        },
+        "2658452": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18220642",
+                "timeupdated": "1745578850"
+            }
+        }
+    }
+}
