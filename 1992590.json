@@ -1,0 +1,41 @@
+{
+    "appid": "1992590",
+    "type": "Game",
+    "name": "Fairy Massage",
+    "schinese_name": "仙女按摩",
+    "isfreeapp": "0",
+    "change_number": "28996566",
+    "update_time": "2025-05-15 15:10:07",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1992591": {
+            "manifests": {
+                "public": {
+                    "gid": "1960313291830363043",
+                    "size": "2138205653",
+                    "download": "304927008"
+                }
+            },
+            "decryptionkey": "8d4b833fe2f6ef95a383475ff3032dd3a615539fe6e63b7ff186d2fed772724c"
+        },
+        "1992593": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6461180629052979903",
+                    "size": "2134790413",
+                    "download": "303306160"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18110645",
+                "timeupdated": "1744705827"
+            }
+        }
+    }
+}
