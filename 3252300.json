@@ -1,0 +1,46 @@
+{
+    "appid": "3252300",
+    "type": "Beta",
+    "name": "决斗胜歌 Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28903766",
+    "update_time": "2025-05-09 22:37:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "3252301": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7026216909731400506",
+                    "size": "2417148074",
+                    "download": "1980585808"
+                }
+            },
+            "decryptionkey": "476fe4266e0c97b278b879efa609e130e74bdbec2f568ba6451c2bf906b6bd06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18404638",
+                "timeupdated": "1746801445"
+            }
+        }
+    }
+}
