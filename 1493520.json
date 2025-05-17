@@ -1,0 +1,41 @@
+{
+    "appid": "1493520",
+    "type": "Game",
+    "name": "Beat Hazard 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:37",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1493521": {
+            "manifests": {
+                "public": {
+                    "gid": "5787993883283783594",
+                    "size": "3291347249",
+                    "download": "1672518320"
+                }
+            },
+            "decryptionkey": "771a115ee311d564b716046e3c28e507f053d9b9296618370bad24abf6c70793"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18385988",
+                "timeupdated": "1746693504"
+            }
+        }
+    }
+}
