@@ -1,0 +1,43 @@
+{
+    "appid": "1018830",
+    "type": "Game",
+    "name": "Element TD 2",
+    "schinese_name": "元素塔防2",
+    "isfreeapp": "0",
+    "change_number": "28982627",
+    "update_time": "2025-05-14 22:51:46",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,russian,japanese,dutch,finnish,swedish,czech,romanian,turkish,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "1018831": {
+            "manifests": {
+                "public": {
+                    "gid": "2611284416388774930",
+                    "size": "15013457460",
+                    "download": "4786095296"
+                },
+                "alpha": {
+                    "gid": "873871705720843787",
+                    "size": "15040339521",
+                    "download": "4795014576"
+                }
+            },
+            "decryptionkey": "9cfd46decc3bdc0ad8d28547e5b9733cc47af33a38fa98294c00150ce3afcc06"
+        },
+        "2177070": {
+            "dlcappid": "2177070"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16827219",
+                "timeupdated": "1734844527"
+            },
+            "alpha": {
+                "buildid": "18454056",
+                "description": "For testing the latest version",
+                "timeupdated": "1747193759"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
