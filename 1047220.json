@@ -1,0 +1,45 @@
+{
+    "appid": "1047220",
+    "type": "Game",
+    "name": "Frog Detective 2: The Case of the Invisible Wizard",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983254",
+    "update_time": "2025-05-14 22:52:37",
+    "depot": {
+        "1047221": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8359331210640516653",
+                    "size": "348366932",
+                    "download": "246403248"
+                }
+            },
+            "decryptionkey": "46ca23972e12bdf1ae084f71c0ba37370ada0980d1ed95de4241a9d422d7d6c1"
+        },
+        "1047222": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "104355167220260006",
+                    "size": "341840648",
+                    "download": "244254528"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18274784",
+                "timeupdated": "1746022317"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
