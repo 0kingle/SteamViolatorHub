@@ -1,0 +1,28 @@
+{
+    "appid": "1490590",
+    "type": "Game",
+    "name": "We are Eva",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011023",
+    "update_time": "2025-05-16 04:30:17",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1490595": {
+            "manifests": {
+                "public": {
+                    "gid": "7280054937712579669",
+                    "size": "1305366716",
+                    "download": "972458352"
+                }
+            },
+            "decryptionkey": "a827b67f1382505489379e4ab4bce7d738eddb7a2b63ffb5f5362541029cd8e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13255493",
+                "timeupdated": "1706069732"
+            }
+        }
+    }
+}
