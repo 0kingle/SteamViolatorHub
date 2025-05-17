@@ -1,0 +1,31 @@
+{
+    "appid": "2286780",
+    "type": "Game",
+    "name": "Aeruta",
+    "schinese_name": "亚路塔：狐狸狐途的面包冒险",
+    "isfreeapp": "0",
+    "change_number": "29010409",
+    "update_time": "2025-05-16 03:48:41",
+    "depot": {
+        "2286781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "759053283034915462",
+                    "size": "1073976439",
+                    "download": "320992336"
+                }
+            },
+            "decryptionkey": "f35f978f4b5c9e3f39fe30c37e6965286a571f2600868f74d364e6ddf8f13ee7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18125664",
+                "timeupdated": "1744873236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
