@@ -1,0 +1,58 @@
+{
+    "appid": "1981690",
+    "type": "Game",
+    "name": "WTC : Love's Labour's Lost",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023058",
+    "update_time": "2025-05-16 19:30:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "1981691": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8709730811720456629",
+                    "size": "1786054098",
+                    "download": "1654174416"
+                }
+            },
+            "decryptionkey": "c8aa9ae6eee7fa1f517e3ccbb7cce8f2584701c99fa8d7b2f7f80ade8363ca23"
+        },
+        "1981692": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6865153229329429982",
+                    "size": "1774944319",
+                    "download": "1650370592"
+                }
+            }
+        },
+        "1981693": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6943329765866713737",
+                    "size": "1806941612",
+                    "download": "1659417120"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17923916",
+                "timeupdated": "1743420285"
+            }
+        }
+    }
+}
