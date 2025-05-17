@@ -1,0 +1,38 @@
+{
+    "appid": "1221300",
+    "type": "Game",
+    "name": "Tire Friend",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985209",
+    "update_time": "2025-05-15 00:26:44",
+    "depot": {
+        "1221301": {
+            "manifests": {
+                "public": {
+                    "gid": "6015596877746277419",
+                    "size": "2992755684",
+                    "download": "1003084000"
+                },
+                "canary": {
+                    "gid": "6015596877746277419",
+                    "size": "2992755684",
+                    "download": "1003084000"
+                }
+            },
+            "decryptionkey": "4c1cb50d682201ca59b3d3d16b6e04fe122971b516537fbc6629ab7e2bb715be"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18287293",
+                "timeupdated": "1745967809"
+            },
+            "canary": {
+                "buildid": "18287293",
+                "description": "Test the latest features!",
+                "timeupdated": "1745967755"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
