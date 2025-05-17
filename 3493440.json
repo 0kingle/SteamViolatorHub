@@ -1,0 +1,57 @@
+{
+    "appid": "3493440",
+    "type": "Demo",
+    "name": "Siren's Well Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28866105",
+    "update_time": "2025-05-08 00:47:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,brazilian,ukrainian,latam,indonesian",
+        "3493441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "506468357677195291",
+                    "size": "17213168049",
+                    "download": "6387626416"
+                }
+            },
+            "decryptionkey": "efe322f08c0e5a84e2ea2f17ffd1f107bf9a39cc861fdc7c352ef381bce0ab6a"
+        },
+        "3493442": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6481888546987307331",
+                    "size": "16853994855",
+                    "download": "6035167232"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18377142",
+                "timeupdated": "1746636436"
+            }
+        }
+    }
+}
