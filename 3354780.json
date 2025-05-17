@@ -1,0 +1,43 @@
+{
+    "appid": "3354780",
+    "type": "Demo",
+    "name": "The Scouring Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28979732",
+    "update_time": "2025-05-14 22:45:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3354781": {
+            "manifests": {
+                "public": {
+                    "gid": "7584097056219484996",
+                    "size": "639223638",
+                    "download": "615621200"
+                }
+            },
+            "decryptionkey": "f4a218054a7933e68b0379db3453de71d75d431d41c73e98e1cc122caba944d4"
+        },
+        "baselanguages": "english,schinese,russian",
+        "branches": {
+            "public": {
+                "buildid": "18458972",
+                "timeupdated": "1747223003"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
