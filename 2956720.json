@@ -1,0 +1,47 @@
+{
+    "appid": "2956720",
+    "type": "Game",
+    "name": "Star Chef Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28809499",
+    "update_time": "2025-05-04 20:03:39",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian",
+        "hasdepotsindlc": "1",
+        "2956722": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5952791835230189038",
+                    "size": "3837649631",
+                    "download": "3611244224"
+                }
+            },
+            "decryptionkey": "2b4e312fd29b1f78c9707dd8e07567a3c89652ef2e0193d653acfec495d6618c"
+        },
+        "2956723": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5411652659809360419",
+                    "size": "3757122771",
+                    "download": "3425972096"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17915315",
+                "timeupdated": "1743336114"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
