@@ -1,0 +1,42 @@
+{
+    "appid": "2863640",
+    "type": "Game",
+    "name": "The Midnight Walk",
+    "schinese_name": "午夜漫步",
+    "isfreeapp": "0",
+    "change_number": "29018464",
+    "update_time": "2025-05-16 15:16:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2863641": {
+            "manifests": {
+                "public": {
+                    "gid": "1027039234050261905",
+                    "size": "18492817569",
+                    "download": "17818807616"
+                }
+            },
+            "decryptionkey": "6280ec508a2efdb3808c9bd11bd91b715519a1a4d2ed3c040192b39814aded91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18383361",
+                "timeupdated": "1746675805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
