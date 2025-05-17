@@ -1,0 +1,49 @@
+{
+    "appid": "1403740",
+    "type": "Game",
+    "name": "Space Architect",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991472",
+    "update_time": "2025-05-15 07:32:10",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1403741": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7698957925211938641",
+                    "size": "733973861",
+                    "download": "254746064"
+                },
+                "1.1_beta_": {
+                    "gid": "3288764936579508990",
+                    "size": "730423604",
+                    "download": "253826272"
+                }
+            },
+            "decryptionkey": "3798786b29122f525be23456e50a1c5839269d27a4c12ba5a7232e84533f7c4f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18467910",
+                "timeupdated": "1747265528"
+            },
+            "1.1_beta_": {
+                "buildid": "18168495",
+                "description": "1.1 Open Beta",
+                "timeupdated": "1745085313"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
