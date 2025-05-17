@@ -1,0 +1,38 @@
+{
+    "appid": "3107800",
+    "type": "Game",
+    "name": "LIZARDS MUST DIE 2",
+    "schinese_name": "俄罗斯人对蜥蜴人2",
+    "isfreeapp": "0",
+    "change_number": "28994055",
+    "update_time": "2025-05-15 11:12:39",
+    "depot": {
+        "3107801": {
+            "manifests": {
+                "public": {
+                    "gid": "914095777430851128",
+                    "size": "7502892408",
+                    "download": "3455441296"
+                },
+                "europe": {
+                    "gid": "2171097778314456230",
+                    "size": "7502892408",
+                    "download": "3455441104"
+                }
+            },
+            "decryptionkey": "890f21e1179fb55405d9a3e26c308dd7671d612e5d67f6ae07ff9e9f4ac92c14"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18072043",
+                "timeupdated": "1744382861"
+            },
+            "europe": {
+                "buildid": "18072155",
+                "description": "multiplayer",
+                "timeupdated": "1744382838"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
