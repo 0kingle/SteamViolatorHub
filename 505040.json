@@ -1,0 +1,98 @@
+{
+    "appid": "505040",
+    "type": "Game",
+    "name": "FORTIFY",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28594246",
+    "update_time": "2025-04-22 12:55:48",
+    "depot": {
+        "505041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4528994581070415294",
+                    "size": "117156346",
+                    "download": "30256560"
+                },
+                "testing": {
+                    "gid": "4528994581070415294",
+                    "size": "117156346",
+                    "download": "30256560"
+                },
+                "update134": {
+                    "gid": "7905651661271405237",
+                    "size": "111963095",
+                    "download": "28229600"
+                }
+            },
+            "decryptionkey": "55427e1043b3f94d81973e9ae9bfa6b47296dad8ffcd2b9f3ea2100b9acb0ddd"
+        },
+        "505042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6298894755694723978",
+                    "size": "121111135",
+                    "download": "31607536"
+                },
+                "testing": {
+                    "gid": "6298894755694723978",
+                    "size": "121111135",
+                    "download": "31607536"
+                },
+                "update134": {
+                    "gid": "5600941711482836148",
+                    "size": "133276484",
+                    "download": "36916256"
+                }
+            },
+            "decryptionkey": "3b5db81dac58dcac2771acbb5ad520d8f468f39519830b5b89af1c71b1729535"
+        },
+        "505043": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2107280739461759941",
+                    "size": "146466043",
+                    "download": "39252704"
+                },
+                "testing": {
+                    "gid": "2107280739461759941",
+                    "size": "146466043",
+                    "download": "39252704"
+                },
+                "update134": {
+                    "gid": "7532001945300399074",
+                    "size": "185231528",
+                    "download": "55652928"
+                }
+            },
+            "decryptionkey": "531a1906c2f0b563c4d875d0379ddb4532b7e7991c7d025dc9e36c8a70745953"
+        },
+        "workshopdepot": "505040",
+        "branches": {
+            "public": {
+                "buildid": "18120157",
+                "timeupdated": "1744756360"
+            },
+            "testing": {
+                "buildid": "18120157",
+                "timeupdated": "1744756378"
+            },
+            "update134": {
+                "buildid": "17641950",
+                "description": "legacy version, macOS 10.12-3",
+                "timeupdated": "1743618099"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c5efdf3326ce49cf346ed2d2f12bf61c615ea50dadd213eb96811ba6693b1618"
+    }
+}
