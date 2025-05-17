@@ -1,0 +1,29 @@
+{
+    "appid": "1671720",
+    "type": "Game",
+    "name": "Athenian Rhapsody",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989002",
+    "update_time": "2025-05-15 04:19:56",
+    "depot": {
+        "1671721": {
+            "manifests": {
+                "public": {
+                    "gid": "5839628218606522169",
+                    "size": "632955051",
+                    "download": "456756672"
+                }
+            },
+            "decryptionkey": "59d79aebc826868583918a3bfe832c2f13e58cef16702bba7e63311ba32bff0f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "15411205",
+                "timeupdated": "1723989473"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
