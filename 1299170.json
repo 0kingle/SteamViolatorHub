@@ -1,0 +1,27 @@
+{
+    "appid": "1299170",
+    "type": "Game",
+    "name": "Ova Magica",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023521",
+    "update_time": "2025-05-16 19:57:12",
+    "depot": {
+        "1299171": {
+            "manifests": {
+                "public": {
+                    "gid": "68048123177313395",
+                    "size": "1316748313",
+                    "download": "871605408"
+                }
+            },
+            "decryptionkey": "502957fb11cef8433db5c052857c97adab082add8bb8688dcc50c2eea1e366ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18281424",
+                "timeupdated": "1745936243"
+            }
+        }
+    }
+}
