@@ -1,0 +1,33 @@
+{
+    "appid": "2764960",
+    "type": "DLC",
+    "name": "Scroll Of Taiwu - 新衣贺春",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28545006",
+    "update_time": "2025-04-18 15:43:55",
+    "depot": {
+        "2764960": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8137229093694074475",
+                    "size": "912413",
+                    "download": "746144"
+                }
+            },
+            "dlcappid": "2764960",
+            "decryptionkey": "00140a77be9fb80581f68904948537eb5ba3ca04ffc9b2c024d128d98cbf9365"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18154121",
+                "timeupdated": "1744962232"
+            }
+        }
+    }
+}
