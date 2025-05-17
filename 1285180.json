@@ -1,0 +1,63 @@
+{
+    "appid": "1285180",
+    "type": "Game",
+    "name": "Maneuver Warfare",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28943305",
+    "update_time": "2025-05-13 00:32:43",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1285181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6818566840039999594",
+                    "size": "13678058417",
+                    "download": "656719328"
+                }
+            },
+            "decryptionkey": "35f59e403d5f9997934b1f2d260e1ac2fbf8e79ef1c57a6512405f5fb7b57346"
+        },
+        "1285182": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8870079402391537758",
+                    "size": "13687705325",
+                    "download": "660199008"
+                }
+            }
+        },
+        "1515680": {
+            "dlcappid": "1515680",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4356857217616230291",
+                    "size": "10980649",
+                    "download": "11131152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18382242",
+                "timeupdated": "1746667345"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
