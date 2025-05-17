@@ -1,0 +1,60 @@
+{
+    "appid": "1122210",
+    "type": "Game",
+    "name": "Guns Craft",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28584597",
+    "update_time": "2025-04-21 23:01:11",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1122211": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4821469687451888576",
+                    "size": "69189712",
+                    "download": "16505888"
+                }
+            },
+            "decryptionkey": "499b8329c0f9986951aa4ab7ae576cbf27b2668b38a3992437e66abb999030f9"
+        },
+        "1218650": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "dlcappid": "1218650",
+            "manifests": {
+                "public": {
+                    "gid": "8760306953932421345",
+                    "size": "69223723",
+                    "download": "16526592"
+                }
+            }
+        },
+        "1132990": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1621462815859022474",
+                    "size": "60483335",
+                    "download": "15885568"
+                }
+            },
+            "dlcappid": "1132990"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4532083",
+                "timeupdated": "1577659740"
+            }
+        }
+    }
+}
