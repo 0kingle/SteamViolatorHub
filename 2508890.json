@@ -1,0 +1,29 @@
+{
+    "appid": "2508890",
+    "type": "Game",
+    "name": "Etaine: Magic Survivor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017669",
+    "update_time": "2025-05-16 14:16:30",
+    "depot": {
+        "2508891": {
+            "manifests": {
+                "public": {
+                    "gid": "6508344022730078313",
+                    "size": "2900707233",
+                    "download": "547298880"
+                }
+            },
+            "decryptionkey": "69680195b1a313d236b1ca64e87df11a04b9dd55a5e01fe6a75391a3d3e7101d"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18485014",
+                "timeupdated": "1747363948"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
