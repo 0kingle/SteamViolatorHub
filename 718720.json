@@ -1,0 +1,56 @@
+{
+    "appid": "718720",
+    "type": "Game",
+    "name": "DEATHPIT 3000",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987147",
+    "update_time": "2025-05-15 02:14:04",
+    "depot": {
+        "baselanguages": "english",
+        "718721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5000249039584134290",
+                    "size": "801166463",
+                    "download": "134539840"
+                }
+            },
+            "decryptionkey": "8008b8166416b8efc601288f14018a6b6a74951ed5f565cb71a1b4102c67e15b"
+        },
+        "718722": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8704792734958896840",
+                    "size": "811796727",
+                    "download": "137489088"
+                }
+            }
+        },
+        "718723": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6602965607606167930",
+                    "size": "809396865",
+                    "download": "137914800"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2865065",
+                "timeupdated": "1529071024"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
