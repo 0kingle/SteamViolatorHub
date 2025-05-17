@@ -1,0 +1,35 @@
+{
+    "appid": "2593370",
+    "type": "Game",
+    "name": "The Hungry Lamb: Traveling in the Late Ming Dynasty",
+    "schinese_name": "饿殍：明末千里行",
+    "isfreeapp": "0",
+    "change_number": "29013269",
+    "update_time": "2025-05-16 07:30:46",
+    "depot": {
+        "2593371": {
+            "manifests": {
+                "public": {
+                    "gid": "5417263734597609623",
+                    "size": "2483126687",
+                    "download": "889693168"
+                }
+            },
+            "decryptionkey": "3a32693a517d6940addf30cdf6b363972c3afe91347938f7faee0d73014055d0"
+        },
+        "3424250": {
+            "dlcappid": "3424250",
+            "config": {
+                "language": "schinese"
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18253295",
+                "timeupdated": "1745720590"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
