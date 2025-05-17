@@ -1,0 +1,28 @@
+{
+    "appid": "1305260",
+    "type": "Game",
+    "name": "SteamDolls - Order Of Chaos",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28926662",
+    "update_time": "2025-05-11 23:32:21",
+    "depot": {
+        "1305261": {
+            "manifests": {
+                "public": {
+                    "gid": "3776919033203358600",
+                    "size": "5084303927",
+                    "download": "3718759936"
+                }
+            },
+            "decryptionkey": "c3b24ff82fcda00f8bbf83e5fc14b6add3903fd0c3bfc5d5824f26950c39ff3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18408492",
+                "timeupdated": "1746822684"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
