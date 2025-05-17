@@ -1,0 +1,33 @@
+{
+    "appid": "2331710",
+    "type": "Game",
+    "name": "Sky Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010877",
+    "update_time": "2025-05-16 04:18:48",
+    "depot": {
+        "baselanguages": "english,schinese,russian",
+        "2331711": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7698969940099901953",
+                    "size": "388067528",
+                    "download": "322060000"
+                }
+            },
+            "decryptionkey": "e0633540a91e25626f26ff9b6fe42e357ff2da4142cc6e35883fff71cff9e38b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12820030",
+                "timeupdated": "1701197014"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
