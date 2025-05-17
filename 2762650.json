@@ -1,0 +1,31 @@
+{
+    "appid": "2762650",
+    "type": "Game",
+    "name": "Magibrick",
+    "schinese_name": "魔幻砖域",
+    "isfreeapp": "0",
+    "change_number": "29014413",
+    "update_time": "2025-05-16 09:06:49",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2762651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4077213087452362078",
+                    "size": "247690424",
+                    "download": "65549120"
+                }
+            },
+            "decryptionkey": "9fcd175de69737f53ab941a13356d0826521b647cd558a7dee1d3c6b9589238e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18420303",
+                "timeupdated": "1746972627"
+            }
+        }
+    }
+}
