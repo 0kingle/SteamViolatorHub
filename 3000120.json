@@ -1,0 +1,28 @@
+{
+    "appid": "3000120",
+    "type": "Game",
+    "name": "FISH FEAR ME",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015726",
+    "update_time": "2025-05-16 11:06:49",
+    "depot": {
+        "3000121": {
+            "manifests": {
+                "public": {
+                    "gid": "4132343261046251425",
+                    "size": "246535427",
+                    "download": "74087392"
+                }
+            },
+            "decryptionkey": "1067bd1dd9fb252ee43bbd3e52ec5310ddd58d06c064999c99ff960d37ca5d55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18408526",
+                "timeupdated": "1746823309"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
