@@ -1,0 +1,42 @@
+{
+    "appid": "525680",
+    "type": "Game",
+    "name": "Deisim",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989058",
+    "update_time": "2025-05-15 04:23:05",
+    "depot": {
+        "525681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7610577517260079329",
+                    "size": "1227888598",
+                    "download": "582964592"
+                },
+                "steamdeck-experimental": {
+                    "gid": "272484355215546281",
+                    "size": "1166185790",
+                    "download": "538388144"
+                }
+            },
+            "decryptionkey": "6fe1c0eab36fab7b608d24cc87b0bb54be81ab400d06f8b383a23bd27d541758"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492201",
+                "timeupdated": "1747403691"
+            },
+            "steamdeck-experimental": {
+                "buildid": "18279079",
+                "description": "To test steam deck support",
+                "timeupdated": "1745925611"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
