@@ -1,0 +1,43 @@
+{
+    "appid": "1662210",
+    "type": "Game",
+    "name": "Arms Trade Tycoon Tanks",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989002",
+    "update_time": "2025-05-15 04:20:00",
+    "depot": {
+        "1662211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "604484979571997547",
+                    "size": "7357501187",
+                    "download": "6504300528"
+                }
+            },
+            "decryptionkey": "2f4260f71eb14c440ae0308f39bc10b34f9e54d522307a318c23ae5d2e03419f"
+        },
+        "1662212": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9178415689718160371",
+                    "size": "7334547628",
+                    "download": "6500596864"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18154110",
+                "timeupdated": "1744956390"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
