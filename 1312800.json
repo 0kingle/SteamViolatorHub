@@ -1,0 +1,59 @@
+{
+    "appid": "1312800",
+    "type": "Demo",
+    "name": "EVERSPACE™ 2 - Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28943699",
+    "update_time": "2025-05-13 00:51:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1312801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1528341293138791591",
+                    "size": "21541501475",
+                    "download": "17555734384"
+                }
+            },
+            "decryptionkey": "87e04779c81265c17a6ebe80b3e5f959dba97cf7a4eb318bb0f84af28de4d3c6"
+        },
+        "1312802": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6478111394192724969",
+                    "size": "19511899447",
+                    "download": "17054535936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18399429",
+                "timeupdated": "1747068708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
