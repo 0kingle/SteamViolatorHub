@@ -1,0 +1,50 @@
+{
+    "appid": "1261220",
+    "type": "Game",
+    "name": "The Neverland of the Mountain and Sea",
+    "schinese_name": "山的桃源乡，海的乌托邦",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 12:20:28",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1261221": {
+            "manifests": {
+                "public": {
+                    "gid": "7997610583007595119",
+                    "size": "5559675351",
+                    "download": "5564317184"
+                }
+            },
+            "decryptionkey": "1f8fe8b95d94044f2786221da0cccf43154444ae695184ae85ce0b07b70ee1a1"
+        },
+        "1261222": {
+            "config": {
+                "oslist": "macos,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2871823262409256212",
+                    "size": "50143537",
+                    "download": "14752448"
+                }
+            }
+        },
+        "2229290": {
+            "dlcappid": "2229290",
+            "manifests": {
+                "public": {
+                    "gid": "354405865083744679",
+                    "size": "7178953822",
+                    "download": "4135063392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13027133",
+                "timeupdated": "1703227690"
+            }
+        }
+    }
+}
