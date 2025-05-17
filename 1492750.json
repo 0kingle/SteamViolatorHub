@@ -1,0 +1,76 @@
+{
+    "appid": "1492750",
+    "type": "Game",
+    "name": "Mega Knockdown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:42",
+    "depot": {
+        "1492751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2020357435476341232",
+                    "size": "835215453",
+                    "download": "190794672"
+                },
+                "beta": {
+                    "gid": "7147395256910151083",
+                    "size": "869986697",
+                    "download": "216099920"
+                }
+            },
+            "decryptionkey": "bec9d83ee7ca87f8a0d47e15c7fc384a1a80435462e1bef7480e88a158460372"
+        },
+        "1492752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5526576062102825287",
+                    "size": "859069651",
+                    "download": "198338192"
+                },
+                "beta": {
+                    "gid": "3663462075125500788",
+                    "size": "894670341",
+                    "download": "223930464"
+                }
+            }
+        },
+        "1492753": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1121262398112611814",
+                    "size": "835584410",
+                    "download": "189496400"
+                },
+                "beta": {
+                    "gid": "142375572517189162",
+                    "size": "869986697",
+                    "download": "216118352"
+                }
+            }
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17964516",
+                "timeupdated": "1743693881"
+            },
+            "beta": {
+                "buildid": "18461425",
+                "description": "april beta",
+                "timeupdated": "1747231585"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
