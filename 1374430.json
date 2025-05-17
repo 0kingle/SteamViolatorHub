@@ -1,0 +1,32 @@
+{
+    "appid": "1374430",
+    "type": "Game",
+    "name": "三国 看海与模拟 Three Kingdoms Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 07:10:06",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "",
+        "1374432": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1773444212629751154",
+                    "size": "152303668",
+                    "download": "39941040"
+                }
+            },
+            "decryptionkey": "d7528e236a9d188a8b81205ffd83049e7ddba29e9e7e62be3789adc8fd76ebbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14674044",
+                "timeupdated": "1718091133"
+            }
+        }
+    }
+}
