@@ -1,0 +1,43 @@
+{
+    "appid": "321160",
+    "type": "Game",
+    "name": "Timber Tennis: Versus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971804",
+    "update_time": "2025-05-14 10:07:46",
+    "depot": {
+        "321161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4193039443933564548",
+                    "size": "340897324",
+                    "download": "48974256"
+                }
+            },
+            "decryptionkey": "772ce9b709588c7625149cac1f1ef909441e5e607ac2392dab332ede490b0983"
+        },
+        "321162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "727650274297297970",
+                    "size": "390898524",
+                    "download": "62561904"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3365591",
+                "timeupdated": "1544099676"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
