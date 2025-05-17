@@ -1,0 +1,41 @@
+{
+    "appid": "464650",
+    "type": "Game",
+    "name": "Runbow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973724",
+    "update_time": "2025-05-14 13:07:46",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,japanese",
+        "464651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8199058642267890777",
+                    "size": "1403722349",
+                    "download": "330636112"
+                }
+            },
+            "decryptionkey": "50eda759adc54de3108c3d2caaef040bf377c7ad87b3a4ce87801546b5095f95"
+        },
+        "505480": {
+            "manifests": {
+                "public": {
+                    "gid": "1012123244277356498",
+                    "size": "130416561",
+                    "download": "130708736"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9675471",
+                "timeupdated": "1665146381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
