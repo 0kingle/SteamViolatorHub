@@ -1,0 +1,56 @@
+{
+    "appid": "1763170",
+    "type": "Game",
+    "name": "Simbro: ResErection",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017663",
+    "update_time": "2025-05-16 14:16:13",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1763173": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6845540918455388301",
+                    "size": "207272922",
+                    "download": "182238512"
+                }
+            },
+            "decryptionkey": "0db2397342c0c7804b797ac0d0969c800e3b279b7626b74639278f6e022727ef"
+        },
+        "1763171": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7677273204233038105",
+                    "size": "204021785",
+                    "download": "181088640"
+                }
+            }
+        },
+        "1763172": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5934615043962829754",
+                    "size": "236213672",
+                    "download": "189004832"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16868435",
+                "timeupdated": "1735438628"
+            }
+        }
+    }
+}
