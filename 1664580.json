@@ -1,0 +1,42 @@
+{
+    "appid": "1664580",
+    "type": "Game",
+    "name": "Terra Ventura",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 04:11:20",
+    "depot": {
+        "1664581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3771003392793677265",
+                    "size": "2636279880",
+                    "download": "1168631984"
+                }
+            },
+            "decryptionkey": "5406b3544c5e7546c4df32a71f186454a5ce4189b261309492bc5588d2f17c34"
+        },
+        "1664582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1740671740393031818",
+                    "size": "2646430909",
+                    "download": "1171518640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12571846",
+                "timeupdated": "1698670470"
+            }
+        }
+    }
+}
