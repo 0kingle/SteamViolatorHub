@@ -1,0 +1,31 @@
+{
+    "appid": "2129810",
+    "type": "Game",
+    "name": "Reignbreaker",
+    "schinese_name": "破御者",
+    "isfreeapp": "0",
+    "change_number": "29008930",
+    "update_time": "2025-05-16 02:12:44",
+    "depot": {
+        "2129811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6807151622222078735",
+                    "size": "1650086136",
+                    "download": "1146493040"
+                }
+            },
+            "decryptionkey": "20dba37e5797459ed50a029a5a621d34d7c41415fdd11aaf605cd8d948046b60"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18111100",
+                "timeupdated": "1744711766"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
