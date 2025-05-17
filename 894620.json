@@ -1,0 +1,28 @@
+{
+    "appid": "894620",
+    "type": "Game",
+    "name": "ATONE: Heart of the Elder Tree",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28996593",
+    "update_time": "2025-05-15 15:11:56",
+    "depot": {
+        "894621": {
+            "manifests": {
+                "public": {
+                    "gid": "6992094434898229547",
+                    "size": "1411360685",
+                    "download": "590870608"
+                }
+            },
+            "decryptionkey": "3e93b0c93c855f931dd181fb75d3c66d5b50f79da7d881de0cf6cc4e7787c9ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10328800",
+                "timeupdated": "1673842115"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
