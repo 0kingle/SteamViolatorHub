@@ -1,0 +1,45 @@
+{
+    "appid": "1330460",
+    "type": "Game",
+    "name": "Becastled",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:20:05",
+    "depot": {
+        "1330461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2288535626869790007",
+                    "size": "950742753",
+                    "download": "316789088"
+                },
+                "old_saves_version": {
+                    "gid": "3670036890248594296",
+                    "size": "789942960",
+                    "download": "262868896"
+                }
+            },
+            "decryptionkey": "2f315404e0292ce573c52729ebbfa7921f02ec79592f67bb9a761a9a63c97c76"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,bulgarian,greek,ukrainian",
+        "workshopdepot": "1330460",
+        "branches": {
+            "public": {
+                "buildid": "18255608",
+                "timeupdated": "1745754721"
+            },
+            "old_saves_version": {
+                "buildid": "13349793",
+                "description": "verson to play your old saves",
+                "timeupdated": "1740649231"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0b6bd5f8a9d69ab3bb3d7b7c2a60509fec82e0e8618062c62230785f71e63733"
+    }
+}
