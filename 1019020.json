@@ -1,0 +1,36 @@
+{
+    "appid": "1019020",
+    "type": "Game",
+    "name": "The Abbey - Director's cut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982627",
+    "update_time": "2025-05-14 22:51:46",
+    "depot": {
+        "baselanguages": "english,spanish",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1019021": {
+            "manifests": {
+                "public": {
+                    "gid": "6850235661971760177",
+                    "size": "7076631877",
+                    "download": "3289183920"
+                }
+            },
+            "decryptionkey": "34e1fa841754c502821c2f27c8ec69a5e1002d6571a76577f73420eeaa862188"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3545206",
+                "timeupdated": "1549656799"
+            }
+        }
+    }
+}
