@@ -1,0 +1,44 @@
+{
+    "appid": "1534990",
+    "type": "Demo",
+    "name": "Song of Farca Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 05:10:51",
+    "depot": {
+        "1435671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2807232733422152013",
+                    "size": "1874603458",
+                    "download": "1265783264"
+                }
+            },
+            "depotfromapp": "1435670",
+            "decryptionkey": "4cda7f56fd6573e281189ae57d4368d8cb02255857fb90c8cbd3318697389809"
+        },
+        "1534991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5000934035361004821",
+                    "size": "1202318187",
+                    "download": "818183808"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6181549",
+                "timeupdated": "1612348451"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
