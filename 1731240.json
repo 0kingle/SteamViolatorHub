@@ -1,0 +1,38 @@
+{
+    "appid": "1731240",
+    "type": "Game",
+    "name": "OnlyFuck 2: Scarlett",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989417",
+    "update_time": "2025-05-15 04:53:21",
+    "depot": {
+        "1731241": {
+            "manifests": {
+                "public": {
+                    "gid": "3274494514127385327",
+                    "size": "557602947",
+                    "download": "375214672"
+                }
+            },
+            "decryptionkey": "c0c25efe5dec25d50c5a59a0f0758f9c5e411ec0c37883491eb6025259900c31"
+        },
+        "1782220": {
+            "dlcappid": "1782220",
+            "manifests": {
+                "public": {
+                    "gid": "4742922933074956115",
+                    "size": "49101957",
+                    "download": "49395712"
+                }
+            },
+            "decryptionkey": "b4f311ee7360924b1166dedb0c76669e5a47df4f51e660cad6fc0a1e190ef5cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8192240",
+                "timeupdated": "1644674208"
+            }
+        }
+    }
+}
