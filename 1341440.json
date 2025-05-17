@@ -1,0 +1,27 @@
+{
+    "appid": "1341440",
+    "type": "Game",
+    "name": "World Process",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 07:21:33",
+    "depot": {
+        "1341441": {
+            "manifests": {
+                "public": {
+                    "gid": "4079006834915099065",
+                    "size": "75386370",
+                    "download": "52262560"
+                }
+            },
+            "decryptionkey": "fc5f5800132235f90acd377206d6e6385be3bfa772bbcad4b6caaad458f2504e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5707633",
+                "timeupdated": "1603162480"
+            }
+        }
+    }
+}
