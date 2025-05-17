@@ -1,0 +1,49 @@
+{
+    "appid": "1696440",
+    "type": "Game",
+    "name": "绝世好武功 The Matchless Kungfu",
+    "schinese_name": "绝世好武功",
+    "isfreeapp": "0",
+    "change_number": "28989187",
+    "update_time": "2025-05-15 04:33:15",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1696441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8905387756851237751",
+                    "size": "2694537449",
+                    "download": "2456860528"
+                }
+            },
+            "decryptionkey": "d9d9203084ea5a76bb40325b0d450fda89e2f4b27f1c4a336f062110ed51c526"
+        },
+        "workshopdepot": "1696440",
+        "branches": {
+            "public": {
+                "buildid": "18357200",
+                "timeupdated": "1746523778"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "deb687a9d31a413fe2b84142979a8f528cbf24ad6492b1b5defe1bb227ae13fe"
+    }
+}
