@@ -1,0 +1,27 @@
+{
+    "appid": "2366300",
+    "type": "Game",
+    "name": "Hentai Casual Swap 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28812771",
+    "update_time": "2025-05-05 03:29:28",
+    "depot": {
+        "2366301": {
+            "manifests": {
+                "public": {
+                    "gid": "3646140010763710943",
+                    "size": "347790546",
+                    "download": "93892208"
+                }
+            },
+            "decryptionkey": "e5bb12786df646f89bfe2262b51b177e3212e3e435708bfbd5fded8f49e7d387"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11023995",
+                "timeupdated": "1681766159"
+            }
+        }
+    }
+}
