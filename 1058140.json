@@ -1,0 +1,97 @@
+{
+    "appid": "1058140",
+    "type": "Game",
+    "name": "YumeUtsutsu Re:Master",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983489",
+    "update_time": "2025-05-14 22:57:50",
+    "depot": {
+        "baselanguages": "",
+        "1058141": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7365540983830538527",
+                    "size": "3311920271",
+                    "download": "3219831136"
+                }
+            },
+            "decryptionkey": "30302f9cbc6ec2a45f51f126109581590c08f8ac5f42b2bafcc6eafbab6fc77f"
+        },
+        "1058142": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "226599602181789876",
+                    "size": "614270378",
+                    "download": "611293680"
+                }
+            },
+            "decryptionkey": "745f32a0336c2123c960629147c50fd71e1b1b281b8bb27d889b49f5eb8363bf"
+        },
+        "1058143": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6820949212563779653",
+                    "size": "585672469",
+                    "download": "583249888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1058144": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6317169760659573797",
+                    "size": "570379154",
+                    "download": "567815488"
+                }
+            },
+            "decryptionkey": "3d5ba1a5fbe2b56687f5ff62cd7e499cfe132d707a572e4ca934c136a88a4398"
+        },
+        "1058145": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7276884140986024649",
+                    "size": "711756121",
+                    "download": "695494400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1058146": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "643575036108920253",
+                    "size": "565846135",
+                    "download": "563543776"
+                }
+            },
+            "decryptionkey": "a94f4b2492f8e87a2964bcfe524e5834648fda715acbc7fee67260dc81967a32"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6673746",
+                "timeupdated": "1620703701"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
