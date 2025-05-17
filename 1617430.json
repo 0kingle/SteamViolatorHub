@@ -1,0 +1,33 @@
+{
+    "appid": "1617430",
+    "type": "Game",
+    "name": "Bunhouse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:11",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1617431": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6315945724860990690",
+                    "size": "1383638165",
+                    "download": "1271833568"
+                }
+            },
+            "decryptionkey": "f405432fc5ea5a1cabd680b660ac073e0bdb64b01e3d6b84fb699218af06fd45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17346266",
+                "timeupdated": "1739419554"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
