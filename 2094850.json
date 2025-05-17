@@ -1,0 +1,54 @@
+{
+    "appid": "2094850",
+    "type": "Game",
+    "name": "The Backrooms Footage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008646",
+    "update_time": "2025-05-16 01:54:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2094851": {},
+        "2094852": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4720774984916663132",
+                    "size": "3686896197",
+                    "download": "1536743280"
+                }
+            }
+        },
+        "2094853": {
+            "manifests": {
+                "public": {
+                    "gid": "1622806852870840122",
+                    "size": "4363741232",
+                    "download": "1647622128"
+                }
+            },
+            "decryptionkey": "fec55391879ebe4d5191df350027c105fb3e724961aa7d49d5012c736fb4d567"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9469350",
+                "timeupdated": "1662560971"
+            }
+        }
+    }
+}
