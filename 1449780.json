@@ -1,0 +1,32 @@
+{
+    "appid": "1449780",
+    "type": "Game",
+    "name": "Cyberwar",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29004630",
+    "update_time": "2025-05-15 22:34:22",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1449781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3209694277128271790",
+                    "size": "3525186150",
+                    "download": "398970080"
+                }
+            },
+            "decryptionkey": "d5d29f170e1bed3b1e5eb5a8501f89ce02d3692c9ef91a81049f5997daa02314"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18477558",
+                "timeupdated": "1747319656"
+            }
+        }
+    }
+}
