@@ -1,0 +1,60 @@
+{
+    "appid": "1756160",
+    "type": "Game",
+    "name": "UNSAFE EXPRESS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989612",
+    "update_time": "2025-05-15 05:06:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1756161": {
+            "manifests": {
+                "public": {
+                    "gid": "2261112864602207052",
+                    "size": "4604270491",
+                    "download": "1488660048"
+                },
+                "experimental": {
+                    "gid": "2261112864602207052",
+                    "size": "4604270491",
+                    "download": "1488660048"
+                },
+                "oldschool": {
+                    "gid": "2152017825476679859",
+                    "size": "4701259064",
+                    "download": "1693134640"
+                }
+            },
+            "decryptionkey": "0de302ceac41e7f5a88af651119782dbc837e58618e925e2c2e011017033323e"
+        },
+        "1756162": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16366930",
+                "timeupdated": "1731338135"
+            },
+            "experimental": {
+                "buildid": "16366930",
+                "description": "Testing build",
+                "timeupdated": "1731338158"
+            },
+            "oldschool": {
+                "buildid": "9001314",
+                "description": "Old version of game",
+                "timeupdated": "1716985835"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
