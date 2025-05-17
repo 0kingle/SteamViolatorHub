@@ -1,0 +1,27 @@
+{
+    "appid": "3074700",
+    "type": "Game",
+    "name": "The Lewd Deal",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28723401",
+    "update_time": "2025-04-29 17:08:40",
+    "depot": {
+        "3074701": {
+            "manifests": {
+                "public": {
+                    "gid": "1525483176054584174",
+                    "size": "2658305241",
+                    "download": "2352050560"
+                }
+            },
+            "decryptionkey": "7457ac22d932970cca6421f678500b938437250fe2b2c7f8ddfc26099a02bbf7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15890223",
+                "timeupdated": "1727794096"
+            }
+        }
+    }
+}
