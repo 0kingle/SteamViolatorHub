@@ -1,0 +1,36 @@
+{
+    "appid": "2897760",
+    "type": "Game",
+    "name": "極品采花郎",
+    "schinese_name": "极品采花郎",
+    "isfreeapp": "0",
+    "change_number": "28860026",
+    "update_time": "2025-05-07 19:02:40",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2897761": {
+            "manifests": {
+                "public": {
+                    "gid": "8777078128034741679",
+                    "size": "7642820846",
+                    "download": "6265757536"
+                }
+            },
+            "decryptionkey": "d309294d9f28f61bc9fd632ec2133bc496ef6fb2c353ef57e9af630ea77ac693"
+        },
+        "baselanguages": "schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18307528",
+                "timeupdated": "1746090095"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
