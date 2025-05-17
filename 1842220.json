@@ -1,0 +1,29 @@
+{
+    "appid": "1842220",
+    "type": "Game",
+    "name": "3D  Lover",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28572432",
+    "update_time": "2025-04-20 21:58:27",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1842221": {
+            "manifests": {
+                "public": {
+                    "gid": "4646452591690310369",
+                    "size": "14037383607",
+                    "download": "5262318224"
+                }
+            },
+            "decryptionkey": "80f12108b41925c6b4e4a84264e0baf1f162c06d2f1915a0679b24c88a0687cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17036735",
+                "timeupdated": "1737169067"
+            }
+        }
+    }
+}
