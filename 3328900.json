@@ -1,0 +1,36 @@
+{
+    "appid": "3328900",
+    "type": "Game",
+    "name": "MySims™",
+    "schinese_name": "MySims™",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3328901": {
+            "manifests": {
+                "public": {
+                    "gid": "6409707742396952301",
+                    "size": "3409713396",
+                    "download": "1093226112"
+                }
+            },
+            "decryptionkey": "cd9abf8d8967b437cfc5d367ea79581dcafcac4bb3d985771448a154d25add28"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18027186",
+                "timeupdated": "1744649980"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
