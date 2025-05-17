@@ -1,0 +1,30 @@
+{
+    "appid": "1501410",
+    "type": "Game",
+    "name": "Dwarf Journey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:34",
+    "depot": {
+        "1501411": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3393024558057046475",
+                    "size": "311982218",
+                    "download": "115155984"
+                }
+            },
+            "decryptionkey": "7d8b23a0a20a4d9b19d8deb827d845e35216d188dfd43cd30cb714cb67a87519"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6384179",
+                "timeupdated": "1615829951"
+            }
+        }
+    }
+}
