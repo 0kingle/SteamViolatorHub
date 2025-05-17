@@ -1,0 +1,42 @@
+{
+    "appid": "2180800",
+    "type": "Game",
+    "name": "Midnight Margo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 17:33:08",
+    "depot": {
+        "2180802": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2184583461737736266",
+                    "size": "1005780093",
+                    "download": "344011168"
+                }
+            },
+            "decryptionkey": "7070b67db561d96c6bb787db380b12bc3ff50bbd12ca681cab3c490d5e46acee"
+        },
+        "2180804": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7790113644217808566",
+                    "size": "1028584723",
+                    "download": "351693152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14810822",
+                "timeupdated": "1719162820"
+            }
+        }
+    }
+}
