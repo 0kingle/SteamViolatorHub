@@ -1,0 +1,42 @@
+{
+    "appid": "3499730",
+    "type": "Demo",
+    "name": "Moadra Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28938795",
+    "update_time": "2025-05-12 20:43:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3499731": {
+            "manifests": {
+                "public": {
+                    "gid": "2399471196112240852",
+                    "size": "4221029877",
+                    "download": "2007655360"
+                }
+            },
+            "decryptionkey": "cd998086d0dd6ba1bf568045d6ce66408de36a062b02d41e5715e6c75d60d07b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18275833",
+                "timeupdated": "1745910422"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
