@@ -1,0 +1,27 @@
+{
+    "appid": "2569840",
+    "type": "Game",
+    "name": "Good fruit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 10:00:00",
+    "depot": {
+        "2569841": {
+            "manifests": {
+                "public": {
+                    "gid": "5811218850571115710",
+                    "size": "84214660",
+                    "download": "19243232"
+                }
+            },
+            "decryptionkey": "3604fbbf5f1c69a54d90e48a06452e7ff5c0bb4f291184408e9eeb50170c178f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12022891",
+                "timeupdated": "1692882858"
+            }
+        }
+    }
+}
