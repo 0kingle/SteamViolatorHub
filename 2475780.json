@@ -1,0 +1,45 @@
+{
+    "appid": "2475780",
+    "type": "Game",
+    "name": "THE SHRiNK Season One",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012331",
+    "update_time": "2025-05-16 06:06:47",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2475781": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5535643608995455887",
+                    "size": "3761436666",
+                    "download": "3569603312"
+                },
+                "developer": {
+                    "gid": "5535643608995455887",
+                    "size": "3761436666",
+                    "download": "3569603312"
+                }
+            },
+            "decryptionkey": "cad896db7481025a25eb115472f7cff7d1988fb785a36d4e5599fcb96a27ab2e"
+        },
+        "3442210": {
+            "dlcappid": "3442210"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16683395",
+                "timeupdated": "1734089109"
+            },
+            "developer": {
+                "buildid": "16882592",
+                "description": "Dev testing",
+                "timeupdated": "1735662444"
+            }
+        }
+    }
+}
