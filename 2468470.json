@@ -1,0 +1,43 @@
+{
+    "appid": "2468470",
+    "type": "Game",
+    "name": "Soulbind: Tales Of The Underworld",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012286",
+    "update_time": "2025-05-16 06:00:42",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
+        "2468471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2431030005985785880",
+                    "size": "3980864077",
+                    "download": "761762016"
+                }
+            },
+            "decryptionkey": "c772b3aeef46170292129dafea70265fbdc0fb1196333f0889a3813422f2605c"
+        },
+        "2468472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8670558898598936318",
+                    "size": "3984306364",
+                    "download": "761190896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17377730",
+                "timeupdated": "1739624785"
+            }
+        }
+    }
+}
