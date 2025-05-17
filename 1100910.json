@@ -1,0 +1,52 @@
+{
+    "appid": "1100910",
+    "type": "Game",
+    "name": "鬼哭岭",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29022422",
+    "update_time": "2025-05-16 18:57:03",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "1100911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1860486112778145048",
+                    "size": "1812180008",
+                    "download": "1425485088"
+                }
+            },
+            "decryptionkey": "760aeecde28db6521c27b4d765166beed7b2a4bad578c13d86366ccd6825e128"
+        },
+        "3726170": {
+            "dlcappid": "3726170",
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5557738709905504320",
+                    "size": "30232214",
+                    "download": "29740784"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1100912": {
+            "config": {
+                "language": "schinese"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494225",
+                "timeupdated": "1747412786"
+            }
+        }
+    }
+}
