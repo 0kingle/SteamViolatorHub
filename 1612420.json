@@ -1,0 +1,51 @@
+{
+    "appid": "1612420",
+    "type": "Game",
+    "name": "Suit for Hire",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1612421": {
+            "manifests": {
+                "public": {
+                    "gid": "679888472514145859",
+                    "size": "2687017183",
+                    "download": "2515460656"
+                },
+                "beta": {
+                    "gid": "5149711260977066216",
+                    "size": "3717941392",
+                    "download": "3433742784"
+                }
+            },
+            "decryptionkey": "94247ea5c273f90c20d1c1269b4a3591ef8b2bca05db931d4c5e42774cf2ab30"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16350392",
+                "timeupdated": "1731130634"
+            },
+            "beta": {
+                "buildid": "18379818",
+                "description": "Testing branch for features and mechanics",
+                "timeupdated": "1746650644"
+            }
+        }
+    }
+}
