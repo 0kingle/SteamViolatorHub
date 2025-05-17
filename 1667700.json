@@ -1,0 +1,41 @@
+{
+    "appid": "1667700",
+    "type": "Game",
+    "name": "Geometry Arena 2",
+    "schinese_name": "几何竞技场2",
+    "isfreeapp": "0",
+    "change_number": "28989002",
+    "update_time": "2025-05-15 04:19:59",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1667701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5149930534736966199",
+                    "size": "486325382",
+                    "download": "183132176"
+                },
+                "beta": {
+                    "gid": "5149930534736966199",
+                    "size": "486325382",
+                    "download": "183132176"
+                }
+            },
+            "decryptionkey": "8491d008067be11030e95e3af21d3caf96371ad6e490c6106ee54da74ff44123"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18128404",
+                "timeupdated": "1747060189"
+            },
+            "beta": {
+                "buildid": "18128404",
+                "description": "小白鼠臻享版",
+                "timeupdated": "1744805531"
+            }
+        }
+    }
+}
