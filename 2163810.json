@@ -1,0 +1,43 @@
+{
+    "appid": "2163810",
+    "type": "Game",
+    "name": "NecroBouncer: Prologue",
+    "schinese_name": "死灵保安：序章",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 19:54:07",
+    "depot": {
+        "2163811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1637337995128020136",
+                    "size": "320696501",
+                    "download": "90329888"
+                }
+            },
+            "decryptionkey": "993b4e7c5cab80f302d5a17e5809b0c35a7a654e29ab8f6970862ca8d68a1b7a"
+        },
+        "2163812": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9079114992806698508",
+                    "size": "328134605",
+                    "download": "93220704"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10098309",
+                "timeupdated": "1670427810"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
