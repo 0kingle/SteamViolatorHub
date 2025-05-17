@@ -1,0 +1,45 @@
+{
+    "appid": "2655680",
+    "type": "Demo",
+    "name": "Damned 2 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28847081",
+    "update_time": "2025-05-07 02:00:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2655681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2846981255125890082",
+                    "size": "13023240534",
+                    "download": "5034064992"
+                }
+            },
+            "decryptionkey": "d4f80e5d2e8e7948144b80b99d7d2c970d63e699b9cde5a1d7971512c9655620"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18363153",
+                "timeupdated": "1746554422"
+            }
+        }
+    }
+}
