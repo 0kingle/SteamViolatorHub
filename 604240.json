@@ -1,0 +1,78 @@
+{
+    "appid": "604240",
+    "type": "Game",
+    "name": "Shotgun Farmers",
+    "schinese_name": "枪火农夫",
+    "isfreeapp": "0",
+    "change_number": "29016255",
+    "update_time": "2025-05-16 11:58:16",
+    "depot": {
+        "workshopdepot": "604240",
+        "604244": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5906883169225821991",
+                    "size": "5363275149",
+                    "download": "2416891968"
+                }
+            },
+            "decryptionkey": "3daa3a70b724d2b6904b3c18f2386b31a204bd6d8fe73005683411ec3291d3fa"
+        },
+        "604241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1067807849580504785",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "898d033401487dae243aaf9df921db57952cf4488dcd59f419bbeea782bd7038"
+        },
+        "604242": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7121829516961857137",
+                    "size": "5461841155",
+                    "download": "2511421200"
+                }
+            }
+        },
+        "604243": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5205301587840819632",
+                    "size": "5613576861",
+                    "download": "2613098192"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18194154",
+                "timeupdated": "1745448046"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
