@@ -1,0 +1,38 @@
+{
+    "appid": "2087430",
+    "type": "Game",
+    "name": "Sneaky IT Support",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008517",
+    "update_time": "2025-05-16 01:48:52",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2087431": {
+            "manifests": {
+                "public": {
+                    "gid": "6509959021984677091",
+                    "size": "222703104",
+                    "download": "162257904"
+                },
+                "beta": {
+                    "gid": "6509959021984677091",
+                    "size": "222703104",
+                    "download": "162257904"
+                }
+            },
+            "decryptionkey": "2f3a45818a3977de4dff4cc3f104894c19bfdda077aa396d278ca0fea13a8be3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9833783",
+                "timeupdated": "1667222000"
+            },
+            "beta": {
+                "buildid": "9833783",
+                "description": "Latest dev build, may have bugs, untested!",
+                "timeupdated": "1667179827"
+            }
+        }
+    }
+}
