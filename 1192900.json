@@ -1,0 +1,43 @@
+{
+    "appid": "1192900",
+    "type": "Game",
+    "name": "Iron Rebellion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984968",
+    "update_time": "2025-05-15 00:13:26",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1192901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2465023977694759956",
+                    "size": "9773934321",
+                    "download": "4164077744"
+                },
+                "beta_branch": {
+                    "gid": "7928266717824057331",
+                    "size": "10584145116",
+                    "download": "4462881360"
+                }
+            },
+            "decryptionkey": "fb618fb08fc5b7a271ef9017703b9366009522ea6df61715a625b474de1686ea"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17399205",
+                "timeupdated": "1740174899"
+            },
+            "beta_branch": {
+                "buildid": "18408944",
+                "description": "New features tests",
+                "timeupdated": "1746825667"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
