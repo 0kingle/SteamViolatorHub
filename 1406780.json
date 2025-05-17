@@ -1,0 +1,88 @@
+{
+    "appid": "1406780",
+    "type": "Game",
+    "name": "Viscerafest",
+    "schinese_name": "内脏狂欢",
+    "isfreeapp": "0",
+    "change_number": "28986907",
+    "update_time": "2025-05-15 02:00:00",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1406781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2726964864459682063",
+                    "size": "9053767316",
+                    "download": "4470383248"
+                },
+                "2023-ea-build": {
+                    "gid": "561604932601927958",
+                    "size": "4129007108",
+                    "download": "1494989248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1406782": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "42256854145898989",
+                    "size": "9096000941",
+                    "download": "4482409968"
+                },
+                "2023-ea-build": {
+                    "gid": "7982347697380617389",
+                    "size": "4139746828",
+                    "download": "1499066448"
+                }
+            },
+            "decryptionkey": "69be68ff900f83fad19f01cd40c26e79fd601c5d26e5a8990778b6af02ab0d30"
+        },
+        "1406783": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2711797423571832709",
+                    "size": "9104031477",
+                    "download": "4486424080"
+                },
+                "2023-ea-build": {
+                    "gid": "2280807871641606097",
+                    "size": "4209047750",
+                    "download": "1532133632"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18274870",
+                "timeupdated": "1746025023"
+            },
+            "2023-ea-build": {
+                "buildid": "10247411",
+                "description": "Latest EA build",
+                "timeupdated": "1744815213"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
