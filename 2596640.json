@@ -1,0 +1,27 @@
+{
+    "appid": "2596640",
+    "type": "Game",
+    "name": "Medieval Kingdom Wars Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 22:18:01",
+    "depot": {
+        "2596641": {
+            "manifests": {
+                "public": {
+                    "gid": "1847799657043761520",
+                    "size": "5251656168",
+                    "download": "1402592512"
+                }
+            },
+            "decryptionkey": "9f1d597a82a031d1ea710b01ec40b2b911e7e5b495c51dc840f96e3b6cfff253"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12264459",
+                "timeupdated": "1695479596"
+            }
+        }
+    }
+}
