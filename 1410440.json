@@ -1,0 +1,38 @@
+{
+    "appid": "1410440",
+    "type": "Game",
+    "name": "Sophstar",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986907",
+    "update_time": "2025-05-15 02:00:00",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "1410441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "507296473525922538",
+                    "size": "244177531",
+                    "download": "191658768"
+                }
+            },
+            "decryptionkey": "581b3b90e883af5e1041cc3e0f6915f2eea6ac2d8857a8bff63902da193ad420"
+        },
+        "1410442": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12055076",
+                "timeupdated": "1693277630"
+            }
+        }
+    }
+}
