@@ -1,0 +1,33 @@
+{
+    "appid": "1617270",
+    "type": "Game",
+    "name": "The Faraway Land",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:11",
+    "depot": {
+        "1617271": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6725839589401967051",
+                    "size": "2813177004",
+                    "download": "512562880"
+                }
+            },
+            "decryptionkey": "e6d72115eb5856137d46d1080115e429b7704f2c8c705f893300cb64b2d0cb35"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18352704",
+                "timeupdated": "1746489698"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
