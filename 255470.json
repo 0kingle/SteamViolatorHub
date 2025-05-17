@@ -1,0 +1,93 @@
+{
+    "appid": "255470",
+    "type": "Tool",
+    "name": "Half-Life Deathmatch: Source Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28969290",
+    "update_time": "2025-05-14 06:22:39",
+    "depot": {
+        "255470": {
+            "manifests": {
+                "public": {
+                    "gid": "4815058756064145967",
+                    "size": "993115629",
+                    "download": "472212512"
+                },
+                "prerelease": {
+                    "gid": "6508155877064161042",
+                    "size": "976483048",
+                    "download": "470617584"
+                },
+                "previous_build": {
+                    "gid": "2278144969926205611",
+                    "size": "949719957",
+                    "download": "442437152"
+                }
+            },
+            "decryptionkey": "cd7f917f1a1bebea70113117f0c72842e8f7a65a795b10643f5a9de5039390e1"
+        },
+        "255471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8718703707273445445",
+                    "size": "240124325",
+                    "download": "82422144"
+                },
+                "prerelease": {
+                    "gid": "3837599109954655217",
+                    "size": "240694893",
+                    "download": "82381952"
+                },
+                "previous_build": {
+                    "gid": "2924862230544282892",
+                    "size": "92717248",
+                    "download": "33381872"
+                }
+            },
+            "decryptionkey": "d6db0e87d0cc108953d966951432ba87b53c05defb444e034f6925d020d98a10"
+        },
+        "255472": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1196661467168196578",
+                    "size": "104901454",
+                    "download": "27985440"
+                },
+                "prerelease": {
+                    "gid": "8969322461897003583",
+                    "size": "112544702",
+                    "download": "29535648"
+                },
+                "previous_build": {
+                    "gid": "5572515540873246049",
+                    "size": "66997815",
+                    "download": "17328672"
+                }
+            },
+            "decryptionkey": "59f84c46600e995a4ac8bdc1afca39e777a435c87e597affcae4d370de286e33"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "17399402",
+                "timeupdated": "1739908799"
+            },
+            "prerelease": {
+                "buildid": "18450809",
+                "timeupdated": "1747174944"
+            },
+            "previous_build": {
+                "buildid": "6935416",
+                "description": "Previous Build",
+                "timeupdated": "1739908792"
+            }
+        }
+    }
+}
