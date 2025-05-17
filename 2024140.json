@@ -1,0 +1,28 @@
+{
+    "appid": "2024140",
+    "type": "Game",
+    "name": "Cronous Online",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29005396",
+    "update_time": "2025-05-15 23:10:28",
+    "depot": {
+        "2024141": {
+            "manifests": {
+                "public": {
+                    "gid": "1803803306146831546",
+                    "size": "4615933640",
+                    "download": "1271999472"
+                }
+            },
+            "decryptionkey": "17c81f451088aee0c90eda3eadabe4be6004ba6329ebd624e9a8f8c072918006"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12065802",
+                "timeupdated": "1693379726"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
