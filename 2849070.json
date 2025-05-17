@@ -1,0 +1,43 @@
+{
+    "appid": "2849070",
+    "type": "Game",
+    "name": "Soulkin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014883",
+    "update_time": "2025-05-16 09:54:50",
+    "depot": {
+        "2849071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "204717768202444485",
+                    "size": "600949473",
+                    "download": "244268752"
+                }
+            },
+            "decryptionkey": "0531a680c23ad7bfa7df859129dcf85d223f7867d3acb417561aab63a38ba576"
+        },
+        "2849072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5352639544496551419",
+                    "size": "707164419",
+                    "download": "267654048"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18351337",
+                "timeupdated": "1746523047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
