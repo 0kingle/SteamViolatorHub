@@ -1,0 +1,49 @@
+{
+    "appid": "1082450",
+    "type": "Game",
+    "name": "Gold Hunter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008401",
+    "update_time": "2025-05-16 01:44:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german",
+        "hasdepotsindlc": "0",
+        "1082451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2623899747054141625",
+                    "size": "8324095595",
+                    "download": "7834424208"
+                }
+            },
+            "decryptionkey": "bafa50139414aab3e425d8774d6ab3087686570bf6082ab10816aa02eb26f258"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419995",
+                "timeupdated": "1746968837"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
