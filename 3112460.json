@@ -1,0 +1,41 @@
+{
+    "appid": "3112460",
+    "type": "Demo",
+    "name": "Astera Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29007127",
+    "update_time": "2025-05-16 00:38:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3112461": {
+            "manifests": {
+                "public": {
+                    "gid": "9205076217098649460",
+                    "size": "2586998435",
+                    "download": "2085271920"
+                }
+            },
+            "decryptionkey": "e2b152f4eb834b8332a5d2971b0fe5eedd6d407074b5c096f99f45ce25c3e9d4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493492",
+                "timeupdated": "1747409745"
+            }
+        }
+    }
+}
