@@ -1,0 +1,42 @@
+{
+    "appid": "950620",
+    "type": "Game",
+    "name": "Priest Simulator: Vampire Show",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28889547",
+    "update_time": "2025-05-09 04:09:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "950621": {
+            "manifests": {
+                "public": {
+                    "gid": "5540413385091083501",
+                    "size": "13660916364",
+                    "download": "12744654432"
+                }
+            },
+            "decryptionkey": "f0a967c2d200e58f94b1dc142e07f6c93ca43ca1ff93802cbd015b9005df0717"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18390005",
+                "timeupdated": "1746734954"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
