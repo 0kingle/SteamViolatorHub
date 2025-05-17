@@ -1,0 +1,28 @@
+{
+    "appid": "278490",
+    "type": "Game",
+    "name": "Aveyond 3-2: Gates of Night",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28564018",
+    "update_time": "2025-04-19 22:57:57",
+    "depot": {
+        "278491": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3081578670423036722",
+                    "size": "72882514",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "ed1688697193bf6ba264db949da867e06d2235442d77175a45a8727a6daf0fab"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "239047"
+            }
+        }
+    }
+}
