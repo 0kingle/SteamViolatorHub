@@ -1,0 +1,58 @@
+{
+    "appid": "954280",
+    "type": "Game",
+    "name": "3dSenVR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28826184",
+    "update_time": "2025-05-06 00:44:16",
+    "depot": {
+        "954281": {
+            "manifests": {
+                "public": {
+                    "gid": "4336921072875843320",
+                    "size": "269575618",
+                    "download": "77920928"
+                },
+                "beta": {
+                    "gid": "4336921072875843320",
+                    "size": "269575618",
+                    "download": "77920928"
+                }
+            },
+            "decryptionkey": "6bcb29172768389988c56a61fd7dba8f2e172b8f12ab6c3bd0351321838932f0"
+        },
+        "2463890": {
+            "dlcappid": "2463890",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "optionaldlc": "2463890"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8861084633705440825",
+                    "size": "308130481",
+                    "download": "90485296"
+                },
+                "beta": {
+                    "gid": "8861084633705440825",
+                    "size": "308130481",
+                    "download": "90485296"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18347983",
+                "timeupdated": "1746463450"
+            },
+            "beta": {
+                "buildid": "18347983",
+                "description": "open beta",
+                "timeupdated": "1746459068"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
