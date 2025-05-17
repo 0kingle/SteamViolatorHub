@@ -1,0 +1,31 @@
+{
+    "appid": "1855830",
+    "type": "Game",
+    "name": "We Are One Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990480",
+    "update_time": "2025-05-15 06:06:32",
+    "depot": {
+        "1855831": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6007231205335157422",
+                    "size": "779246305",
+                    "download": "265962480"
+                }
+            },
+            "decryptionkey": "e8655e29f387d319b321f657f4d505bd93c4dc39a1908623e7c58bfb6a53d503"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9072315",
+                "timeupdated": "1657195385"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
