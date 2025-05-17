@@ -1,0 +1,69 @@
+{
+    "appid": "1770480",
+    "type": "DLC",
+    "name": "VTOL VR: AH-94 Attack Helicopter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28539237",
+    "update_time": "2025-04-18 06:53:17",
+    "depot": {
+        "1770480": {
+            "dlcappid": "1770480",
+            "manifests": {
+                "public": {
+                    "gid": "2836902461265788005",
+                    "size": "0",
+                    "download": "0"
+                },
+                "v1.8.7f1": {
+                    "gid": "2836902461265788005",
+                    "size": "0",
+                    "download": "0"
+                },
+                "public_testing": {
+                    "gid": "2836902461265788005",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "1770481": {
+            "manifests": {
+                "public": {
+                    "gid": "4625979481897414804",
+                    "size": "57120063",
+                    "download": "57716032"
+                },
+                "v1.8.7f1": {
+                    "gid": "2181872238659700356",
+                    "size": "52762984",
+                    "download": "53300176"
+                },
+                "public_testing": {
+                    "gid": "4625979481897414804",
+                    "size": "57120063",
+                    "download": "57716032"
+                }
+            },
+            "dlcappid": "1770480",
+            "decryptionkey": "da89b7918a466dc116fa3dc2ec780134e8829781ae3a8282aa0532994d34a068"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18032989",
+                "timeupdated": "1744930392"
+            },
+            "v1.8.7f1": {
+                "buildid": "12821115",
+                "description": "old version",
+                "timeupdated": "1711503184"
+            },
+            "public_testing": {
+                "buildid": "18032989",
+                "description": "public testing",
+                "timeupdated": "1744153504"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
