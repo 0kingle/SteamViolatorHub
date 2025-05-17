@@ -1,0 +1,95 @@
+{
+    "appid": "1321030",
+    "type": "Game",
+    "name": "No one lives in heaven",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:19:56",
+    "depot": {
+        "baselanguages": "english,german",
+        "hasdepotsindlc": "1",
+        "1321032": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4361299338890299956",
+                    "size": "1702553454",
+                    "download": "523573056"
+                },
+                "patch": {
+                    "gid": "4361299338890299956",
+                    "size": "1702553454",
+                    "download": "523573056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1321031": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4453048348636747879",
+                    "size": "2282855844",
+                    "download": "785063808"
+                },
+                "patch": {
+                    "gid": "4453048348636747879",
+                    "size": "2282855844",
+                    "download": "785063808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1321033": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4424509111218330597",
+                    "size": "2463190756",
+                    "download": "580020240"
+                },
+                "patch": {
+                    "gid": "4424509111218330597",
+                    "size": "2463190756",
+                    "download": "580020240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1321034": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7395027167244382627",
+                    "size": "3333535705",
+                    "download": "842200384"
+                },
+                "patch": {
+                    "gid": "7395027167244382627",
+                    "size": "3333535705",
+                    "download": "842200384"
+                }
+            },
+            "decryptionkey": "88ee5077ee4177a3a913652200ce63972911488c88307bd5c6793ff825c9d795"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5926114",
+                "timeupdated": "1607142743"
+            },
+            "patch": {
+                "buildid": "5926114",
+                "timeupdated": "1607142153"
+            }
+        }
+    }
+}
