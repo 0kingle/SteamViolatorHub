@@ -1,0 +1,28 @@
+{
+    "appid": "977510",
+    "type": "Game",
+    "name": "Time to Morp",
+    "schinese_name": "扑猫时刻",
+    "isfreeapp": "0",
+    "change_number": "28973233",
+    "update_time": "2025-05-14 12:14:26",
+    "depot": {
+        "977511": {
+            "manifests": {
+                "public": {
+                    "gid": "6137628953293547637",
+                    "size": "908383190",
+                    "download": "254338272"
+                }
+            },
+            "decryptionkey": "04e769b473b2710f0e88414ad7b31f7ad4de3e4e4887a65eca890ae772c5ccdb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18263402",
+                "timeupdated": "1745837446"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
