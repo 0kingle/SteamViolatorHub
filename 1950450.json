@@ -1,0 +1,60 @@
+{
+    "appid": "1950450",
+    "type": "Game",
+    "name": "Loop Queen-Escape Dungeon 3",
+    "schinese_name": "Loop Queen-地牢脱出3 轮回女王",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:35",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1950451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "512221936728703848",
+                    "size": "3438266614",
+                    "download": "977320416"
+                }
+            },
+            "decryptionkey": "1ffccddc2535c02d22b5227b4c7297e8eafeae544af23ba786b112d8de379811"
+        },
+        "1950452": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2686462820235373122",
+                    "size": "3463088467",
+                    "download": "985463408"
+                }
+            },
+            "decryptionkey": "cb2d3980bec0b5e23080bf43d039ad9000204d325e08c7da64487f8a05533530"
+        },
+        "1950453": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "814035391842439642",
+                    "size": "3438266614",
+                    "download": "977214480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18369147",
+                "timeupdated": "1746595661"
+            }
+        }
+    }
+}
