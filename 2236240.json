@@ -1,0 +1,31 @@
+{
+    "appid": "2236240",
+    "type": "Game",
+    "name": "Dead Unending",
+    "schinese_name": "Dead Unending",
+    "isfreeapp": "0",
+    "change_number": "29010014",
+    "update_time": "2025-05-16 03:18:43",
+    "depot": {
+        "2236241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4033651424373946358",
+                    "size": "2275331630",
+                    "download": "319344144"
+                }
+            },
+            "decryptionkey": "d00d55c25031f40c0a0429114c0fc997848878af5dfa2aa56b4de0249857498c"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,portuguese,latam",
+        "branches": {
+            "public": {
+                "buildid": "11420498",
+                "timeupdated": "1686199773"
+            }
+        }
+    }
+}
