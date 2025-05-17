@@ -1,0 +1,31 @@
+{
+    "appid": "1786300",
+    "type": "Game",
+    "name": "Puzzle Art: Rodents",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28962438",
+    "update_time": "2025-05-13 22:34:19",
+    "depot": {
+        "1786301": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4520360224522978030",
+                    "size": "299074130",
+                    "download": "299803648"
+                }
+            },
+            "decryptionkey": "78f6cba82b83f3e8f4da32ebd6f662f9341d853ff556a2cb2739a4a1d7457eeb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7506756",
+                "timeupdated": "1633795998"
+            }
+        }
+    }
+}
