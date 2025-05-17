@@ -1,0 +1,40 @@
+{
+    "appid": "1764200",
+    "type": "Music",
+    "name": "Astatos Original Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28610308",
+    "update_time": "2025-04-23 07:00:39",
+    "depot": {
+        "1764201": {
+            "manifests": {
+                "public": {
+                    "gid": "7609224700392706196",
+                    "size": "184635873",
+                    "download": "159433552"
+                }
+            },
+            "decryptionkey": "6c2121533f29b221e912b06214c88f9e568151562fb0a20a5fc92384bd65013e"
+        },
+        "1764202": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6564461260853604929",
+                    "size": "757850581",
+                    "download": "765953520"
+                }
+            },
+            "decryptionkey": "5ab746dd6eca4f250d8e0eec03512e625a9958aa92c63f89f9f0d169a1ae169b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11656978",
+                "timeupdated": "1744939856"
+            }
+        }
+    }
+}
