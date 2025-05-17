@@ -1,0 +1,59 @@
+{
+    "appid": "1190160",
+    "type": "Game",
+    "name": "LIT: Bend the Light",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984968",
+    "update_time": "2025-05-15 00:13:23",
+    "depot": {
+        "baselanguages": "english,german,french,italian,schinese,russian,polish,brazilian,greek,latam",
+        "hasdepotsindlc": "1",
+        "1190161": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1962372704681355504",
+                    "size": "585031353",
+                    "download": "120901760"
+                }
+            }
+        },
+        "1190162": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2587074537638235508",
+                    "size": "523390972",
+                    "download": "103159008"
+                }
+            },
+            "decryptionkey": "e69824844eaee96b7833e903562111a788c04a42c2d8d471f3d0dbffb3615f80"
+        },
+        "1190163": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8649939970093588256",
+                    "size": "538113973",
+                    "download": "110973984"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14575355",
+                "timeupdated": "1717313917"
+            }
+        }
+    }
+}
