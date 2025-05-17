@@ -1,0 +1,27 @@
+{
+    "appid": "1515280",
+    "type": "Game",
+    "name": "Detective Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28999659",
+    "update_time": "2025-05-15 18:12:46",
+    "depot": {
+        "1515281": {
+            "manifests": {
+                "public": {
+                    "gid": "2164486351191857371",
+                    "size": "484258869",
+                    "download": "367046592"
+                }
+            },
+            "decryptionkey": "f71ceced7715ba7b67c8fc44260109dbf2e64ddb66956a61ebd980f1035ce45d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6080610",
+                "timeupdated": "1610618640"
+            }
+        }
+    }
+}
