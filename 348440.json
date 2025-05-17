@@ -1,0 +1,26 @@
+{
+    "appid": "348440",
+    "type": "Game",
+    "name": "Quell Memento",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972227",
+    "update_time": "2025-05-14 10:47:49",
+    "depot": {
+        "348441": {
+            "manifests": {
+                "public": {
+                    "gid": "6135411942533099026",
+                    "size": "155177526",
+                    "download": "155312240"
+                }
+            },
+            "decryptionkey": "9617ed8f0fc8ba90db13e0173f97787dc318d295fbc8ad3ab34669c99abef189"
+        },
+        "branches": {
+            "public": {
+                "buildid": "626553"
+            }
+        }
+    }
+}
