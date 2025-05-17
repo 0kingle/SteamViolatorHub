@@ -1,0 +1,30 @@
+{
+    "appid": "1300430",
+    "type": "Game",
+    "name": "Whiskey.Mafia. Leo's Family",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985976",
+    "update_time": "2025-05-15 01:06:47",
+    "depot": {
+        "1300431": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7235267597216968433",
+                    "size": "3656842805",
+                    "download": "175998208"
+                }
+            },
+            "decryptionkey": "6acd8b507eb119bc13003b06d16e7569beef6a47d4f6021ebf43c37766c12b24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5477366",
+                "timeupdated": "1598700356"
+            }
+        }
+    }
+}
