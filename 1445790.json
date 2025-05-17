@@ -1,0 +1,32 @@
+{
+    "appid": "1445790",
+    "type": "Game",
+    "name": "Make Way",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987256",
+    "update_time": "2025-05-15 02:19:57",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,latam",
+        "1445791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6512482969213454147",
+                    "size": "1012087682",
+                    "download": "424828096"
+                }
+            },
+            "decryptionkey": "443955ed94898f46baf7dffc42b6771e7c8992f09619b9d62b22630a6693a721"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17937086",
+                "timeupdated": "1744103920"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
