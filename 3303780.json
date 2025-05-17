@@ -1,0 +1,31 @@
+{
+    "appid": "3303780",
+    "type": "Game",
+    "name": "CODE Bunny",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28998584",
+    "update_time": "2025-05-15 17:14:36",
+    "depot": {
+        "3303781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5226278208877545879",
+                    "size": "411568292",
+                    "download": "98417344"
+                }
+            },
+            "decryptionkey": "5bf6208804688dc7b3d367d798124909b5086b0fd1d557e61170c437d446d301"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18259859",
+                "timeupdated": "1745809327"
+            }
+        }
+    }
+}
