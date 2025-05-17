@@ -1,0 +1,69 @@
+{
+    "appid": "1288760",
+    "type": "Game",
+    "name": "Dude, Where Is My Beer?",
+    "schinese_name": "老铁，我啤酒呢?",
+    "isfreeapp": "0",
+    "change_number": "29007815",
+    "update_time": "2025-05-16 01:11:51",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1288763": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4635128910619879659",
+                    "size": "506426598",
+                    "download": "387372384"
+                }
+            },
+            "decryptionkey": "c75d8775b38488b0767a1bdf5a15d882967f8e2ede4ca421c70f1b5e2b613365"
+        },
+        "1288764": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8830595795465679662",
+                    "size": "551140061",
+                    "download": "393076240"
+                }
+            }
+        },
+        "1288761": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7474739830331022063",
+                    "size": "553727284",
+                    "download": "394726368"
+                }
+            }
+        },
+        "1288762": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5194046318243806121",
+                    "size": "494309831",
+                    "download": "379236448"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17925725",
+                "timeupdated": "1743429468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
