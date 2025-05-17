@@ -1,0 +1,67 @@
+{
+    "appid": "1309710",
+    "type": "Game",
+    "name": "The Stone of Madness",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986082",
+    "update_time": "2025-05-15 01:13:17",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1309711": {
+            "manifests": {
+                "public": {
+                    "gid": "2835497052891528471",
+                    "size": "8917053928",
+                    "download": "2850015024"
+                }
+            },
+            "decryptionkey": "4eea7bd27bc388f4046d14a4fb7146c911e7d0902f5c583a4c17266cea77c1e9"
+        },
+        "1309712": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7288549532665413679",
+                    "size": "9429396377",
+                    "download": "3301682320"
+                }
+            },
+            "decryptionkey": "fd9807d6059b3cce8fbd8c22d44efdfca9eab4a76c4e1cff8209c4894d0513fc"
+        },
+        "3392529": {
+            "dlcappid": "3392520",
+            "manifests": {
+                "public": {
+                    "gid": "3784745972362784956",
+                    "size": "2640114182",
+                    "download": "2521297744"
+                }
+            },
+            "decryptionkey": "e7e5c241f17e7406e2a54671b440ca2e4a0d4842dd02f7d1395553c2d46fd365"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18225640",
+                "timeupdated": "1745506980"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
