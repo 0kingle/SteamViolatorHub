@@ -1,0 +1,30 @@
+{
+    "appid": "2136380",
+    "type": "Game",
+    "name": "HVS: Hitler VS Stalin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009032",
+    "update_time": "2025-05-16 02:18:52",
+    "depot": {
+        "2136381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7391018756184811379",
+                    "size": "2772592068",
+                    "download": "1131398688"
+                }
+            },
+            "decryptionkey": "82968fc0f0c68969a8da7c56df1305e3efa60c9932a0eaf9e9ffae0cb5dc65b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9867392",
+                "timeupdated": "1667536383"
+            }
+        }
+    }
+}
