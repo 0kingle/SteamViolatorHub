@@ -1,0 +1,28 @@
+{
+    "appid": "2685660",
+    "type": "DLC",
+    "name": "Songs of Silence - Digital Goodies & Artbook",
+    "schinese_name": "《寂静之歌》--数字特典与官方艺术典藏集",
+    "isfreeapp": "0",
+    "change_number": "28689891",
+    "update_time": "2025-04-27 15:32:13",
+    "depot": {
+        "2685660": {
+            "manifests": {
+                "public": {
+                    "gid": "9173626493373558050",
+                    "size": "1405403046",
+                    "download": "1212752096"
+                }
+            },
+            "dlcappid": "2685660",
+            "decryptionkey": "cc0b59ac911cd40a3cd44ae65b636028fbd95e1ba6f5d5f28aecbc188aa53197"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18220149",
+                "timeupdated": "1745481085"
+            }
+        }
+    }
+}
