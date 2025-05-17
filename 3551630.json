@@ -1,0 +1,27 @@
+{
+    "appid": "3551630",
+    "type": "Game",
+    "name": "Backrooms: The Next Level",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28994636",
+    "update_time": "2025-05-15 12:12:33",
+    "depot": {
+        "3551631": {
+            "manifests": {
+                "public": {
+                    "gid": "2043910238742416059",
+                    "size": "1515023203",
+                    "download": "646243936"
+                }
+            },
+            "decryptionkey": "f2285ff509bd5d8521979ffbe8ddc9f73b8d3a7126bfabca07b9d51499a22f65"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17699194",
+                "timeupdated": "1741814526"
+            }
+        }
+    }
+}
