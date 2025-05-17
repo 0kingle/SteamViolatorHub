@@ -1,0 +1,32 @@
+{
+    "appid": "1470550",
+    "type": "Game",
+    "name": "Stranded",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987438",
+    "update_time": "2025-05-15 02:33:16",
+    "depot": {
+        "baselanguages": "english",
+        "1470551": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2793713403469721809",
+                    "size": "1728549681",
+                    "download": "417906656"
+                }
+            },
+            "decryptionkey": "ed8dd0a1f19abb72e3caf249e432f2c11cdc4ed453354d2b5946ae3972682096"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6014308",
+                "timeupdated": "1608927262"
+            }
+        }
+    }
+}
