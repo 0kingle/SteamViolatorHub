@@ -1,0 +1,27 @@
+{
+    "appid": "2190760",
+    "type": "Game",
+    "name": "Sex Adventures - Vampire Express Train",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009583",
+    "update_time": "2025-05-16 02:48:44",
+    "depot": {
+        "2190761": {
+            "manifests": {
+                "public": {
+                    "gid": "956796814427544869",
+                    "size": "969896212",
+                    "download": "605693104"
+                }
+            },
+            "decryptionkey": "746ed1b7f89eca0b90c0922b9521edee10ccd7f335cbb08c31055f282fcb80e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9774170",
+                "timeupdated": "1666387681"
+            }
+        }
+    }
+}
