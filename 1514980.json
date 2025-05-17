@@ -1,0 +1,31 @@
+{
+    "appid": "1514980",
+    "type": "Game",
+    "name": "Kingdom Builders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987731",
+    "update_time": "2025-05-15 02:53:21",
+    "depot": {
+        "1514981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4369312870051495627",
+                    "size": "593327291",
+                    "download": "203200896"
+                }
+            },
+            "decryptionkey": "5161e6f9c045d2cd8f54d33aebf83e856c09e558e6bd5e983e851c0b83e3ace2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7651124",
+                "timeupdated": "1635957286"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
