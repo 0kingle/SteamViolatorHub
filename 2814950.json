@@ -1,0 +1,27 @@
+{
+    "appid": "2814950",
+    "type": "Game",
+    "name": "Lazy Climbers",
+    "schinese_name": "摸鱼爬爬",
+    "isfreeapp": "0",
+    "change_number": "28162248",
+    "update_time": "2025-03-27 11:16:07",
+    "depot": {
+        "2814951": {
+            "manifests": {
+                "public": {
+                    "gid": "7633328783693614917",
+                    "size": "5228199872",
+                    "download": "1920147312"
+                }
+            },
+            "decryptionkey": "7f0d3e883fab68900fb205c94befff009590f26762a107207e166f7e59d7a068"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17854623",
+                "timeupdated": "1742919707"
+            }
+        }
+    }
+}
