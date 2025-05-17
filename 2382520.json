@@ -1,0 +1,37 @@
+{
+    "appid": "2382520",
+    "type": "Game",
+    "name": "Erenshor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017669",
+    "update_time": "2025-05-16 14:16:30",
+    "depot": {
+        "2382521": {
+            "manifests": {
+                "public": {
+                    "gid": "6507382652061517220",
+                    "size": "8519901712",
+                    "download": "1938746976"
+                },
+                "betabuild": {
+                    "gid": "1909341465969822174",
+                    "size": "8540068569",
+                    "download": "1943244512"
+                }
+            },
+            "decryptionkey": "f8cbec933e93c31051dd48bc3b6a2b7fdba101b74110bd6e1447427f8ac30377"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18491083",
+                "timeupdated": "1747398314"
+            },
+            "betabuild": {
+                "buildid": "18485738",
+                "description": "testing only",
+                "timeupdated": "1747368325"
+            }
+        }
+    }
+}
