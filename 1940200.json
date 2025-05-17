@@ -1,0 +1,34 @@
+{
+    "appid": "1940200",
+    "type": "Game",
+    "name": "Chill Town",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013470",
+    "update_time": "2025-05-16 07:50:00",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1940201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "722506229718487064",
+                    "size": "10806775965",
+                    "download": "5392631680"
+                }
+            },
+            "decryptionkey": "b2fae96ac3c63f77884db54389bdc70035d58f6a2d03cdddf92bc3d8ba509aa2"
+        },
+        "workshopdepot": "0",
+        "branches": {
+            "public": {
+                "buildid": "18493104",
+                "timeupdated": "1747407377"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
