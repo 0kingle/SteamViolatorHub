@@ -1,0 +1,28 @@
+{
+    "appid": "2762610",
+    "type": "Game",
+    "name": "Piranha Feeding",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28928416",
+    "update_time": "2025-05-12 03:22:38",
+    "depot": {
+        "2762611": {
+            "manifests": {
+                "public": {
+                    "gid": "7079168566285531419",
+                    "size": "204576525",
+                    "download": "70622480"
+                }
+            },
+            "decryptionkey": "ad491f571b39b81615e5ad6d73e0b0cb415168f0e542b8222df27a189b23557d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18346799",
+                "timeupdated": "1746452383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
