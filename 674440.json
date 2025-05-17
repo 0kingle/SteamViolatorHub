@@ -1,0 +1,56 @@
+{
+    "appid": "674440",
+    "type": "Game",
+    "name": "Skipper",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28716055",
+    "update_time": "2025-04-29 06:51:38",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,brazilian,bulgarian,greek,ukrainian",
+        "hasdepotsindlc": "0",
+        "674441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4845619028719492711",
+                    "size": "136836211",
+                    "download": "66771744"
+                }
+            },
+            "decryptionkey": "0e3d02783ca9b2168db4b2a6e54895e28b3c349658dd4b6526348b9633334337"
+        },
+        "674442": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7506809099384077955",
+                    "size": "151939008",
+                    "download": "72370000"
+                }
+            }
+        },
+        "674443": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2751914026672359124",
+                    "size": "149264515",
+                    "download": "69831072"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18271828",
+                "timeupdated": "1745880666"
+            }
+        }
+    }
+}
