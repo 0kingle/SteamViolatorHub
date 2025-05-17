@@ -1,0 +1,46 @@
+{
+    "appid": "926340",
+    "type": "Game",
+    "name": "Roman's Christmas / 罗曼圣诞探案集",
+    "schinese_name": "罗曼圣诞探案集",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 11:28:42",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "926341": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5412338271743892725",
+                    "size": "808308085",
+                    "download": "567577504"
+                }
+            },
+            "decryptionkey": "766e7d27ef7ff71889fb79d865627398fa5a8017f56882139339da3354f0c386"
+        },
+        "926342": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1534676971392409660",
+                    "size": "805099481",
+                    "download": "566322496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5742536",
+                "timeupdated": "1603792556"
+            }
+        }
+    }
+}
