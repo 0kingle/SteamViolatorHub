@@ -1,0 +1,29 @@
+{
+    "appid": "1932640",
+    "type": "Game",
+    "name": "Suikoden I&II HD Remaster Gate Rune and Dunan Unification Wars",
+    "schinese_name": "幻想水浒传1&2 HD复刻版",
+    "isfreeapp": "0",
+    "change_number": "28991051",
+    "update_time": "2025-05-15 06:53:08",
+    "depot": {
+        "1932641": {
+            "manifests": {
+                "public": {
+                    "gid": "8661085697874246284",
+                    "size": "10991193335",
+                    "download": "9040685984"
+                }
+            },
+            "decryptionkey": "8cbcc48378f983709b2bd2959cf190421f3e54c57008b7a1f81ba6bfd9aad886"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18064624",
+                "timeupdated": "1746061435"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
