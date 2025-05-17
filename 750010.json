@@ -1,0 +1,45 @@
+{
+    "appid": "750010",
+    "type": "Game",
+    "name": "Combat Tested",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:45:32",
+    "depot": {
+        "750011": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7076075702763781985",
+                    "size": "1128289127",
+                    "download": "426400624"
+                }
+            }
+        },
+        "750012": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4147734527884992473",
+                    "size": "3585491134",
+                    "download": "1406539040"
+                }
+            },
+            "decryptionkey": "e2ca2cd464ad152ca9e519669acc5b7e926ab4fa0b14403b4016cfc9a398ef51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3077120",
+                "timeupdated": "1535616471"
+            }
+        }
+    }
+}
