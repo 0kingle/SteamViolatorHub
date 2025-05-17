@@ -1,0 +1,53 @@
+{
+    "appid": "2447030",
+    "type": "Game",
+    "name": "Planetiles",
+    "schinese_name": "星球乐园",
+    "isfreeapp": "0",
+    "change_number": "29012131",
+    "update_time": "2025-05-16 05:48:41",
+    "depot": {
+        "2447031": {
+            "manifests": {
+                "public": {
+                    "gid": "2795379948045141062",
+                    "size": "371665735",
+                    "download": "112188080"
+                }
+            },
+            "decryptionkey": "f70cdf6a3ed698f73d57ba4d8ee36770b7cd7607f7b5f105ce09f52c43a7e841"
+        },
+        "2447032": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1514290638085882920",
+                    "size": "392309501",
+                    "download": "113861776"
+                }
+            }
+        },
+        "2447033": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8722898162876223593",
+                    "size": "377762034",
+                    "download": "117438144"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "branches": {
+            "public": {
+                "buildid": "15470293",
+                "timeupdated": "1727686661"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
