@@ -1,0 +1,44 @@
+{
+    "appid": "1006220",
+    "type": "Game",
+    "name": "Type Knight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28742246",
+    "update_time": "2025-04-30 14:21:19",
+    "depot": {
+        "1006221": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5512033854750607837",
+                    "size": "56775627",
+                    "download": "37488096"
+                }
+            },
+            "decryptionkey": "6657268a42e97c1b688bf86b84cd99a252cf416f9a2ca48238163d86e46120b1"
+        },
+        "1006222": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1254106793251230058",
+                    "size": "56115493",
+                    "download": "37195008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18291088",
+                "timeupdated": "1745994076"
+            }
+        }
+    }
+}
