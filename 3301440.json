@@ -1,0 +1,40 @@
+{
+    "appid": "3301440",
+    "type": "Music",
+    "name": "ZEPHON - Original Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28822536",
+    "update_time": "2025-05-05 21:05:16",
+    "depot": {
+        "3301441": {
+            "manifests": {
+                "public": {
+                    "gid": "8239061150118213730",
+                    "size": "353995482",
+                    "download": "353071808"
+                }
+            },
+            "decryptionkey": "533e5ebd7234798b183ba399a3d82b84906ec5027b8627598b528cb06b6dd6b2"
+        },
+        "3301442": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1139522133452423886",
+                    "size": "1582508883",
+                    "download": "1601798368"
+                }
+            },
+            "decryptionkey": "794c9d9f53cce78588db71b01754ec5852fbd9893be99c4a2d14eaca1d5aeba4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18346350",
+                "timeupdated": "1746449662"
+            }
+        }
+    }
+}
