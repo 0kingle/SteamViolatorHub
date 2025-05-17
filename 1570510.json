@@ -1,0 +1,46 @@
+{
+    "appid": "1570510",
+    "type": "Game",
+    "name": "Undernauts: Labyrinth of Yomi",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988182",
+    "update_time": "2025-05-15 03:26:35",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1570511": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8386441513891499505",
+                    "size": "2345853829",
+                    "download": "1905608704"
+                }
+            },
+            "decryptionkey": "689f842c40cfda7fd5ad0dd4a251982895c4b2f27e4ed6e528eec8b7febe7f7c"
+        },
+        "1570512": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8425814415711002502",
+                    "size": "2331182063",
+                    "download": "1876009728"
+                }
+            },
+            "decryptionkey": "789aeb3ee0e3e2e78678d8a87aa4a5522cd2894091c249983cb25e593456303b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9114416",
+                "timeupdated": "1657727078"
+            }
+        }
+    }
+}
