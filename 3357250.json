@@ -1,0 +1,28 @@
+{
+    "appid": "3357250",
+    "type": "Game",
+    "name": "Corner Kitchen Fast Food Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:48",
+    "depot": {
+        "3357251": {
+            "manifests": {
+                "public": {
+                    "gid": "601352828110304405",
+                    "size": "2258421208",
+                    "download": "2026508000"
+                }
+            },
+            "decryptionkey": "7156f71d76fb0864b54a9d43d870b985a491337e4ea4a94370bcf94c670722c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18464257",
+                "timeupdated": "1747245286"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
