@@ -1,0 +1,136 @@
+{
+    "appid": "1222650",
+    "type": "Tool",
+    "name": "Space Impossible Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28842147",
+    "update_time": "2025-05-06 21:20:03",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "1222651": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "971479738275221775",
+                    "size": "85610484",
+                    "download": "3181344"
+                },
+                "experimental": {
+                    "gid": "971479738275221775",
+                    "size": "85610484",
+                    "download": "3181344"
+                }
+            }
+        },
+        "1222652": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6271632491770878681",
+                    "size": "93155071",
+                    "download": "16794816"
+                },
+                "experimental": {
+                    "gid": "6271632491770878681",
+                    "size": "93155071",
+                    "download": "16794816"
+                }
+            }
+        },
+        "1222653": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4727685390390241923",
+                    "size": "108378379",
+                    "download": "16891936"
+                },
+                "experimental": {
+                    "gid": "4727685390390241923",
+                    "size": "108378379",
+                    "download": "16891936"
+                }
+            }
+        },
+        "1222654": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3541105604072499361",
+                    "size": "101148412",
+                    "download": "26635616"
+                },
+                "experimental": {
+                    "gid": "3541105604072499361",
+                    "size": "101148412",
+                    "download": "26635616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18134574",
+                "timeupdated": "1744835482"
+            },
+            "experimental": {
+                "buildid": "18134574",
+                "description": "Experimental",
+                "timeupdated": "1744835402"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
