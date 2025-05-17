@@ -1,0 +1,29 @@
+{
+    "appid": "2599770",
+    "type": "Game",
+    "name": "Tactical Warfare",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014863",
+    "update_time": "2025-05-16 09:52:17",
+    "depot": {
+        "2599771": {
+            "manifests": {
+                "public": {
+                    "gid": "7749552293563652716",
+                    "size": "9790163579",
+                    "download": "7189752192"
+                }
+            },
+            "decryptionkey": "d82fa44d507ef702920ae0fe0a7d8f15c82ce01563f67d2c2b7bd804d993c9d7"
+        },
+        "2599772": {},
+        "branches": {
+            "public": {
+                "buildid": "18415353",
+                "timeupdated": "1746899575"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
