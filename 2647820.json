@@ -1,0 +1,57 @@
+{
+    "appid": "2647820",
+    "type": "Game",
+    "name": "Ad Fundum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013706",
+    "update_time": "2025-05-16 08:06:45",
+    "depot": {
+        "2647821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2060024727094985888",
+                    "size": "383823756",
+                    "download": "65791840"
+                }
+            },
+            "decryptionkey": "412f58fb93d2a6fff4fb4bdf5ed0fea2d0acfe2a1df1db3eef0cebac72679521"
+        },
+        "2647822": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1981306452359309263",
+                    "size": "381870617",
+                    "download": "63515600"
+                }
+            }
+        },
+        "2647823": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4099908741101341223",
+                    "size": "405199056",
+                    "download": "72972048"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18016677",
+                "timeupdated": "1744059212"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
