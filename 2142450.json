@@ -1,0 +1,28 @@
+{
+    "appid": "2142450",
+    "type": "Game",
+    "name": "Z.O.N.A Project X",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28762591",
+    "update_time": "2025-05-01 11:33:38",
+    "depot": {
+        "2142451": {
+            "manifests": {
+                "public": {
+                    "gid": "7416032650568416057",
+                    "size": "12808800861",
+                    "download": "5614824704"
+                }
+            },
+            "decryptionkey": "ea78067971d1bf38d128300f3044e07505d61ba0ef1efb08d6267a02b6efc4b5"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18215682",
+                "timeupdated": "1745448911"
+            }
+        }
+    }
+}
