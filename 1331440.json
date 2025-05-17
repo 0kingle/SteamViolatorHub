@@ -1,0 +1,48 @@
+{
+    "appid": "1331440",
+    "type": "Game",
+    "name": "FUSER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:20:02",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "hasdepotsindlc": "1",
+        "1331441": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3504304450969605472",
+                    "size": "26276090149",
+                    "download": "19501809168"
+                }
+            },
+            "decryptionkey": "3c9cd93d2ccc41d5121efd490a94705e593f42c04d6fc431bee38aa7d50849b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10286705",
+                "timeupdated": "1673972068"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
