@@ -1,0 +1,27 @@
+{
+    "appid": "2990510",
+    "type": "Game",
+    "name": "SkyBrew: Entropic Strategist",
+    "schinese_name": "原地起啡 / SkyBrew: Entropic Strategist",
+    "isfreeapp": "0",
+    "change_number": "29015648",
+    "update_time": "2025-05-16 11:00:45",
+    "depot": {
+        "2990511": {
+            "manifests": {
+                "public": {
+                    "gid": "4616398368364462361",
+                    "size": "280126721",
+                    "download": "183682320"
+                }
+            },
+            "decryptionkey": "d808ccfc425a300b530f2d6c3798d3fbfe5802a5a4d499a6f618ffe7a3ba8063"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18266852",
+                "timeupdated": "1745852357"
+            }
+        }
+    }
+}
