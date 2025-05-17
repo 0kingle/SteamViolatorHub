@@ -1,0 +1,28 @@
+{
+    "appid": "3191050",
+    "type": "Game",
+    "name": "BRAZILIAN DRUG DEALER 3: I OPENED A PORTAL TO HELL IN THE FAVELA TRYING TO REVIVE MIT AIA I NEED TO CLOSE IT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015576",
+    "update_time": "2025-05-16 10:56:09",
+    "depot": {
+        "3191051": {
+            "manifests": {
+                "public": {
+                    "gid": "5831088165920953967",
+                    "size": "480789083",
+                    "download": "153033600"
+                }
+            },
+            "decryptionkey": "e97a6611a86761cb9413ca9d1e9acc72aa8505f58000f6082f159bae7b92b1fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18362912",
+                "timeupdated": "1746553203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
