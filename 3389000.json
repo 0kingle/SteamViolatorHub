@@ -1,0 +1,46 @@
+{
+    "appid": "3389000",
+    "type": "Demo",
+    "name": "Beyond Citadel Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27979319",
+    "update_time": "2025-03-16 16:28:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3389001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5637951906244408225",
+                    "size": "1534817795",
+                    "download": "1361054944"
+                }
+            },
+            "decryptionkey": "41ea0a1a1c56d322d25ea8ff2ab36e33c45718460b8f45e0b5c3bbdd61455591"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17026379",
+                "timeupdated": "1737030894"
+            }
+        }
+    }
+}
