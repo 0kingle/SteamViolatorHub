@@ -1,0 +1,43 @@
+{
+    "appid": "2487640",
+    "type": "Game",
+    "name": "A NOT Troll Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012475",
+    "update_time": "2025-05-16 06:18:45",
+    "depot": {
+        "2487642": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4986574285620084430",
+                    "size": "185808280",
+                    "download": "50906208"
+                }
+            },
+            "decryptionkey": "3b120ae2e8dbd58067c266e013bfe6352f961a817cfb76ae4f42fb24a4d36fdc"
+        },
+        "2487644": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8598254721438996365",
+                    "size": "201470054",
+                    "download": "57357408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18173677",
+                "timeupdated": "1745166229"
+            }
+        }
+    }
+}
