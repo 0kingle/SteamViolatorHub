@@ -1,0 +1,84 @@
+{
+    "appid": "1831480",
+    "type": "Game",
+    "name": "Sandbox World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011652",
+    "update_time": "2025-05-16 05:13:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese,russian",
+        "1831481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1307830086178744833",
+                    "size": "1588854454",
+                    "download": "567505664"
+                },
+                "beta": {
+                    "gid": "4300753448551438314",
+                    "size": "1588852242",
+                    "download": "567479472"
+                }
+            },
+            "decryptionkey": "9b8d50d661b01fc940fe30df39ca6e2c929797453b55d07f574efff3570c8817"
+        },
+        "1831484": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5744136974737712133",
+                    "size": "1522809004",
+                    "download": "551509664"
+                },
+                "beta": {
+                    "gid": "5744136974737712133",
+                    "size": "1522809004",
+                    "download": "551509664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1831485": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3295257863792217358",
+                    "size": "1524044555",
+                    "download": "552502784"
+                },
+                "beta": {
+                    "gid": "3546857178012889947",
+                    "size": "1503643410",
+                    "download": "545289184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18199067",
+                "timeupdated": "1745356927"
+            },
+            "beta": {
+                "buildid": "18088946",
+                "description": "Beta version",
+                "timeupdated": "1744538746"
+            }
+        }
+    }
+}
