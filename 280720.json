@@ -1,0 +1,82 @@
+{
+    "appid": "280720",
+    "type": "Game",
+    "name": "Imagine Earth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971263",
+    "update_time": "2025-05-14 09:17:48",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,czech,turkish,brazilian",
+        "workshopdepot": "280720",
+        "280721": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7725700744059327972",
+                    "size": "1204662608",
+                    "download": "1023622800"
+                },
+                "windows7": {
+                    "gid": "2600225817670377064",
+                    "size": "1113662477",
+                    "download": "952584400"
+                }
+            },
+            "decryptionkey": "4f4bca96a3f8b3b6d54c2f6ecc467d19705fe8f86fb9faf58271c630d67e5a7b"
+        },
+        "280722": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2675644104444160967",
+                    "size": "1238433771",
+                    "download": "1029009056"
+                },
+                "windows7": {
+                    "gid": "8869179559076508013",
+                    "size": "1138759992",
+                    "download": "956681536"
+                }
+            },
+            "decryptionkey": "2252baf3e3bfcd59aedb2870276279fcd5d562fc58932386cdce0a08b0309d34"
+        },
+        "280723": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "227616579150656496",
+                    "size": "1331373849",
+                    "download": "1054057472"
+                },
+                "windows7": {
+                    "gid": "6950430610964479814",
+                    "size": "1202434179",
+                    "download": "967490624"
+                }
+            },
+            "decryptionkey": "4088f8dab7eb61e91d8c67b0e5d7d58cf2e6248726d8492294bf469b140edd94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18428483",
+                "timeupdated": "1747129838"
+            },
+            "windows7": {
+                "buildid": "17469031",
+                "description": "Last version that worked with windows 7. Savegames of current game version will not work here.",
+                "timeupdated": "1741867547"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "262c046d9ba341258d045f9ecd1b00f50d71ee8f67bab7f9b3bbccb42908c9bc"
+    }
+}
