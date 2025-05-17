@@ -1,0 +1,48 @@
+{
+    "appid": "3035500",
+    "type": "Game",
+    "name": "Fantasy Map Simulator",
+    "schinese_name": "架空地图模拟器",
+    "isfreeapp": "0",
+    "change_number": "29015909",
+    "update_time": "2025-05-16 11:24:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3035501": {
+            "manifests": {
+                "public": {
+                    "gid": "4531860766397851980",
+                    "size": "678668721",
+                    "download": "234722896"
+                },
+                "public-beta": {
+                    "gid": "5891028026323116531",
+                    "size": "680973053",
+                    "download": "242096208"
+                }
+            },
+            "decryptionkey": "94673b1ae3605b9caf7d167097a8ff459dde31b918ffd8d5c85f2187001485d4"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
+        "workshopdepot": "3035500",
+        "branches": {
+            "public": {
+                "buildid": "17934269",
+                "timeupdated": "1743483235"
+            },
+            "public-beta": {
+                "buildid": "18479488",
+                "description": "public 测试",
+                "timeupdated": "1747335811"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "dea9afa9c01b7812e39cb868d6e73a3d445c3503b489b30bf23eb72317aa71dd"
+    }
+}
