@@ -1,0 +1,66 @@
+{
+    "appid": "2481020",
+    "type": "Game",
+    "name": "Vampire Therapist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012394",
+    "update_time": "2025-05-16 06:12:55",
+    "depot": {
+        "2481021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6151616828137357116",
+                    "size": "2508325616",
+                    "download": "2131564144"
+                }
+            },
+            "decryptionkey": "e5ae19d84ad6b1ca2c7c49510a399765c6903bd71041e64d75598304bf702069"
+        },
+        "2481022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3416961521217621195",
+                    "size": "2530065831",
+                    "download": "2133980640"
+                }
+            }
+        },
+        "2481023": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1547771266023238282",
+                    "size": "2508884918",
+                    "download": "2128993392"
+                }
+            }
+        },
+        "3643880": {
+            "dlcappid": "3643880",
+            "manifests": {
+                "public": {
+                    "gid": "518110493711507106",
+                    "size": "140072987",
+                    "download": "134576384"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18118415",
+                "timeupdated": "1744745389"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
