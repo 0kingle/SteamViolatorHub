@@ -1,0 +1,28 @@
+{
+    "appid": "3140620",
+    "type": "Game",
+    "name": "C.A.S.T.",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28819301",
+    "update_time": "2025-05-05 17:05:38",
+    "depot": {
+        "3140621": {
+            "manifests": {
+                "public": {
+                    "gid": "2179508760295761080",
+                    "size": "2546690920",
+                    "download": "702774240"
+                }
+            },
+            "decryptionkey": "6b666c3790c092f34983d87895ab3adc087fc195a6eafe8cd3c85ac64f26636c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18309549",
+                "timeupdated": "1746105227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
