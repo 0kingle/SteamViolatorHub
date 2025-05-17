@@ -1,0 +1,89 @@
+{
+    "appid": "2858150",
+    "type": "Game",
+    "name": "Airships: Lost Flotilla",
+    "schinese_name": "失落舰队",
+    "isfreeapp": "0",
+    "change_number": "29014948",
+    "update_time": "2025-05-16 10:00:46",
+    "depot": {
+        "2858151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5866382094616185542",
+                    "size": "826094514",
+                    "download": "255269728"
+                },
+                "demo": {
+                    "gid": "5295220605388472202",
+                    "size": "683407382",
+                    "download": "171054736"
+                },
+                "donotuse": {
+                    "gid": "1953825748387316554",
+                    "size": "824340472",
+                    "download": "254995856"
+                },
+                "test": {
+                    "gid": "5866382094616185542",
+                    "size": "826094514",
+                    "download": "255269728"
+                }
+            },
+            "decryptionkey": "6098e8439ab4facbc0c97bece65039085d8ba9d4122d5774d2b920e0bf7a619b"
+        },
+        "2858152": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6241830262002170395",
+                    "size": "826350788",
+                    "download": "254669136"
+                },
+                "demo": {
+                    "gid": "1392310005245266990",
+                    "size": "683677828",
+                    "download": "170459616"
+                },
+                "donotuse": {
+                    "gid": "2293141630029650568",
+                    "size": "824596750",
+                    "download": "254395152"
+                },
+                "test": {
+                    "gid": "6241830262002170395",
+                    "size": "826350788",
+                    "download": "254669136"
+                }
+            }
+        },
+        "workshopdepot": "2858150",
+        "branches": {
+            "public": {
+                "buildid": "18345997",
+                "timeupdated": "1746453417"
+            },
+            "demo": {
+                "buildid": "16421199",
+                "description": "Demo test",
+                "timeupdated": "1737818845"
+            },
+            "donotuse": {
+                "buildid": "17548188",
+                "description": "Dead dove do not execute",
+                "timeupdated": "1740752642"
+            },
+            "test": {
+                "buildid": "18345997",
+                "description": "Test branch, do not use",
+                "timeupdated": "1746447391"
+            }
+        },
+        "workshopdepotdecryptionkey": "938a1e856eb9ed43f7d5e4b3d37dbb8e91c824f1c7db6abc09959f6d2a19278a"
+    }
+}
