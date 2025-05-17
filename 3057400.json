@@ -1,0 +1,27 @@
+{
+    "appid": "3057400",
+    "type": "Game",
+    "name": "Zombie War:New World",
+    "schinese_name": "七日求生：新世界",
+    "isfreeapp": "0",
+    "change_number": "28955222",
+    "update_time": "2025-05-13 15:38:29",
+    "depot": {
+        "3057401": {
+            "manifests": {
+                "public": {
+                    "gid": "2930118065551913797",
+                    "size": "22242386533",
+                    "download": "8922382640"
+                }
+            },
+            "decryptionkey": "e8a27943cb2acd40759a12aa97189d2f84019dc6b7869cb7442e9d558e336c72"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18440599",
+                "timeupdated": "1747121905"
+            }
+        }
+    }
+}
