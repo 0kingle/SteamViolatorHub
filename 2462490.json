@@ -1,0 +1,45 @@
+{
+    "appid": "2462490",
+    "type": "Demo",
+    "name": "Wicked Island Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28569383",
+    "update_time": "2025-04-20 13:59:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2462492": {},
+        "2462491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "898423508655574881",
+                    "size": "7115534348",
+                    "download": "6723538544"
+                }
+            },
+            "decryptionkey": "aeb1f526b6194e9aff41a089faf5a9bfdfcb5e570eea8beb6a25716e63184e9f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17394906",
+                "timeupdated": "1739806661"
+            }
+        }
+    }
+}
