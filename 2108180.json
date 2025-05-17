@@ -1,0 +1,77 @@
+{
+    "appid": "2108180",
+    "type": "Game",
+    "name": "SWORDHAVEN",
+    "schinese_name": "剑湾奇旅",
+    "isfreeapp": "0",
+    "change_number": "29021565",
+    "update_time": "2025-05-16 18:04:25",
+    "depot": {
+        "2108181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3391575190416945606",
+                    "size": "7930505049",
+                    "download": "3329091696"
+                },
+                "beta": {
+                    "gid": "2595512163356571117",
+                    "size": "7939258361",
+                    "download": "3331640000"
+                }
+            },
+            "decryptionkey": "a37535e60a7271c54be954c0153730a979fc027cad187830c9bd0490f3e53710"
+        },
+        "2108182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8884007951071884227",
+                    "size": "7989161801",
+                    "download": "3353796800"
+                },
+                "beta": {
+                    "gid": "8884007951071884227",
+                    "size": "7989161801",
+                    "download": "3353796800"
+                }
+            }
+        },
+        "2108183": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5069036218520342692",
+                    "size": "8209933206",
+                    "download": "3397613584"
+                },
+                "beta": {
+                    "gid": "5069036218520342692",
+                    "size": "8209933206",
+                    "download": "3397613584"
+                }
+            }
+        },
+        "workshopdepot": "2108180",
+        "branches": {
+            "public": {
+                "buildid": "18455783",
+                "timeupdated": "1747205805"
+            },
+            "beta": {
+                "buildid": "18489313",
+                "description": "Beta builds",
+                "timeupdated": "1747389858"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
