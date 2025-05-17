@@ -1,0 +1,56 @@
+{
+    "appid": "2722740",
+    "type": "Game",
+    "name": "Watermelon Suika Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014231",
+    "update_time": "2025-05-16 08:48:45",
+    "depot": {
+        "baselanguages": "english,spanish,schinese,russian,japanese,brazilian",
+        "2722741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "39480298644873465",
+                    "size": "356012965",
+                    "download": "52119968"
+                }
+            },
+            "decryptionkey": "e4c0cf61f2291b6eadc2c55b20a57aab00720cf9e363ff144823513d91ca848d"
+        },
+        "2722742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "241458405759030814",
+                    "size": "369275875",
+                    "download": "57812160"
+                }
+            }
+        },
+        "2722743": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4665820765711359089",
+                    "size": "356012965",
+                    "download": "52117248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16987352",
+                "timeupdated": "1736780624"
+            }
+        }
+    }
+}
