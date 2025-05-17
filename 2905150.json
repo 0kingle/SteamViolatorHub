@@ -1,0 +1,29 @@
+{
+    "appid": "2905150",
+    "type": "Game",
+    "name": "遗忘魔塔",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28482167",
+    "update_time": "2025-04-15 15:55:55",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2905151": {
+            "manifests": {
+                "public": {
+                    "gid": "1760785303364023454",
+                    "size": "265281477",
+                    "download": "98544064"
+                }
+            },
+            "decryptionkey": "ba9d882c7516366afa37356af11089b5d4244921dd6e1503384153ef3c9b9454"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18110168",
+                "timeupdated": "1744703749"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
