@@ -1,0 +1,33 @@
+{
+    "appid": "2154730",
+    "type": "Game",
+    "name": "Building Destruction",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011652",
+    "update_time": "2025-05-16 05:13:17",
+    "depot": {
+        "2154731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6523106961165252077",
+                    "size": "1255497323",
+                    "download": "477128576"
+                }
+            },
+            "decryptionkey": "6812d00f66a5b39bae27820c297f74d8fc5c118e08445f074330ce0698c77ffc"
+        },
+        "workshopdepot": "2154730",
+        "branches": {
+            "public": {
+                "buildid": "15437672",
+                "timeupdated": "1724175550"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "496cb583edc2345747e48000b422c72b44cc15fdb4c2818301a1e4e5d70793e8"
+    }
+}
