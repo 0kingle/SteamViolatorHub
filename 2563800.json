@@ -1,0 +1,44 @@
+{
+    "appid": "2563800",
+    "type": "Game",
+    "name": "The Last Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013074",
+    "update_time": "2025-05-16 07:12:46",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
+        "2563801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2856884857736277781",
+                    "size": "116063160",
+                    "download": "39470016"
+                }
+            },
+            "decryptionkey": "9d3d5574e946c291e66b5bb507aa9cbb6eac7a5b36d11d08f380d5416eba2137"
+        },
+        "2563802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5753961750083649955",
+                    "size": "201207205",
+                    "download": "58075344"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17912060",
+                "timeupdated": "1743285667"
+            }
+        }
+    }
+}
