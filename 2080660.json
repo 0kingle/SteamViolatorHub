@@ -1,0 +1,27 @@
+{
+    "appid": "2080660",
+    "type": "Game",
+    "name": "Bright Garden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013473",
+    "update_time": "2025-05-16 07:50:20",
+    "depot": {
+        "2080661": {
+            "manifests": {
+                "public": {
+                    "gid": "68008168225801899",
+                    "size": "75480942",
+                    "download": "22247744"
+                }
+            },
+            "decryptionkey": "abe54730e31f9ebf55b9097770fbd9b5e1c5310f37ec76069ac34b4872684b67"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9176959",
+                "timeupdated": "1658572445"
+            }
+        }
+    }
+}
