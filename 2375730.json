@@ -1,0 +1,27 @@
+{
+    "appid": "2375730",
+    "type": "Game",
+    "name": "Mercenaries of the Kingdom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011300",
+    "update_time": "2025-05-16 04:48:48",
+    "depot": {
+        "2375731": {
+            "manifests": {
+                "public": {
+                    "gid": "1876844772602514235",
+                    "size": "785192579",
+                    "download": "195555648"
+                }
+            },
+            "decryptionkey": "3d50c338050f3bbd4b8fe6aa21d977cb2875d64547b0852042c0473681b8f405"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15104967",
+                "timeupdated": "1721578377"
+            }
+        }
+    }
+}
