@@ -1,0 +1,47 @@
+{
+    "appid": "2126680",
+    "type": "Game",
+    "name": "Lust Academy Season 2",
+    "schinese_name": "欲望学院 2",
+    "isfreeapp": "0",
+    "change_number": "29008930",
+    "update_time": "2025-05-16 02:12:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2126681": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8492747657290133487",
+                    "size": "4387045134",
+                    "download": "4197350432"
+                }
+            },
+            "decryptionkey": "9db3c5f4c6827bcdef0c529f6881912556efbacec8964cf7a1ec5e3efadc5b50"
+        },
+        "2126682": {
+            "dlcappid": "2361800"
+        },
+        "2126683": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6720427335951260118",
+                    "size": "4292436368",
+                    "download": "4170164688"
+                }
+            },
+            "decryptionkey": "6ac6d25c211f3a8c68e0b88306d36e1e97a8038c4087a70c6b6668b738487a72"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18312438",
+                "timeupdated": "1746124039"
+            }
+        }
+    }
+}
