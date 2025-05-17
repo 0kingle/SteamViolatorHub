@@ -1,0 +1,71 @@
+{
+    "appid": "1068660",
+    "type": "Demo",
+    "name": "Multiverse Designer Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011081",
+    "update_time": "2025-05-16 04:34:17",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1068661": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6748372674892453227",
+                    "size": "96546770372",
+                    "download": "88163037696"
+                }
+            },
+            "decryptionkey": "db55d4e49bab9e80ab071ce444f5f0bed19b85a51e21978daca1c488aa974e11"
+        },
+        "workshopdepot": "1068660",
+        "branches": {
+            "public": {
+                "buildid": "17551206",
+                "timeupdated": "1740771085"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9adb55a668cac035bb3ff7a87fbe608292f698fa222bb8395376dfb0cf63a7ae"
+    }
+}
