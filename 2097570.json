@@ -1,0 +1,43 @@
+{
+    "appid": "2097570",
+    "type": "Game",
+    "name": "StarVaders",
+    "schinese_name": "星之侵略者",
+    "isfreeapp": "0",
+    "change_number": "29008646",
+    "update_time": "2025-05-16 01:54:48",
+    "depot": {
+        "2097571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7791702747236770000",
+                    "size": "808170191",
+                    "download": "488682480"
+                }
+            },
+            "decryptionkey": "162f5956918437b675aeb87b3b4b3392bb4b253d3d41aeb4701ffa463b0d1f1e"
+        },
+        "2097572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7610283001861313751",
+                    "size": "863775732",
+                    "download": "504408768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494232",
+                "timeupdated": "1747412807"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
