@@ -1,0 +1,37 @@
+{
+    "appid": "2511500",
+    "type": "Game",
+    "name": "Dominions 6",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012695",
+    "update_time": "2025-05-16 06:36:41",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2511501": {
+            "manifests": {
+                "public": {
+                    "gid": "837868385618600050",
+                    "size": "720575406",
+                    "download": "358884288"
+                }
+            },
+            "decryptionkey": "6b58ad19cccc805f5adc2d5cface5a64b6490949e613e5355945ad000126266a"
+        },
+        "workshopdepot": "2511500",
+        "branches": {
+            "public": {
+                "buildid": "18194845",
+                "timeupdated": "1745334585"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "05c2f1798694459e11e20ab9299dd447f44ec3327fd3ee8bbdb004b7d48af94f"
+    }
+}
