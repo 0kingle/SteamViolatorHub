@@ -1,0 +1,81 @@
+{
+    "appid": "2019790",
+    "type": "DLC",
+    "name": "Liftoff - Slipstream",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28738167",
+    "update_time": "2025-04-30 08:17:28",
+    "depot": {
+        "2019791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6691095137892503501",
+                    "size": "453319919",
+                    "download": "398719088"
+                },
+                "liftoff_1.4.10": {
+                    "gid": "2154162973872170749",
+                    "size": "451686622",
+                    "download": "397364480"
+                }
+            },
+            "dlcappid": "2019790",
+            "decryptionkey": "1051ab2c812f27beb32e2ce9fd5a4db6422576fcdb6f349dee1e9c0861356af1"
+        },
+        "2019792": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1769805663611434926",
+                    "size": "451570909",
+                    "download": "398230512"
+                },
+                "liftoff_1.4.10": {
+                    "gid": "1688721099704384918",
+                    "size": "448893038",
+                    "download": "395265600"
+                }
+            },
+            "dlcappid": "2019790"
+        },
+        "2019793": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8332971491245359517",
+                    "size": "452979778",
+                    "download": "398534032"
+                },
+                "liftoff_1.4.10": {
+                    "gid": "5718358982979568341",
+                    "size": "451326986",
+                    "download": "396350848"
+                }
+            },
+            "dlcappid": "2019790"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18286123",
+                "timeupdated": "1745960971"
+            },
+            "liftoff_1.4.10": {
+                "buildid": "9940939",
+                "description": "Liftoff Legacy v1.4",
+                "timeupdated": "1674033911"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
