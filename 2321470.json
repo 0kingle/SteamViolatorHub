@@ -1,0 +1,28 @@
+{
+    "appid": "2321470",
+    "type": "Game",
+    "name": "Deep Rock Galactic: Survivor",
+    "schinese_name": "深岩银河：幸存者",
+    "isfreeapp": "0",
+    "change_number": "29020879",
+    "update_time": "2025-05-16 17:27:04",
+    "depot": {
+        "2321471": {
+            "manifests": {
+                "public": {
+                    "gid": "2442071377255205983",
+                    "size": "3151197120",
+                    "download": "1812079536"
+                }
+            },
+            "decryptionkey": "18154d412c1c3c3719d8f05c119354536a5228cdd169ca75488708a215c1cddf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18023141",
+                "timeupdated": "1744106501"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
