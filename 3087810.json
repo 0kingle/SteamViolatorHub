@@ -1,0 +1,33 @@
+{
+    "appid": "3087810",
+    "type": "Game",
+    "name": "Recesses",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016152",
+    "update_time": "2025-05-16 11:48:46",
+    "depot": {
+        "3087811": {
+            "manifests": {
+                "public": {
+                    "gid": "1323576008483988590",
+                    "size": "242073080",
+                    "download": "160994528"
+                }
+            },
+            "decryptionkey": "a44085d4ba5d3448d3c03b1d946e4dd5a11e57b4624eceb20b1e3de96bedc109"
+        },
+        "3087812": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17890200",
+                "timeupdated": "1743117396"
+            }
+        }
+    }
+}
