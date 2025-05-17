@@ -1,0 +1,40 @@
+{
+    "appid": "1798220",
+    "type": "Game",
+    "name": "Adult Puzzles - Hentai Halloween",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28851023",
+    "update_time": "2025-05-07 07:10:33",
+    "depot": {
+        "1798221": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6891250517915496434",
+                    "size": "146753763",
+                    "download": "26685600"
+                }
+            },
+            "decryptionkey": "f9ab0cfadb2b753000a3d42e65da6435666536e08376e19d5cb9283a6a78e3d7"
+        },
+        "1798800": {
+            "dlcappid": "1798800",
+            "manifests": {
+                "public": {
+                    "gid": "2252989138311595298",
+                    "size": "605084",
+                    "download": "413840"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7576472",
+                "timeupdated": "1634841136"
+            }
+        }
+    }
+}
