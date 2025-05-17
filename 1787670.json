@@ -1,0 +1,54 @@
+{
+    "appid": "1787670",
+    "type": "Game",
+    "name": "A Fishy RPG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 10:39:26",
+    "depot": {
+        "1787671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "984881894581980610",
+                    "size": "227352443",
+                    "download": "89140720"
+                }
+            },
+            "decryptionkey": "a92f4fb1a5f8fe10821d2ff1d4751f761d3c9c9a8a8b79dd1cf87ccab3656c03"
+        },
+        "1787672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5851580103997904438",
+                    "size": "211080783",
+                    "download": "82924032"
+                }
+            }
+        },
+        "1787673": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1805369664348935800",
+                    "size": "103074055",
+                    "download": "103492016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10642227",
+                "timeupdated": "1677452959"
+            }
+        }
+    }
+}
