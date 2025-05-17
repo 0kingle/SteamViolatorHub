@@ -1,0 +1,359 @@
+{
+    "appid": "447020",
+    "type": "Game",
+    "name": "Farming Simulator 17",
+    "schinese_name": "模拟农场17",
+    "isfreeapp": "0",
+    "change_number": "28973544",
+    "update_time": "2025-05-14 12:47:50",
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "447021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3200176131199348900",
+                    "size": "7045661190",
+                    "download": "3744197200"
+                },
+                "patch1.2": {
+                    "gid": "1695381267291701423",
+                    "size": "6998517684",
+                    "download": "3723756416"
+                },
+                "patch1.3": {
+                    "gid": "1447179026293310697",
+                    "size": "7007367712",
+                    "download": "3730879088"
+                },
+                "patch1.4": {
+                    "gid": "7664791536121056073",
+                    "size": "7028052311",
+                    "download": "3735060992"
+                },
+                "patch1.4.4": {
+                    "gid": "7521503254597842341",
+                    "size": "7028066563",
+                    "download": "3735070160"
+                },
+                "patch1.5.1": {
+                    "gid": "7180571375470737171",
+                    "size": "7044367839",
+                    "download": "3743273280"
+                }
+            },
+            "decryptionkey": "4bbd0156cf66a7b9dcb3559be8770b2fd08d5fb2ed552a8564d89540def11e23"
+        },
+        "447022": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1211789679819813076",
+                    "size": "6933548148",
+                    "download": "3682891088"
+                },
+                "patch1.2": {
+                    "gid": "3399364972777959772",
+                    "size": "6895402849",
+                    "download": "3668570944"
+                },
+                "patch1.3": {
+                    "gid": "338657326364370461",
+                    "size": "6902416241",
+                    "download": "3674691216"
+                },
+                "patch1.4": {
+                    "gid": "4968338337024781453",
+                    "size": "6920370041",
+                    "download": "3677622736"
+                },
+                "patch1.4.4": {
+                    "gid": "451627422341950124",
+                    "size": "6920387541",
+                    "download": "3677626480"
+                },
+                "patch1.5.1": {
+                    "gid": "6473629380516482142",
+                    "size": "6933570522",
+                    "download": "3683127024"
+                }
+            },
+            "decryptionkey": "c59cf326a6fe193d8c66935b13e002db3453579001dde0109e5e7e6f6da7d2b8"
+        },
+        "447023": {
+            "config": {
+                "language": "english"
+            }
+        },
+        "447024": {
+            "config": {
+                "language": "german"
+            }
+        },
+        "447025": {
+            "config": {
+                "language": "french"
+            }
+        },
+        "447026": {
+            "config": {
+                "language": "italian"
+            }
+        },
+        "447027": {
+            "config": {
+                "language": "koreana"
+            }
+        },
+        "447028": {
+            "config": {
+                "language": "spanish"
+            }
+        },
+        "447029": {
+            "config": {
+                "language": "schinese"
+            }
+        },
+        "447030": {
+            "config": {
+                "language": "tchinese"
+            }
+        },
+        "447031": {
+            "config": {
+                "language": "russian"
+            }
+        },
+        "447032": {
+            "config": {
+                "language": "japanese"
+            }
+        },
+        "447033": {
+            "config": {
+                "language": "portuguese"
+            }
+        },
+        "447034": {
+            "config": {
+                "language": "polish"
+            }
+        },
+        "447035": {
+            "config": {
+                "language": "dutch"
+            }
+        },
+        "447036": {
+            "config": {
+                "language": "hungarian"
+            }
+        },
+        "447037": {
+            "config": {
+                "language": "czech"
+            }
+        },
+        "447038": {
+            "config": {
+                "language": "romanian"
+            }
+        },
+        "447039": {
+            "config": {
+                "language": "turkish"
+            }
+        },
+        "535772": {
+            "config": {
+                "language": "brazilian"
+            }
+        },
+        "535770": {
+            "dlcappid": "535770",
+            "manifests": {
+                "public": {
+                    "gid": "5786808917253607653",
+                    "size": "24319979",
+                    "download": "24432448"
+                },
+                "patch1.2": {
+                    "gid": "5786808917253607653",
+                    "size": "24319979",
+                    "download": "24432448"
+                },
+                "patch1.3": {
+                    "gid": "5786808917253607653",
+                    "size": "24319979",
+                    "download": "24432448"
+                },
+                "patch1.4": {
+                    "gid": "5786808917253607653",
+                    "size": "24319979",
+                    "download": "24432448"
+                },
+                "patch1.4.4": {
+                    "gid": "5786808917253607653",
+                    "size": "24319979",
+                    "download": "24432448"
+                },
+                "patch1.5.1": {
+                    "gid": "5786808917253607653",
+                    "size": "24319979",
+                    "download": "24432448"
+                }
+            },
+            "decryptionkey": "4211181a7794d83c5e84689a1b4291372babac7e630e24be957ba062478a9ea2"
+        },
+        "535771": {
+            "dlcappid": "535771",
+            "manifests": {
+                "public": {
+                    "gid": "6781000461541853128",
+                    "size": "33089939",
+                    "download": "33121184"
+                },
+                "patch1.2": {
+                    "gid": "6781000461541853128",
+                    "size": "33089939",
+                    "download": "33121184"
+                },
+                "patch1.3": {
+                    "gid": "6781000461541853128",
+                    "size": "33089939",
+                    "download": "33121184"
+                },
+                "patch1.4": {
+                    "gid": "6781000461541853128",
+                    "size": "33089939",
+                    "download": "33121184"
+                },
+                "patch1.4.4": {
+                    "gid": "6781000461541853128",
+                    "size": "33089939",
+                    "download": "33121184"
+                },
+                "patch1.5.1": {
+                    "gid": "6781000461541853128",
+                    "size": "33089939",
+                    "download": "33121184"
+                }
+            },
+            "decryptionkey": "2d8bae2b6235d2ed65e0f0fb99bec5a8e8c94fb5f4a6139cf063b73ae5d5fb54"
+        },
+        "570220": {
+            "dlcappid": "570220",
+            "manifests": {
+                "public": {
+                    "gid": "3109025070267974371",
+                    "size": "308527104",
+                    "download": "237976704"
+                },
+                "patch1.4": {
+                    "gid": "3109025070267974371",
+                    "size": "308527104",
+                    "download": "237976704"
+                },
+                "patch1.4.4": {
+                    "gid": "3109025070267974371",
+                    "size": "308527104",
+                    "download": "237976704"
+                },
+                "patch1.5.1": {
+                    "gid": "3109025070267974371",
+                    "size": "308527104",
+                    "download": "237976704"
+                }
+            },
+            "decryptionkey": "7ec03110892ae1557b1ffa299f66b84e4efb93628c933ce564da0562b34e961f"
+        },
+        "605550": {
+            "dlcappid": "605550",
+            "manifests": {
+                "public": {
+                    "gid": "394082093636787801",
+                    "size": "520460800",
+                    "download": "397005888"
+                },
+                "patch1.4.4": {
+                    "gid": "394082093636787801",
+                    "size": "520460800",
+                    "download": "397005888"
+                },
+                "patch1.5.1": {
+                    "gid": "394082093636787801",
+                    "size": "520460800",
+                    "download": "397005888"
+                }
+            },
+            "decryptionkey": "8b5ee2bc071e4b0ba0da0f2583efe4b654d23f28fa6fabdd5bff2afd598644e0"
+        },
+        "635330": {
+            "dlcappid": "635330",
+            "manifests": {
+                "public": {
+                    "gid": "1241482988806280624",
+                    "size": "2173904896",
+                    "download": "1708992464"
+                }
+            },
+            "decryptionkey": "96b74f342657057b257593ea33c16e784a36c8f7a8c1f876e90c982de0d80cc2"
+        },
+        "635290": {
+            "dlcappid": "635290",
+            "manifests": {
+                "public": {
+                    "gid": "3228670075091351069",
+                    "size": "186884096",
+                    "download": "156820208"
+                }
+            },
+            "decryptionkey": "00ff372d3da175bfd669051453c3e0ce7bd21394df63420a590b87f429554fa3"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "2531139",
+                "timeupdated": "1519998988"
+            },
+            "patch1.2": {
+                "buildid": "1435342",
+                "description": "Game with Version 1.2",
+                "timeupdated": "1478863257"
+            },
+            "patch1.3": {
+                "buildid": "1480680",
+                "description": "Game with Version 1.3",
+                "timeupdated": "1486465630"
+            },
+            "patch1.4": {
+                "buildid": "1764928",
+                "description": "Game with Version 1.4",
+                "timeupdated": "1492521956"
+            },
+            "patch1.4.4": {
+                "buildid": "1794016",
+                "description": "Game with Version 1.4.4",
+                "timeupdated": "1509613828"
+            },
+            "patch1.5.1": {
+                "buildid": "2201974",
+                "description": "Game with Version 1.5.1",
+                "timeupdated": "1508158337"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
