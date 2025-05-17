@@ -1,0 +1,47 @@
+{
+    "appid": "3327670",
+    "type": "Game",
+    "name": "Grand MALL Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987916",
+    "update_time": "2025-05-15 03:07:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3327671": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3565688751209319448",
+                    "size": "6370345236",
+                    "download": "6112130976"
+                }
+            },
+            "decryptionkey": "a6bff198ac577bef90b1b618254c7ca72707445512d3fb30c6e965a1d337152d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18465331",
+                "timeupdated": "1747249641"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
