@@ -1,0 +1,43 @@
+{
+    "appid": "3230990",
+    "type": "Game",
+    "name": "Lust Academy Final",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017669",
+    "update_time": "2025-05-16 14:16:34",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3230991": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1197554488234730067",
+                    "size": "6680347316",
+                    "download": "6532467824"
+                }
+            },
+            "decryptionkey": "d1d5e360e6e5b5afa62ed0da2468da1f817a853154bbe5e502caf1846539504c"
+        },
+        "3230992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "667545225453063417",
+                    "size": "6667652709",
+                    "download": "6526678352"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18389538",
+                "timeupdated": "1746711395"
+            }
+        }
+    }
+}
