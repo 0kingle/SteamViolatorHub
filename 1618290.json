@@ -1,0 +1,32 @@
+{
+    "appid": "1618290",
+    "type": "Game",
+    "name": "TRAIN CREW",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:12",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1618291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3678658262360219420",
+                    "size": "6206981205",
+                    "download": "3080198608"
+                }
+            },
+            "decryptionkey": "92da90c72e7bad853a950e21eb2507ecd64869c4bffb65fc55c9b87373bf883f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18400507",
+                "timeupdated": "1746781474"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
