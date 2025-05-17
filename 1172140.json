@@ -1,0 +1,44 @@
+{
+    "appid": "1172140",
+    "type": "Game",
+    "name": "Monster Battles: TCG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984653",
+    "update_time": "2025-05-15 00:00:43",
+    "depot": {
+        "1172141": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5848654876372977452",
+                    "size": "577745520",
+                    "download": "199569952"
+                }
+            }
+        },
+        "1172142": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2515558033681763122",
+                    "size": "204085210",
+                    "download": "171848064"
+                }
+            },
+            "decryptionkey": "b70ec5d2f9c0c782c4516bddc0f39841165b509fc661f055f024e4a80ba7a5ec"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "7271676",
+                "timeupdated": "1630393883"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
