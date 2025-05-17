@@ -1,0 +1,60 @@
+{
+    "appid": "2212700",
+    "type": "DLC",
+    "name": "The Book of Bondmaids - Tales",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28388623",
+    "update_time": "2025-04-09 22:54:06",
+    "depot": {
+        "2212701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6874772122054674902",
+                    "size": "1499547",
+                    "download": "1179152"
+                }
+            },
+            "dlcappid": "2212700",
+            "decryptionkey": "b28765ed195c23a759eff15fb1d97b87c3116c43a0535d651cf6da3ef47c6697"
+        },
+        "2212702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6662590627903475796",
+                    "size": "1499547",
+                    "download": "1179152"
+                }
+            },
+            "dlcappid": "2212700",
+            "decryptionkey": "032e4fd4778798467db8b6f3a72a1e597f77f2469605f39203e83b19aa7c8bbe"
+        },
+        "2212703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7029036661325606422",
+                    "size": "1499547",
+                    "download": "1179152"
+                }
+            },
+            "dlcappid": "2212700",
+            "decryptionkey": "0e7b3a6c255277f84ccf02680044aa4476e5cf12e3a7844c346ad80dd830f63d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18042776",
+                "timeupdated": "1744210438"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
