@@ -1,0 +1,28 @@
+{
+    "appid": "2609610",
+    "type": "Game",
+    "name": "CONVRGENCE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013400",
+    "update_time": "2025-05-16 07:42:42",
+    "depot": {
+        "2609611": {
+            "manifests": {
+                "public": {
+                    "gid": "237897481973886826",
+                    "size": "11207797559",
+                    "download": "5151729072"
+                }
+            },
+            "decryptionkey": "16946e2092c51648d3424fff2d873a1278386e7050edbb4ef7ab8dc071394faa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419506",
+                "timeupdated": "1746978015"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
