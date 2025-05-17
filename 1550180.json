@@ -1,0 +1,38 @@
+{
+    "appid": "1550180",
+    "type": "Game",
+    "name": "9th Dawn Remake",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988001",
+    "update_time": "2025-05-15 03:13:43",
+    "depot": {
+        "1550181": {
+            "manifests": {
+                "public": {
+                    "gid": "2392986251295725772",
+                    "size": "1169343820",
+                    "download": "190433328"
+                }
+            },
+            "decryptionkey": "b1d6c894e0255957d57dae026f6c4892762708c8a52e38bdb49c0892285f349d"
+        },
+        "3151950": {
+            "dlcappid": "3151950",
+            "manifests": {
+                "public": {
+                    "gid": "3496040300181711184",
+                    "size": "3608597",
+                    "download": "3536080"
+                }
+            },
+            "decryptionkey": "54aa30b5a32fd01e9bde8487350e03933a9e32eea561da5c879b33ce42616aac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18415265",
+                "timeupdated": "1746894912"
+            }
+        }
+    }
+}
