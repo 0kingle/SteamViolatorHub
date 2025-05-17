@@ -1,0 +1,71 @@
+{
+    "appid": "2540810",
+    "type": "Game",
+    "name": "Nyran Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012872",
+    "update_time": "2025-05-16 06:54:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2540813": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6834983792563447155",
+                    "size": "1245714409",
+                    "download": "948884416"
+                },
+                "beta": {
+                    "gid": "6834983792563447155",
+                    "size": "1245714409",
+                    "download": "948884416"
+                }
+            },
+            "decryptionkey": "f54464f0864048bf67b60c2dfeb3ed26b20022700777dcfda4afd385431a1180"
+        },
+        "2540817": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8098742596057454498",
+                    "size": "1272577042",
+                    "download": "957474192"
+                },
+                "beta": {
+                    "gid": "8098742596057454498",
+                    "size": "1272577042",
+                    "download": "957474192"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18056078",
+                "timeupdated": "1744807156"
+            },
+            "beta": {
+                "buildid": "18056078",
+                "description": "beta releases, may be buggy",
+                "timeupdated": "1744287150"
+            }
+        }
+    }
+}
