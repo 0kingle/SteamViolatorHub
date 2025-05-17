@@ -1,0 +1,65 @@
+{
+    "appid": "844050",
+    "type": "Game",
+    "name": "Desert Child",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28979525",
+    "update_time": "2025-05-14 22:46:59",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "844051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7284636974900852890",
+                    "size": "128582467",
+                    "download": "103098496"
+                }
+            },
+            "decryptionkey": "108643db4a84313ab9d158733ab4d48a3d153d99ff2a166a7e50163ce2f67311"
+        },
+        "844052": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8976156114324854506",
+                    "size": "162168435",
+                    "download": "107790976"
+                }
+            }
+        },
+        "844053": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8555834322099208274",
+                    "size": "122539162",
+                    "download": "100271616"
+                }
+            }
+        },
+        "961400": {
+            "manifests": {
+                "public": {
+                    "gid": "4211163975177440601",
+                    "size": "143300149",
+                    "download": "142701744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4268289",
+                "timeupdated": "1570602271"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
