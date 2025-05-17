@@ -1,0 +1,29 @@
+{
+    "appid": "1631470",
+    "type": "Game",
+    "name": "Critter Cove",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988679",
+    "update_time": "2025-05-15 03:59:50",
+    "depot": {
+        "baselanguages": "english",
+        "1631471": {
+            "manifests": {
+                "public": {
+                    "gid": "3449080661240705424",
+                    "size": "8911785203",
+                    "download": "5186620656"
+                }
+            },
+            "decryptionkey": "8b00ecf62bfe27a6bcabe7faf4de530264e9a53e43636774ef84f6d091c750d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419707",
+                "timeupdated": "1746968280"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
