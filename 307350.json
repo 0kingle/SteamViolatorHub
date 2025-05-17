@@ -1,0 +1,26 @@
+{
+    "appid": "307350",
+    "type": "Game",
+    "name": "Nux",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971554",
+    "update_time": "2025-05-14 09:47:53",
+    "depot": {
+        "307351": {
+            "manifests": {
+                "public": {
+                    "gid": "3359468720493993982",
+                    "size": "51884361",
+                    "download": "50683488"
+                }
+            },
+            "decryptionkey": "ff7b9ed6861588e4f45ef03ca024e68c099835155e6768f8a067ec227c6835b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "356932"
+            }
+        }
+    }
+}
