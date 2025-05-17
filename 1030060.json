@@ -1,0 +1,28 @@
+{
+    "appid": "1030060",
+    "type": "Game",
+    "name": "Seed of Life",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982802",
+    "update_time": "2025-05-14 22:52:00",
+    "depot": {
+        "1030061": {
+            "manifests": {
+                "public": {
+                    "gid": "1979838468880547662",
+                    "size": "5596804965",
+                    "download": "2950501568"
+                }
+            },
+            "decryptionkey": "7ccb5b5d98742b47bfd2f93a3eb4240e86214e29aebf653f2d0ef3e84c12e6df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7433414",
+                "timeupdated": "1632775744"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
