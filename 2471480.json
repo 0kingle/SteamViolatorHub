@@ -1,0 +1,47 @@
+{
+    "appid": "2471480",
+    "type": "Game",
+    "name": "Vox Populi: España 2023",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28712786",
+    "update_time": "2025-04-29 02:52:26",
+    "depot": {
+        "2471481": {
+            "manifests": {
+                "public": {
+                    "gid": "5077264868337123879",
+                    "size": "1164829597",
+                    "download": "177861168"
+                },
+                "v1.01.02": {
+                    "gid": "1587063825536369002",
+                    "size": "1105758250",
+                    "download": "124603760"
+                },
+                "v1.02.00": {
+                    "gid": "6051878817299022092",
+                    "size": "1142033674",
+                    "download": "166913424"
+                }
+            },
+            "decryptionkey": "90d62120227a53899e7ff0065064b2537a92c1ab2c239182e0074467503ee9d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18269413",
+                "timeupdated": "1745866329"
+            },
+            "v1.01.02": {
+                "buildid": "14224168",
+                "description": "v1.01.02",
+                "timeupdated": "1732607064"
+            },
+            "v1.02.00": {
+                "buildid": "16534274",
+                "description": "V1.02.00",
+                "timeupdated": "1745866341"
+            }
+        }
+    }
+}
