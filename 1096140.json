@@ -1,0 +1,29 @@
+{
+    "appid": "1096140",
+    "type": "Game",
+    "name": "Timemelters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:47",
+    "depot": {
+        "1096141": {
+            "manifests": {
+                "public": {
+                    "gid": "337586286186012854",
+                    "size": "8369900329",
+                    "download": "4854526992"
+                }
+            },
+            "decryptionkey": "b0f8f5510981b56cbcdc321e3d4ba5dba80c71f5f3b1025da8ca8d7a32ded7da"
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "14919491",
+                "timeupdated": "1720545189"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
