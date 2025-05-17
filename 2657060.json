@@ -1,0 +1,29 @@
+{
+    "appid": "2657060",
+    "type": "DLC",
+    "name": "Teardown: Folkrace",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29004462",
+    "update_time": "2025-05-15 22:26:20",
+    "depot": {
+        "2657060": {
+            "manifests": {
+                "public": {
+                    "gid": "834761181041569539",
+                    "size": "1964328947",
+                    "download": "1342638656"
+                }
+            },
+            "dlcappid": "2657060",
+            "decryptionkey": "e0d5e7a570d792711265ff7532a2dc8bce4648837e8d86c94dcf77f531c09baf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18116346",
+                "timeupdated": "1745998743"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
