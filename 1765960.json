@@ -1,0 +1,27 @@
+{
+    "appid": "1765960",
+    "type": "Game",
+    "name": "Chezzle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989707",
+    "update_time": "2025-05-15 05:13:11",
+    "depot": {
+        "1765961": {
+            "manifests": {
+                "public": {
+                    "gid": "1138456830902450714",
+                    "size": "186526080",
+                    "download": "113700784"
+                }
+            },
+            "decryptionkey": "63fb65e8ca4de6c621c9cfeacc7ee42c0e3c86d6ddc6ce728318cc4bdc752dbb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7506289",
+                "timeupdated": "1633783298"
+            }
+        }
+    }
+}
