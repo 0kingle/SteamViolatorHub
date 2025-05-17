@@ -1,0 +1,28 @@
+{
+    "appid": "2479950",
+    "type": "Game",
+    "name": "Cosmo Cheats at Poker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012394",
+    "update_time": "2025-05-16 06:12:54",
+    "depot": {
+        "2479951": {
+            "manifests": {
+                "public": {
+                    "gid": "2126138878771346958",
+                    "size": "2062032613",
+                    "download": "359980144"
+                }
+            },
+            "decryptionkey": "cae122f4725741b2a2b35807dcd8799eeb8057ce4b2186a87ce76321c7e05b74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12654207",
+                "timeupdated": "1699477238"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
