@@ -1,0 +1,28 @@
+{
+    "appid": "1911360",
+    "type": "Game",
+    "name": "Trinity Fusion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990907",
+    "update_time": "2025-05-15 06:39:52",
+    "depot": {
+        "1911361": {
+            "manifests": {
+                "public": {
+                    "gid": "4099969168998379350",
+                    "size": "6068202037",
+                    "download": "5226670096"
+                }
+            },
+            "decryptionkey": "fa900c4f33bd2e31721d22c1101734e31f3403394dc4e56cdf9e5c522befe5ab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18298144",
+                "timeupdated": "1746033997"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
