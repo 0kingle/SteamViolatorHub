@@ -1,0 +1,42 @@
+{
+    "appid": "2990400",
+    "type": "Game",
+    "name": "Aberrant Nights",
+    "schinese_name": "日志异常",
+    "isfreeapp": "0",
+    "change_number": "29023780",
+    "update_time": "2025-05-16 20:12:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "2990401": {
+            "manifests": {
+                "public": {
+                    "gid": "4299732016084690044",
+                    "size": "5186580024",
+                    "download": "4699739696"
+                }
+            },
+            "decryptionkey": "329923102a8b34db2443cee3621f50b4f8d51d07aca4def58e960004e26ac743"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492653",
+                "timeupdated": "1747405313"
+            }
+        }
+    }
+}
