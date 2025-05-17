@@ -1,0 +1,28 @@
+{
+    "appid": "1909100",
+    "type": "Game",
+    "name": "Only Lead Can Stop Them",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28786966",
+    "update_time": "2025-05-02 22:30:05",
+    "depot": {
+        "1909101": {
+            "manifests": {
+                "public": {
+                    "gid": "6491084279195822217",
+                    "size": "1315717456",
+                    "download": "218269248"
+                }
+            },
+            "decryptionkey": "10cf4415ac7f7fbd6e33191dee8a53ddc3cbbf03e6e4ac281eeb70ad22653359"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18223651",
+                "timeupdated": "1745934268"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
