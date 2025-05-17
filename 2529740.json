@@ -1,0 +1,49 @@
+{
+    "appid": "2529740",
+    "type": "Game",
+    "name": "Bring The Chickens Home",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977400",
+    "update_time": "2025-05-14 22:42:57",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2529741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3740624232032358174",
+                    "size": "1572813472",
+                    "download": "254948896"
+                }
+            },
+            "decryptionkey": "a60237494f996ddbd85049ffe94f073c2abcf67611994765ca6fd1db7ce0c0bd"
+        },
+        "2529742": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5141150495437665292",
+                    "size": "1000588216",
+                    "download": "225597104"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18137759",
+                "timeupdated": "1744856362"
+            }
+        }
+    }
+}
