@@ -1,0 +1,58 @@
+{
+    "appid": "236890",
+    "type": "Application",
+    "name": "PCMark 8",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28860741",
+    "update_time": "2025-05-07 19:49:01",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "236891": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "7779176782090160673",
+                    "size": "4096446517",
+                    "download": "2978424320"
+                }
+            },
+            "decryptionkey": "cb1b577fce05eb46811362428bf261f749e86525b5bd4f5af51d39990d53fb81"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "18373146",
+                "timeupdated": "1746618534"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
