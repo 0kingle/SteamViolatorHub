@@ -1,0 +1,43 @@
+{
+    "appid": "2334170",
+    "type": "Game",
+    "name": "Metal Bringer",
+    "schinese_name": "机兵大乱战",
+    "isfreeapp": "0",
+    "change_number": "29010947",
+    "update_time": "2025-05-16 04:24:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2334171": {
+            "manifests": {
+                "public": {
+                    "gid": "7270358996854481202",
+                    "size": "724894732",
+                    "download": "595308000"
+                }
+            },
+            "decryptionkey": "6b4aeb7d33b96812418e9faca0fbb58ecf40aba22bbb22d599c6136bb4e6422c"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18359301",
+                "timeupdated": "1747105847"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
