@@ -1,0 +1,50 @@
+{
+    "appid": "2010900",
+    "type": "Game",
+    "name": "后汉稽异录 - Obscure Chronicle of Dynasty",
+    "schinese_name": "后汉稽异录",
+    "isfreeapp": "0",
+    "change_number": "28923272",
+    "update_time": "2025-05-11 14:13:52",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "2010900",
+        "2010901": {
+            "manifests": {
+                "public": {
+                    "gid": "2624949178109253011",
+                    "size": "1767733954",
+                    "download": "861758208"
+                }
+            },
+            "decryptionkey": "c3f53ddfca46d00c2c3f9d50d36167d936c18e55cab77e90133bfb10aaf9ee2f"
+        },
+        "2010902": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6605414391241890170",
+                    "size": "1767389523",
+                    "download": "860913504"
+                }
+            }
+        },
+        "2010903": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18329483",
+                "timeupdated": "1746246300"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cce0acee2c0f12ea1b7d1a6a7cd169f08020295fc7aa4e3fec0ff8688904b65c"
+    }
+}
