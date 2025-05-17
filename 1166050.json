@@ -1,0 +1,32 @@
+{
+    "appid": "1166050",
+    "type": "Game",
+    "name": "零下记忆",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28240803",
+    "update_time": "2025-04-01 11:40:56",
+    "depot": {
+        "baselanguages": "schinese",
+        "1166051": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1411020010371338579",
+                    "size": "516092669",
+                    "download": "348637248"
+                }
+            },
+            "decryptionkey": "b57b72aecaed23da533ea40371907726cef49b7847d4de909f1ea8b3994ceaf3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17933806",
+                "timeupdated": "1743478852"
+            }
+        }
+    }
+}
