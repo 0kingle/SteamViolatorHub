@@ -1,0 +1,27 @@
+{
+    "appid": "2639100",
+    "type": "Game",
+    "name": "Inari",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013591",
+    "update_time": "2025-05-16 08:00:50",
+    "depot": {
+        "2639101": {
+            "manifests": {
+                "public": {
+                    "gid": "4161348225931473101",
+                    "size": "11438633510",
+                    "download": "1805528688"
+                }
+            },
+            "decryptionkey": "21f31c8adf14db935b09d4d1a9ea8e781df503db08605f5daa84515f3dd6f10c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18054144",
+                "timeupdated": "1744278409"
+            }
+        }
+    }
+}
