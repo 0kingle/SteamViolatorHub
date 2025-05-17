@@ -1,0 +1,27 @@
+{
+    "appid": "2505350",
+    "type": "Game",
+    "name": "Survivors of the Plague",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 06:18:30",
+    "depot": {
+        "2505351": {
+            "manifests": {
+                "public": {
+                    "gid": "5344632993713029262",
+                    "size": "677892879",
+                    "download": "508553296"
+                }
+            },
+            "decryptionkey": "5c53819f546bd84842f9a04a9600b6136e25b17f74bacafe7d30ec8f63623153"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12407133",
+                "timeupdated": "1696970515"
+            }
+        }
+    }
+}
