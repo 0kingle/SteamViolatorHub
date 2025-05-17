@@ -1,0 +1,45 @@
+{
+    "appid": "2148850",
+    "type": "Game",
+    "name": "Jenni's DONG has got it GOIN' ON: The Jenni Trilogy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009139",
+    "update_time": "2025-05-16 02:24:43",
+    "depot": {
+        "2148851": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4654772448727967759",
+                    "size": "591570794",
+                    "download": "306965520"
+                }
+            },
+            "decryptionkey": "f8556167d9272befd6d0f02d906462b487d063c1e6a5650ae81c173a2c90796b"
+        },
+        "2148852": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6441101383418706964",
+                    "size": "605201771",
+                    "download": "308157584"
+                }
+            },
+            "decryptionkey": "e0b763b4a9ca20117b9c1c3909b69768b7d06032427d51f5c3ade03c78ed1277"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "14844136",
+                "timeupdated": "1719401748"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
