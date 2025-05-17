@@ -1,0 +1,30 @@
+{
+    "appid": "2472010",
+    "type": "Game",
+    "name": "Eydigard",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023679",
+    "update_time": "2025-05-16 20:06:00",
+    "depot": {
+        "baselanguages": "english,german,french,schinese,tchinese,russian,japanese,polish,norwegian,turkish,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "2472011": {
+            "manifests": {
+                "public": {
+                    "gid": "6371466973462190453",
+                    "size": "8082614739",
+                    "download": "3013611856"
+                }
+            },
+            "decryptionkey": "a0dcab69ac198aadce7faab91f01cbe87c43fee439ee3a060cd60fbac11b2547"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18481932",
+                "timeupdated": "1747397155"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
