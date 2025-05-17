@@ -1,0 +1,90 @@
+{
+    "appid": "719750",
+    "type": "Game",
+    "name": "PUSS!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977583",
+    "update_time": "2025-05-14 22:37:27",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,russian,japanese,portuguese,polish,dutch,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "719753": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4665256609048793858",
+                    "size": "661105878",
+                    "download": "355715440"
+                }
+            }
+        },
+        "719751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9116636656510152077",
+                    "size": "932787854",
+                    "download": "420316640"
+                }
+            },
+            "decryptionkey": "b6b196600f6ab32beea140248fe3b5ea19bab6802fd115b894352e2696b4347c"
+        },
+        "719752": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9090761728482903050",
+                    "size": "915239508",
+                    "download": "416760720"
+                }
+            }
+        },
+        "719754": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1699595337459316573",
+                    "size": "711707090",
+                    "download": "404125056"
+                }
+            }
+        },
+        "719755": {
+            "config": {
+                "osarch": "64",
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3658940982595805124",
+                    "size": "93481656",
+                    "download": "16057504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18434582",
+                "timeupdated": "1747080664"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
