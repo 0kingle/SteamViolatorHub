@@ -1,0 +1,31 @@
+{
+    "appid": "357290",
+    "type": "Game",
+    "name": "Red Lake",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973776",
+    "update_time": "2025-05-14 13:13:24",
+    "depot": {
+        "baselanguages": "english,russian",
+        "357291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8708080876000355122",
+                    "size": "1425794399",
+                    "download": "658792512"
+                }
+            },
+            "decryptionkey": "216b7741d502d642ffcb9acfc48c764039adc5b17128061f253f7d2f42fcbaa8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1117919",
+                "timeupdated": "1462828757"
+            }
+        }
+    }
+}
