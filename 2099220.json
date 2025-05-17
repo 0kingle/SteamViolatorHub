@@ -1,0 +1,46 @@
+{
+    "appid": "2099220",
+    "type": "Game",
+    "name": "Mobmania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016559",
+    "update_time": "2025-05-16 12:28:57",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2099221": {
+            "manifests": {
+                "public": {
+                    "gid": "4541038872860971448",
+                    "size": "226492931",
+                    "download": "176894544"
+                },
+                "local": {
+                    "gid": "3602999359183414423",
+                    "size": "16271316",
+                    "download": "9979712"
+                }
+            },
+            "decryptionkey": "cab7f4469883fe50112471f6474f015bbd9e629ecae651999d01c75d07868a9d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18485873",
+                "timeupdated": "1747369733"
+            },
+            "local": {
+                "buildid": "9364193",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1661197353"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
