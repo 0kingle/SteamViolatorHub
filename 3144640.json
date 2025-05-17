@@ -1,0 +1,66 @@
+{
+    "appid": "3144640",
+    "type": "Game",
+    "name": "Skoof Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28976259",
+    "update_time": "2025-05-14 22:40:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3144641": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3062086315687882402",
+                    "size": "6487256118",
+                    "download": "5869913552"
+                }
+            },
+            "decryptionkey": "4df401c4ad2c3c5cf2d770112a2f8716ef5541f2d3acdb7e6878622ed1c997a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456725",
+                "timeupdated": "1747210682"
+            }
+        }
+    }
+}
