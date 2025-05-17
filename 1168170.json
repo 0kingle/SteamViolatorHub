@@ -1,0 +1,31 @@
+{
+    "appid": "1168170",
+    "type": "Game",
+    "name": "HENTAI HORROR: The Eight Pictures",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991285",
+    "update_time": "2025-05-15 07:13:11",
+    "depot": {
+        "1168171": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2249458703440900216",
+                    "size": "250809667",
+                    "download": "113067792"
+                }
+            },
+            "decryptionkey": "2a569fbb4ff5d927c3290fe31fcbb2156881135a291c7512961c252be4443726"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4313203",
+                "timeupdated": "1571780863"
+            }
+        }
+    }
+}
