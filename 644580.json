@@ -1,0 +1,56 @@
+{
+    "appid": "644580",
+    "type": "Game",
+    "name": "Slash or Die 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 22:48:14",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "644581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2243376406672934551",
+                    "size": "134393038",
+                    "download": "35759392"
+                }
+            },
+            "decryptionkey": "dbc2b5fde164f8992ec6ed4ab84296f04310c4bb4ca63fc9f77ea39bd71a506c"
+        },
+        "644582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1689013257446920670",
+                    "size": "183711104",
+                    "download": "51747728"
+                }
+            }
+        },
+        "644583": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5266692226157068989",
+                    "size": "149018311",
+                    "download": "39756512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2979190",
+                "timeupdated": "1532604930"
+            }
+        }
+    }
+}
