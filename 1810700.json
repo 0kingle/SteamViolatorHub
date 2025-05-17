@@ -1,0 +1,29 @@
+{
+    "appid": "1810700",
+    "type": "Game",
+    "name": "Intralism: Rebuild",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990132",
+    "update_time": "2025-05-15 05:39:53",
+    "depot": {
+        "1810701": {
+            "manifests": {
+                "public": {
+                    "gid": "940478416133230244",
+                    "size": "1092628008",
+                    "download": "441078256"
+                }
+            },
+            "decryptionkey": "1b80cc91818301089addb9228e42e763263b82848bd1faa5b775c4121ee6c6ec"
+        },
+        "workshopdepot": "1810700",
+        "branches": {
+            "public": {
+                "buildid": "7950469",
+                "timeupdated": "1640769644"
+            }
+        },
+        "workshopdepotdecryptionkey": "af2f609f220ccbd51602c6b74d7c2b39f8f6f78399726dc7ae0a129369445844"
+    }
+}
