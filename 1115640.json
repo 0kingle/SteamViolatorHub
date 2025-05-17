@@ -1,0 +1,29 @@
+{
+    "appid": "1115640",
+    "type": "Game",
+    "name": "英雄群侠传II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 20:00:36",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "1115641": {
+            "manifests": {
+                "public": {
+                    "gid": "1128007039968674249",
+                    "size": "1064960904",
+                    "download": "488517616"
+                }
+            },
+            "decryptionkey": "29aaedc793fa0d1ba802963623253ab9e50cce7575280f361a7ceab000885a57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17498356",
+                "timeupdated": "1740481307"
+            }
+        }
+    }
+}
