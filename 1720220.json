@@ -1,0 +1,43 @@
+{
+    "appid": "1720220",
+    "type": "Game",
+    "name": "Aqua Boy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 10:30:39",
+    "depot": {
+        "1720221": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8082515770213014287",
+                    "size": "58724960",
+                    "download": "31536992"
+                }
+            }
+        },
+        "1720222": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6909235574843402195",
+                    "size": "58331762",
+                    "download": "34321984"
+                }
+            },
+            "decryptionkey": "afd806ae8db7e5bb455beb047627f1d4e713675620bc185fd037c36f4b683cc1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7490994",
+                "timeupdated": "1633560448"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
