@@ -1,0 +1,30 @@
+{
+    "appid": "1100290",
+    "type": "Game",
+    "name": "Super Space Club",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:52",
+    "depot": {
+        "1100291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5218989871109773500",
+                    "size": "479064981",
+                    "download": "99623184"
+                }
+            },
+            "decryptionkey": "3f1ad119aad2738e42f53621028dcd70992e2b33fe2185785cb6cfb5d82bfcd9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13416643",
+                "timeupdated": "1707496088"
+            }
+        }
+    }
+}
