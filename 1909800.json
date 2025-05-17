@@ -1,0 +1,29 @@
+{
+    "appid": "1909800",
+    "type": "Game",
+    "name": "UuultraC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990907",
+    "update_time": "2025-05-15 06:39:50",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "1909801": {
+            "manifests": {
+                "public": {
+                    "gid": "566180414048557636",
+                    "size": "3719092109",
+                    "download": "3517404944"
+                }
+            },
+            "decryptionkey": "b7fd1ffed737ac12941ef64e0c05fc987971d1b7c6319092de359f5d0ae0906c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18056738",
+                "timeupdated": "1745294471"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
