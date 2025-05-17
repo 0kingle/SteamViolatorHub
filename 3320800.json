@@ -1,0 +1,28 @@
+{
+    "appid": "3320800",
+    "type": "Game",
+    "name": "Book Bound",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:45",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3320801": {
+            "manifests": {
+                "public": {
+                    "gid": "3047378629214316655",
+                    "size": "250747907",
+                    "download": "117647232"
+                }
+            },
+            "decryptionkey": "88d442e0d7c02c21de98d19c386ca695e45ae1186970b729228cdb111eb8fb91"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17941520",
+                "timeupdated": "1743520810"
+            }
+        }
+    }
+}
