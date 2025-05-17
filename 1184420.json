@@ -1,0 +1,46 @@
+{
+    "appid": "1184420",
+    "type": "Game",
+    "name": "天降锦鲤 ~ My Lucky Koi",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 07:08:47",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "0",
+        "1184421": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4108515974679936856",
+                    "size": "1224153765",
+                    "download": "299828400"
+                }
+            },
+            "decryptionkey": "0396f7922a7fe03e54969b9235df8021636e253dbd09ae39e1ef7abc8b713dfe"
+        },
+        "1184422": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1848043024866899851",
+                    "size": "1208007082",
+                    "download": "293422992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4488248",
+                "timeupdated": "1576211079"
+            }
+        }
+    }
+}
