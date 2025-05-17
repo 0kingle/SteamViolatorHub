@@ -1,0 +1,46 @@
+{
+    "appid": "1168190",
+    "type": "Game",
+    "name": "Hentai Series",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 02:48:41",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "1168192": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6089485870089219799",
+                    "size": "674951593",
+                    "download": "167615328"
+                }
+            },
+            "decryptionkey": "702492197959afb7929b3fdfd96491b02db14cf69d92fe1c41a88f1da208199c"
+        },
+        "1168191": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5513201955573493972",
+                    "size": "698206712",
+                    "download": "174870544"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10038821",
+                "timeupdated": "1669728358"
+            }
+        }
+    }
+}
