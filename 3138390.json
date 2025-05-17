@@ -1,0 +1,41 @@
+{
+    "appid": "3138390",
+    "type": "Demo",
+    "name": "東方聖戦影 ～ Forlorn Souls of Wicked Past Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27941939",
+    "update_time": "2025-03-15 05:59:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3138391": {
+            "manifests": {
+                "public": {
+                    "gid": "3184061185922810881",
+                    "size": "145302938",
+                    "download": "140592448"
+                }
+            },
+            "decryptionkey": "dbee7253534474aca079e95d17c6a58a3149903cbe92ce0c991daef75e4716e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17713583",
+                "timeupdated": "1741895944"
+            }
+        }
+    }
+}
