@@ -1,0 +1,44 @@
+{
+    "appid": "930320",
+    "type": "Game",
+    "name": "Oops!!! I Slept With Your Mom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980806",
+    "update_time": "2025-05-14 22:49:10",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "930321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6999864220181563324",
+                    "size": "133840832",
+                    "download": "82085520"
+                }
+            },
+            "decryptionkey": "11584fbfbb4f9458b00c76ebad2a5a2f8b145ac6327657858f5dbf3312be9724"
+        },
+        "931420": {
+            "dlcappid": "931420",
+            "manifests": {
+                "public": {
+                    "gid": "1210312775556831807",
+                    "size": "48079172",
+                    "download": "45074064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "3152545",
+                "timeupdated": "1537827091"
+            }
+        }
+    }
+}
