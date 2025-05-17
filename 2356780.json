@@ -1,0 +1,79 @@
+{
+    "appid": "2356780",
+    "type": "Game",
+    "name": "Dungeon Clawler",
+    "schinese_name": "抓抓地牢",
+    "isfreeapp": "0",
+    "change_number": "29011111",
+    "update_time": "2025-05-16 04:36:50",
+    "depot": {
+        "baselanguages": "english",
+        "2356782": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3221811775163091749",
+                    "size": "1360955429",
+                    "download": "182423808"
+                },
+                "testing": {
+                    "gid": "6944885423369857489",
+                    "size": "1435603571",
+                    "download": "202309456"
+                }
+            },
+            "decryptionkey": "7b6a14efc42db13c57345a4d149afca6f1a16389dc609a5a3c3ad4a85cc61c73"
+        },
+        "2356783": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8368485266699720519",
+                    "size": "1384298236",
+                    "download": "189530048"
+                },
+                "testing": {
+                    "gid": "8657399392211962494",
+                    "size": "1428526498",
+                    "download": "200292464"
+                }
+            }
+        },
+        "2356784": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4188069199310193202",
+                    "size": "1399932275",
+                    "download": "181825680"
+                },
+                "testing": {
+                    "gid": "6129499382944775723",
+                    "size": "1474590633",
+                    "download": "201736240"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18042753",
+                "timeupdated": "1744379811"
+            },
+            "testing": {
+                "buildid": "18387928",
+                "description": "Test upcoming updates",
+                "timeupdated": "1746706471"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
