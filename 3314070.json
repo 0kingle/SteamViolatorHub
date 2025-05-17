@@ -1,0 +1,43 @@
+{
+    "appid": "3314070",
+    "type": "Game",
+    "name": "The Sims™ 2 Legacy Collection",
+    "schinese_name": "《The Sims™ 2》经典合集",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3314071": {
+            "manifests": {
+                "public": {
+                    "gid": "8015035456045975382",
+                    "size": "13059805831",
+                    "download": "8017480624"
+                }
+            },
+            "decryptionkey": "c23a39e45d9412b1dd04e0051e20bbb18e8155211fb746406373bd16d6409c50"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18015495",
+                "timeupdated": "1744308032"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
