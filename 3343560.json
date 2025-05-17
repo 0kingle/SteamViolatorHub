@@ -1,0 +1,42 @@
+{
+    "appid": "3343560",
+    "type": "Game",
+    "name": "异界炮艇（Otherworldly Air Gunship）",
+    "schinese_name": "异界炮艇",
+    "isfreeapp": "0",
+    "change_number": "28704439",
+    "update_time": "2025-04-28 18:51:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3343561": {
+            "manifests": {
+                "public": {
+                    "gid": "5033427220122179018",
+                    "size": "4589366605",
+                    "download": "4376614672"
+                }
+            },
+            "decryptionkey": "fd15434c7b60a7d4a2782aaf4f12bbe6cc847d6ef3cefbf2b104fadd6ede2710"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18163842",
+                "timeupdated": "1745028372"
+            }
+        }
+    }
+}
