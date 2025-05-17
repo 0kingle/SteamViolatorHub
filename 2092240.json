@@ -1,0 +1,27 @@
+{
+    "appid": "2092240",
+    "type": "Game",
+    "name": "Anolock",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 22:45:39",
+    "depot": {
+        "2092241": {
+            "manifests": {
+                "public": {
+                    "gid": "6793031571763357556",
+                    "size": "775894890",
+                    "download": "509543040"
+                }
+            },
+            "decryptionkey": "88f7b0e6a1087f97f920bed294023274ce98481f756cdf1a66a2a55071e0b2e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9168211",
+                "timeupdated": "1658452854"
+            }
+        }
+    }
+}
