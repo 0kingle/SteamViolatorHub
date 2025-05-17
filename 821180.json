@@ -1,0 +1,125 @@
+{
+    "appid": "821180",
+    "type": "Game",
+    "name": "Reliefs The time of the Lemures",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013462",
+    "update_time": "2025-05-16 07:49:24",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "821181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3837487534259631518",
+                    "size": "4622003138",
+                    "download": "2225855632"
+                }
+            },
+            "decryptionkey": "49df17bc8363df8ffac75863a3314f33976e06ab922a324b4bd3768053008fb3"
+        },
+        "821183": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6986641211038694909",
+                    "size": "4731941694",
+                    "download": "2248888816"
+                }
+            }
+        },
+        "821184": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3149592453389861105",
+                    "size": "4663300809",
+                    "download": "2231449152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14857217",
+                "timeupdated": "1719484580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
