@@ -1,0 +1,28 @@
+{
+    "appid": "2530490",
+    "type": "Game",
+    "name": "Lost Eidolons: Veil of the Witch",
+    "schinese_name": "幻灵降世录 ：女巫的面纱",
+    "isfreeapp": "0",
+    "change_number": "28782235",
+    "update_time": "2025-05-02 16:32:09",
+    "depot": {
+        "2530491": {
+            "manifests": {
+                "public": {
+                    "gid": "4263525300143531836",
+                    "size": "4639461586",
+                    "download": "3837609984"
+                }
+            },
+            "decryptionkey": "7edbb8d7ab46a4c9dd432e79bd83ff5fa540cd15144a384e599065a20590d31d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18289533",
+                "timeupdated": "1746030030"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
