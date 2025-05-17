@@ -1,0 +1,27 @@
+{
+    "appid": "2242320",
+    "type": "Game",
+    "name": "xdding",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 17:33:40",
+    "depot": {
+        "2242321": {
+            "manifests": {
+                "public": {
+                    "gid": "3684894591471997975",
+                    "size": "98879759",
+                    "download": "44529488"
+                }
+            },
+            "decryptionkey": "cac94a267d7787ec87cbc1e2409483122e6d9873d341e0c09dce35e10fd0bf19"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10223463",
+                "timeupdated": "1672215328"
+            }
+        }
+    }
+}
