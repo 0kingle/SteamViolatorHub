@@ -1,0 +1,28 @@
+{
+    "appid": "1217330",
+    "type": "Game",
+    "name": "Terminal squad: Swarmites",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013467",
+    "update_time": "2025-05-16 07:49:37",
+    "depot": {
+        "1217331": {
+            "manifests": {
+                "public": {
+                    "gid": "3762303869579909284",
+                    "size": "39601891",
+                    "download": "32415072"
+                }
+            },
+            "decryptionkey": "725cf035984cad822c1583f1f79958af46a542e13cb12e1050d7ae66c49592a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4643699",
+                "timeupdated": "1580903029"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
