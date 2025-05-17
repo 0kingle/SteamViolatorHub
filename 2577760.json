@@ -1,0 +1,42 @@
+{
+    "appid": "2577760",
+    "type": "Game",
+    "name": "Just Click The Button",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989733",
+    "update_time": "2025-05-15 05:14:29",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2577761": {
+            "manifests": {
+                "public": {
+                    "gid": "2288972224340343102",
+                    "size": "320307303",
+                    "download": "75057968"
+                }
+            },
+            "decryptionkey": "53b0c5feba1d48ec730a9563246c00d7a1d097c1fd1e6400f6fa051b4942539b"
+        },
+        "2772450": {
+            "dlcappid": "2772450"
+        },
+        "2577762": {
+            "dlcappid": "2772450",
+            "manifests": {
+                "public": {
+                    "gid": "4082207777693087400",
+                    "size": "320307303",
+                    "download": "75030656"
+                }
+            },
+            "decryptionkey": "b3d4a8e28f12650ee3e7e8d13a6f40139321124e1b0e58713a58eda8f9757d40"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13557208",
+                "timeupdated": "1708861581"
+            }
+        }
+    }
+}
