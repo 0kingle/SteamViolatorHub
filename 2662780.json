@@ -1,0 +1,94 @@
+{
+    "appid": "2662780",
+    "type": "Game",
+    "name": "Heat Death: Survival Train",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013792",
+    "update_time": "2025-05-16 08:12:46",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2662781": {
+            "manifests": {
+                "public": {
+                    "gid": "7176452070469070942",
+                    "size": "3450748388",
+                    "download": "3011361376"
+                },
+                "openbeta": {
+                    "gid": "7176452070469070942",
+                    "size": "3450748388",
+                    "download": "3011361376"
+                }
+            },
+            "decryptionkey": "ed24354acad5e4184839fc73f8566220cb531f97a71d4bfae7ba7251b890a8f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18095451",
+                "timeupdated": "1745676255"
+            },
+            "openbeta": {
+                "buildid": "18095451",
+                "description": "Open Beta",
+                "timeupdated": "1745077816"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
