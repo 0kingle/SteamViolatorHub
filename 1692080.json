@@ -1,0 +1,88 @@
+{
+    "appid": "1692080",
+    "type": "Application",
+    "name": "SVFI",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29003165",
+    "update_time": "2025-05-15 21:23:33",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "1692081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5569254971079504213",
+                    "size": "13337963595",
+                    "download": "5644300672"
+                },
+                "revision-8": {
+                    "gid": "3406098864941162159",
+                    "size": "5969676624",
+                    "download": "2698964304"
+                },
+                "beta": {
+                    "gid": "4065917600474744172",
+                    "size": "13428760716",
+                    "download": "5684979584"
+                },
+                "beta-cu128": {
+                    "gid": "7989526806754786200",
+                    "size": "16385322458",
+                    "download": "6293308816"
+                },
+                "revision-1": {
+                    "gid": "8313844098382470838",
+                    "size": "9915124669",
+                    "download": "4174014432"
+                }
+            },
+            "decryptionkey": "b0eb4797a1aa370628b12a367482f2163f60d1c091ab9206a462f8092fa04ca4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17472796",
+                "timeupdated": "1740305407"
+            },
+            "revision-8": {
+                "buildid": "11500189",
+                "description": "SVFI 3.23.1",
+                "timeupdated": "1698293509"
+            },
+            "beta": {
+                "buildid": "18476517",
+                "description": "SVFI Beta Test",
+                "timeupdated": "1747315392"
+            },
+            "beta-cu128": {
+                "buildid": "18476531",
+                "description": "Blackwell Support",
+                "timeupdated": "1747315409"
+            },
+            "revision-1": {
+                "buildid": "14333239",
+                "description": "SVFI 6.15.9",
+                "timeupdated": "1716205209"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
