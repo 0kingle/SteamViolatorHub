@@ -1,0 +1,31 @@
+{
+    "appid": "2342690",
+    "type": "Game",
+    "name": "Call of Boba",
+    "schinese_name": "啵啵鸡物语",
+    "isfreeapp": "0",
+    "change_number": "29021780",
+    "update_time": "2025-05-16 18:16:34",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2342691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1048392009841233172",
+                    "size": "581730704",
+                    "download": "439471312"
+                }
+            },
+            "decryptionkey": "8524186567e4fec57aff20fd2038618969b7f28370989336e7e6416599cf1c4b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18489225",
+                "timeupdated": "1747390588"
+            }
+        }
+    }
+}
