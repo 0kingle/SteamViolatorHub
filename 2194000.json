@@ -1,0 +1,37 @@
+{
+    "appid": "2194000",
+    "type": "Game",
+    "name": "Fates: Determination",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009583",
+    "update_time": "2025-05-16 02:48:47",
+    "depot": {
+        "2194002": {
+            "manifests": {
+                "public": {
+                    "gid": "2682161740361769555",
+                    "size": "2371519864",
+                    "download": "2205285936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2194003": {
+            "manifests": {
+                "public": {
+                    "gid": "987836085567935768",
+                    "size": "2371324259",
+                    "download": "2204174768"
+                }
+            },
+            "decryptionkey": "cb1709057a53f9c00857db53bfa2b5f59de77601b19101a90fed29bc25e19cb4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12105862",
+                "timeupdated": "1693838159"
+            }
+        }
+    }
+}
