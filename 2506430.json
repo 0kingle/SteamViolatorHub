@@ -1,0 +1,28 @@
+{
+    "appid": "2506430",
+    "type": "Game",
+    "name": "Lovely Brides",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012627",
+    "update_time": "2025-05-16 06:30:51",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2506431": {
+            "manifests": {
+                "public": {
+                    "gid": "5036629486670483810",
+                    "size": "214681867",
+                    "download": "118860128"
+                }
+            },
+            "decryptionkey": "7cbb0ea63ec480cb37b3a51df4182ed2bd774992b35136d479102e32ce63497e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11986235",
+                "timeupdated": "1692538329"
+            }
+        }
+    }
+}
