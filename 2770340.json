@@ -1,0 +1,32 @@
+{
+    "appid": "2770340",
+    "type": "Game",
+    "name": "天呐！我该怎么选？",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28804070",
+    "update_time": "2025-05-04 05:27:54",
+    "depot": {
+        "baselanguages": "schinese",
+        "2770341": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2273268751791668917",
+                    "size": "29286225967",
+                    "download": "26999851184"
+                }
+            },
+            "decryptionkey": "d2058e2602d24fb0d0db90a351cfb3e8866fe893a87ef7c937e4a9a59e0b3a37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18250039",
+                "timeupdated": "1745676009"
+            }
+        }
+    }
+}
