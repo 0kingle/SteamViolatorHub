@@ -1,0 +1,30 @@
+{
+    "appid": "2097030",
+    "type": "Game",
+    "name": "Union of Gnomes",
+    "schinese_name": "打倒白雪公主！乌拉！",
+    "isfreeapp": "0",
+    "change_number": "29012245",
+    "update_time": "2025-05-16 05:57:35",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2097031": {
+            "manifests": {
+                "public": {
+                    "gid": "2176700028570324861",
+                    "size": "1989049664",
+                    "download": "375934976"
+                }
+            },
+            "decryptionkey": "5e527f73477ad45f62fe2cf46c642bcf811fd38317c6f02d84d08d1aa61f6122"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18345589",
+                "timeupdated": "1746446803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
