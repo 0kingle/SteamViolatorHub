@@ -1,0 +1,46 @@
+{
+    "appid": "3451710",
+    "type": "Demo",
+    "name": "Crash and Conquer Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29006553",
+    "update_time": "2025-05-16 00:08:12",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3451711": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3064032476172440610",
+                    "size": "4407816665",
+                    "download": "4182278544"
+                }
+            },
+            "decryptionkey": "637a6c3a1cfe3faf4bc1b50e5dabec5606a661c19d6cc827a820613bc5b6b911"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18478723",
+                "timeupdated": "1747325289"
+            }
+        }
+    }
+}
