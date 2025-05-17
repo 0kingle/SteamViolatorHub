@@ -1,0 +1,47 @@
+{
+    "appid": "2655960",
+    "type": "Game",
+    "name": "Lust Academy Season 3",
+    "schinese_name": "欲望学院 3",
+    "isfreeapp": "0",
+    "change_number": "29013706",
+    "update_time": "2025-05-16 08:06:50",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese",
+        "2655961": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7452734716297936056",
+                    "size": "5567038071",
+                    "download": "5443215680"
+                }
+            },
+            "decryptionkey": "d015c7fda9f4a2068e6b4d60ba78eb95f3aeed5aa390460cda602c7295b695a6"
+        },
+        "2655962": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "185269650474328687",
+                    "size": "5554198320",
+                    "download": "5438563264"
+                }
+            }
+        },
+        "2914180": {
+            "dlcappid": "2914180"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18312451",
+                "timeupdated": "1746124109"
+            }
+        }
+    }
+}
