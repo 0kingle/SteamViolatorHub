@@ -1,0 +1,27 @@
+{
+    "appid": "1855950",
+    "type": "Game",
+    "name": "Captain of Leningrad: Underwater Soviet Postapocalypse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990480",
+    "update_time": "2025-05-15 06:06:33",
+    "depot": {
+        "1855951": {
+            "manifests": {
+                "public": {
+                    "gid": "4019658729960638049",
+                    "size": "94845510",
+                    "download": "30177872"
+                }
+            },
+            "decryptionkey": "555dde2d52a85ce729cb2450aa9d60478ad869a7a63483347e11b1a580201e63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8136272",
+                "timeupdated": "1643863930"
+            }
+        }
+    }
+}
