@@ -1,0 +1,58 @@
+{
+    "appid": "2955320",
+    "type": "Game",
+    "name": "Horse Runner DX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29020121",
+    "update_time": "2025-05-16 16:46:00",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese",
+        "2955321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6727336799211728010",
+                    "size": "62513203",
+                    "download": "35657728"
+                },
+                "beta": {
+                    "gid": "6727336799211728010",
+                    "size": "62513203",
+                    "download": "35657728"
+                }
+            },
+            "decryptionkey": "6a38e39f98ceb54cff1b80dd071ccf60cfa130674be90d7068ef3d5f2eeeddf8"
+        },
+        "2955322": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1800098581709466085",
+                    "size": "88921975",
+                    "download": "42441024"
+                },
+                "beta": {
+                    "gid": "1800098581709466085",
+                    "size": "88921975",
+                    "download": "42441024"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456875",
+                "timeupdated": "1747216197"
+            },
+            "beta": {
+                "buildid": "18456875",
+                "description": "Public beta",
+                "timeupdated": "1747211307"
+            }
+        }
+    }
+}
