@@ -1,0 +1,35 @@
+{
+    "appid": "2632220",
+    "type": "Game",
+    "name": "Champion Shift: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013507",
+    "update_time": "2025-05-16 07:54:46",
+    "depot": {
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2632221": {
+            "manifests": {
+                "public": {
+                    "gid": "2882102375728362771",
+                    "size": "2288382396",
+                    "download": "1551109760"
+                }
+            },
+            "decryptionkey": "eb0ac80f36c9c8207b43b1cd07f831efe63a6157669e68da2e3fa53b901ac24d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12994144",
+                "timeupdated": "1702942587"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
