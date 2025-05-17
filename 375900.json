@@ -1,0 +1,61 @@
+{
+    "appid": "375900",
+    "type": "Game",
+    "name": "Trackmania Turbo",
+    "schinese_name": "赛道狂飙：涡轮",
+    "isfreeapp": "0",
+    "change_number": "28972643",
+    "update_time": "2025-05-14 11:27:40",
+    "depot": {
+        "375901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "488560972479366792",
+                    "size": "4218237042",
+                    "download": "3404602432"
+                }
+            }
+        },
+        "455060": {
+            "manifests": {
+                "public": {
+                    "gid": "457609608428560478",
+                    "size": "5319911",
+                    "download": "1317936"
+                }
+            },
+            "dlcappid": "455060"
+        },
+        "455061": {
+            "manifests": {
+                "public": {
+                    "gid": "4993004617145392990",
+                    "size": "5319911",
+                    "download": "1317936"
+                }
+            },
+            "dlcappid": "455061",
+            "decryptionkey": "7f989b6cd2b07b2c23d4d65df64af240b7831fac59622192eb22b5b7d2c9da9c"
+        },
+        "455062": {
+            "manifests": {
+                "public": {
+                    "gid": "4224610843531534016",
+                    "size": "1072330",
+                    "download": "211744"
+                }
+            },
+            "dlcappid": "455062"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1462109",
+                "timeupdated": "1479305966"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
