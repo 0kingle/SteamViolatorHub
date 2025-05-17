@@ -1,0 +1,28 @@
+{
+    "appid": "2313570",
+    "type": "Game",
+    "name": "Rhya's Crusade: The Aradia's Reavers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010693",
+    "update_time": "2025-05-16 04:06:48",
+    "depot": {
+        "2313571": {
+            "manifests": {
+                "public": {
+                    "gid": "3888637804908185644",
+                    "size": "1611232885",
+                    "download": "149075280"
+                }
+            },
+            "decryptionkey": "2c3784e0281d54d48440896844232cf3e33864d80db485f6896ae2bf53da4fa0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17737746",
+                "timeupdated": "1742053758"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
