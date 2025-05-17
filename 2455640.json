@@ -1,0 +1,54 @@
+{
+    "appid": "2455640",
+    "type": "Game",
+    "name": "Romancing SaGa 2: Revenge of the Seven",
+    "schinese_name": "浪漫沙加2 七英雄的复仇",
+    "isfreeapp": "0",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:42",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2455641": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3682751951894722619",
+                    "size": "20995171486",
+                    "download": "17826319248"
+                }
+            },
+            "decryptionkey": "e203486d7b9a34f0df0728458d20a368e5abc9a4a9bcfcf7d3987af942a8be9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17804876",
+                "timeupdated": "1744796098"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
