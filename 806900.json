@@ -1,0 +1,51 @@
+{
+    "appid": "806900",
+    "type": "Game",
+    "name": "Them Bombs",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978904",
+    "update_time": "2025-05-14 22:45:45",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,brazilian,greek",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "806901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8403724243541207587",
+                    "size": "212536973",
+                    "download": "49726688"
+                }
+            },
+            "decryptionkey": "b949671dd310a36b281b427efa6edceb9501a199eb651b5e87a7efbb7b2c7c82"
+        },
+        "806902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5666376125851552180",
+                    "size": "215449425",
+                    "download": "50765504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18204177",
+                "timeupdated": "1745395064"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
