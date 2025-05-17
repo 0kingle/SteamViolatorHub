@@ -1,0 +1,62 @@
+{
+    "appid": "942800",
+    "type": "Game",
+    "name": "Hard Work",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980982",
+    "update_time": "2025-05-14 22:49:29",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "942801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8411048070770480342",
+                    "size": "694226954",
+                    "download": "608168128"
+                }
+            },
+            "decryptionkey": "8f79542c1b836a3305a9d7a882ed8e5b59e0a41512d69a47ef748a8141ac23d6"
+        },
+        "942802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3592246506042275613",
+                    "size": "644979925",
+                    "download": "594096896"
+                }
+            }
+        },
+        "942803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "677767610942674194",
+                    "size": "670388131",
+                    "download": "600601424"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3453581",
+                "timeupdated": "1547017285"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
