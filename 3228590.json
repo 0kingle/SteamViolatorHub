@@ -1,0 +1,42 @@
+{
+    "appid": "3228590",
+    "type": "Game",
+    "name": "Deadzone Rogue",
+    "schinese_name": "死域Rogue",
+    "isfreeapp": "0",
+    "change_number": "28991136",
+    "update_time": "2025-05-15 07:01:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3228591": {
+            "manifests": {
+                "public": {
+                    "gid": "5994366827518045224",
+                    "size": "6928583310",
+                    "download": "6537886368"
+                }
+            },
+            "decryptionkey": "ff50f696309f1bdaedc819a0dfc5ad20497d9884179b19683f5ceba047094567"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18467063",
+                "timeupdated": "1747263707"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
