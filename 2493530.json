@@ -1,0 +1,41 @@
+{
+    "appid": "2493530",
+    "type": "Demo",
+    "name": "Kristala Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28909325",
+    "update_time": "2025-05-10 04:21:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2493531": {
+            "manifests": {
+                "public": {
+                    "gid": "2086741923547948188",
+                    "size": "7445484395",
+                    "download": "5952829360"
+                }
+            },
+            "decryptionkey": "a525987fe04216491abadfd102fd1e1e2cc81dac57da11447df00058018b7aba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18325032",
+                "timeupdated": "1746809745"
+            }
+        }
+    }
+}
