@@ -1,0 +1,54 @@
+{
+    "appid": "761600",
+    "type": "Game",
+    "name": "Onimusha: Warlords",
+    "schinese_name": "鬼武者（Onimusha: Warlords）",
+    "isfreeapp": "0",
+    "change_number": "28978274",
+    "update_time": "2025-05-14 22:44:29",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "null": {
+            "depotfromapp": "961480"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "761601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5936204945665114510",
+                    "size": "15079498451",
+                    "download": "10137770672"
+                }
+            },
+            "decryptionkey": "a9cebe81198dc3bda033a39cb706ee6de1b8e574c0ea442ec1e611e2247764de"
+        },
+        "961480": {
+            "depotfromapp": "961480"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17777991",
+                "timeupdated": "1745370100"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
