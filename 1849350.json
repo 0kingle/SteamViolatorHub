@@ -1,0 +1,68 @@
+{
+    "appid": "1849350",
+    "type": "Game",
+    "name": "SGS Glory Recalled",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990480",
+    "update_time": "2025-05-15 06:06:35",
+    "depot": {
+        "1849351": {
+            "manifests": {
+                "public": {
+                    "gid": "5397202059087367138",
+                    "size": "81948085",
+                    "download": "75942640"
+                }
+            },
+            "decryptionkey": "f663c95a3da55ecbe937e66b78e5bce4e0c79fe7169a9dce6bf67490c8cf69eb"
+        },
+        "1849352": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3786407282437826602",
+                    "size": "609161337",
+                    "download": "207574272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1849353": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4276676505966072215",
+                    "size": "620808880",
+                    "download": "211144944"
+                }
+            },
+            "decryptionkey": "721dc7b1848a22236c886ec18eb2493a41e1cac5267a2db451dfb579e884b098"
+        },
+        "1849354": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8322300948575200992",
+                    "size": "626838500",
+                    "download": "212689040"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12096087",
+                "timeupdated": "1693666239"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
