@@ -1,0 +1,40 @@
+{
+    "appid": "2607060",
+    "type": "Game",
+    "name": "From Glory To Goo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29019639",
+    "update_time": "2025-05-16 16:16:46",
+    "depot": {
+        "2607061": {
+            "manifests": {
+                "public": {
+                    "gid": "9099691252309506715",
+                    "size": "464244660",
+                    "download": "217005792"
+                },
+                "testing": {
+                    "gid": "4563444547327291215",
+                    "size": "472002052",
+                    "download": "224808880"
+                }
+            },
+            "decryptionkey": "f09a280e523e347727fa9c86b9770537f822f21b8ecb8a949923c00c9fd6db83"
+        },
+        "workshopdepot": "2607060",
+        "branches": {
+            "public": {
+                "buildid": "18153659",
+                "timeupdated": "1744958767"
+            },
+            "testing": {
+                "buildid": "18487959",
+                "description": "Beta Branch",
+                "timeupdated": "1747383404"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
