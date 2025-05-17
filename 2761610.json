@@ -1,0 +1,46 @@
+{
+    "appid": "2761610",
+    "type": "Game",
+    "name": "異世界の創造者",
+    "schinese_name": "异世界创造者",
+    "isfreeapp": "0",
+    "change_number": "29014413",
+    "update_time": "2025-05-16 09:06:48",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "2761611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3535275077415830130",
+                    "size": "208415436",
+                    "download": "141001552"
+                }
+            },
+            "decryptionkey": "fa02e7f48e17c0c7ac9349565d901e9cb9ce46db13c7d004f378e6f86552497d"
+        },
+        "2761612": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7974387320321427413",
+                    "size": "701497203",
+                    "download": "253904576"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18275124",
+                "timeupdated": "1745975350"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
