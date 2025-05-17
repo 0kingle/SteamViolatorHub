@@ -1,0 +1,64 @@
+{
+    "appid": "1402480",
+    "type": "Game",
+    "name": "NARAKA: BLADEPOINT - Test Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28682787",
+    "update_time": "2025-04-26 21:17:10",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1402481": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5902254919508516034",
+                    "size": "61436628014",
+                    "download": "49592297824"
+                }
+            }
+        },
+        "1402482": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "856946538804461105",
+                    "size": "60678341017",
+                    "download": "48824003888"
+                }
+            },
+            "decryptionkey": "fa0ee1e4e4066c5cfe77245a593169087339d8cf516dececec2731caddf129d7"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18492503",
+                "timeupdated": "1747404609"
+            }
+        }
+    }
+}
