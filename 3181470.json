@@ -1,0 +1,59 @@
+{
+    "appid": "3181470",
+    "type": "Game",
+    "name": "Cat & Farm Pals",
+    "schinese_name": "合成大猫咪",
+    "isfreeapp": "0",
+    "change_number": "29023639",
+    "update_time": "2025-05-16 20:04:25",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese,indonesian",
+        "hasdepotsindlc": "1",
+        "3181471": {
+            "manifests": {
+                "public": {
+                    "gid": "7689109740496377169",
+                    "size": "509518671",
+                    "download": "254012480"
+                },
+                "development": {
+                    "gid": "5003247757607524192",
+                    "size": "410618403",
+                    "download": "175438384"
+                },
+                "development-2": {
+                    "gid": "1088383784800482075",
+                    "size": "410464019",
+                    "download": "175371104"
+                },
+                "pre-production": {
+                    "gid": "7689109740496377169",
+                    "size": "509518671",
+                    "download": "254012480"
+                }
+            },
+            "decryptionkey": "5066773f16781ea886f5c11a6b839fd41ed71983bb0a7efb147712f5a44e847b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493059",
+                "timeupdated": "1747407620"
+            },
+            "development": {
+                "buildid": "18479508",
+                "description": "development branch",
+                "timeupdated": "1747329141"
+            },
+            "development-2": {
+                "buildid": "18479638",
+                "description": "development-2 branch",
+                "timeupdated": "1747329149"
+            },
+            "pre-production": {
+                "buildid": "18493059",
+                "description": "pre-production branch",
+                "timeupdated": "1747407271"
+            }
+        }
+    }
+}
