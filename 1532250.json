@@ -1,0 +1,32 @@
+{
+    "appid": "1532250",
+    "type": "Game",
+    "name": "The Catacombs of Solaris Revisited",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987895",
+    "update_time": "2025-05-15 03:06:31",
+    "depot": {
+        "baselanguages": "english",
+        "1532251": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4377075967496534686",
+                    "size": "18263439",
+                    "download": "11545008"
+                }
+            },
+            "decryptionkey": "7138c05bffae10cf67c4af795e5c112026d7cb5768fd1f482e4362f3c83a0a51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6239307",
+                "timeupdated": "1613349652"
+            }
+        }
+    }
+}
