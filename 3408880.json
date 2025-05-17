@@ -1,0 +1,41 @@
+{
+    "appid": "3408880",
+    "type": "Demo",
+    "name": "Call from the darkness Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28573293",
+    "update_time": "2025-04-21 00:06:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3408881": {
+            "manifests": {
+                "public": {
+                    "gid": "5519524231022541168",
+                    "size": "9028719466",
+                    "download": "8558366848"
+                }
+            },
+            "decryptionkey": "fe6a3f21538ba5fccb13b5c42be59bcb837ae4d8ea537dc5829a3e18d2fe26fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18173599",
+                "timeupdated": "1745165204"
+            }
+        }
+    }
+}
