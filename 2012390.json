@@ -1,0 +1,58 @@
+{
+    "appid": "2012390",
+    "type": "Game",
+    "name": "Galactic Getaway",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29005497",
+    "update_time": "2025-05-15 23:15:07",
+    "depot": {
+        "2012391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8384524510848912452",
+                    "size": "1147131970",
+                    "download": "538007504"
+                },
+                "indev": {
+                    "gid": "8384524510848912452",
+                    "size": "1147131970",
+                    "download": "538007504"
+                }
+            },
+            "decryptionkey": "40d7b1e51194f9f2f672d0ceb4c32e8eeb75cc17eef0cd813a651afcd04eccdf"
+        },
+        "2012392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "67303558364256351",
+                    "size": "1266635548",
+                    "download": "603343488"
+                },
+                "indev": {
+                    "gid": "67303558364256351",
+                    "size": "1266635548",
+                    "download": "603343488"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18477749",
+                "timeupdated": "1747322102"
+            },
+            "indev": {
+                "buildid": "18477749",
+                "description": "dev branch",
+                "timeupdated": "1747320386"
+            }
+        }
+    }
+}
