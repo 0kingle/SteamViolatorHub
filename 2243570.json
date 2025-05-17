@@ -1,0 +1,60 @@
+{
+    "appid": "2243570",
+    "type": "Game",
+    "name": "Orc Covenant",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010099",
+    "update_time": "2025-05-16 03:24:44",
+    "depot": {
+        "2243571": {
+            "manifests": {
+                "public": {
+                    "gid": "4973022339754333433",
+                    "size": "1154304952",
+                    "download": "1020167296"
+                }
+            },
+            "decryptionkey": "35a67d6834a92e2f4ed8cfeb09b04edb3182490f6a431f3cfc54fc33dee6b692"
+        },
+        "3125290": {
+            "dlcappid": "3125290",
+            "manifests": {
+                "public": {
+                    "gid": "6539518454674557009",
+                    "size": "627583333",
+                    "download": "630669280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3125280": {
+            "dlcappid": "3125280",
+            "manifests": {
+                "public": {
+                    "gid": "5218944835166969041",
+                    "size": "267371",
+                    "download": "232608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3375760": {
+            "dlcappid": "3375760",
+            "manifests": {
+                "public": {
+                    "gid": "405710989531968086",
+                    "size": "155016597",
+                    "download": "138525056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18151572",
+                "timeupdated": "1744936637"
+            }
+        }
+    }
+}
