@@ -1,0 +1,62 @@
+{
+    "appid": "2800450",
+    "type": "Game",
+    "name": "Planetaries",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983828",
+    "update_time": "2025-05-14 23:14:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2800451": {
+            "manifests": {
+                "public": {
+                    "gid": "6094063013880786197",
+                    "size": "10620335070",
+                    "download": "10197915888"
+                },
+                "beforeupdate": {
+                    "gid": "7188389351776121358",
+                    "size": "9261956469",
+                    "download": "8855953632"
+                },
+                "lastupdate": {
+                    "gid": "2682258538610363087",
+                    "size": "10620382430",
+                    "download": "10196789072"
+                }
+            },
+            "decryptionkey": "8b515f00500430cd20db00ce76471ac7b69b72f8523c6c7867dccb6cee346fad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18189528",
+                "timeupdated": "1745307596"
+            },
+            "beforeupdate": {
+                "buildid": "16549739",
+                "description": "a version before a major update",
+                "timeupdated": "1732789216"
+            },
+            "lastupdate": {
+                "buildid": "17408909",
+                "description": "This version takes you back to the last update",
+                "timeupdated": "1745306192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
