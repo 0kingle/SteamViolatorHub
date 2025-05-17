@@ -1,0 +1,47 @@
+{
+    "appid": "957710",
+    "type": "Game",
+    "name": "THE WAYLANDERS",
+    "schinese_name": "开拓者",
+    "isfreeapp": "0",
+    "change_number": "28981182",
+    "update_time": "2025-05-14 22:49:52",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "957719": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "467872036049217271",
+                    "size": "65981465060",
+                    "download": "24338144960"
+                }
+            },
+            "decryptionkey": "9dd36dcaaec7da525417016befd65c3d73df58959c72c5767532c24df1aa063e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8629238",
+                "timeupdated": "1651052203"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
