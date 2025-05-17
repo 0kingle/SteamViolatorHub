@@ -1,0 +1,58 @@
+{
+    "appid": "2400160",
+    "type": "Game",
+    "name": "Glyphica: Typing Survival",
+    "schinese_name": "指尖疾速：打字狂潮",
+    "isfreeapp": "0",
+    "change_number": "29019576",
+    "update_time": "2025-05-16 16:12:55",
+    "depot": {
+        "2400161": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8098771029706120547",
+                    "size": "141289475",
+                    "download": "133021120"
+                },
+                "demo_test": {
+                    "gid": "7082400121264790897",
+                    "size": "82620663",
+                    "download": "74118720"
+                }
+            },
+            "decryptionkey": "6f7a7948926c54ef401bd49c61a850798da9f1f1ec4ce4bc0f92379aa836327c"
+        },
+        "2400162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6805183812998145872",
+                    "size": "153506604",
+                    "download": "134358320"
+                },
+                "demo_test": {
+                    "gid": "2786582678930205952",
+                    "size": "88717757",
+                    "download": "69660000"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18442046",
+                "timeupdated": "1747128136"
+            },
+            "demo_test": {
+                "buildid": "15611210",
+                "description": "Testing branch for demo build",
+                "timeupdated": "1725593913"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
