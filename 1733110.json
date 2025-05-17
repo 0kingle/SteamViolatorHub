@@ -1,0 +1,94 @@
+{
+    "appid": "1733110",
+    "type": "Game",
+    "name": "Of Life and Land",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023447",
+    "update_time": "2025-05-16 19:53:09",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "workshopdepot": "1733110",
+        "hasdepotsindlc": "1",
+        "1733111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5168310629761138574",
+                    "size": "535190366",
+                    "download": "286040240"
+                },
+                "beta": {
+                    "gid": "5168310629761138574",
+                    "size": "535190366",
+                    "download": "286040240"
+                },
+                "pre-balancing": {
+                    "gid": "2809200283275246613",
+                    "size": "506329140",
+                    "download": "274587920"
+                },
+                "previous": {
+                    "gid": "2809200283275246613",
+                    "size": "506329140",
+                    "download": "274587920"
+                }
+            },
+            "decryptionkey": "2aefb5610aff8c017b461ec4f3da8d7a17a426b0d4ab6bf30df2bd99c391e208"
+        },
+        "1733112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7276328003724879936",
+                    "size": "546818580",
+                    "download": "289915728"
+                },
+                "beta": {
+                    "gid": "7276328003724879936",
+                    "size": "546818580",
+                    "download": "289915728"
+                },
+                "pre-balancing": {
+                    "gid": "2760683338878270740",
+                    "size": "517957354",
+                    "download": "278408720"
+                },
+                "previous": {
+                    "gid": "2760683338878270740",
+                    "size": "517957354",
+                    "download": "278408720"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18472619",
+                "timeupdated": "1747403257"
+            },
+            "beta": {
+                "buildid": "18472619",
+                "description": "Get the latest features",
+                "timeupdated": "1747403203"
+            },
+            "pre-balancing": {
+                "buildid": "18235973",
+                "description": "uses the old balancing setting",
+                "timeupdated": "1747401625"
+            },
+            "previous": {
+                "buildid": "18235973",
+                "description": "Loads the previous patch content",
+                "timeupdated": "1747401638"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6c3007e160b8db8a1534cdc04cac231c5c141e4e9b82978d69a5070e6d012665"
+    }
+}
