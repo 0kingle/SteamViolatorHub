@@ -1,0 +1,28 @@
+{
+    "appid": "2313530",
+    "type": "Game",
+    "name": "Poly Jigsaw: Cats",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010693",
+    "update_time": "2025-05-16 04:06:42",
+    "depot": {
+        "2313531": {
+            "manifests": {
+                "public": {
+                    "gid": "91424483945405267",
+                    "size": "105687553",
+                    "download": "98137520"
+                }
+            },
+            "decryptionkey": "d64a2c637229394f2368abf080ccea347338f21882c370f9b78f8b1b0973d24a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13489571",
+                "timeupdated": "1708250037"
+            }
+        }
+    }
+}
