@@ -1,0 +1,27 @@
+{
+    "appid": "2598620",
+    "type": "Game",
+    "name": "VIRUS 91",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28016416",
+    "update_time": "2025-03-18 23:56:23",
+    "depot": {
+        "2598621": {
+            "manifests": {
+                "public": {
+                    "gid": "2273744363633506683",
+                    "size": "1433375511",
+                    "download": "325127056"
+                }
+            },
+            "decryptionkey": "554129a6fcb950981cf6d0fd3f3f5610dec9c9dfa47bdcf3ddff6a7b88636c61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12149601",
+                "timeupdated": "1694266314"
+            }
+        }
+    }
+}
