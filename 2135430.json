@@ -1,0 +1,32 @@
+{
+    "appid": "2135430",
+    "type": "DLC",
+    "name": "英雄黄昏 - 扩展包",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28768906",
+    "update_time": "2025-05-01 21:14:55",
+    "depot": {
+        "2135430": {
+            "config": {
+                "oslist": "windows",
+                "language": "schinese"
+            },
+            "dlcappid": "2135430",
+            "manifests": {
+                "public": {
+                    "gid": "3663984769611782348",
+                    "size": "116121191",
+                    "download": "33044736"
+                }
+            },
+            "decryptionkey": "8b0ad6d40d951cbe21f1d2b6813f60e5d86533f334ec692f53dde14964bd625d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18309556",
+                "timeupdated": "1746105288"
+            }
+        }
+    }
+}
