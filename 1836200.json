@@ -1,0 +1,75 @@
+{
+    "appid": "1836200",
+    "type": "Beta",
+    "name": "Fallout 76 Public Test Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:14",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1836201": {
+            "manifests": {
+                "public": {
+                    "gid": "5519221080103177144",
+                    "size": "103259432",
+                    "download": "47041824"
+                }
+            },
+            "decryptionkey": "64994dccc44bb1e5d35f2d3fae8a2697ccbf734c292326f1ca7e8c270c3a811a"
+        },
+        "1836202": {
+            "manifests": {
+                "public": {
+                    "gid": "2068938822042032574",
+                    "size": "93530030042",
+                    "download": "86229462192"
+                }
+            },
+            "decryptionkey": "78b459a0a6dfb3b6e4f6add79b17e0d1d7fd036264670ae4036d303cf3386d35"
+        },
+        "1836203": {
+            "manifests": {
+                "public": {
+                    "gid": "6407812067453566287",
+                    "size": "3539475588",
+                    "download": "2979867600"
+                }
+            },
+            "decryptionkey": "5f49022585ddd9b6ec6b49671f87a0e8bc6764206c8de92688217e9c24ca05bb"
+        },
+        "1836204": {
+            "manifests": {
+                "public": {
+                    "gid": "8405359075855083219",
+                    "size": "13533071",
+                    "download": "2800432"
+                }
+            },
+            "decryptionkey": "8b8ee4fb82865a0e5860ffe27870103e054bec641f616a67c6ed2ed6fe08d618"
+        },
+        "1836205": {
+            "manifests": {
+                "public": {
+                    "gid": "6015908012762980466",
+                    "size": "4122",
+                    "download": "1344"
+                }
+            },
+            "decryptionkey": "da29b457d23990994bb15100858d053fdd9bffc0868df7fa35b7bd43e58833c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18407800",
+                "timeupdated": "1746820527"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
