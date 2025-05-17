@@ -1,0 +1,49 @@
+{
+    "appid": "1233550",
+    "type": "Game",
+    "name": "Rocket Arena",
+    "schinese_name": "火箭竞技场",
+    "isfreeapp": "0",
+    "change_number": "28985316",
+    "update_time": "2025-05-15 00:33:20",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1233551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1703218002565833833",
+                    "size": "14076877114",
+                    "download": "13544041616"
+                }
+            },
+            "decryptionkey": "65b2a3b7cce93b31d5167af75ba0d12bcc362e83f55b7947a96ac4025abe964c"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "8098012",
+                "timeupdated": "1645466541"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
