@@ -1,0 +1,52 @@
+{
+    "appid": "2383950",
+    "type": "Beta",
+    "name": "Anvil Empires Pre-Alpha",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28917367",
+    "update_time": "2025-05-10 21:32:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2383951": {
+            "manifests": {
+                "public": {
+                    "gid": "7855466473958163046",
+                    "size": "32154386678",
+                    "download": "13121013312"
+                },
+                "devbranch": {
+                    "gid": "8430859856284256017",
+                    "size": "32193423782",
+                    "download": "13344608176"
+                }
+            },
+            "decryptionkey": "d0d2a76b71927a218ef36a3c895a008783f36427eabe5b6a46253ef25cfcdd25"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17957601",
+                "timeupdated": "1743655482"
+            },
+            "devbranch": {
+                "buildid": "18324869",
+                "description": "Early test branch",
+                "timeupdated": "1746213656"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
