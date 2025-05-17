@@ -1,0 +1,27 @@
+{
+    "appid": "1054390",
+    "type": "Game",
+    "name": "Blonde",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 13:23:36",
+    "depot": {
+        "1054391": {
+            "manifests": {
+                "public": {
+                    "gid": "5640048506009906804",
+                    "size": "250873565",
+                    "download": "42008992"
+                }
+            },
+            "decryptionkey": "658a65feb79aedbc06289c4e15592e9850c4cb5e07cb4cc4f195c2bd4cf35db0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3925154",
+                "timeupdated": "1560771854"
+            }
+        }
+    }
+}
