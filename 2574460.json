@@ -1,0 +1,29 @@
+{
+    "appid": "2574460",
+    "type": "Game",
+    "name": "Scars of Mars",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28896371",
+    "update_time": "2025-05-09 14:59:48",
+    "depot": {
+        "2574461": {
+            "manifests": {
+                "public": {
+                    "gid": "5166527168834841562",
+                    "size": "2861938764",
+                    "download": "1131857360"
+                }
+            },
+            "decryptionkey": "5ef62a081fa3d3f71f34491ce0effad366f03cac5e7639e011d4eb8327eb5feb"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18384684",
+                "timeupdated": "1746773984"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
