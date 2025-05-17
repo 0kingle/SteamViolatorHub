@@ -1,0 +1,28 @@
+{
+    "appid": "2679660",
+    "type": "Game",
+    "name": "Traveler's Refrain",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013930",
+    "update_time": "2025-05-16 08:24:42",
+    "depot": {
+        "2679661": {
+            "manifests": {
+                "public": {
+                    "gid": "7174978667536288198",
+                    "size": "5175950628",
+                    "download": "789965760"
+                }
+            },
+            "decryptionkey": "5f675672b3edd7e898ef7b87caefb74b291fe5d420fe302331c18731614e1174"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18375970",
+                "timeupdated": "1746630621"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
