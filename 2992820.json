@@ -1,0 +1,41 @@
+{
+    "appid": "2992820",
+    "type": "Demo",
+    "name": "Shape of Dreams Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28939609",
+    "update_time": "2025-05-12 21:32:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2992821": {
+            "manifests": {
+                "public": {
+                    "gid": "2098118218767353969",
+                    "size": "5219304328",
+                    "download": "1864304960"
+                }
+            },
+            "decryptionkey": "45455e7fcb64a8099b2f1daaa19c18c76f5ac5955b3255187e96c1e1668850fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18187104",
+                "timeupdated": "1745290428"
+            }
+        }
+    }
+}
