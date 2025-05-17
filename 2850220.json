@@ -1,0 +1,30 @@
+{
+    "appid": "2850220",
+    "type": "Game",
+    "name": "少女的移动城堡",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29018645",
+    "update_time": "2025-05-16 15:26:04",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "hasdepotsindlc": "0",
+        "2850221": {
+            "manifests": {
+                "public": {
+                    "gid": "1353680946314718286",
+                    "size": "718829631",
+                    "download": "548912928"
+                }
+            },
+            "decryptionkey": "9103ddc9b429f88c627351d06883403e74cb9baabd6e70fc95c187e57a136db6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18485167",
+                "timeupdated": "1747380359"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
