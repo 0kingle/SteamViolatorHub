@@ -1,0 +1,30 @@
+{
+    "appid": "2629810",
+    "type": "Game",
+    "name": "TRESPASSER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013507",
+    "update_time": "2025-05-16 07:54:43",
+    "depot": {
+        "2629811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8503125045539371535",
+                    "size": "1186753959",
+                    "download": "351140880"
+                }
+            },
+            "decryptionkey": "07f257b597571cb5b56319cac7ede4aa5c79a298fd3aac4555d661205a968818"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12330475",
+                "timeupdated": "1696197567"
+            }
+        }
+    }
+}
