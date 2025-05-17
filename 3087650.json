@@ -1,0 +1,42 @@
+{
+    "appid": "3087650",
+    "type": "Game",
+    "name": "A Shelter Full of Cats",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016152",
+    "update_time": "2025-05-16 11:48:45",
+    "depot": {
+        "3087651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1833879698122383688",
+                    "size": "487269160",
+                    "download": "422784048"
+                }
+            },
+            "decryptionkey": "b400ff15150a7a11d92479cda52378438b2aa19195eeca5c197f0bb52d203e4d"
+        },
+        "3087652": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5122628979031144925",
+                    "size": "493714720",
+                    "download": "424749712"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17573411",
+                "timeupdated": "1741001822"
+            }
+        }
+    }
+}
