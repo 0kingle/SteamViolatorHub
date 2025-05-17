@@ -1,0 +1,29 @@
+{
+    "appid": "1068150",
+    "type": "Game",
+    "name": "Dual Family",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983678",
+    "update_time": "2025-05-14 23:07:45",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "1068151": {
+            "manifests": {
+                "public": {
+                    "gid": "64667385990079092",
+                    "size": "1008961693",
+                    "download": "888585776"
+                }
+            },
+            "decryptionkey": "ddb37535fc93dc47216bb3f1f6b7cd6e79358ae64e1064f9e20b4c6f9c4d4a22"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4212582",
+                "timeupdated": "1568935643"
+            }
+        }
+    }
+}
