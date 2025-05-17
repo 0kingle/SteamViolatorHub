@@ -1,0 +1,31 @@
+{
+    "appid": "1428030",
+    "type": "Game",
+    "name": "Prince Of Wallachia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28653773",
+    "update_time": "2025-04-25 05:53:21",
+    "depot": {
+        "baselanguages": "english",
+        "1428031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2146721535464854717",
+                    "size": "4768552724",
+                    "download": "536262256"
+                }
+            },
+            "decryptionkey": "c1faa49d7ec1c063859e5e8f1974f1b6596981c0fc5efda7222571263143ca6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17515847",
+                "timeupdated": "1740578314"
+            }
+        }
+    }
+}
