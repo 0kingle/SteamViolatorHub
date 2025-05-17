@@ -1,0 +1,27 @@
+{
+    "appid": "2208620",
+    "type": "Game",
+    "name": "LustyVerse: ShackBang",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009741",
+    "update_time": "2025-05-16 03:00:43",
+    "depot": {
+        "2208621": {
+            "manifests": {
+                "public": {
+                    "gid": "6275309423659711292",
+                    "size": "7374974241",
+                    "download": "7165219376"
+                }
+            },
+            "decryptionkey": "3b7b4d033e001ee53823432a1efa6477c3b1c173c2f55cd4553db775b1957e77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11823608",
+                "timeupdated": "1690744245"
+            }
+        }
+    }
+}
