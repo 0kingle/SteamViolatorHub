@@ -1,0 +1,42 @@
+{
+    "appid": "2704140",
+    "type": "Game",
+    "name": "Fresh Story 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28804070",
+    "update_time": "2025-05-04 05:27:55",
+    "depot": {
+        "2704141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3793683637692771495",
+                    "size": "3007762765",
+                    "download": "2788973936"
+                }
+            },
+            "decryptionkey": "eff0692376352d83163a6269514b4c3f22839f5591df159f024d53e2072e265b"
+        },
+        "2704142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3150283239158248302",
+                    "size": "2995920420",
+                    "download": "2784921504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18309847",
+                "timeupdated": "1746107207"
+            }
+        }
+    }
+}
