@@ -1,0 +1,28 @@
+{
+    "appid": "1945190",
+    "type": "Game",
+    "name": "Heroes Rally",
+    "schinese_name": "捍卫者联盟",
+    "isfreeapp": "0",
+    "change_number": "28991108",
+    "update_time": "2025-05-15 06:59:52",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "1945191": {
+            "manifests": {
+                "public": {
+                    "gid": "8903716131925519995",
+                    "size": "400341750",
+                    "download": "245705392"
+                }
+            },
+            "decryptionkey": "cd3703862b564e0352eae5fcb45b78543a4b38b9f6dbd97f94571b20e715beb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9882131",
+                "timeupdated": "1667797141"
+            }
+        }
+    }
+}
