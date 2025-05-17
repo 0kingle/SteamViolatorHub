@@ -1,0 +1,27 @@
+{
+    "appid": "2478040",
+    "type": "Game",
+    "name": "Slugs and Bugs: Conversion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012331",
+    "update_time": "2025-05-16 06:06:47",
+    "depot": {
+        "2478041": {
+            "manifests": {
+                "public": {
+                    "gid": "5184561456816556012",
+                    "size": "1910557375",
+                    "download": "1708149616"
+                }
+            },
+            "decryptionkey": "6bcec586391de3874f7b8c0c330549c2fb4004610241a0b6afff747d31514e5a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18367564",
+                "timeupdated": "1746582984"
+            }
+        }
+    }
+}
