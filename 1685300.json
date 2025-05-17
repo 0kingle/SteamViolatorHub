@@ -1,0 +1,27 @@
+{
+    "appid": "1685300",
+    "type": "Game",
+    "name": "Verdict",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989187",
+    "update_time": "2025-05-15 04:33:07",
+    "depot": {
+        "1685301": {
+            "manifests": {
+                "public": {
+                    "gid": "2502394365281943514",
+                    "size": "349314124",
+                    "download": "123530688"
+                }
+            },
+            "decryptionkey": "b4db44aa4e19ad36edc2b3b5078a084088d6cca5094cc863e3299e88809fda19"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10551508",
+                "timeupdated": "1676403686"
+            }
+        }
+    }
+}
