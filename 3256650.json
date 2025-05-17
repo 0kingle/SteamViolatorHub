@@ -1,0 +1,35 @@
+{
+    "appid": "3256650",
+    "type": "Demo",
+    "name": "Foundation Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28295343",
+    "update_time": "2025-04-04 03:05:24",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3256651": {
+            "manifests": {
+                "public": {
+                    "gid": "2430171982863324989",
+                    "size": "5353980343",
+                    "download": "2579343424"
+                }
+            },
+            "decryptionkey": "9c0d0efd5d0f33cecd3a1564d2fd1c5d549e60e078e5d4b231cd6a5c8245e58e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17501996",
+                "timeupdated": "1740507577"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
