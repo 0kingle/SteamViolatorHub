@@ -1,0 +1,42 @@
+{
+    "appid": "1384090",
+    "type": "Game",
+    "name": "AutoLand",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 07:43:16",
+    "depot": {
+        "1384091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7692247047424815262",
+                    "size": "142313659",
+                    "download": "35689888"
+                }
+            },
+            "decryptionkey": "14732d6270d173ec1977152dfb32e744c96e13369d60d55b125f40bc47372e20"
+        },
+        "1384092": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2947360226718974595",
+                    "size": "154642380",
+                    "download": "39327616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6383369",
+                "timeupdated": "1615820470"
+            }
+        }
+    }
+}
