@@ -1,0 +1,28 @@
+{
+    "appid": "2401680",
+    "type": "Game",
+    "name": "Pet Shop Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011559",
+    "update_time": "2025-05-16 05:06:49",
+    "depot": {
+        "2401681": {
+            "manifests": {
+                "public": {
+                    "gid": "5141030563288626807",
+                    "size": "1860331265",
+                    "download": "534695168"
+                }
+            },
+            "decryptionkey": "db42f98ce5b346b2b30380411f5affe0c398cc0902195210ede5408abcd8da82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17093014",
+                "timeupdated": "1737640336"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
