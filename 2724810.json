@@ -1,0 +1,27 @@
+{
+    "appid": "2724810",
+    "type": "Game",
+    "name": "Oil Coin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014231",
+    "update_time": "2025-05-16 08:48:45",
+    "depot": {
+        "2724811": {
+            "manifests": {
+                "public": {
+                    "gid": "6904351901393003346",
+                    "size": "391838994",
+                    "download": "196401392"
+                }
+            },
+            "decryptionkey": "09e3c5c0508eb26ce81e9d7882c37d210c0eb5d67a6392a89e7f322da59ab8a2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13009416",
+                "timeupdated": "1703069751"
+            }
+        }
+    }
+}
