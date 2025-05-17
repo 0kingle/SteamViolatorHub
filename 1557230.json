@@ -1,0 +1,30 @@
+{
+    "appid": "1557230",
+    "type": "Game",
+    "name": "Rabbit Riot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 08:34:31",
+    "depot": {
+        "1557231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8250375647878594591",
+                    "size": "252758198",
+                    "download": "73469552"
+                }
+            },
+            "decryptionkey": "4bd54fc58f85a7f449f48df073b855f185819bc15ff695a492c54c25413b1d42"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6263384",
+                "timeupdated": "1613722219"
+            }
+        }
+    }
+}
