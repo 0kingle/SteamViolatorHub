@@ -1,0 +1,30 @@
+{
+    "appid": "2308920",
+    "type": "Game",
+    "name": "Classic Car Simulator: Car Driving",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29006614",
+    "update_time": "2025-05-16 00:12:32",
+    "depot": {
+        "2308921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7422367495556857198",
+                    "size": "314731219",
+                    "download": "220631392"
+                }
+            },
+            "decryptionkey": "8bc8ce0577b3ec25cd829652a730512bc4ac21447b42a2481ff8f3081c9f2d77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18256544",
+                "timeupdated": "1745767879"
+            }
+        }
+    }
+}
