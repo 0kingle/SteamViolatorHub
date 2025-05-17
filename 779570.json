@@ -1,0 +1,27 @@
+{
+    "appid": "779570",
+    "type": "Game",
+    "name": "Roulette Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008953",
+    "update_time": "2025-05-16 02:13:51",
+    "depot": {
+        "779571": {
+            "manifests": {
+                "public": {
+                    "gid": "3118048595026577634",
+                    "size": "282672977",
+                    "download": "100054016"
+                }
+            },
+            "decryptionkey": "2dfeb2284f192eddba1cd36110c24ae7708d3b4bc731536773c0a34a8c5d7f97"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2941679",
+                "timeupdated": "1747332827"
+            }
+        }
+    }
+}
