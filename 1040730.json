@@ -1,0 +1,34 @@
+{
+    "appid": "1040730",
+    "type": "Game",
+    "name": "ZUSI 3 - Aerosoft Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983048",
+    "update_time": "2025-05-14 22:52:19",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1040731": {
+            "manifests": {
+                "public": {
+                    "gid": "6454928400486416718",
+                    "size": "10869185617",
+                    "download": "3198316256"
+                }
+            },
+            "decryptionkey": "c5b3b28e4505b43631d0f7d2f350534de914ecf27c9b27517622c56b767dc1d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18026615",
+                "timeupdated": "1744868626"
+            }
+        }
+    }
+}
