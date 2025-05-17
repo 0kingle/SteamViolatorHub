@@ -1,0 +1,73 @@
+{
+    "appid": "2453610",
+    "type": "Game",
+    "name": "Towerful Defense: A Rogue TD",
+    "schinese_name": "球球大塔防",
+    "isfreeapp": "0",
+    "change_number": "28621604",
+    "update_time": "2025-04-23 20:19:54",
+    "depot": {
+        "2453611": {
+            "manifests": {
+                "public": {
+                    "gid": "3099626296015907115",
+                    "size": "364454415",
+                    "download": "95079280"
+                },
+                "public_beta_no_password": {
+                    "gid": "3099626296015907115",
+                    "size": "364454415",
+                    "download": "95079280"
+                }
+            },
+            "decryptionkey": "1d9ef26f27e93e0c8d38abf685a9c354625f81fc6bcae79d9383b35b2346c7cb"
+        },
+        "2453612": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9134517252597841270",
+                    "size": "388262129",
+                    "download": "96179760"
+                },
+                "public_beta_no_password": {
+                    "gid": "9134517252597841270",
+                    "size": "388262129",
+                    "download": "96179760"
+                }
+            }
+        },
+        "2453613": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3821385063876139034",
+                    "size": "316576954",
+                    "download": "87882320"
+                },
+                "public_beta_no_password": {
+                    "gid": "3821385063876139034",
+                    "size": "316576954",
+                    "download": "87882320"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18072773",
+                "timeupdated": "1744379611"
+            },
+            "public_beta_no_password": {
+                "buildid": "18072773",
+                "description": "Get the latest untested builds",
+                "timeupdated": "1744379657"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
