@@ -1,0 +1,27 @@
+{
+    "appid": "2144560",
+    "type": "Game",
+    "name": "Save the Kingdom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009139",
+    "update_time": "2025-05-16 02:24:43",
+    "depot": {
+        "2144561": {
+            "manifests": {
+                "public": {
+                    "gid": "6988105767392171497",
+                    "size": "749012287",
+                    "download": "654146192"
+                }
+            },
+            "decryptionkey": "74b88381a984fafa7919c91a8339cdc37ecc34af0f0f4f5b448c4490ad41f04f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9690695",
+                "timeupdated": "1665413457"
+            }
+        }
+    }
+}
