@@ -1,0 +1,59 @@
+{
+    "appid": "1245560",
+    "type": "Game",
+    "name": "Roots of Pacha",
+    "schinese_name": "帕夏时代",
+    "isfreeapp": "0",
+    "change_number": "28985441",
+    "update_time": "2025-05-15 00:39:58",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "1245561": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5613824019084440064",
+                    "size": "1173109618",
+                    "download": "858443232"
+                }
+            },
+            "decryptionkey": "c59e4ebf3c234a8d58ca8569203cad83878d158791cc5d9c608d9f09edbd5630"
+        },
+        "1245562": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1865565044447021901",
+                    "size": "1199944087",
+                    "download": "866151632"
+                }
+            },
+            "decryptionkey": "4b2a3974fbef0a05951bdfa793a75ca8569648a6f235c4ea6419885106c05bb4"
+        },
+        "1245563": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1040952888726313436",
+                    "size": "1174560175",
+                    "download": "858590544"
+                }
+            },
+            "decryptionkey": "9fad175a5cb3291efb893857c0f91c280075e6941f2e0cb44e9bcbff701c5a5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18383591",
+                "timeupdated": "1746719950"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
