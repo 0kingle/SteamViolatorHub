@@ -1,0 +1,28 @@
+{
+    "appid": "2294640",
+    "type": "Game",
+    "name": "Letifer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28993360",
+    "update_time": "2025-05-15 10:11:59",
+    "depot": {
+        "2294641": {
+            "manifests": {
+                "public": {
+                    "gid": "4920355128174050173",
+                    "size": "344233048",
+                    "download": "265319360"
+                }
+            },
+            "decryptionkey": "8fd2c12c5ee0accec3dd212a1bb99e08ebc21c4830aafa620243202e4d75e1b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18258044",
+                "timeupdated": "1745785544"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
