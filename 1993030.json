@@ -1,0 +1,28 @@
+{
+    "appid": "1993030",
+    "type": "Game",
+    "name": "Clown For Speed",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013470",
+    "update_time": "2025-05-16 07:50:01",
+    "depot": {
+        "1993031": {
+            "manifests": {
+                "public": {
+                    "gid": "8121338720932336442",
+                    "size": "7964534704",
+                    "download": "2126048032"
+                }
+            },
+            "decryptionkey": "5e85b380dea8ac668a58650170add33e2ce592e21e74f219f497d69f843ce718"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10842803",
+                "timeupdated": "1679610280"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
