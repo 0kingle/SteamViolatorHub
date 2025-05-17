@@ -1,0 +1,28 @@
+{
+    "appid": "2080800",
+    "type": "Game",
+    "name": "Spirit Hunter: Death Mark II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008517",
+    "update_time": "2025-05-16 01:48:44",
+    "depot": {
+        "2080801": {
+            "manifests": {
+                "public": {
+                    "gid": "8814126447029315893",
+                    "size": "3004420422",
+                    "download": "2674361888"
+                }
+            },
+            "decryptionkey": "eaf7dd18245c1d60afa9b7bea277a6893398c49db6c6ff25765b9cf56e03e2b5"
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "14702864",
+                "timeupdated": "1718268546"
+            }
+        }
+    }
+}
