@@ -1,0 +1,32 @@
+{
+    "appid": "1772830",
+    "type": "Game",
+    "name": "Rusted Moss",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:47",
+    "depot": {
+        "workshopdepot": "1772830",
+        "baselanguages": "english,koreana,schinese,japanese,brazilian,latam",
+        "hasdepotsindlc": "1",
+        "1772831": {
+            "manifests": {
+                "public": {
+                    "gid": "2576511640230554863",
+                    "size": "536279839",
+                    "download": "436099968"
+                }
+            },
+            "decryptionkey": "0eca4940a773462af16f1859c38bc3fdb2845fe0a4d71f58d52a9067e932a2dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17714380",
+                "timeupdated": "1741895584"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "6d333dbe767d3fac3e8f0d3cefba0e90b18bdedda3073d8cb6f59aa435cb3897"
+    }
+}
