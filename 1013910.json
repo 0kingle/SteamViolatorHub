@@ -1,0 +1,47 @@
+{
+    "appid": "1013910",
+    "type": "Game",
+    "name": "Aron's Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982432",
+    "update_time": "2025-05-14 22:51:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1013911": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6743141527006568667",
+                    "size": "6083503731",
+                    "download": "5658636928"
+                }
+            },
+            "decryptionkey": "1fa31cc68c0bd1c1f4d084edbdb38513fdd787f06c5818d5c29272be0827cbab"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12871876",
+                "timeupdated": "1701719458"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
