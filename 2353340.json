@@ -1,0 +1,29 @@
+{
+    "appid": "2353340",
+    "type": "Game",
+    "name": "KAMITSUBAKI CITY REGENERATE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011111",
+    "update_time": "2025-05-16 04:36:46",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2353341": {
+            "manifests": {
+                "public": {
+                    "gid": "3200804660127673077",
+                    "size": "5539985024",
+                    "download": "2970633312"
+                }
+            },
+            "decryptionkey": "7e3d6fa9e2c1a8a445788ad9d5f3bac69c02e9a71ebef99685c4c68d126dae83"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18012595",
+                "timeupdated": "1744973018"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
