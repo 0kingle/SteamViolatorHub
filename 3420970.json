@@ -1,0 +1,42 @@
+{
+    "appid": "3420970",
+    "type": "Demo",
+    "name": "Inkwellers Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28534260",
+    "update_time": "2025-04-18 01:03:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3420971": {
+            "manifests": {
+                "public": {
+                    "gid": "6775732646981174037",
+                    "size": "2208295069",
+                    "download": "1991815552"
+                }
+            },
+            "decryptionkey": "49a5ceb4b74d91406e18b82ceb151337f083de3cd27b0e6e2f1daa7bc0d68acb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18147106",
+                "timeupdated": "1744909383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
