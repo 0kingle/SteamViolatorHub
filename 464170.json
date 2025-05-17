@@ -1,0 +1,77 @@
+{
+    "appid": "464170",
+    "type": "Application",
+    "name": "VRMark",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28860757",
+    "update_time": "2025-05-07 19:50:19",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "464171": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "725626498443704422",
+                    "size": "1217613755",
+                    "download": "1012732000"
+                },
+                "previous_version": {
+                    "gid": "7793288730915193497",
+                    "size": "1165282802",
+                    "download": "961007712"
+                }
+            },
+            "decryptionkey": "a4b995e55ca0d7e39d72c5d10dcec1267af6282a3ac056d357ee190d4701ad8c"
+        },
+        "464172": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3600843402638907484",
+                    "size": "891429012",
+                    "download": "868204144"
+                }
+            },
+            "decryptionkey": "d2c85495386ebddbd7131f17eaeb0b0852c85910f3b86b92c58340a04b294d43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18373154",
+                "timeupdated": "1746618615"
+            },
+            "previous_version": {
+                "buildid": "1437320",
+                "description": "previous version (1.0.1227)",
+                "timeupdated": "1478863823"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
