@@ -1,0 +1,27 @@
+{
+    "appid": "2857000",
+    "type": "Game",
+    "name": "refarm",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014948",
+    "update_time": "2025-05-16 10:00:43",
+    "depot": {
+        "2857001": {
+            "manifests": {
+                "public": {
+                    "gid": "1204250253819036394",
+                    "size": "109023649",
+                    "download": "31285840"
+                }
+            },
+            "decryptionkey": "9088d1335ec168c30d94727dcbf95152032da2bf9129301e16f709ea95d52702"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18359102",
+                "timeupdated": "1746533662"
+            }
+        }
+    }
+}
