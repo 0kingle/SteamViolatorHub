@@ -1,0 +1,28 @@
+{
+    "appid": "1332950",
+    "type": "Game",
+    "name": "KinnikuNeko : SUPER MUSCLE CAT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:20:00",
+    "depot": {
+        "1332951": {
+            "manifests": {
+                "public": {
+                    "gid": "4515644456159975517",
+                    "size": "1664209048",
+                    "download": "649574448"
+                }
+            },
+            "decryptionkey": "fcb8d26315b432d36dd242acb502100f01c1a4aa42929bbbb8b2a6e0c59c96f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17816654",
+                "timeupdated": "1742754831"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
