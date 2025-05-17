@@ -1,0 +1,27 @@
+{
+    "appid": "2701390",
+    "type": "Game",
+    "name": "VR Harem Sex ~Fucking the All Girls Around Me~",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28612101",
+    "update_time": "2025-04-23 08:57:04",
+    "depot": {
+        "2701391": {
+            "manifests": {
+                "public": {
+                    "gid": "1399928601239391664",
+                    "size": "560029614",
+                    "download": "377908352"
+                }
+            },
+            "decryptionkey": "f681ba15ee399d8336bd556fb44f7aa9494bb088d1067b77d3a7f8c4de92d745"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17890662",
+                "timeupdated": "1743121725"
+            }
+        }
+    }
+}
