@@ -1,0 +1,42 @@
+{
+    "appid": "730540",
+    "type": "Demo",
+    "name": "Raji: An Ancient Epic Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28745994",
+    "update_time": "2025-04-30 17:57:27",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "730541": {
+            "manifests": {
+                "public": {
+                    "gid": "7397797075362401512",
+                    "size": "2397905537",
+                    "download": "2237309184"
+                }
+            },
+            "decryptionkey": "5c12350f7bd1725279afce81e8abe2ef9c6b43a9341fc31cb674075021959371"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18292914",
+                "timeupdated": "1746006972"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
