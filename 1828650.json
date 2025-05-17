@@ -1,0 +1,38 @@
+{
+    "appid": "1828650",
+    "type": "Game",
+    "name": "The Silent Kingdom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:08",
+    "depot": {
+        "baselanguages": "english,spanish",
+        "hasdepotsindlc": "0",
+        "1828651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6333071585749011171",
+                    "size": "1669898496",
+                    "download": "1404947280"
+                }
+            },
+            "decryptionkey": "91584f40af237f111c86693de942480b6e31d7f2f33b1085005944ecb48434d6"
+        },
+        "1828652": {
+            "config": {
+                "language": "spanish"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17605518",
+                "timeupdated": "1741185061"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
