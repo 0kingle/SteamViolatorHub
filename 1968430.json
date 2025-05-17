@@ -1,0 +1,68 @@
+{
+    "appid": "1968430",
+    "type": "Game",
+    "name": "Camp Buddy: Scoutmaster Season",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28993340",
+    "update_time": "2025-05-15 10:10:01",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1968431": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7051355176954300519",
+                    "size": "6798713925",
+                    "download": "6484118192"
+                }
+            },
+            "decryptionkey": "5628cb07cc8b77300b89f279df4bb8aa8dfc56f7523d5e2b594ea90d882787cc"
+        },
+        "1968432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5854107111348378316",
+                    "size": "6798713925",
+                    "download": "6484118192"
+                }
+            },
+            "decryptionkey": "7b23587859ff2a79aedb9c8b2b731e47145f2e1b6d8ce870bb338c565077ba78"
+        },
+        "1968433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3503572830903949954",
+                    "size": "6722225589",
+                    "download": "6461096720"
+                }
+            }
+        },
+        "3601730": {
+            "dlcappid": "3601730",
+            "manifests": {
+                "public": {
+                    "gid": "4387157941554608219",
+                    "size": "441080985",
+                    "download": "437120048"
+                }
+            },
+            "decryptionkey": "66d4c302302bd59344adf4d49380f96647c689308bb1d597120cee6d9ad64583"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18128867",
+                "timeupdated": "1744921884"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
