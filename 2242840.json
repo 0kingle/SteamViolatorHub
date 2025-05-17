@@ -1,0 +1,29 @@
+{
+    "appid": "2242840",
+    "type": "Game",
+    "name": "无梦少女",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982355",
+    "update_time": "2025-05-14 22:51:09",
+    "depot": {
+        "2242841": {
+            "manifests": {
+                "public": {
+                    "gid": "5912593552245613261",
+                    "size": "3805366034",
+                    "download": "663629328"
+                }
+            },
+            "decryptionkey": "2827f66b89c4a8e5034bae9afe24a081a5593786278497fad8f4ee32c189c779"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18455254",
+                "timeupdated": "1747231455"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
