@@ -1,0 +1,61 @@
+{
+    "appid": "2229920",
+    "type": "Game",
+    "name": "Temporian",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009919",
+    "update_time": "2025-05-16 03:12:44",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,brazilian",
+        "2229921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4381809640086330165",
+                    "size": "129606045",
+                    "download": "114146880"
+                },
+                "v127": {
+                    "gid": "7803587737976274429",
+                    "size": "420793730",
+                    "download": "226814752"
+                }
+            },
+            "decryptionkey": "934a19081e1804bb99a3f726d6ba2a018a8db2e6f6781544527fff9251426e8a"
+        },
+        "2229922": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7888175658654665574",
+                    "size": "392108426",
+                    "download": "204885728"
+                },
+                "v127": {
+                    "gid": "5973548941218041811",
+                    "size": "511805154",
+                    "download": "232244944"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18452124",
+                "timeupdated": "1747179908"
+            },
+            "v127": {
+                "buildid": "16907482",
+                "description": "Version 1.2.7",
+                "timeupdated": "1746711058"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
