@@ -1,0 +1,37 @@
+{
+    "appid": "2407762",
+    "type": "DLC",
+    "name": "Beat Saber - Queen - Crazy Little Thing Called Love",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:37:42",
+    "depot": {
+        "2407762": {
+            "manifests": {
+                "public": {
+                    "gid": "9025727224994527750",
+                    "size": "9577360",
+                    "download": "9625888"
+                },
+                "1.34.2_legacy": {
+                    "gid": "2989443327703283105",
+                    "size": "12866640",
+                    "download": "9656400"
+                }
+            },
+            "dlcappid": "2407762",
+            "decryptionkey": "af20c422ac0922542cd78077667cb8c907df510e2180842c58a067107198ac68"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13305205",
+                "timeupdated": "1707748696"
+            },
+            "1.34.2_legacy": {
+                "buildid": "11184559",
+                "timeupdated": "1706176295"
+            }
+        }
+    }
+}
