@@ -1,0 +1,117 @@
+{
+    "appid": "1296610",
+    "type": "Game",
+    "name": "Peglin",
+    "schinese_name": "哥布林弹球 Peglin",
+    "isfreeapp": "0",
+    "change_number": "29009136",
+    "update_time": "2025-05-16 02:24:23",
+    "depot": {
+        "1296611": {
+            "config": {
+                "oslist": "macos",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5358382804250771787",
+                    "size": "275595161",
+                    "download": "117247936"
+                },
+                "experimental": {
+                    "gid": "2899818190248429530",
+                    "size": "275586955",
+                    "download": "117227504"
+                }
+            }
+        },
+        "1296612": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5278263793029209057",
+                    "size": "365587452",
+                    "download": "150254112"
+                },
+                "experimental": {
+                    "gid": "6456702325334841563",
+                    "size": "365560728",
+                    "download": "150226480"
+                }
+            },
+            "decryptionkey": "c49de821f253df8466134db36c94c7808fd1ecb08b35b78580339be9e89663c5"
+        },
+        "1296613": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1450035502594243425",
+                    "size": "365587452",
+                    "download": "150254112"
+                },
+                "experimental": {
+                    "gid": "8394705877196008222",
+                    "size": "365560728",
+                    "download": "150226480"
+                }
+            },
+            "decryptionkey": "fb761a5ae924f7b0b79fd004dd2f05cda227b78400202d0c24b03197beb72263"
+        },
+        "1296614": {
+            "config": {
+                "oslist": "macos",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4387574692032342765",
+                    "size": "275595161",
+                    "download": "117247936"
+                },
+                "experimental": {
+                    "gid": "8580213706756302545",
+                    "size": "275586955",
+                    "download": "117227504"
+                }
+            },
+            "decryptionkey": "8a12d17a3edba3d6cf982ceea529e1dfb0d92750fc88897ad0f553ab7664ba2c"
+        },
+        "1296615": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4639281162184984631",
+                    "size": "280272776",
+                    "download": "120708832"
+                },
+                "experimental": {
+                    "gid": "4639281162184984631",
+                    "size": "280272776",
+                    "download": "120708832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18105317",
+                "timeupdated": "1744667770"
+            },
+            "experimental": {
+                "buildid": "18480452",
+                "description": "Least stable experimental content. Bugs & Balance issues lurk inside",
+                "timeupdated": "1747333460"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
