@@ -1,0 +1,45 @@
+{
+    "appid": "2421470",
+    "type": "Game",
+    "name": "KAGIDOKO : A Deep Learning Horror Game",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 06:17:52",
+    "depot": {
+        "workshopdepot": "2421470",
+        "baselanguages": "english,koreana",
+        "2421471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5136939514470890013",
+                    "size": "643852416",
+                    "download": "306640000"
+                }
+            },
+            "decryptionkey": "2ab9779ebe0a8f08999fd8845780bc884f0697ad205c3088587e894688334904"
+        },
+        "2421472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3756764898415736112",
+                    "size": "683946238",
+                    "download": "318025168"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13013688",
+                "timeupdated": "1703101912"
+            }
+        },
+        "workshopdepotdecryptionkey": "7c58813ff442bbad4bddab01e97b8718be3244f23778734571ac72ee6561e512"
+    }
+}
