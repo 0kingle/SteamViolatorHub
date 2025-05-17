@@ -1,0 +1,27 @@
+{
+    "appid": "1904040",
+    "type": "Game",
+    "name": "Fantasy Fishing Town",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28409638",
+    "update_time": "2025-04-10 22:37:14",
+    "depot": {
+        "1904041": {
+            "manifests": {
+                "public": {
+                    "gid": "2331738369939916015",
+                    "size": "204194120",
+                    "download": "139926112"
+                }
+            },
+            "decryptionkey": "ebf9a37181784837c9c852c219f45dd89d713d99a0655689c8796309498671c6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18057877",
+                "timeupdated": "1744295829"
+            }
+        }
+    }
+}
