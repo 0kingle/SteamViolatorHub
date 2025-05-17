@@ -1,0 +1,31 @@
+{
+    "appid": "2259040",
+    "type": "DLC",
+    "name": "Cassette Beasts: The Art Book",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 06:50:12",
+    "depot": {
+        "2259040": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4426190822593859262",
+                    "size": "49422650",
+                    "download": "42746272"
+                }
+            },
+            "dlcappid": "2259040",
+            "decryptionkey": "d23bf85c2d6360990b438b6d1fd2c63b5d7c24cb01c1a120c8b7dd221dccfb46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16472798",
+                "timeupdated": "1732111177"
+            }
+        }
+    }
+}
