@@ -1,0 +1,30 @@
+{
+    "appid": "1614920",
+    "type": "Game",
+    "name": "BricksVR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:12",
+    "depot": {
+        "1614921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8868289017030943888",
+                    "size": "185301372",
+                    "download": "46985712"
+                }
+            },
+            "decryptionkey": "4eeef0d644fab1b57509b5661f92eff27437ab4c43247805a5625a4b7ed83165"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7180175",
+                "timeupdated": "1628782831"
+            }
+        }
+    }
+}
