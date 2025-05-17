@@ -1,0 +1,27 @@
+{
+    "appid": "2733920",
+    "type": "Game",
+    "name": "Cat Search in Feudal Japan",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014290",
+    "update_time": "2025-05-16 08:54:47",
+    "depot": {
+        "2733921": {
+            "manifests": {
+                "public": {
+                    "gid": "6078746284061009174",
+                    "size": "249814105",
+                    "download": "61643024"
+                }
+            },
+            "decryptionkey": "0d08c8f347658dbd614338379c8666ce206b3ddc36eace404278f0c850fdcda4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13445708",
+                "timeupdated": "1707844824"
+            }
+        }
+    }
+}
