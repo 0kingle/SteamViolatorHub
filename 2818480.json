@@ -1,0 +1,28 @@
+{
+    "appid": "2818480",
+    "type": "Game",
+    "name": "Chaos Express",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014726",
+    "update_time": "2025-05-16 09:36:47",
+    "depot": {
+        "2818481": {
+            "manifests": {
+                "public": {
+                    "gid": "6195377826992933836",
+                    "size": "5657375011",
+                    "download": "5237427648"
+                }
+            },
+            "decryptionkey": "84526ae4986ee5db4c4e4c98ddfff9d3568e795bf1c06026e6146195d83fae42"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18466771",
+                "timeupdated": "1747261582"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
