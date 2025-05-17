@@ -1,0 +1,27 @@
+{
+    "appid": "2226980",
+    "type": "Game",
+    "name": "Iron Diamond",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009919",
+    "update_time": "2025-05-16 03:12:42",
+    "depot": {
+        "2226981": {
+            "manifests": {
+                "public": {
+                    "gid": "708558179520726877",
+                    "size": "1594817748",
+                    "download": "244456352"
+                }
+            },
+            "decryptionkey": "fe10b32e9c4d809146ef8c387f1ad48d9b82ba5ecff430a952736eaed53cbed3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15733576",
+                "timeupdated": "1726603953"
+            }
+        }
+    }
+}
