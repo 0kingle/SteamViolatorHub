@@ -1,0 +1,108 @@
+{
+    "appid": "282800",
+    "type": "Game",
+    "name": "100% Orange Juice",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009245",
+    "update_time": "2025-05-16 02:30:48",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,russian,japanese,brazilian,latam",
+        "workshopdepot": "282800",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "282801": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1064736403787241409",
+                    "size": "63519177",
+                    "download": "22141072"
+                },
+                "legacy_3.23.1": {
+                    "gid": "1404488458413730498",
+                    "size": "1803530534",
+                    "download": "1715322064"
+                }
+            },
+            "decryptionkey": "87e62a71a7524d05f39b2dc02f30dc8512b045ae195f369fc3b67a989b4fb407"
+        },
+        "282802": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5764753190303244762",
+                    "size": "43017624",
+                    "download": "12613232"
+                },
+                "legacy_3.23.1": {
+                    "gid": "230338898967177283",
+                    "size": "25443224",
+                    "download": "8009072"
+                }
+            }
+        },
+        "282803": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1605501396179387281",
+                    "size": "1758111227",
+                    "download": "1664582416"
+                },
+                "legacy_3.23.1": {
+                    "gid": "7640951944759810439",
+                    "size": "1645831861",
+                    "download": "1627398672"
+                }
+            },
+            "decryptionkey": "0183f0d2a5c6fb13b33e57af6908b35a2f08dd571dc6ab4ad0c386db4656904e"
+        },
+        "282804": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5694748010957472461",
+                    "size": "1796134393",
+                    "download": "1652294048"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18421733",
+                "timeupdated": "1747256067"
+            },
+            "legacy_3.23.1": {
+                "buildid": "16098648",
+                "description": "Legacy version 3.23.1 on DirectX9.",
+                "timeupdated": "1732140636"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bce06d9a03d0ad1cabd5a115365c6d2a50c0d133815003696783dc6481b7b90c"
+    }
+}
