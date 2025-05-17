@@ -1,0 +1,34 @@
+{
+    "appid": "3039500",
+    "type": "Game",
+    "name": "万象群侠传",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28996027",
+    "update_time": "2025-05-15 14:26:44",
+    "depot": {
+        "baselanguages": "schinese",
+        "3039501": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1819056860767040850",
+                    "size": "928179968",
+                    "download": "277588432"
+                }
+            },
+            "decryptionkey": "52933c4abfccfaa0be28a1ff000ed5e5d54d002ce5c79bfa852b1195e226d4bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18445145",
+                "timeupdated": "1747141874"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
