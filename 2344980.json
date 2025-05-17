@@ -1,0 +1,27 @@
+{
+    "appid": "2344980",
+    "type": "Game",
+    "name": "NOT the Hero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013473",
+    "update_time": "2025-05-16 07:50:22",
+    "depot": {
+        "2344981": {
+            "manifests": {
+                "public": {
+                    "gid": "2941142311712782760",
+                    "size": "76468336",
+                    "download": "65282512"
+                }
+            },
+            "decryptionkey": "704dcba9a36602160969e11046085189f8117bce20a5484874bea24abae69383"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10695477",
+                "timeupdated": "1678028182"
+            }
+        }
+    }
+}
