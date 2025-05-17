@@ -1,0 +1,53 @@
+{
+    "appid": "2161050",
+    "type": "Game",
+    "name": "Boti: Byteland Overclocked",
+    "schinese_name": "波提：字节国度大冒险",
+    "isfreeapp": "0",
+    "change_number": "29009242",
+    "update_time": "2025-05-16 02:30:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2161051": {
+            "manifests": {
+                "public": {
+                    "gid": "409302609995804175",
+                    "size": "12251952081",
+                    "download": "3780256544"
+                }
+            },
+            "decryptionkey": "f5aaffa0d070e7d43b932d3514f1a82b0f8eea99d4a82004c723cdd0fda67cc0"
+        },
+        "2161053": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "2161054": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18100837",
+                "timeupdated": "1744808558"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
