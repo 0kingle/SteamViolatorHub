@@ -1,0 +1,41 @@
+{
+    "appid": "2296550",
+    "type": "Game",
+    "name": "Axon TD: Uprising",
+    "schinese_name": "铁壁矩阵：轴突塔防",
+    "isfreeapp": "0",
+    "change_number": "28972686",
+    "update_time": "2025-05-14 11:30:37",
+    "depot": {
+        "2296551": {
+            "manifests": {
+                "public": {
+                    "gid": "6119694844060703690",
+                    "size": "12814348755",
+                    "download": "4639888880"
+                },
+                "alpha": {
+                    "gid": "4461954339165107263",
+                    "size": "12795711911",
+                    "download": "4637365424"
+                }
+            },
+            "decryptionkey": "994797aef82fe80d6f97c48f11ecd3692850bd111ad65296b834eac1a5ee6391"
+        },
+        "workshopdepot": "2296550",
+        "baselanguages": "english,german,koreana,schinese,tchinese,japanese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18419085",
+                "timeupdated": "1746955649"
+            },
+            "alpha": {
+                "buildid": "18454016",
+                "description": "Public testing",
+                "timeupdated": "1747193426"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b6da200b9e55b0d81523000ef97403c18dae8bff7aa08d52b9c0d12cf7e02c09"
+    }
+}
