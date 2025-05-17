@@ -1,0 +1,60 @@
+{
+    "appid": "860020",
+    "type": "Game",
+    "name": "Exfil",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014923",
+    "update_time": "2025-05-16 09:57:45",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "860021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7582849666416648371",
+                    "size": "11140785158",
+                    "download": "9680957488"
+                },
+                "public-testing": {
+                    "gid": "6100298995280288358",
+                    "size": "11241381209",
+                    "download": "9772623072"
+                }
+            },
+            "decryptionkey": "21a87dcc5e844a77ce8a4f5922e03a7dee2d1177fcf62be69ad21e9f9766136f"
+        },
+        "3370650": {
+            "dlcappid": "3370650"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18164704",
+                "timeupdated": "1745042634"
+            },
+            "public-testing": {
+                "buildid": "18351892",
+                "description": "Public access to the latest features for testing",
+                "timeupdated": "1746744526"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
