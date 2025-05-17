@@ -1,0 +1,29 @@
+{
+    "appid": "2953790",
+    "type": "Game",
+    "name": "WASDJK",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28386837",
+    "update_time": "2025-04-09 21:20:29",
+    "depot": {
+        "2953791": {
+            "manifests": {
+                "public": {
+                    "gid": "3561849871807007297",
+                    "size": "109267975",
+                    "download": "40898720"
+                }
+            },
+            "decryptionkey": "ff0c65f659dc58b2a03d7fe7f05f6924af9bfa77bbcee4e841f9b5653bbf3664"
+        },
+        "workshopdepot": "2953790",
+        "branches": {
+            "public": {
+                "buildid": "18041555",
+                "timeupdated": "1744204825"
+            }
+        },
+        "workshopdepotdecryptionkey": "eacea878c2e9a9cede474d4af0c544728cf168f25c1b7e260cd3af946e9e682f"
+    }
+}
