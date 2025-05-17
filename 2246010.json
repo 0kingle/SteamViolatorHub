@@ -1,0 +1,43 @@
+{
+    "appid": "2246010",
+    "type": "Game",
+    "name": "Kemps",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 18:36:05",
+    "depot": {
+        "2246011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4116485381466898256",
+                    "size": "647810269",
+                    "download": "112293040"
+                }
+            },
+            "decryptionkey": "e2bffdeeecb39be7d01ebeda111c702758cfb06aab29f6010fe4cd40dc66b1a3"
+        },
+        "2246012": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3402762032067388012",
+                    "size": "690298691",
+                    "download": "124969040"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "12015507",
+                "timeupdated": "1692814274"
+            }
+        }
+    }
+}
