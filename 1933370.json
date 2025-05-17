@@ -1,0 +1,47 @@
+{
+    "appid": "1933370",
+    "type": "Game",
+    "name": "Mark of the Deep",
+    "schinese_name": "深渊之印",
+    "isfreeapp": "0",
+    "change_number": "28910513",
+    "update_time": "2025-05-10 05:58:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1933371": {
+            "manifests": {
+                "public": {
+                    "gid": "5966491730961683484",
+                    "size": "5061937776",
+                    "download": "4865056160"
+                }
+            },
+            "decryptionkey": "1d846a28687fda6a4b1d471c6a2cbe5e68e6be29938a1a119f84ec5988dba0e3"
+        },
+        "3480440": {
+            "dlcappid": "3480440"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18351119",
+                "timeupdated": "1746725407"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
