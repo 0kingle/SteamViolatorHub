@@ -1,0 +1,35 @@
+{
+    "appid": "2499990",
+    "type": "Game",
+    "name": "The Rumble Fish +",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012540",
+    "update_time": "2025-05-16 06:24:46",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2499991": {
+            "manifests": {
+                "public": {
+                    "gid": "8658171642604479045",
+                    "size": "225490440",
+                    "download": "227521840"
+                }
+            },
+            "decryptionkey": "a03f0256e323e23471ae1ac447833c53287dbce8838c0297299003aea8af5ccf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13027301",
+                "timeupdated": "1703238263"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
