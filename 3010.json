@@ -1,0 +1,28 @@
+{
+    "appid": "3010",
+    "type": "Game",
+    "name": "Xpand Rally",
+    "schinese_name": "劲爆拉力赛",
+    "isfreeapp": "0",
+    "change_number": "28969249",
+    "update_time": "2025-05-14 06:21:11",
+    "depot": {
+        "3011": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3865032496351676864",
+                    "size": "821557250",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "22becf2930cce43c3dcd394c54ab8122cbfd5e114ea2dc715eedca768223eafb"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "242393"
+            }
+        }
+    }
+}
