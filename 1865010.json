@@ -1,0 +1,30 @@
+{
+    "appid": "1865010",
+    "type": "Game",
+    "name": "皓际大冒险",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28922146",
+    "update_time": "2025-05-11 09:59:27",
+    "depot": {
+        "baselanguages": "schinese",
+        "1865011": {
+            "manifests": {
+                "public": {
+                    "gid": "3035389843602284214",
+                    "size": "532281293",
+                    "download": "187987792"
+                }
+            },
+            "decryptionkey": "2f07cf3e1dbbfdfdc8ee9cb08cd082003a83e2e9eb0b0f67eca58bc874dc7a49"
+        },
+        "workshopdepot": "1865010",
+        "branches": {
+            "public": {
+                "buildid": "18417566",
+                "timeupdated": "1746928762"
+            }
+        },
+        "workshopdepotdecryptionkey": "adc6019c80fceb406ef7b2688bc38d2d1993925cba80183e8807408d010f9374"
+    }
+}
