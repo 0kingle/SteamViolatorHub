@@ -1,0 +1,47 @@
+{
+    "appid": "1534340",
+    "type": "Game",
+    "name": "Fida Puti Samurai",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010851",
+    "update_time": "2025-05-16 04:16:07",
+    "depot": {
+        "1534341": {
+            "manifests": {
+                "public": {
+                    "gid": "5561907261388628145",
+                    "size": "3999346079",
+                    "download": "1364924144"
+                },
+                "risky": {
+                    "gid": "5994079268107126529",
+                    "size": "2767306941",
+                    "download": "1245535984"
+                },
+                "test": {
+                    "gid": "5227118816174140118",
+                    "size": "2761948284",
+                    "download": "1251485152"
+                }
+            },
+            "decryptionkey": "1a3b2d3914505a32f0ade9b93f0bde095532a7999cf12ac80066cab8406fc4c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15888380",
+                "timeupdated": "1727965371"
+            },
+            "risky": {
+                "buildid": "18226809",
+                "description": "Beta or something dude",
+                "timeupdated": "1745671588"
+            },
+            "test": {
+                "buildid": "18491145",
+                "description": "for tests before publishing to main branch",
+                "timeupdated": "1747398556"
+            }
+        }
+    }
+}
