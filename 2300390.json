@@ -1,0 +1,27 @@
+{
+    "appid": "2300390",
+    "type": "Game",
+    "name": "I commissioned some cats",
+    "schinese_name": "我委托了一些猫咪",
+    "isfreeapp": "0",
+    "change_number": "29010613",
+    "update_time": "2025-05-16 04:00:41",
+    "depot": {
+        "2300391": {
+            "manifests": {
+                "public": {
+                    "gid": "4895533878483425535",
+                    "size": "88059046",
+                    "download": "72604768"
+                }
+            },
+            "decryptionkey": "ed2321cd834c473676949bd86823c017e7b91ef3e1391d0f1e97ac3f31ecffb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10569901",
+                "timeupdated": "1676579658"
+            }
+        }
+    }
+}
