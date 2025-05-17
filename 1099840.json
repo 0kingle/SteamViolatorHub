@@ -1,0 +1,27 @@
+{
+    "appid": "1099840",
+    "type": "Game",
+    "name": "1000$",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:53",
+    "depot": {
+        "1099841": {
+            "manifests": {
+                "public": {
+                    "gid": "2927797761316638561",
+                    "size": "120245096",
+                    "download": "44608704"
+                }
+            },
+            "decryptionkey": "c88d7380690082b7ef70c14178fc72be31fb2c7ca992d41f643f793caadee631"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3884663",
+                "timeupdated": "1559599061"
+            }
+        }
+    }
+}
