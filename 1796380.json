@@ -1,0 +1,31 @@
+{
+    "appid": "1796380",
+    "type": "Game",
+    "name": "GunRunner",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990058",
+    "update_time": "2025-05-15 05:33:15",
+    "depot": {
+        "1796381": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4746311557593010732",
+                    "size": "105374218",
+                    "download": "33819344"
+                }
+            },
+            "decryptionkey": "3f92a0ce7142cab5487fa3b60ff85ba672fcf127ebf909dc264389e4a38cb4b2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7961883",
+                "timeupdated": "1641129285"
+            }
+        }
+    }
+}
