@@ -1,0 +1,47 @@
+{
+    "appid": "2018970",
+    "type": "Demo",
+    "name": "Astro Colony Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28937677",
+    "update_time": "2025-05-12 19:35:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2018971": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1726879580713669286",
+                    "size": "3687624126",
+                    "download": "3540734896"
+                }
+            },
+            "decryptionkey": "1926e6c660e0ab535ae827cfeb469b0d1d02c78dfd60a6b100ff561dfbe76760"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18428189",
+                "timeupdated": "1747049718"
+            }
+        }
+    }
+}
