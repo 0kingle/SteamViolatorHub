@@ -1,0 +1,42 @@
+{
+    "appid": "3640040",
+    "type": "Game",
+    "name": "回煞录 | Phantom Reckoning",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010190",
+    "update_time": "2025-05-16 03:30:17",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,koreana,schinese,russian,japanese,latam",
+        "3640041": {
+            "manifests": {
+                "public": {
+                    "gid": "4437524492190247644",
+                    "size": "2715227443",
+                    "download": "2579276016"
+                }
+            },
+            "decryptionkey": "b1a1fd68c238d6d7378be1cd8ecf70ec62dd173894811d94963422de44f91d96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18480802",
+                "timeupdated": "1747335566"
+            }
+        }
+    }
+}
