@@ -1,0 +1,93 @@
+{
+    "appid": "307580",
+    "type": "Game",
+    "name": "Technobabylon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971554",
+    "update_time": "2025-05-14 09:47:56",
+    "depot": {
+        "307581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "937392250562318151",
+                    "size": "1342579961",
+                    "download": "1031820720"
+                },
+                "stable": {
+                    "gid": "7685480474322323272",
+                    "size": "1366717747",
+                    "download": "1030899744"
+                }
+            },
+            "decryptionkey": "0b0bfe784dce2f5709ed9d08c6d8b5441b779be61200f9cf86ab465b6437286c"
+        },
+        "307582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3865223457047374201",
+                    "size": "1411669998",
+                    "download": "1049006624"
+                },
+                "stable": {
+                    "gid": "1993005302921194301",
+                    "size": "1419989932",
+                    "download": "1044919168"
+                }
+            }
+        },
+        "307583": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8556740107990652168",
+                    "size": "1358241144",
+                    "download": "1036707616"
+                },
+                "stable": {
+                    "gid": "8938517193737225663",
+                    "size": "1371014326",
+                    "download": "1033271696"
+                }
+            }
+        },
+        "307584": {
+            "config": {
+                "oslist": "linux",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2776385328010261162",
+                    "size": "1414976999",
+                    "download": "1050075424"
+                },
+                "stable": {
+                    "gid": "520740630026137048",
+                    "size": "1422845160",
+                    "download": "1045782448"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18133383",
+                "timeupdated": "1744829201"
+            },
+            "stable": {
+                "buildid": "9055342",
+                "description": "Stable",
+                "timeupdated": "1659551687"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
