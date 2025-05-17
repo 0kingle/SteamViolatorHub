@@ -1,0 +1,58 @@
+{
+    "appid": "1407180",
+    "type": "Game",
+    "name": "Lawgivers II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986907",
+    "update_time": "2025-05-15 02:00:01",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1407182": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8443534373237453802",
+                    "size": "487357926",
+                    "download": "126569280"
+                }
+            },
+            "decryptionkey": "37d832db8bea2b43cfaea7753226ee774e87420661eec39535b2c19b125b0db6"
+        },
+        "1407183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4236911665206144956",
+                    "size": "455975952",
+                    "download": "131561664"
+                }
+            }
+        },
+        "1407184": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1566224696687613846",
+                    "size": "483008511",
+                    "download": "125115024"
+                }
+            }
+        },
+        "workshopdepot": "1407180",
+        "branches": {
+            "public": {
+                "buildid": "18413723",
+                "timeupdated": "1746875322"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "613bbd9a3c8d8f17987c100fe43f4f40b82b181cdb21f6f0adc5dcfd32ca7630"
+    }
+}
