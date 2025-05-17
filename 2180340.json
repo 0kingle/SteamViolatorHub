@@ -1,0 +1,45 @@
+{
+    "appid": "2180340",
+    "type": "Game",
+    "name": "Mirror of Heaven",
+    "schinese_name": "海山：昆仑镜",
+    "isfreeapp": "0",
+    "change_number": "28741313",
+    "update_time": "2025-04-30 13:02:35",
+    "depot": {
+        "baselanguages": "schinese",
+        "hasdepotsindlc": "1",
+        "2180341": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3522139090393146535",
+                    "size": "11658218277",
+                    "download": "4167505744"
+                },
+                "test": {
+                    "gid": "3522139090393146535",
+                    "size": "11658218277",
+                    "download": "4167505744"
+                }
+            },
+            "decryptionkey": "b06b675177eaea9c518bc577e7a3cc94ebc9856603ba5009e0eb3d4589c54e05"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18278743",
+                "timeupdated": "1745989351"
+            },
+            "test": {
+                "buildid": "18278743",
+                "description": "unstable branch",
+                "timeupdated": "1745924066"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
