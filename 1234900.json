@@ -1,0 +1,48 @@
+{
+    "appid": "1234900",
+    "type": "Game",
+    "name": "Sheptun",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013890",
+    "update_time": "2025-05-16 08:21:06",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1234901": {
+            "manifests": {
+                "public": {
+                    "gid": "483080849235253177",
+                    "size": "3130597874",
+                    "download": "1298885008"
+                }
+            },
+            "decryptionkey": "ae3bb8ee26d93817a807e02bd29c759f97893c6f50e8bbc9ff426657700bcf49"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4605722",
+                "timeupdated": "1579892741"
+            }
+        }
+    }
+}
