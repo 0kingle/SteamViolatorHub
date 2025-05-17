@@ -1,0 +1,27 @@
+{
+    "appid": "3135900",
+    "type": "Game",
+    "name": "Dawn of Survivor",
+    "schinese_name": "幸存者的黎明",
+    "isfreeapp": "0",
+    "change_number": "28955185",
+    "update_time": "2025-05-13 15:36:12",
+    "depot": {
+        "3135901": {
+            "manifests": {
+                "public": {
+                    "gid": "2467344544673270527",
+                    "size": "1142977053",
+                    "download": "313532336"
+                }
+            },
+            "decryptionkey": "313f70203f1dd8f45d21c130f90cb577a53dbeaba71bc4d0433af004cce30093"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18440515",
+                "timeupdated": "1747121767"
+            }
+        }
+    }
+}
