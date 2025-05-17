@@ -1,0 +1,32 @@
+{
+    "appid": "1917810",
+    "type": "Game",
+    "name": "Rooms of Realities",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990979",
+    "update_time": "2025-05-15 06:46:27",
+    "depot": {
+        "1917811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3583435603973940497",
+                    "size": "1614371440",
+                    "download": "1259851520"
+                }
+            },
+            "decryptionkey": "6c564ffec38e97caeb33471cddbb11088dc331a52fe8f3f853e2c3367f1646c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13315073",
+                "timeupdated": "1715260354"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
