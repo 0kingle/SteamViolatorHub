@@ -1,0 +1,27 @@
+{
+    "appid": "974180",
+    "type": "Game",
+    "name": "Falnarion Tactics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28981576",
+    "update_time": "2025-05-14 22:50:27",
+    "depot": {
+        "974181": {
+            "manifests": {
+                "public": {
+                    "gid": "287954489847760556",
+                    "size": "390002581",
+                    "download": "367894768"
+                }
+            },
+            "decryptionkey": "ea008ad796d82c33b98e85bfa33606f779416395225dddf221c58f7b02a12a78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13052739",
+                "timeupdated": "1703694742"
+            }
+        }
+    }
+}
