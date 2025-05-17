@@ -1,0 +1,27 @@
+{
+    "appid": "3196460",
+    "type": "Game",
+    "name": "Wukong Monkey King's Journey West",
+    "schinese_name": "悟空：猴王西游记",
+    "isfreeapp": "0",
+    "change_number": "28955195",
+    "update_time": "2025-05-13 15:36:51",
+    "depot": {
+        "3196461": {
+            "manifests": {
+                "public": {
+                    "gid": "3825392438690498726",
+                    "size": "8126500799",
+                    "download": "3010306112"
+                }
+            },
+            "decryptionkey": "dc1b75717c148da0e70b613f13dd55d0392afcb203b8dbb86825801f4d1a84e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18440487",
+                "timeupdated": "1747121805"
+            }
+        }
+    }
+}
