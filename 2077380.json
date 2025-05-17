@@ -1,0 +1,55 @@
+{
+    "appid": "2077380",
+    "type": "Game",
+    "name": "The Multi-Medium",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008365",
+    "update_time": "2025-05-16 01:42:50",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2077381": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2903179552362941584",
+                    "size": "6692161898",
+                    "download": "1949707712"
+                }
+            },
+            "decryptionkey": "915bf20b86cf38ff6acb11e7218362789f981c80f9204d88766ec3835dc31804"
+        },
+        "2077382": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3240261712910563076",
+                    "size": "6696628926",
+                    "download": "1951869088"
+                }
+            }
+        },
+        "2077383": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5338686113360791434",
+                    "size": "6706198014",
+                    "download": "1952340752"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11473143",
+                "timeupdated": "1686789683"
+            }
+        }
+    }
+}
