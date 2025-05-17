@@ -1,0 +1,30 @@
+{
+    "appid": "3141580",
+    "type": "Game",
+    "name": "台北仲夏夜之梦",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013895",
+    "update_time": "2025-05-16 08:21:35",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese,russian,japanese",
+        "3141581": {
+            "manifests": {
+                "public": {
+                    "gid": "4804061222200565061",
+                    "size": "27789314325",
+                    "download": "26985525360"
+                }
+            },
+            "decryptionkey": "335718f347e646f461dc14fe78fd8727e9262bcf3457b893b7ead2ae20ef0e10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18402870",
+                "timeupdated": "1746793454"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
