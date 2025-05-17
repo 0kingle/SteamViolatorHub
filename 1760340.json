@@ -1,0 +1,32 @@
+{
+    "appid": "1760340",
+    "type": "Game",
+    "name": "ReFactory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989707",
+    "update_time": "2025-05-15 05:13:09",
+    "depot": {
+        "baselanguages": "english,russian",
+        "1760341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8365366846053048638",
+                    "size": "846056081",
+                    "download": "306028064"
+                }
+            },
+            "decryptionkey": "342a5ba561577e6cfa17be39cf079e6ae99c13663bccd44d94d6118562d9b5fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9037283",
+                "timeupdated": "1656751669"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
