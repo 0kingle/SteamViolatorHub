@@ -1,0 +1,31 @@
+{
+    "appid": "1479810",
+    "type": "Game",
+    "name": "Legendary Hoplite",
+    "schinese_name": "传奇重装步兵",
+    "isfreeapp": "0",
+    "change_number": "28987531",
+    "update_time": "2025-05-15 02:39:52",
+    "depot": {
+        "1479811": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6476780059833802104",
+                    "size": "4954228605",
+                    "download": "4055938624"
+                }
+            },
+            "decryptionkey": "2b9d9295cb75a5d28cc78bc571acd1bd0ec775cfe752c694552a6962df48d113"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18157026",
+                "timeupdated": "1744975230"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
