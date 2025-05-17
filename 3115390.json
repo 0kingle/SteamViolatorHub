@@ -1,0 +1,58 @@
+{
+    "appid": "3115390",
+    "type": "Application",
+    "name": "SuperImage Pro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28688498",
+    "update_time": "2025-04-27 10:53:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3115391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3411202392787863001",
+                    "size": "325239810",
+                    "download": "132117440"
+                },
+                "alpha": {
+                    "gid": "3411202392787863001",
+                    "size": "325239810",
+                    "download": "132117440"
+                },
+                "image-specs-decoding": {
+                    "gid": "650059515946318470",
+                    "size": "329307638",
+                    "download": "137136032"
+                }
+            },
+            "decryptionkey": "48f204e64a70b0c425f7e812fa17cea89cc9e0c6cd75f7b35ba19584e5cd02e2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18148644",
+                "timeupdated": "1744917747"
+            },
+            "alpha": {
+                "buildid": "18148644",
+                "description": "Alpha builds, MIGHT BE UNSTABLE!!!",
+                "timeupdated": "1744917543"
+            },
+            "image-specs-decoding": {
+                "buildid": "17737849",
+                "description": "A",
+                "timeupdated": "1742054878"
+            }
+        }
+    }
+}
