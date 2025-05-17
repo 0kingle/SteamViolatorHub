@@ -1,0 +1,32 @@
+{
+    "appid": "1402120",
+    "type": "Game",
+    "name": "9 Years of Shadows",
+    "schinese_name": "九年阴影",
+    "isfreeapp": "0",
+    "change_number": "28986907",
+    "update_time": "2025-05-15 01:59:56",
+    "depot": {
+        "1402121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1708709466314969239",
+                    "size": "1631753734",
+                    "download": "1150099504"
+                }
+            },
+            "decryptionkey": "523c2a31a7404cd2f56d4396eee97a063c56d21792843befd04d02e962aef91e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18181340",
+                "timeupdated": "1745249740"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
