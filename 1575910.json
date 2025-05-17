@@ -1,0 +1,44 @@
+{
+    "appid": "1575910",
+    "type": "Game",
+    "name": "Mega Solitaire Collection",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 07:24:28",
+    "depot": {
+        "1575911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8368727912434940251",
+                    "size": "397871975",
+                    "download": "80064752"
+                }
+            },
+            "decryptionkey": "be69ae98cf632d3259b8314a32b7eb54958c338e0b7fa5c93a4068404097ab31"
+        },
+        "1575912": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5562329861251715991",
+                    "size": "398426480",
+                    "download": "80948096"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6782542",
+                "timeupdated": "1622365284"
+            }
+        }
+    }
+}
