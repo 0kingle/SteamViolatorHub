@@ -1,0 +1,35 @@
+{
+    "appid": "2550090",
+    "type": "Application",
+    "name": "回声工坊 RplGen Studio",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28803241",
+    "update_time": "2025-05-04 03:28:23",
+    "depot": {
+        "baselanguages": "schinese",
+        "2550091": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4055907616019268554",
+                    "size": "358945605",
+                    "download": "132889648"
+                }
+            },
+            "decryptionkey": "6b7e76ae4d7c8bbbad968483ef1a5be22d4eca081e90c4479ce93886d713630d"
+        },
+        "workshopdepot": "2550090",
+        "branches": {
+            "public": {
+                "buildid": "15417707",
+                "timeupdated": "1724059900"
+            }
+        },
+        "workshopdepotdecryptionkey": "8ada0134b5ea1ab3ada62f18e1e00d5224440c70fd954f1a797c4e485a31bab7"
+    }
+}
