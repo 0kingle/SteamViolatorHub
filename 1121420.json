@@ -1,0 +1,52 @@
+{
+    "appid": "1121420",
+    "type": "Game",
+    "name": "Kingdom Under Fire: The Crusaders ",
+    "schinese_name": "炽焰帝国：十字军东征",
+    "isfreeapp": "0",
+    "change_number": "28984279",
+    "update_time": "2025-05-14 23:39:54",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,japanese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1121421": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4395673366137241035",
+                    "size": "1247935007",
+                    "download": "940097664"
+                }
+            },
+            "decryptionkey": "726e12848fd329a4db013eb0b519b3d79f0e072c21b517934f11cd0ae6c5c085"
+        },
+        "1121422": {
+            "dlcappid": "1263430",
+            "config": {
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "5197721",
+                "timeupdated": "1592814542"
+            }
+        }
+    }
+}
