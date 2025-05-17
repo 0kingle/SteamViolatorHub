@@ -1,0 +1,27 @@
+{
+    "appid": "3446120",
+    "type": "Game",
+    "name": "Kira☆Kano",
+    "schinese_name": "闪亮☆女友",
+    "isfreeapp": "0",
+    "change_number": "29023851",
+    "update_time": "2025-05-16 20:17:33",
+    "depot": {
+        "3446121": {
+            "manifests": {
+                "public": {
+                    "gid": "430690210201307673",
+                    "size": "2085996282",
+                    "download": "1082246224"
+                }
+            },
+            "decryptionkey": "aadb32c08fa1e2753ecc0a2f349070af853935b7687a435b3cede167d84ee267"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17296757",
+                "timeupdated": "1739093024"
+            }
+        }
+    }
+}
