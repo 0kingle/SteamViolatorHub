@@ -1,0 +1,41 @@
+{
+    "appid": "3024300",
+    "type": "Demo",
+    "name": "Who is Abby Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28186548",
+    "update_time": "2025-03-28 16:38:57",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3024301": {
+            "manifests": {
+                "public": {
+                    "gid": "6369715693684784998",
+                    "size": "6447334628",
+                    "download": "5991230592"
+                }
+            },
+            "decryptionkey": "12e1ac0a34ca5fb74f985abf77c990e155fa27051a4341dcc6d2d6b61eb4fad5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15491116",
+                "timeupdated": "1724661645"
+            }
+        }
+    }
+}
