@@ -1,0 +1,79 @@
+{
+    "appid": "620190",
+    "type": "Game",
+    "name": "Gunsmith",
+    "schinese_name": "军火商",
+    "isfreeapp": "0",
+    "change_number": "28975704",
+    "update_time": "2025-05-14 22:39:39",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "620192": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7441716192586235722",
+                    "size": "4703728841",
+                    "download": "4317898096"
+                },
+                "betatest": {
+                    "gid": "4214616974933403741",
+                    "size": "4631742077",
+                    "download": "4456081456"
+                },
+                "gunsmithtestbranch": {
+                    "gid": "8186351280002792971",
+                    "size": "4561320416",
+                    "download": "4388424176"
+                },
+                "gunsmithopentest": {
+                    "gid": "6253807600137047085",
+                    "size": "4703673629",
+                    "download": "4317818960"
+                }
+            },
+            "decryptionkey": "d5686a82f15ef5a3346b350ed8ecc44846668969fc4c868fc64fae7253d23f50"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,turkish",
+        "workshopdepot": "620190",
+        "branches": {
+            "public": {
+                "buildid": "18387723",
+                "timeupdated": "1746703404"
+            },
+            "betatest": {
+                "buildid": "10107651",
+                "description": "gunsmithbetatest",
+                "timeupdated": "1670520122"
+            },
+            "gunsmithtestbranch": {
+                "buildid": "9150234",
+                "description": "latest test build",
+                "timeupdated": "1658249055"
+            },
+            "gunsmithopentest": {
+                "buildid": "18320515",
+                "description": "Try the next update for Gunsmith early!",
+                "timeupdated": "1746193052"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "416c1adde8416d214a0f8d3f76780e660453481f08f4589d8bca1981646389fb"
+    }
+}
