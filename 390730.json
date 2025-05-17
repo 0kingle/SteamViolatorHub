@@ -1,0 +1,65 @@
+{
+    "appid": "390730",
+    "type": "Game",
+    "name": "Sora",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972765",
+    "update_time": "2025-05-14 11:37:51",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "390731": {
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7106802049461142425",
+                    "size": "809361066",
+                    "download": "698954048"
+                }
+            },
+            "decryptionkey": "e4cef77f5906672b01fbc6716d4dd386b821f139fb3cae2a82ed427dffbc1e80"
+        },
+        "390732": {
+            "config": {
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6557976036157047421",
+                    "size": "1210011279",
+                    "download": "898068464"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18092617",
+                "timeupdated": "1744586286"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
