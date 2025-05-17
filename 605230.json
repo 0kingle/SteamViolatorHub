@@ -1,0 +1,72 @@
+{
+    "appid": "605230",
+    "type": "Game",
+    "name": "Grey Hack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29007475",
+    "update_time": "2025-05-16 00:58:23",
+    "depot": {
+        "605231": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3736252918365011368",
+                    "size": "715492294",
+                    "download": "73314368"
+                }
+            },
+            "decryptionkey": "f8ce15232e8c5ded9644310c1a9df571c731568b45e089110442ce8ad6d435f5"
+        },
+        "605232": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5503262253933495491",
+                    "size": "715459731",
+                    "download": "73448656"
+                }
+            }
+        },
+        "605233": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "519360307303904831",
+                    "size": "712929276",
+                    "download": "70986624"
+                }
+            }
+        },
+        "605234": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1183073798677577291",
+                    "size": "704152307",
+                    "download": "69988432"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "workshopdepot": "605230",
+        "branches": {
+            "public": {
+                "buildid": "18479410",
+                "timeupdated": "1747328298"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "745113dea91fce09e22afba17a8c516dff088344d7d4891922d75a49ff24ac10"
+    }
+}
