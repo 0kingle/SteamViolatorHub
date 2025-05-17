@@ -1,0 +1,28 @@
+{
+    "appid": "2542140",
+    "type": "Game",
+    "name": "Ketz: Galactic Overlords",
+    "schinese_name": "暗黑战甲",
+    "isfreeapp": "0",
+    "change_number": "29022848",
+    "update_time": "2025-05-16 19:18:37",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2542141": {
+            "manifests": {
+                "public": {
+                    "gid": "6556906155934492108",
+                    "size": "5088751302",
+                    "download": "1340396336"
+                }
+            },
+            "decryptionkey": "50e47ffab2488aef15a16475f5b3c90cf9940a35cf1d789bfa26aeb431cd9fbf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18490309",
+                "timeupdated": "1747394313"
+            }
+        }
+    }
+}
