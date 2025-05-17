@@ -1,0 +1,60 @@
+{
+    "appid": "1471910",
+    "type": "Game",
+    "name": "Killer Sudoku",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987438",
+    "update_time": "2025-05-15 02:33:17",
+    "depot": {
+        "1471911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1553938121815959099",
+                    "size": "195017932",
+                    "download": "21979984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1471912": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4226716440356791805",
+                    "size": "225468166",
+                    "download": "31440736"
+                }
+            }
+        },
+        "1471913": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7283782844965093525",
+                    "size": "202675916",
+                    "download": "24425632"
+                }
+            },
+            "decryptionkey": "a7015fa29844ccee548212dc8db6a58e785431436deaef40298b7f1a32565403"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8503184",
+                "timeupdated": "1649192377"
+            }
+        }
+    }
+}
