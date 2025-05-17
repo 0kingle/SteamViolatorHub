@@ -1,0 +1,42 @@
+{
+    "appid": "2632930",
+    "type": "Game",
+    "name": "Life Eater",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013507",
+    "update_time": "2025-05-16 07:54:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2632931": {
+            "manifests": {
+                "public": {
+                    "gid": "6558201454395229620",
+                    "size": "1123275813",
+                    "download": "829554464"
+                }
+            },
+            "decryptionkey": "8146b5addf44e3d378bf678b574a06b3e23079c0bb1c63ddbbb03bc2cbe70722"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14537315",
+                "timeupdated": "1717008099"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
