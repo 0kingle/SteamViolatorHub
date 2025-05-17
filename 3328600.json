@@ -1,0 +1,42 @@
+{
+    "appid": "3328600",
+    "type": "Demo",
+    "name": " Coin Push RPG",
+    "schinese_name": "推币勇者Demo",
+    "isfreeapp": "0",
+    "change_number": "28441288",
+    "update_time": "2025-04-12 12:34:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3328601": {
+            "manifests": {
+                "public": {
+                    "gid": "3652911245688814011",
+                    "size": "625110120",
+                    "download": "454427056"
+                }
+            },
+            "decryptionkey": "c153290fc3fa00e37110656fbde4066f829689939f31e4b6c36ed31539160da0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17577791",
+                "timeupdated": "1741056819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
