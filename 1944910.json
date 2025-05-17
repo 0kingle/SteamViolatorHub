@@ -1,0 +1,28 @@
+{
+    "appid": "1944910",
+    "type": "Game",
+    "name": "Thunder Ray",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991108",
+    "update_time": "2025-05-15 06:59:53",
+    "depot": {
+        "1944911": {
+            "manifests": {
+                "public": {
+                    "gid": "6283366165467689420",
+                    "size": "1856236718",
+                    "download": "907986416"
+                }
+            },
+            "decryptionkey": "897e3e3c8938c1c8ceb9d69c154e5beafc79a3152d09426d439c7978b3adf072"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13032271",
+                "timeupdated": "1709046740"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
