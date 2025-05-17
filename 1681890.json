@@ -1,0 +1,47 @@
+{
+    "appid": "1681890",
+    "type": "Game",
+    "name": "Little League World Series Baseball 2022",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989105",
+    "update_time": "2025-05-15 04:26:38",
+    "depot": {
+        "1681891": {
+            "manifests": {
+                "public": {
+                    "gid": "4096204687960608024",
+                    "size": "3879242987",
+                    "download": "3049980672"
+                },
+                "ageratings": {
+                    "gid": "6074692449450757250",
+                    "size": "6396509173",
+                    "download": "3508602800"
+                },
+                "steamdevelopmentbranch": {
+                    "gid": "4096204687960608024",
+                    "size": "3879242987",
+                    "download": "3049980672"
+                }
+            },
+            "decryptionkey": "fdc30460f9a61f73e74d0eff68ee90180e241bb7160978d66e86e453c8bfac24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9196686",
+                "timeupdated": "1658884842"
+            },
+            "ageratings": {
+                "buildid": "8296431",
+                "description": "Branch Created for Age Ratings",
+                "timeupdated": "1646171502"
+            },
+            "steamdevelopmentbranch": {
+                "buildid": "9196686",
+                "description": "For Steam Development",
+                "timeupdated": "1658884857"
+            }
+        }
+    }
+}
