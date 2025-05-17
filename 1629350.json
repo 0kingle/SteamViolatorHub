@@ -1,0 +1,51 @@
+{
+    "appid": "1629350",
+    "type": "Game",
+    "name": "Despair: Blood Curse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988679",
+    "update_time": "2025-05-15 03:59:58",
+    "depot": {
+        "1629351": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5968095147577881430",
+                    "size": "8595065458",
+                    "download": "7473900752"
+                },
+                "v1.00": {
+                    "gid": "3416051076955303873",
+                    "size": "8530721599",
+                    "download": "7416418208"
+                },
+                "v1.01": {
+                    "gid": "5440150550023388624",
+                    "size": "8536821361",
+                    "download": "7420801136"
+                }
+            },
+            "decryptionkey": "ce30e570c75d85a7c4b707e64c7004b688f0289e0276fe4689b66b0ebfc0855a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13686422",
+                "timeupdated": "1709952563"
+            },
+            "v1.00": {
+                "buildid": "12977270",
+                "description": "Version 1.00",
+                "timeupdated": "1707941112"
+            },
+            "v1.01": {
+                "buildid": "13438586",
+                "description": "Version 1.01",
+                "timeupdated": "1709952652"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
