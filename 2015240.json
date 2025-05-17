@@ -1,0 +1,52 @@
+{
+    "appid": "2015240",
+    "type": "Game",
+    "name": "Dwarven Realms",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29021677",
+    "update_time": "2025-05-16 18:10:12",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2015241": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3275054635931196569",
+                    "size": "16805025145",
+                    "download": "16343829296"
+                }
+            },
+            "decryptionkey": "af9571cc8c6e975247efca0a6cda92a974e384ce0ad7420bcfd110a941ee981f"
+        },
+        "2015242": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493643",
+                "timeupdated": "1747411370"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
