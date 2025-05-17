@@ -1,0 +1,30 @@
+{
+    "appid": "1950200",
+    "type": "Game",
+    "name": "Loathful",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:33",
+    "depot": {
+        "1950201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8745371702983062274",
+                    "size": "2361491393",
+                    "download": "897168160"
+                }
+            },
+            "decryptionkey": "712c08d52fef0d06d19b824f58fed3ff5738f67886a0dfae8cdb6f5277ae6ac6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14045953",
+                "timeupdated": "1713034714"
+            }
+        }
+    }
+}
