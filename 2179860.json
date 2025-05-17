@@ -1,0 +1,27 @@
+{
+    "appid": "2179860",
+    "type": "Game",
+    "name": "Prison City",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009471",
+    "update_time": "2025-05-16 02:42:43",
+    "depot": {
+        "2179861": {
+            "manifests": {
+                "public": {
+                    "gid": "5311463215309478641",
+                    "size": "307535511",
+                    "download": "252568400"
+                }
+            },
+            "decryptionkey": "0bfb20f547237618f1aedb1d07259e8f33e9d95c2761eca5faf6b1301f3fa0b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12892170",
+                "timeupdated": "1701883034"
+            }
+        }
+    }
+}
