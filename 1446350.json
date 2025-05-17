@@ -1,0 +1,43 @@
+{
+    "appid": "1446350",
+    "type": "Game",
+    "name": "You Will Die Here Tonight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987256",
+    "update_time": "2025-05-15 02:19:56",
+    "depot": {
+        "1446352": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7643396578479939454",
+                    "size": "2779793016",
+                    "download": "775680416"
+                },
+                "beta": {
+                    "gid": "7643396578479939454",
+                    "size": "2779793016",
+                    "download": "775680416"
+                }
+            },
+            "decryptionkey": "44b8e72e2f4a08a2b1beea145f260fa395f691b54fba8f44c5d7a7edc8e03434"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18244918",
+                "timeupdated": "1746212428"
+            },
+            "beta": {
+                "buildid": "18244918",
+                "description": "Upcoming updates",
+                "timeupdated": "1745619720"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
