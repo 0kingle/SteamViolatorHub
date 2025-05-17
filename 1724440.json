@@ -1,0 +1,29 @@
+{
+    "appid": "1724440",
+    "type": "Game",
+    "name": "Epic Fantasy Battle Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989417",
+    "update_time": "2025-05-15 04:53:15",
+    "depot": {
+        "1724441": {
+            "manifests": {
+                "public": {
+                    "gid": "6633674113867369961",
+                    "size": "6909917943",
+                    "download": "2877591616"
+                }
+            },
+            "decryptionkey": "207e7b731dced4d692e0248fb7a8242e609154bfa2c91060cd2686f88391274a"
+        },
+        "workshopdepot": "1724440",
+        "branches": {
+            "public": {
+                "buildid": "12491430",
+                "timeupdated": "1697795871"
+            }
+        },
+        "workshopdepotdecryptionkey": "33031aafd1905c9ab38f5566d7c6f91130b2b414ab76f0b5137ec5515022bc17"
+    }
+}
