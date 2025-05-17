@@ -1,0 +1,28 @@
+{
+    "appid": "3010070",
+    "type": "Game",
+    "name": "Man I Just Wanna Go Home",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28639428",
+    "update_time": "2025-04-24 16:12:05",
+    "depot": {
+        "3010071": {
+            "manifests": {
+                "public": {
+                    "gid": "6736072080311698621",
+                    "size": "441199720",
+                    "download": "216143168"
+                }
+            },
+            "decryptionkey": "202d6832e83f15d9adfec7af17c2555e873bdeda6f5923d649f57a2fa290a7d5"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "18207199",
+                "timeupdated": "1745408715"
+            }
+        }
+    }
+}
