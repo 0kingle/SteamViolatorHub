@@ -1,0 +1,39 @@
+{
+    "appid": "1829370",
+    "type": "Game",
+    "name": "Death Horizon: Reloaded",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27990969",
+    "update_time": "2025-03-17 18:00:38",
+    "depot": {
+        "1829371": {
+            "manifests": {
+                "public": {
+                    "gid": "7237206837133205621",
+                    "size": "5965462033",
+                    "download": "2003990016"
+                },
+                "publicbeta": {
+                    "gid": "7237206837133205621",
+                    "size": "5965462033",
+                    "download": "2003990016"
+                }
+            },
+            "decryptionkey": "e2f4f3ecf5cf264e4698a87bf15aee49f97a8799f591de41749294846257a432"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "17710269",
+                "timeupdated": "1741966656"
+            },
+            "publicbeta": {
+                "buildid": "17710269",
+                "description": "public",
+                "timeupdated": "1741966533"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
