@@ -1,0 +1,27 @@
+{
+    "appid": "2546680",
+    "type": "Game",
+    "name": "Ninja Maker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 10:06:46",
+    "depot": {
+        "2546681": {
+            "manifests": {
+                "public": {
+                    "gid": "3903623574732827005",
+                    "size": "967249934",
+                    "download": "341550304"
+                }
+            },
+            "decryptionkey": "9abd3c448fc8cfcc576a9c6daa55ab76f308d237e1cb696fb142b23938e93d27"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13194445",
+                "timeupdated": "1705487323"
+            }
+        }
+    }
+}
