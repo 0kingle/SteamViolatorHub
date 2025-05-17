@@ -1,0 +1,30 @@
+{
+    "appid": "738711",
+    "type": "Music",
+    "name": "Neverwinter Nights: Enhanced Edition Premium Adventures Official Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28773570",
+    "update_time": "2025-05-02 02:36:10",
+    "depot": {
+        "1238610": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5927756506395662381",
+                    "size": "27730130",
+                    "download": "26843344"
+                }
+            },
+            "decryptionkey": "3a9d1830d1eec9692d5983b2017cf2034b6a11c9d1ebbfb681d96ac6303bd886"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17885208",
+                "timeupdated": "1743090904"
+            }
+        }
+    }
+}
