@@ -1,0 +1,28 @@
+{
+    "appid": "954870",
+    "type": "Game",
+    "name": "Astrox Imperium",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28981182",
+    "update_time": "2025-05-14 22:49:48",
+    "depot": {
+        "954871": {
+            "manifests": {
+                "public": {
+                    "gid": "5170641090620059538",
+                    "size": "2089185920",
+                    "download": "869145872"
+                }
+            },
+            "decryptionkey": "0316377090b0230df16f192d34a02cc0c6b67934621c86cf077402e3ef967b02"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18335809",
+                "timeupdated": "1746329352"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
