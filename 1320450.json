@@ -1,0 +1,50 @@
+{
+    "appid": "1320450",
+    "type": "Demo",
+    "name": "Space Simulation Toolkit - DEMO",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28495826",
+    "update_time": "2025-04-16 05:29:15",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1320451": {
+            "config": {
+                "language": ""
+            }
+        },
+        "1320454": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2352540213315686402",
+                    "size": "245449053",
+                    "download": "53612576"
+                }
+            },
+            "decryptionkey": "81c1ca7907c28cc8145c1763a57b4ab5d7ab5437cdbe7608f43bd9a96b780b08"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18119640",
+                "timeupdated": "1744752534"
+            }
+        }
+    }
+}
