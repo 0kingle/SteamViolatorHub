@@ -1,0 +1,54 @@
+{
+    "appid": "676580",
+    "type": "Game",
+    "name": "NEO Impossible Bosses",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 21:30:38",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "676581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "855469793764741836",
+                    "size": "823735234",
+                    "download": "253821152"
+                }
+            },
+            "decryptionkey": "e18d6590ab6f51acbfa2bd76dd04afe02053509df72efafee83b242dbd45b337"
+        },
+        "workshopdepot": "676580",
+        "branches": {
+            "public": {
+                "buildid": "2681156",
+                "timeupdated": "1523522715"
+            }
+        }
+    }
+}
