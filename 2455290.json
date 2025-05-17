@@ -1,0 +1,40 @@
+{
+    "appid": "2455290",
+    "type": "Music",
+    "name": "Astral Ascent Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28903667",
+    "update_time": "2025-05-09 22:32:43",
+    "depot": {
+        "2455291": {
+            "manifests": {
+                "public": {
+                    "gid": "3212212355549950128",
+                    "size": "193659048",
+                    "download": "188823072"
+                }
+            },
+            "decryptionkey": "a4ef3df42d2b8c4b911bb7717d0bff14941a1895449b614f62afe02759a964ae"
+        },
+        "2455292": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2682701778822283195",
+                    "size": "1243429686",
+                    "download": "1120486368"
+                }
+            },
+            "decryptionkey": "86b14333ed98e70d9a628ae5adf8b432247c13252085ad35dc7eee13832483f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18319165",
+                "timeupdated": "1746174876"
+            }
+        }
+    }
+}
