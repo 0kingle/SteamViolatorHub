@@ -1,0 +1,53 @@
+{
+    "appid": "1827800",
+    "type": "Demo",
+    "name": "Minigame Madness Lite",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972596",
+    "update_time": "2025-05-14 11:21:24",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian,ukrainian,vietnamese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1827801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "909067636698245596",
+                    "size": "764551980",
+                    "download": "566016528"
+                }
+            },
+            "decryptionkey": "887399a7c54c68ebff7a46e1d21929130ab94e9940c762b0b6fe3ed78106e345"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332141",
+                "timeupdated": "1746280643"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
