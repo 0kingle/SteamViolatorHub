@@ -1,0 +1,44 @@
+{
+    "appid": "2696320",
+    "type": "Game",
+    "name": "Thought Experiment Simulator",
+    "schinese_name": "哲学梗模拟器",
+    "isfreeapp": "0",
+    "change_number": "29014012",
+    "update_time": "2025-05-16 08:30:52",
+    "depot": {
+        "2696321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8455574643218826774",
+                    "size": "1913414636",
+                    "download": "693011616"
+                }
+            },
+            "decryptionkey": "3ba4efb2e812141d70f414d0c3379211ca787d7db7f843d1c79d3879571486f2"
+        },
+        "2696322": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4886649901559891162",
+                    "size": "2052600334",
+                    "download": "805339872"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18138595",
+                "timeupdated": "1744862813"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
