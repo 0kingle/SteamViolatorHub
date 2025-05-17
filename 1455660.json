@@ -1,0 +1,112 @@
+{
+    "appid": "1455660",
+    "type": "Game",
+    "name": "Out of the Park Baseball 22",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987341",
+    "update_time": "2025-05-15 02:26:43",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1455661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2285444776841330915",
+                    "size": "39077904",
+                    "download": "13568928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1455662": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1832118681812555357",
+                    "size": "40608483",
+                    "download": "14303744"
+                }
+            }
+        },
+        "1455663": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8451819804810952382",
+                    "size": "67470923",
+                    "download": "18647392"
+                }
+            }
+        },
+        "1455664": {
+            "manifests": {
+                "public": {
+                    "gid": "2160227017812719593",
+                    "size": "28983",
+                    "download": "11072"
+                }
+            },
+            "decryptionkey": "766844d63fde6ae9181071d68b71e4289fd426ef7f742f18825e8f8d0c4d034f"
+        },
+        "1455665": {
+            "manifests": {
+                "public": {
+                    "gid": "6563831151819574517",
+                    "size": "370880604",
+                    "download": "50417600"
+                }
+            },
+            "decryptionkey": "d2113235811fbddec77663173d249c56c52317e838f469bb3afd1c028e84f4f1"
+        },
+        "1455666": {
+            "manifests": {
+                "public": {
+                    "gid": "6705283280584461044",
+                    "size": "2105901304",
+                    "download": "1297079568"
+                }
+            },
+            "decryptionkey": "dfc9b0ed343d66a7cc4944478a9ff0a6b63098fa9eaf883eeffce7ded677033e"
+        },
+        "1455667": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3585969651452702027",
+                    "size": "47162448",
+                    "download": "16527760"
+                }
+            },
+            "decryptionkey": "879367131f042573791e41b390dc0515018f17c39c4a5a3017285900c4f31b68"
+        },
+        "baselanguages": "english,koreana",
+        "workshopdepot": "1455660",
+        "branches": {
+            "public": {
+                "buildid": "8061764",
+                "timeupdated": "1643785175"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "485fad6fc7b4f7deafc2c26292fcc8fdf2e2acc7529e770b3bd25538af3cd4a0"
+    }
+}
