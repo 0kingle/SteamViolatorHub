@@ -1,0 +1,45 @@
+{
+    "appid": "3114010",
+    "type": "Game",
+    "name": "CAPTURED",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016278",
+    "update_time": "2025-05-16 12:00:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3114011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8156722824519195428",
+                    "size": "4955870562",
+                    "download": "4587290992"
+                }
+            },
+            "decryptionkey": "7ecaaf496a01b9f4ba0ee21372107bcc10f909e9d3575253f900fc644a265835"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,greek,latam",
+        "branches": {
+            "public": {
+                "buildid": "18080643",
+                "timeupdated": "1744427232"
+            }
+        }
+    }
+}
