@@ -1,0 +1,29 @@
+{
+    "appid": "1515610",
+    "type": "Game",
+    "name": "Primeval",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987808",
+    "update_time": "2025-05-15 02:59:51",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1515611": {
+            "manifests": {
+                "public": {
+                    "gid": "4826230785613888768",
+                    "size": "104091868",
+                    "download": "52388832"
+                }
+            },
+            "decryptionkey": "f52797cffecaa672a5864777aaca07bb63c25c9fab1266ae7f38a0b96e0bb444"
+        },
+        "1515613": {},
+        "branches": {
+            "public": {
+                "buildid": "7445447",
+                "timeupdated": "1632919143"
+            }
+        }
+    }
+}
