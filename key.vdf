@@ -1,0 +1,15 @@
+"depots"
+{
+    "2221841"
+    {
+        "DecryptionKey" "9c64d8d4a97700162de3d91372d607c0b32e26b07eacac186762aaa29e0ef4ae"
+    }
+    "2900390"
+    {
+        "DecryptionKey" "a50332276e1a9600bd604be4c9fab3ae8197d96cf928ede8088b0e01ceb30213"
+    }
+    "2900400"
+    {
+        "DecryptionKey" "86a31dc32f27c42f1d68b0f6018136c2b8d7be96fafe313a544cdb398e6fc260"
+    }
+}
