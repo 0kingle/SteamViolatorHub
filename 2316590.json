@@ -1,0 +1,27 @@
+{
+    "appid": "2316590",
+    "type": "Game",
+    "name": "Words of Wisdom",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010693",
+    "update_time": "2025-05-16 04:06:45",
+    "depot": {
+        "2316591": {
+            "manifests": {
+                "public": {
+                    "gid": "2301418825397469443",
+                    "size": "12578262",
+                    "download": "6465008"
+                }
+            },
+            "decryptionkey": "cf2193b93dafdfc3fb59ee281d07b2aa0ae01be88c28aea8d3941605147c9f7e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10937345",
+                "timeupdated": "1680702776"
+            }
+        }
+    }
+}
