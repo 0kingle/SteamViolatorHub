@@ -1,0 +1,74 @@
+{
+    "appid": "2021880",
+    "type": "Game",
+    "name": "Ara: History Untold",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29005396",
+    "update_time": "2025-05-15 23:10:29",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2021881": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5364639698834546607",
+                    "size": "34010226519",
+                    "download": "17523963488"
+                },
+                "preview": {
+                    "gid": "8181350154547883348",
+                    "size": "34162499588",
+                    "download": "17543828896"
+                }
+            },
+            "decryptionkey": "2ee32023245e16a98b624134e65f2cb58176b2ec23c8cccf202cc305d57d864e"
+        },
+        "3144830": {
+            "dlcappid": "3144830",
+            "manifests": {
+                "public": {
+                    "gid": "1036188934286123835",
+                    "size": "57215599",
+                    "download": "51147104"
+                },
+                "preview": {
+                    "gid": "1036188934286123835",
+                    "size": "57215599",
+                    "download": "51147104"
+                }
+            },
+            "decryptionkey": "46ec9fab404dcd3a5e0b2862b1f9c1a0410157b5071f35a086bd4f57f6b79beb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18302361",
+                "timeupdated": "1746126085"
+            },
+            "preview": {
+                "buildid": "18449248",
+                "description": "Preview of next release",
+                "timeupdated": "1747161241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
