@@ -1,0 +1,103 @@
+{
+    "appid": "1683380",
+    "type": "Game",
+    "name": "噗噗的冒险乐园",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28998493",
+    "update_time": "2025-05-15 17:09:37",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1683381": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1646430054914779209",
+                    "size": "479470701",
+                    "download": "312264304"
+                }
+            },
+            "decryptionkey": "5e757a26515ae4aaca6e79f3f7183fd41dca0512a38b26e85988c50992ac8daf"
+        },
+        "1683382": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4399751476521438220",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "1683383": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1657456332253960207",
+                    "size": "479475213",
+                    "download": "312248304"
+                }
+            },
+            "decryptionkey": "daca22dd4cee7f03fd26e215e43c454549f3fe3e2a2a11809aff8c9009d5efba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18471681",
+                "timeupdated": "1747300174"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
