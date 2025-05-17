@@ -1,0 +1,42 @@
+{
+    "appid": "3409860",
+    "type": "Demo",
+    "name": "1+1=？ Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28359616",
+    "update_time": "2025-04-08 14:17:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3409861": {
+            "manifests": {
+                "public": {
+                    "gid": "6031273417787193814",
+                    "size": "126974532",
+                    "download": "50830640"
+                }
+            },
+            "decryptionkey": "8fd5162a011ea406c137ec9e26b5fc8549ebc197348cad88ebdfa90516ac54a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16909056",
+                "timeupdated": "1736047399"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
