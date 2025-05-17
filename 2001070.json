@@ -1,0 +1,88 @@
+{
+    "appid": "2001070",
+    "type": "Game",
+    "name": "Heart of the Machine",
+    "schinese_name": "人工智能的选择 Heart of the Machine",
+    "isfreeapp": "0",
+    "change_number": "28985417",
+    "update_time": "2025-05-15 00:37:39",
+    "depot": {
+        "2001071": {
+            "manifests": {
+                "public": {
+                    "gid": "3958192158275862030",
+                    "size": "146573746",
+                    "download": "79818192"
+                },
+                "older_but_stable": {
+                    "gid": "4691563949881999556",
+                    "size": "146558804",
+                    "download": "79814720"
+                }
+            },
+            "decryptionkey": "1a1bb30e75dac9319e59c05cd2cf671bd58d69622641a320a63a2bd9665ce7a4"
+        },
+        "2001072": {
+            "manifests": {
+                "public": {
+                    "gid": "5671723295650176079",
+                    "size": "315547104",
+                    "download": "81761104"
+                },
+                "older_but_stable": {
+                    "gid": "5671723295650176079",
+                    "size": "315547104",
+                    "download": "81761104"
+                }
+            },
+            "decryptionkey": "d99c074ccbebc30d9fd3c7e65ee1025c781f28985577c017a291b232cd65f927"
+        },
+        "2001073": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "863838001777744789",
+                    "size": "3557514247",
+                    "download": "1716353968"
+                },
+                "older_but_stable": {
+                    "gid": "4154037863098254710",
+                    "size": "3557511175",
+                    "download": "1716353536"
+                }
+            },
+            "decryptionkey": "dfdd7b00971120c31672747d712438f1195956496423bc46bf525178e8924d34"
+        },
+        "2001074": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2386934399067300749",
+                    "size": "3752773087",
+                    "download": "1743797216"
+                },
+                "older_but_stable": {
+                    "gid": "8767156283687570886",
+                    "size": "3752770015",
+                    "download": "1743796784"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18463467",
+                "timeupdated": "1747240634"
+            },
+            "older_but_stable": {
+                "buildid": "18452256",
+                "description": "The most recent known-good build prior to the actual build",
+                "timeupdated": "1747240655"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
