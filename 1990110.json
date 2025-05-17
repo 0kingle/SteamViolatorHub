@@ -1,0 +1,28 @@
+{
+    "appid": "1990110",
+    "type": "Game",
+    "name": "SpellRogue",
+    "schinese_name": "咒运魔骰",
+    "isfreeapp": "0",
+    "change_number": "29020485",
+    "update_time": "2025-05-16 17:05:16",
+    "depot": {
+        "1990111": {
+            "manifests": {
+                "public": {
+                    "gid": "2568700046380149004",
+                    "size": "2694764245",
+                    "download": "993052032"
+                }
+            },
+            "decryptionkey": "f723416114aee3b707f497bfa2a6c20fc931920e4ad4d7d1526b8b9b8b3cdde6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18488227",
+                "timeupdated": "1747386143"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
