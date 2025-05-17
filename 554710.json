@@ -1,0 +1,47 @@
+{
+    "appid": "554710",
+    "type": "Game",
+    "name": "Spell Cast",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28573236",
+    "update_time": "2025-04-21 00:00:04",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "workshopdepot": "0",
+        "554711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8323022317312424626",
+                    "size": "481606281",
+                    "download": "257372640"
+                }
+            },
+            "decryptionkey": "3e830e117f4bcc279eaa897a8a390d4875f8e630691a9e9c55951d0042d77fc9"
+        },
+        "554712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2692662583129371171",
+                    "size": "504419258",
+                    "download": "264007200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9064719",
+                "timeupdated": "1657035193"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
