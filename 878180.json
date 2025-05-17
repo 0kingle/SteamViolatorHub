@@ -1,0 +1,67 @@
+{
+    "appid": "878180",
+    "type": "Game",
+    "name": "Hyper Simon X",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28892587",
+    "update_time": "2025-05-09 08:30:04",
+    "depot": {
+        "baselanguages": "english",
+        "878181": {
+            "manifests": {
+                "public": {
+                    "gid": "7924339354654593070",
+                    "size": "92150507",
+                    "download": "86606512"
+                },
+                "development": {
+                    "gid": "7924339354654593070",
+                    "size": "92150507",
+                    "download": "86606512"
+                }
+            },
+            "decryptionkey": "fd256b5d4a780c1403c37405cb9ec1961775ee4701001192809463e12e266f6b"
+        },
+        "918760": {
+            "dlcappid": "918760",
+            "manifests": {
+                "public": {
+                    "gid": "5355403265190423167",
+                    "size": "60997458",
+                    "download": "60263168"
+                },
+                "development": {
+                    "gid": "5355403265190423167",
+                    "size": "60997458",
+                    "download": "60263168"
+                }
+            }
+        },
+        "878182": {
+            "manifests": {
+                "public": {
+                    "gid": "5624827498959381444",
+                    "size": "225729822",
+                    "download": "110959760"
+                },
+                "development": {
+                    "gid": "3099068113325354813",
+                    "size": "225694014",
+                    "download": "110977712"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14224755",
+                "timeupdated": "1714501070"
+            },
+            "development": {
+                "buildid": "14316140",
+                "description": "development",
+                "timeupdated": "1715264540"
+            }
+        }
+    }
+}
