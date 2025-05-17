@@ -1,0 +1,27 @@
+{
+    "appid": "466460",
+    "type": "Demo",
+    "name": "VRMark Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28860757",
+    "update_time": "2025-05-07 19:50:19",
+    "depot": {
+        "464171": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "725626498443704422",
+                    "size": "1217613755",
+                    "download": "1012732000"
+                }
+            },
+            "depotfromapp": "464170",
+            "decryptionkey": "a4b995e55ca0d7e39d72c5d10dcec1267af6282a3ac056d357ee190d4701ad8c"
+        },
+        "branches": {}
+    }
+}
