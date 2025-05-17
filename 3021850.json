@@ -1,0 +1,28 @@
+{
+    "appid": "3021850",
+    "type": "Game",
+    "name": "Monster Meals",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28562911",
+    "update_time": "2025-04-19 20:38:57",
+    "depot": {
+        "baselanguages": "english,brazilian",
+        "3021851": {
+            "manifests": {
+                "public": {
+                    "gid": "8289255035881659002",
+                    "size": "2595094805",
+                    "download": "223226800"
+                }
+            },
+            "decryptionkey": "4381ec1bbcf41ccb88191c420b9459300fa48fb86fcc0ce8f97828e336fd3d9e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18167121",
+                "timeupdated": "1745066331"
+            }
+        }
+    }
+}
