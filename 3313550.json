@@ -1,0 +1,91 @@
+{
+    "appid": "3313550",
+    "type": "Demo",
+    "name": "Keplerian Space Discovery Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28842257",
+    "update_time": "2025-05-06 21:25:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3313551": {
+            "manifests": {
+                "public": {
+                    "gid": "6625809345731573797",
+                    "size": "4262431225",
+                    "download": "3893025328"
+                },
+                "rc202501": {
+                    "gid": "2400992334357512013",
+                    "size": "4269428133",
+                    "download": "3900193696"
+                },
+                "rc202502": {
+                    "gid": "4491723151463168297",
+                    "size": "4269475643",
+                    "download": "3900258320"
+                },
+                "rc202503": {
+                    "gid": "4819629134162882721",
+                    "size": "4262109423",
+                    "download": "3892710320"
+                },
+                "rc202504": {
+                    "gid": "6625809345731573797",
+                    "size": "4262431225",
+                    "download": "3893025328"
+                },
+                "tokyo_game_dungeon_8": {
+                    "gid": "8087647974384514116",
+                    "size": "4262464390",
+                    "download": "3893028720"
+                }
+            },
+            "decryptionkey": "4e85e6754346600d7e9b9e5fed88e3d5766006e77ba2d52f62e439c93b07731f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18359573",
+                "timeupdated": "1746537947"
+            },
+            "rc202501": {
+                "buildid": "17275271",
+                "description": "release candidate",
+                "timeupdated": "1740793614"
+            },
+            "rc202502": {
+                "buildid": "17555492",
+                "description": "release candidate",
+                "timeupdated": "1740794865"
+            },
+            "rc202503": {
+                "buildid": "17847554",
+                "description": "release candidate",
+                "timeupdated": "1742884931"
+            },
+            "rc202504": {
+                "buildid": "18359573",
+                "description": "release candidate",
+                "timeupdated": "1746536037"
+            },
+            "tokyo_game_dungeon_8": {
+                "buildid": "18303964",
+                "description": "Tokyo Game Dungeon8",
+                "timeupdated": "1746061190"
+            }
+        }
+    }
+}
