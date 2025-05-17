@@ -1,0 +1,48 @@
+{
+    "appid": "939870",
+    "type": "Game",
+    "name": "BlackberryNOVA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28961216",
+    "update_time": "2025-05-13 21:27:39",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "939871": {
+            "manifests": {
+                "public": {
+                    "gid": "2332931875331184656",
+                    "size": "339466727",
+                    "download": "212592864"
+                }
+            },
+            "decryptionkey": "35cd2b360e7e12e530be18ef4e7c3097f5f28ce10669524557d6f892ecb147dd"
+        },
+        "1920000": {
+            "dlcappid": "1920000",
+            "manifests": {
+                "public": {
+                    "gid": "1626922297431285232",
+                    "size": "2076168",
+                    "download": "1701152"
+                }
+            }
+        },
+        "2285680": {
+            "dlcappid": "2285680",
+            "manifests": {
+                "public": {
+                    "gid": "2492076408815830320",
+                    "size": "4253991",
+                    "download": "4159728"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18445408",
+                "timeupdated": "1747142851"
+            }
+        }
+    }
+}
