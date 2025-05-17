@@ -1,0 +1,89 @@
+{
+    "appid": "863500",
+    "type": "Game",
+    "name": "All Quiet in the Trenches",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28999089",
+    "update_time": "2025-05-15 17:40:03",
+    "depot": {
+        "863501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5718672463995450140",
+                    "size": "2034846561",
+                    "download": "696327856"
+                },
+                "open-beta": {
+                    "gid": "1124470735297698382",
+                    "size": "2043703527",
+                    "download": "698494352"
+                },
+                "previous-patch": {
+                    "gid": "6087392269022677619",
+                    "size": "2034624721",
+                    "download": "696310944"
+                },
+                "previous-version": {
+                    "gid": "3372027929056439323",
+                    "size": "2220822921",
+                    "download": "703287952"
+                }
+            },
+            "decryptionkey": "25b55250f262957eb98f9d2b3f846bf7d735554779e62004470d1801de20c30b"
+        },
+        "863502": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8480054363579148594",
+                    "size": "2043572978",
+                    "download": "699582912"
+                },
+                "open-beta": {
+                    "gid": "725497645566087145",
+                    "size": "2052043856",
+                    "download": "701603040"
+                },
+                "previous-patch": {
+                    "gid": "720797839982487574",
+                    "size": "2043351138",
+                    "download": "699563360"
+                },
+                "previous-version": {
+                    "gid": "336555298410802379",
+                    "size": "2229301005",
+                    "download": "707021968"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "16824703",
+                "timeupdated": "1734800641"
+            },
+            "open-beta": {
+                "buildid": "18493663",
+                "description": "Beta 0.9.0",
+                "timeupdated": "1747411279"
+            },
+            "previous-patch": {
+                "buildid": "16746920",
+                "description": "Previous Patch 0.8.x",
+                "timeupdated": "1734800650"
+            },
+            "previous-version": {
+                "buildid": "15981395",
+                "description": "Previous Version 0.7.8",
+                "timeupdated": "1734023091"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
