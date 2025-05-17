@@ -1,0 +1,27 @@
+{
+    "appid": "3206470",
+    "type": "Game",
+    "name": "Domain Master",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 00:21:40",
+    "depot": {
+        "3206471": {
+            "manifests": {
+                "public": {
+                    "gid": "1819723830641274992",
+                    "size": "170280607",
+                    "download": "27646144"
+                }
+            },
+            "decryptionkey": "eb42821b1cd567174bdaec9dfa50d334244ee2d2bb46103d6efbbbdd9833cfe0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15554445",
+                "timeupdated": "1725111583"
+            }
+        }
+    }
+}
