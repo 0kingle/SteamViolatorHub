@@ -1,0 +1,27 @@
+{
+    "appid": "1882420",
+    "type": "Game",
+    "name": "Learn Programming: Python - Remake",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990651",
+    "update_time": "2025-05-15 06:19:59",
+    "depot": {
+        "1882421": {
+            "manifests": {
+                "public": {
+                    "gid": "4338625190803900615",
+                    "size": "188939256",
+                    "download": "67321616"
+                }
+            },
+            "decryptionkey": "7983a87acc0dfe74b066567c8886a3a51fc7bd501c3b073d8694026ba2d5e364"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13190632",
+                "timeupdated": "1705452867"
+            }
+        }
+    }
+}
