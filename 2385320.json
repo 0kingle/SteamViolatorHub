@@ -1,0 +1,42 @@
+{
+    "appid": "2385320",
+    "type": "Game",
+    "name": "Virgin Knight is my Onahole Tonight",
+    "schinese_name": "巨乳骑士团长是我的肉便器",
+    "isfreeapp": "0",
+    "change_number": "29011482",
+    "update_time": "2025-05-16 05:00:41",
+    "depot": {
+        "2385321": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6870258851194743783",
+                    "size": "1068468806",
+                    "download": "933650816"
+                }
+            },
+            "decryptionkey": "b96571bb4b08e7e4bee251f240ec6b9e65e44498599963cfe90c3729f854982f"
+        },
+        "2385322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "158924909666617644",
+                    "size": "1030307785",
+                    "download": "921506016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11118481",
+                "timeupdated": "1682716108"
+            }
+        }
+    }
+}
