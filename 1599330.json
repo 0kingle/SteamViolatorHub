@@ -1,0 +1,35 @@
+{
+    "appid": "1599330",
+    "type": "Game",
+    "name": "Wildmender",
+    "schinese_name": "荒原疗者 (Wildmender)",
+    "isfreeapp": "0",
+    "change_number": "28988500",
+    "update_time": "2025-05-15 03:46:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1599331": {
+            "manifests": {
+                "public": {
+                    "gid": "1457406922994852507",
+                    "size": "2673812420",
+                    "download": "1115278272"
+                }
+            },
+            "decryptionkey": "afd9a47ff2961d2300f050adb60d8518347475523c6708a9208f349156cc6835"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18278163",
+                "timeupdated": "1746629855"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
