@@ -1,0 +1,42 @@
+{
+    "appid": "2680010",
+    "type": "Game",
+    "name": "The First Berserker: Khazan",
+    "schinese_name": "第一狂战士：卡赞",
+    "isfreeapp": "0",
+    "change_number": "29022539",
+    "update_time": "2025-05-16 19:04:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2680011": {
+            "manifests": {
+                "public": {
+                    "gid": "5791281509620911857",
+                    "size": "54087612957",
+                    "download": "22932624352"
+                }
+            },
+            "decryptionkey": "fe9a3ee6a263260b75cf97d27ffc4eeda8c9eebc8019bdc57c247a546f450077"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18488038",
+                "timeupdated": "1747393458"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
