@@ -1,0 +1,41 @@
+{
+    "appid": "2219890",
+    "type": "Game",
+    "name": "The Mute House",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012391",
+    "update_time": "2025-05-16 06:12:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2219891": {
+            "manifests": {
+                "public": {
+                    "gid": "6537238872621718955",
+                    "size": "7506349246",
+                    "download": "7193171648"
+                }
+            },
+            "decryptionkey": "80a082b5b38c6fc73e130e75b400a1f1852b8e34799d8d7acc4e1ace808c7d71"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18084502",
+                "timeupdated": "1744474806"
+            }
+        }
+    }
+}
