@@ -1,0 +1,78 @@
+{
+    "appid": "2693120",
+    "type": "Application",
+    "name": "XBPlay",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28955972",
+    "update_time": "2025-05-13 16:19:25",
+    "depot": {
+        "baselanguages": "english",
+        "2693121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4700581115011891095",
+                    "size": "347514341",
+                    "download": "115963280"
+                },
+                "beta": {
+                    "gid": "5382439879751717307",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "3e00d53fe5807fe0422bde437a73aa62eceefbe22ec94f04f1847df13c780ce2"
+        },
+        "2693122": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "607260195787336376",
+                    "size": "498350337",
+                    "download": "162409888"
+                },
+                "beta": {
+                    "gid": "1616148752989841050",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "2693123": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1980375629206920301",
+                    "size": "335811901",
+                    "download": "107447536"
+                },
+                "beta": {
+                    "gid": "7577619098437794951",
+                    "size": "353789533",
+                    "download": "111606016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17364605",
+                "timeupdated": "1739578018"
+            },
+            "beta": {
+                "buildid": "18441254",
+                "description": "beta",
+                "timeupdated": "1747124355"
+            }
+        }
+    }
+}
