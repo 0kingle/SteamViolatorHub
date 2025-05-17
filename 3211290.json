@@ -1,0 +1,58 @@
+{
+    "appid": "3211290",
+    "type": "Game",
+    "name": "THE GENERAL SAGA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013618",
+    "update_time": "2025-05-16 08:01:58",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3211291": {},
+        "3300690": {
+            "dlcappid": "3300690"
+        },
+        "3211293": {
+            "manifests": {
+                "public": {
+                    "gid": "5801532058370232141",
+                    "size": "501997518",
+                    "download": "340953520"
+                },
+                "beta": {
+                    "gid": "4806846976146531169",
+                    "size": "501991700",
+                    "download": "340881264"
+                }
+            },
+            "decryptionkey": "e4d9698d792070ae1e1959dc9a0100a6b799e7f42c717ea9bfc11f9d9c0ce81e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18053928",
+                "timeupdated": "1744686317"
+            },
+            "beta": {
+                "buildid": "17689764",
+                "description": "プロモーション用安定版",
+                "timeupdated": "1741768988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
