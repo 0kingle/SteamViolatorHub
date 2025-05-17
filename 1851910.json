@@ -1,0 +1,27 @@
+{
+    "appid": "1851910",
+    "type": "Game",
+    "name": "寂夜微光 - A Flicker of Light",
+    "schinese_name": "寂夜微光 - A Flicker of Light",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 01:29:18",
+    "depot": {
+        "1851911": {
+            "manifests": {
+                "public": {
+                    "gid": "2840054969123961522",
+                    "size": "2052711118",
+                    "download": "1857175072"
+                }
+            },
+            "decryptionkey": "bfd8d56213121a5cbeb6a5c3a3a82b33d438117fe52633b919292a61e1105d34"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8961082",
+                "timeupdated": "1655504379"
+            }
+        }
+    }
+}
