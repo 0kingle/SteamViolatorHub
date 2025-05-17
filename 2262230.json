@@ -1,0 +1,27 @@
+{
+    "appid": "2262230",
+    "type": "Game",
+    "name": "Bargain Toader",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:57:53",
+    "depot": {
+        "2262231": {
+            "manifests": {
+                "public": {
+                    "gid": "3987342696843286134",
+                    "size": "45400052",
+                    "download": "14256272"
+                }
+            },
+            "decryptionkey": "127b03b64c18b94e15c31f625289ea364451b7168c513468e05e870f6aa25244"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10206836",
+                "timeupdated": "1671801822"
+            }
+        }
+    }
+}
