@@ -1,0 +1,54 @@
+{
+    "appid": "763930",
+    "type": "Game",
+    "name": "Tally Ho",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978449",
+    "update_time": "2025-05-14 22:44:53",
+    "depot": {
+        "763931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4564427192917410512",
+                    "size": "241462579",
+                    "download": "79478512"
+                }
+            },
+            "decryptionkey": "b9d3b4af15552efc1ebcd87343aa8aa210b0ea9d84e475faf7f88f9b9dc3a8b4"
+        },
+        "763932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3765288007392039477",
+                    "size": "14842563",
+                    "download": "5109632"
+                }
+            }
+        },
+        "763933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7835778921065781752",
+                    "size": "244031552",
+                    "download": "74099616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17940998",
+                "timeupdated": "1743518160"
+            }
+        }
+    }
+}
