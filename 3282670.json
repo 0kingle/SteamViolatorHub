@@ -1,0 +1,54 @@
+{
+    "appid": "3282670",
+    "type": "Game",
+    "name": "SEX Police 🔞🚨",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28709656",
+    "update_time": "2025-04-28 23:54:06",
+    "depot": {
+        "3282671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2887382280080373722",
+                    "size": "3003934467",
+                    "download": "2755978224"
+                }
+            },
+            "decryptionkey": "ca04f5512f9def9d894fb8fa00d77dc3b58dc52bca901fcdf7ad02f358118d79"
+        },
+        "3282672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6623363329176411352",
+                    "size": "3034776572",
+                    "download": "2758369424"
+                }
+            }
+        },
+        "3282673": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4682826042995842911",
+                    "size": "3005406193",
+                    "download": "2755041344"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16726645",
+                "timeupdated": "1734036802"
+            }
+        }
+    }
+}
