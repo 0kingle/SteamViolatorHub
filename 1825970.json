@@ -1,0 +1,43 @@
+{
+    "appid": "1825970",
+    "type": "Game",
+    "name": "Blockworks",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:07",
+    "depot": {
+        "workshopdepot": "1825970",
+        "1825971": {
+            "manifests": {
+                "public": {
+                    "gid": "1597610380854863518",
+                    "size": "427362771",
+                    "download": "220254352"
+                },
+                "beta": {
+                    "gid": "5287313721062925912",
+                    "size": "411829691",
+                    "download": "217898880"
+                }
+            },
+            "decryptionkey": "789ca8d87443a557253d003884893a7dceba12808f0be353411f0c76f018b11f"
+        },
+        "2615790": {
+            "dlcappid": "2615790"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16882815",
+                "timeupdated": "1735766575"
+            },
+            "beta": {
+                "buildid": "16902559",
+                "description": "Beta branch",
+                "timeupdated": "1735940432"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "30aa8240f48145bbcd7abb319f8d1366cc697f8cc24c415eb6351decac068f71"
+    }
+}
