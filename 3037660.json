@@ -1,0 +1,42 @@
+{
+    "appid": "3037660",
+    "type": "Game",
+    "name": "Robin Hood: Sherwood Defenders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015909",
+    "update_time": "2025-05-16 11:24:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3037661": {
+            "manifests": {
+                "public": {
+                    "gid": "4087946210993237379",
+                    "size": "9597744618",
+                    "download": "9084591552"
+                }
+            },
+            "decryptionkey": "f2339bbd9ddbf6efe099a5490df8338eb565edfeeb0246bb3595962e254b14fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17588735",
+                "timeupdated": "1741173693"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
