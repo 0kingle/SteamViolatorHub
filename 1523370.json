@@ -1,0 +1,78 @@
+{
+    "appid": "1523370",
+    "type": "Game",
+    "name": "A.D. 2047",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987808",
+    "update_time": "2025-05-15 02:59:56",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,japanese",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1523371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3223237180469352756",
+                    "size": "20636527097",
+                    "download": "19860148608"
+                }
+            },
+            "decryptionkey": "9c3c62fc6f0f5a9a0e90c957931739599166ee2488575ba1a27cb9c3d3456d7c"
+        },
+        "1523372": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3781088571010988272",
+                    "size": "20644132857",
+                    "download": "19867769488"
+                }
+            },
+            "decryptionkey": "406f9024d0fc37cb2aae3b4323b0cec7296a9c7032dd43883e0a15e6c640ba9a"
+        },
+        "1523373": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3593952706344889694",
+                    "size": "20636527097",
+                    "download": "19860143392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8968566",
+                "timeupdated": "1655692337"
+            }
+        }
+    }
+}
