@@ -1,0 +1,42 @@
+{
+    "appid": "585290",
+    "type": "Game",
+    "name": "Lifeline",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28975145",
+    "update_time": "2025-05-14 22:38:12",
+    "depot": {
+        "585291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2197131874464503251",
+                    "size": "19252765",
+                    "download": "18902448"
+                }
+            },
+            "decryptionkey": "65f3703c6326f8e25a86fd2e39305076bedbef5f1d3a7d9f7f3453057f8cac42"
+        },
+        "585292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6116733124248229742",
+                    "size": "20679237",
+                    "download": "18199296"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1669745",
+                "timeupdated": "1488584015"
+            }
+        }
+    }
+}
