@@ -1,0 +1,66 @@
+{
+    "appid": "1919600",
+    "type": "Game",
+    "name": "Paper Perjury",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990979",
+    "update_time": "2025-05-15 06:46:29",
+    "depot": {
+        "baselanguages": "english",
+        "1919601": {
+            "manifests": {
+                "public": {
+                    "gid": "8447733151557641710",
+                    "size": "296318691",
+                    "download": "136750480"
+                }
+            },
+            "decryptionkey": "e6dc7797df53cf9637e7c9188d6795c55dc0b54b3003440ae9c1a5d9480cafc8"
+        },
+        "1919602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "71548458247257118",
+                    "size": "296318691",
+                    "download": "137018832"
+                }
+            },
+            "decryptionkey": "e863eca099b0881e6312b4fe4086ebaa4fbca69cfc3d73c0b9d1f47ef77f160e"
+        },
+        "1919603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2342614648823477010",
+                    "size": "296318691",
+                    "download": "137018832"
+                }
+            }
+        },
+        "1919604": {
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3038266571008577847",
+                    "size": "296318691",
+                    "download": "137018832"
+                }
+            },
+            "decryptionkey": "ff15e15a6f0adbd67c10e7496c114a650d4d48260fc54af4d0d8570e946c70e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18251605",
+                "timeupdated": "1745695842"
+            }
+        }
+    }
+}
