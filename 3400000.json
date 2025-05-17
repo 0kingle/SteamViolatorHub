@@ -1,0 +1,38 @@
+{
+    "appid": "3400000",
+    "type": "Game",
+    "name": "Cubic Odyssey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013180",
+    "update_time": "2025-05-16 07:22:26",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese,romanian",
+        "3400001": {
+            "manifests": {
+                "public": {
+                    "gid": "1601852010337011126",
+                    "size": "6092244283",
+                    "download": "2320435792"
+                },
+                "beta": {
+                    "gid": "1601852010337011126",
+                    "size": "6092244283",
+                    "download": "2320435792"
+                }
+            },
+            "decryptionkey": "e1ef4a14595192f4e31bd0a1fef3c533c6b297918ff247799117e214b6c9d7ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494236",
+                "timeupdated": "1747413396"
+            },
+            "beta": {
+                "buildid": "18494236",
+                "description": "Upcoming patch - testing in progress",
+                "timeupdated": "1747412990"
+            }
+        }
+    }
+}
