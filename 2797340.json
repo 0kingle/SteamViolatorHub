@@ -1,0 +1,70 @@
+{
+    "appid": "2797340",
+    "type": "Game",
+    "name": "Cat God Ranch",
+    "schinese_name": "猫神牧场",
+    "isfreeapp": "0",
+    "change_number": "29096054",
+    "update_time": "2025-05-21 19:21:46",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "2797341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2629481999373589714",
+                    "size": "292500192",
+                    "download": "136123424"
+                },
+                "beta": {
+                    "gid": "2629481999373589714",
+                    "size": "292500192",
+                    "download": "136123424"
+                },
+                "mod_test": {
+                    "gid": "7981475495848573595",
+                    "size": "280917388",
+                    "download": "119414416"
+                }
+            },
+            "decryptionkey": "4adf02cfdd9a75f570ed860197c2c5d7565aa95826e5a3da4afecccc758f7438"
+        },
+        "2797342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3308923117215719286",
+                    "size": "408486330",
+                    "download": "164426256"
+                },
+                "beta": {
+                    "gid": "3308923117215719286",
+                    "size": "408486330",
+                    "download": "164426256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18543459",
+                "timeupdated": "1747803109"
+            },
+            "beta": {
+                "buildid": "18543459",
+                "description": "Beta Test",
+                "timeupdated": "1747799104"
+            },
+            "mod_test": {
+                "buildid": "15938842",
+                "description": "Mod Test",
+                "timeupdated": "1728120683"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
