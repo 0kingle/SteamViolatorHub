@@ -1,0 +1,32 @@
+{
+    "appid": "2857120",
+    "type": "DLC",
+    "name": "Rain World: The Watcher",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983211",
+    "update_time": "2025-05-14 22:52:33",
+    "depot": {
+        "2857120": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7862422328578630671",
+                    "size": "1345822200",
+                    "download": "862407488"
+                }
+            },
+            "dlcappid": "2857120",
+            "decryptionkey": "f998f9f9862dc3cc8026d11be949bc4d7c17882f1240b6982766721fceaae0ad"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18461992",
+                "timeupdated": "1747233883"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
