@@ -1,0 +1,106 @@
+{
+    "appid": "1575940",
+    "type": "Game",
+    "name": "Sins of a Solar Empire II",
+    "schinese_name": "太阳帝国的原罪2",
+    "isfreeapp": "0",
+    "change_number": "29085436",
+    "update_time": "2025-05-20 23:43:19",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,brazilian,indonesian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1575941": {
+            "manifests": {
+                "public": {
+                    "gid": "396748795968599802",
+                    "size": "16991663891",
+                    "download": "8450531440"
+                },
+                "previous_version": {
+                    "gid": "1493648105023103445",
+                    "size": "16457612823",
+                    "download": "8216764656"
+                },
+                "test_edition": {
+                    "gid": "396748795968599802",
+                    "size": "16991663891",
+                    "download": "8450531440"
+                }
+            },
+            "decryptionkey": "4e2e571147e77d0cadda071bc6cb8aea54d2c0e2c076b1dbf4d5fea94482ff09"
+        },
+        "1575942": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "430366403103823297",
+                    "size": "121526248",
+                    "download": "46098752"
+                },
+                "previous_version": {
+                    "gid": "430366403103823297",
+                    "size": "121526248",
+                    "download": "46098752"
+                },
+                "test_edition": {
+                    "gid": "430366403103823297",
+                    "size": "121526248",
+                    "download": "46098752"
+                }
+            },
+            "decryptionkey": "cc619e6e9c7f306decb6005a71df177bcb1d9980484676461f25cbf4bcc52e76"
+        },
+        "1575943": {
+            "manifests": {
+                "public": {
+                    "gid": "4029621161901050013",
+                    "size": "41405301",
+                    "download": "36712064"
+                },
+                "previous_version": {
+                    "gid": "4029621161901050013",
+                    "size": "41405301",
+                    "download": "36712064"
+                },
+                "test_edition": {
+                    "gid": "4029621161901050013",
+                    "size": "41405301",
+                    "download": "36712064"
+                }
+            },
+            "decryptionkey": "8fa4ce7002d306e317d40c1629f5a14edfc0d578ce1a253a52a6cca27e4b35a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18242598",
+                "timeupdated": "1746121729"
+            },
+            "previous_version": {
+                "buildid": "17867266",
+                "description": "v1.40 Build for Saves and Replays",
+                "timeupdated": "1744811978"
+            },
+            "test_edition": {
+                "buildid": "18242598",
+                "description": "Try out new versions early",
+                "timeupdated": "1745605733"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
