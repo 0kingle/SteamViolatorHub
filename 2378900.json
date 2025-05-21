@@ -1,0 +1,41 @@
+{
+    "appid": "2378900",
+    "type": "Game",
+    "name": "The Coffin of Andy and Leyley",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29050198",
+    "update_time": "2025-05-19 00:15:56",
+    "depot": {
+        "2378901": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4152734845025783675",
+                    "size": "719477922",
+                    "download": "587935024"
+                },
+                "arabic-support": {
+                    "gid": "671572296663839568",
+                    "size": "718274596",
+                    "download": "586742688"
+                }
+            },
+            "decryptionkey": "7e8df27c22fc52c5f740357a93710dcdb613817ef5c9e61763f20eb28b73d525"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18324524",
+                "timeupdated": "1746207616"
+            },
+            "arabic-support": {
+                "buildid": "18168812",
+                "description": "Implemented shaping and ordering in dialogue boxes.",
+                "timeupdated": "1745088836"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
