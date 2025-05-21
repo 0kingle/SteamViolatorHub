@@ -1,0 +1,52 @@
+{
+    "appid": "1401150",
+    "type": "Game",
+    "name": "Black Hole Simulator",
+    "schinese_name": "黑洞模拟器",
+    "isfreeapp": "0",
+    "change_number": "28594804",
+    "update_time": "2025-04-22 13:55:47",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1401151": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3922217146389533429",
+                    "size": "576086568",
+                    "download": "265780416"
+                }
+            },
+            "decryptionkey": "57d461a344ff5801205fecdc54bf325bc45a35ed44fd83d4812a67f69b5f5233"
+        },
+        "1401152": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1577758532094910726",
+                    "size": "576086568",
+                    "download": "265790736"
+                }
+            },
+            "decryptionkey": "4e6af6c457f18ea54b69284efa6b44a3e79229d16fe4fd0a112b06cba85fada7"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18109406",
+                "timeupdated": "1744698610"
+            }
+        }
+    }
+}
