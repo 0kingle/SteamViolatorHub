@@ -1,0 +1,85 @@
+{
+    "appid": "3116890",
+    "type": "Game",
+    "name": "Out of the Park Baseball 26",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29086606",
+    "update_time": "2025-05-21 00:44:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3116891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2522621383370343205",
+                    "size": "65666623",
+                    "download": "21351664"
+                }
+            },
+            "decryptionkey": "959bcb6ea420ef72dc6f06becae7c7fb9b7240facb2b08c492b00bf124d6ae12"
+        },
+        "3116892": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3164236309684606872",
+                    "size": "77107137",
+                    "download": "17785072"
+                }
+            }
+        },
+        "3116894": {
+            "manifests": {
+                "public": {
+                    "gid": "298105589661697647",
+                    "size": "33689",
+                    "download": "12416"
+                }
+            },
+            "decryptionkey": "313f36e0178314b9c3a0063d40768105b88d90b089edf304993e7d7af58cdc67"
+        },
+        "3116895": {
+            "manifests": {
+                "public": {
+                    "gid": "6664873321696825669",
+                    "size": "401842767",
+                    "download": "48585040"
+                }
+            },
+            "decryptionkey": "5f30ee764d3a5cd57945bbef62716582941bd9ebfea21becbad501aaef7c3f45"
+        },
+        "3116896": {
+            "manifests": {
+                "public": {
+                    "gid": "5209571873726198393",
+                    "size": "4245419825",
+                    "download": "2144830640"
+                }
+            },
+            "decryptionkey": "941823d772f3efc669051f4ed37677e61ec7b4aa650520c06fa1ecc8ce23870e"
+        },
+        "baselanguages": "english,koreana",
+        "workshopdepot": "3116890",
+        "branches": {
+            "public": {
+                "buildid": "18359542",
+                "timeupdated": "1746791616"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a79f78ebd6e370c8f8a04eb6e3091de029f4bd117293a9d0210697c124c28b3a"
+    }
+}
