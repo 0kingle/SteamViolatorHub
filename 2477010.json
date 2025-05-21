@@ -1,0 +1,43 @@
+{
+    "appid": "2477010",
+    "type": "Game",
+    "name": "Ticket to Ride®",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101676",
+    "update_time": "2025-05-21 19:24:11",
+    "depot": {
+        "2477011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "748790538894708861",
+                    "size": "2285015859",
+                    "download": "860231824"
+                }
+            },
+            "decryptionkey": "3615b8a0e6ab3df569fe773332ea74f8ce43b1467cc2a0c1cb310980d24fb274"
+        },
+        "2477012": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4731934710896379282",
+                    "size": "1639766366",
+                    "download": "811361584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18027576",
+                "timeupdated": "1745327289"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
