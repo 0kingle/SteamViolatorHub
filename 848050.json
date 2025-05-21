@@ -1,0 +1,28 @@
+{
+    "appid": "848050",
+    "type": "Game",
+    "name": "GP Bikes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28014809",
+    "update_time": "2025-03-18 22:23:45",
+    "depot": {
+        "848051": {
+            "manifests": {
+                "public": {
+                    "gid": "7873073596752955046",
+                    "size": "599704660",
+                    "download": "580346544"
+                }
+            },
+            "decryptionkey": "1e5bc91073683ea38e7026c68149c14c4acc9335e382172f50d3b286cf5e9957"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17766643",
+                "timeupdated": "1742307818"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
