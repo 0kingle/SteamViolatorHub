@@ -1,0 +1,118 @@
+{
+    "appid": "332570",
+    "type": "Game",
+    "name": "Amazing Frog?",
+    "schinese_name": "神奇青蛙",
+    "isfreeapp": "0",
+    "change_number": "29083085",
+    "update_time": "2025-05-20 21:44:53",
+    "depot": {
+        "332571": {
+            "manifests": {
+                "public": {
+                    "gid": "3992388060818286377",
+                    "size": "169",
+                    "download": "160"
+                },
+                "legacy": {
+                    "gid": "3992388060818286377",
+                    "size": "169",
+                    "download": "160"
+                }
+            },
+            "decryptionkey": "914497bf7253dae27e380c140c5f34a17a7b0be144e186b299df16cd38673402"
+        },
+        "332572": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4939773282211970225",
+                    "size": "3794751290",
+                    "download": "1192593536"
+                },
+                "legacy": {
+                    "gid": "7732378143671168643",
+                    "size": "2199121795",
+                    "download": "697777648"
+                }
+            },
+            "decryptionkey": "ef05975e6a5e7e1b2319bc118cb199d4a6beb3c20979157e6eb3cc65c8ff93a0"
+        },
+        "332573": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6692749551789274955",
+                    "size": "3797790370",
+                    "download": "1201161424"
+                },
+                "legacy": {
+                    "gid": "3540294449289096117",
+                    "size": "2180688684",
+                    "download": "697344448"
+                }
+            },
+            "decryptionkey": "46e402f3b495e25ea0e9f1be5ee4689c0f97c9d3536cc697784118cb89109a6a"
+        },
+        "332574": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4065819225728495654",
+                    "size": "4094317187",
+                    "download": "1311935056"
+                },
+                "legacy": {
+                    "gid": "1182594352209888406",
+                    "size": "2201357581",
+                    "download": "703842496"
+                }
+            },
+            "decryptionkey": "8e6d00dbdfa286c81765c135bb5da8054e182ad8f5e56f2d8765ad785bc0cfa3"
+        },
+        "332575": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3118825949492263093",
+                    "size": "3767966384",
+                    "download": "1184892704"
+                },
+                "legacy": {
+                    "gid": "2991109601646589487",
+                    "size": "2195083139",
+                    "download": "696696848"
+                }
+            },
+            "decryptionkey": "3b209ff0cb6e0bf31debc839a99e15c5e101f97f398c9076f0445202db777b01"
+        },
+        "332576": {
+            "config": {
+                "steamdeck": "1"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18333375",
+                "timeupdated": "1747408670"
+            },
+            "legacy": {
+                "buildid": "12516172",
+                "description": "Legacy Branch",
+                "timeupdated": "1698136912"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
