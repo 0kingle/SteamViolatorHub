@@ -1,0 +1,37 @@
+{
+    "appid": "2979220",
+    "type": "Game",
+    "name": "DEVIL'S WAY",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29074904",
+    "update_time": "2025-05-20 13:13:20",
+    "depot": {
+        "2979221": {
+            "manifests": {
+                "public": {
+                    "gid": "1781126190919948982",
+                    "size": "949398741",
+                    "download": "436877600"
+                },
+                "fulll": {
+                    "gid": "1781126190919948982",
+                    "size": "949398741",
+                    "download": "436877600"
+                }
+            },
+            "decryptionkey": "d620d1133789e09a4a11e37e4c24d3a8daa2b2fc978b8909615bdd2e7ac12124"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18312601",
+                "timeupdated": "1746125054"
+            },
+            "fulll": {
+                "buildid": "18312601",
+                "description": "full surum",
+                "timeupdated": "1746125010"
+            }
+        }
+    }
+}
