@@ -1,0 +1,49 @@
+{
+    "appid": "2531520",
+    "type": "Demo",
+    "name": "Dreamcore Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29058488",
+    "update_time": "2025-05-19 17:12:27",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2531521": {
+            "manifests": {
+                "public": {
+                    "gid": "6277925068136019712",
+                    "size": "2898696579",
+                    "download": "2663333680"
+                }
+            },
+            "decryptionkey": "8977efdedefb671b09939b8fe0faa51c065ebe038740bbff543495dfb66c5430"
+        },
+        "2531522": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17666538",
+                "timeupdated": "1741638404"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
