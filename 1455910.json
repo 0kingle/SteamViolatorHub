@@ -1,0 +1,45 @@
+{
+    "appid": "1455910",
+    "type": "Game",
+    "name": "Territory: Farming and Fighting",
+    "schinese_name": "领地：种田与征战",
+    "isfreeapp": "0",
+    "change_number": "29086470",
+    "update_time": "2025-05-21 00:36:01",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "1455911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8253907230344910523",
+                    "size": "1291617864",
+                    "download": "178319376"
+                },
+                "playtest": {
+                    "gid": "5455495931996434689",
+                    "size": "1291759170",
+                    "download": "178332096"
+                }
+            },
+            "decryptionkey": "1853a5d82beb2ff63b27d9d52a4aadfc134d817c5d2e37aa12626bd7e75d4687"
+        },
+        "workshopdepot": "1455910",
+        "branches": {
+            "public": {
+                "buildid": "18522034",
+                "timeupdated": "1747706722"
+            },
+            "playtest": {
+                "buildid": "18536735",
+                "description": "测试版",
+                "timeupdated": "1747758954"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
