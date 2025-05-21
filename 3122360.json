@@ -1,0 +1,32 @@
+{
+    "appid": "3122360",
+    "type": "Game",
+    "name": "Catbo",
+    "schinese_name": "Catbo 猫噗猫噗",
+    "isfreeapp": "0",
+    "change_number": "28550531",
+    "update_time": "2025-04-18 22:06:06",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "3122361": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2665714099818923913",
+                    "size": "87857320",
+                    "download": "31785280"
+                }
+            },
+            "decryptionkey": "bd9e49e21bc8078ec679ae04fd701bd54fd8945f2fc5c7c5faef207a1001d148"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18158462",
+                "timeupdated": "1744985159"
+            }
+        }
+    }
+}
