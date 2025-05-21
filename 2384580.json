@@ -1,0 +1,42 @@
+{
+    "appid": "2384580",
+    "type": "Game",
+    "name": "DYNASTY WARRIORS: ORIGINS",
+    "schinese_name": "真・三国无双 起源",
+    "isfreeapp": "0",
+    "change_number": "29011482",
+    "update_time": "2025-05-16 05:00:40",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2384581": {
+            "manifests": {
+                "public": {
+                    "gid": "7914776441828737685",
+                    "size": "53541212760",
+                    "download": "49464682624"
+                }
+            },
+            "decryptionkey": "c9bfe8a78dc43f75438b3a8e602c7a322b0b53418f80be108058121a71371130"
+        },
+        "2530290": {
+            "dlcappid": "2530290",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18054002",
+                "timeupdated": "1745370052"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
