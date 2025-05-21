@@ -1,0 +1,72 @@
+{
+    "appid": "1874170",
+    "type": "Game",
+    "name": "Shredders",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013288",
+    "update_time": "2025-05-16 07:31:28",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "1874171": {
+            "manifests": {
+                "public": {
+                    "gid": "7780370554096307324",
+                    "size": "22315080429",
+                    "download": "13343367520"
+                },
+                "steamdeck": {
+                    "gid": "7294875257857819836",
+                    "size": "19317407119",
+                    "download": "11488755712"
+                },
+                "previous_version": {
+                    "gid": "8925527010672089358",
+                    "size": "22315103016",
+                    "download": "13349447216"
+                },
+                "public_beta": {
+                    "gid": "6312835743574637488",
+                    "size": "20696940848",
+                    "download": "12307437232"
+                }
+            },
+            "decryptionkey": "50b1b11197001951c2a7644def7c3024b28d0d99d7acc30f0cf20a64af6c0733"
+        },
+        "1874172": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18143941",
+                "timeupdated": "1744959196"
+            },
+            "steamdeck": {
+                "buildid": "12772925",
+                "description": "if the main branch doesn't work, use this one",
+                "timeupdated": "1701213417"
+            },
+            "previous_version": {
+                "buildid": "17434863",
+                "description": "Pre Current patch version of the game",
+                "timeupdated": "1744289410"
+            },
+            "public_beta": {
+                "buildid": "14242846",
+                "description": "For Public beta builds prior to release",
+                "timeupdated": "1714653498"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
