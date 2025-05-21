@@ -1,0 +1,28 @@
+{
+    "appid": "2351860",
+    "type": "Game",
+    "name": "Tower of Kalemonvo",
+    "schinese_name": "卡莱蒙沃之塔 Tower of Kalemonvo",
+    "isfreeapp": "0",
+    "change_number": "29011654",
+    "update_time": "2025-05-16 05:13:28",
+    "depot": {
+        "2351861": {
+            "manifests": {
+                "public": {
+                    "gid": "8724905219847429046",
+                    "size": "2531283572",
+                    "download": "740180592"
+                }
+            },
+            "decryptionkey": "ddcb15054e2dd0d3cb7cb9835f66f9cf3171a3a60800a079bff419f95d539276"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18427133",
+                "timeupdated": "1747044737"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
