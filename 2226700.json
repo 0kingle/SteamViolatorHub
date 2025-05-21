@@ -1,0 +1,28 @@
+{
+    "appid": "2226700",
+    "type": "Game",
+    "name": "挂姬恶魔/IdleDevils",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098239",
+    "update_time": "2025-05-21 19:20:46",
+    "depot": {
+        "2226701": {
+            "manifests": {
+                "public": {
+                    "gid": "7613591193003787750",
+                    "size": "826426720",
+                    "download": "486645824"
+                }
+            },
+            "decryptionkey": "ee747c1fc92daff746d3461ea2521b0b0aad3476223198faa77789c159929a13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18544233",
+                "timeupdated": "1747804910"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
