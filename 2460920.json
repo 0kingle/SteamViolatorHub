@@ -1,0 +1,51 @@
+{
+    "appid": "2460920",
+    "type": "Game",
+    "name": "ACRES",
+    "schinese_name": "亩地",
+    "isfreeapp": "0",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2460921": {
+            "manifests": {
+                "public": {
+                    "gid": "6211208883803782250",
+                    "size": "1967626996",
+                    "download": "1537175152"
+                },
+                "development": {
+                    "gid": "6211208883803782250",
+                    "size": "1967626996",
+                    "download": "1537175152"
+                }
+            },
+            "decryptionkey": "ad0b9b063d3c69f1fe34bf3c4510219dae3ca63111aa38b5363735d52eb8f94e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18480556",
+                "timeupdated": "1747334613"
+            },
+            "development": {
+                "buildid": "18480556",
+                "description": "Beta Testing",
+                "timeupdated": "1747334146"
+            }
+        }
+    }
+}
