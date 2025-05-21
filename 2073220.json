@@ -1,0 +1,28 @@
+{
+    "appid": "2073220",
+    "type": "Game",
+    "name": "Outland Kingdoms",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095514",
+    "update_time": "2025-05-21 19:23:03",
+    "depot": {
+        "2073221": {
+            "manifests": {
+                "public": {
+                    "gid": "1959573307821486539",
+                    "size": "2286344992",
+                    "download": "459376832"
+                }
+            },
+            "decryptionkey": "ee235762952336a22b4aaab9783c0598979a828fa2063ee221520c95249c82bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18543669",
+                "timeupdated": "1747800950"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
