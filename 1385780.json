@@ -1,0 +1,43 @@
+{
+    "appid": "1385780",
+    "type": "Game",
+    "name": "My Village Life",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28965663",
+    "update_time": "2025-05-14 01:35:06",
+    "depot": {
+        "baselanguages": "english",
+        "1385781": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5187618776221550696",
+                    "size": "5617000865",
+                    "download": "4486270832"
+                },
+                "v2022.03.25.": {
+                    "gid": "8461116389392205743",
+                    "size": "5146821056",
+                    "download": "3937339408"
+                }
+            },
+            "decryptionkey": "fdc852879405d80a605024d7e954a9f6e5b8aa00e6216addd621bd70c3d8640f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18181390",
+                "timeupdated": "1745249623"
+            },
+            "v2022.03.25.": {
+                "buildid": "8439756",
+                "description": "Last game version from 'the old MVL'",
+                "timeupdated": "1668695650"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
