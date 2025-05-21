@@ -1,0 +1,73 @@
+{
+    "appid": "1793260",
+    "type": "Game",
+    "name": "Delivery INC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091147",
+    "update_time": "2025-05-21 05:32:35",
+    "depot": {
+        "1793261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "239479021116407473",
+                    "size": "4813997058",
+                    "download": "2842318992"
+                },
+                "previous": {
+                    "gid": "8792142086984439433",
+                    "size": "4813996042",
+                    "download": "2842327072"
+                },
+                "openbeta": {
+                    "gid": "239479021116407473",
+                    "size": "4813997058",
+                    "download": "2842318992"
+                }
+            },
+            "decryptionkey": "b0a5ea220d3ed5f402e74a255ee21ec59d0d293bdf134232a3d5ef49405d7968"
+        },
+        "1793262": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2272008200846127356",
+                    "size": "4835546663",
+                    "download": "2848002288"
+                },
+                "previous": {
+                    "gid": "173946389622684798",
+                    "size": "4835545647",
+                    "download": "2848000480"
+                },
+                "openbeta": {
+                    "gid": "2272008200846127356",
+                    "size": "4835546663",
+                    "download": "2848002288"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18533157",
+                "timeupdated": "1747776750"
+            },
+            "previous": {
+                "buildid": "18518775",
+                "description": "Previous Default build",
+                "timeupdated": "1747776676"
+            },
+            "openbeta": {
+                "buildid": "18533157",
+                "description": "Open beta test branch",
+                "timeupdated": "1747776687"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
