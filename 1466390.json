@@ -1,0 +1,57 @@
+{
+    "appid": "1466390",
+    "type": "Game",
+    "name": "Kathy Rain 2: Soothsayer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29104024",
+    "update_time": "2025-05-21 20:46:32",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1466391": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8659607047027531535",
+                    "size": "3315482659",
+                    "download": "1172610416"
+                }
+            },
+            "decryptionkey": "0841982e471c67dfb711963a190794bc72094844ed98a58ab3e97158b4c495ab"
+        },
+        "1466392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3916173852380206873",
+                    "size": "3312133603",
+                    "download": "1171320400"
+                }
+            }
+        },
+        "1466393": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6106924097893185482",
+                    "size": "3300957134",
+                    "download": "1167988608"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18522195",
+                "timeupdated": "1747731314"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
