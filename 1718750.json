@@ -1,0 +1,98 @@
+{
+    "appid": "1718750",
+    "type": "DLC",
+    "name": "SVFI - Professional",
+    "schinese_name": "SVFI - 专业版",
+    "isfreeapp": "0",
+    "change_number": "29080003",
+    "update_time": "2025-05-20 18:48:42",
+    "depot": {
+        "1718751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7005504885285080954",
+                    "size": "1780853893",
+                    "download": "1494866912"
+                },
+                "revision-8": {
+                    "gid": "7271729466979649223",
+                    "size": "2111280498",
+                    "download": "1299005168"
+                },
+                "beta": {
+                    "gid": "1541267802884934376",
+                    "size": "4326141650",
+                    "download": "3346078112"
+                },
+                "beta-cu128": {
+                    "gid": "1541267802884934376",
+                    "size": "4326141650",
+                    "download": "3346078112"
+                },
+                "revision-1": {
+                    "gid": "2123462492286852784",
+                    "size": "7293016920",
+                    "download": "4529490064"
+                }
+            },
+            "dlcappid": "1718750",
+            "decryptionkey": "ab0615136b7d6c19dc1ab67b3a44f44f0abee36fb3ec3f05b88bc5443a3b1c77"
+        },
+        "1718752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6981978383291469042",
+                    "size": "50160640",
+                    "download": "22166896"
+                },
+                "beta": {
+                    "gid": "1898277440244941593",
+                    "size": "48284160",
+                    "download": "21707312"
+                },
+                "beta-cu128": {
+                    "gid": "1898277440244941593",
+                    "size": "48284160",
+                    "download": "21707312"
+                }
+            },
+            "dlcappid": "1718750",
+            "decryptionkey": "456ab3c8b1bce017b615cbc8161d9e4a6c3613f65e5efa3eecb18f72ae205559"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17472800",
+                "timeupdated": "1740305404"
+            },
+            "revision-8": {
+                "buildid": "11500190",
+                "description": "SVFI 3.23.1",
+                "timeupdated": "1698293546"
+            },
+            "beta": {
+                "buildid": "18532307",
+                "description": "SVFI Beta Test",
+                "timeupdated": "1747738100"
+            },
+            "beta-cu128": {
+                "buildid": "18532307",
+                "description": "Blackwell Support",
+                "timeupdated": "1747738116"
+            },
+            "revision-1": {
+                "buildid": "14333259",
+                "description": "SVFI 6.15.9",
+                "timeupdated": "1716205213"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
