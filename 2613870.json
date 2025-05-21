@@ -1,0 +1,39 @@
+{
+    "appid": "2613870",
+    "type": "Game",
+    "name": "BattleCore Arena",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28984351",
+    "update_time": "2025-05-14 23:43:42",
+    "depot": {
+        "2613871": {
+            "manifests": {
+                "public": {
+                    "gid": "3075019914964586029",
+                    "size": "3223626630",
+                    "download": "3099777072"
+                }
+            }
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18461722",
+                "timeupdated": "1747237416"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
