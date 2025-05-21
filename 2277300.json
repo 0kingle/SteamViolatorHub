@@ -1,0 +1,28 @@
+{
+    "appid": "2277300",
+    "type": "Game",
+    "name": "NTR'd By Clumsiness",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095134",
+    "update_time": "2025-05-21 19:20:47",
+    "depot": {
+        "2277301": {
+            "manifests": {
+                "public": {
+                    "gid": "5477444026271969467",
+                    "size": "1193840249",
+                    "download": "792567968"
+                }
+            },
+            "decryptionkey": "3c75a599c0b088d954bf25a00ad1c02918f2073d0ecb4e62d96c13ae27b0b191"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18543315",
+                "timeupdated": "1747798277"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
