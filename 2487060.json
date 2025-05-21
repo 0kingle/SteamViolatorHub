@@ -1,0 +1,42 @@
+{
+    "appid": "2487060",
+    "type": "Game",
+    "name": "Anonymous Hacker Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012475",
+    "update_time": "2025-05-16 06:18:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2487061": {
+            "manifests": {
+                "public": {
+                    "gid": "4425071904759908390",
+                    "size": "3394816609",
+                    "download": "3239897632"
+                }
+            },
+            "decryptionkey": "8ac37795515ca0a4636f53e0c53fdf6ea730d263c91c019ede23a83562b8abae"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18099065",
+                "timeupdated": "1744634557"
+            }
+        }
+    }
+}
