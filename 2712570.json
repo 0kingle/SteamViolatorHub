@@ -1,0 +1,44 @@
+{
+    "appid": "2712570",
+    "type": "Game",
+    "name": "Fantasy Village Simulator",
+    "schinese_name": "奇幻村庄模拟器",
+    "isfreeapp": "0",
+    "change_number": "29014159",
+    "update_time": "2025-05-16 08:42:47",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,schinese,tchinese",
+        "2712571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6860819863534273882",
+                    "size": "441080929",
+                    "download": "81966544"
+                }
+            },
+            "decryptionkey": "9d76686ac0cc2a5f819ccea98dd140602121521ee5cb8b6f9a4d19c9cb21e002"
+        },
+        "2712572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1618667558188142689",
+                    "size": "464945124",
+                    "download": "88972512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14814826",
+                "timeupdated": "1719214407"
+            }
+        }
+    }
+}
