@@ -1,0 +1,58 @@
+{
+    "appid": "2383800",
+    "type": "Demo",
+    "name": "Monopoly Madness Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28531541",
+    "update_time": "2025-04-17 22:53:11",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2383801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5749022764515334715",
+                    "size": "2552003943",
+                    "download": "1773775552"
+                }
+            },
+            "decryptionkey": "da3ad5219b383520a5064d2bc09cd91d052b166d7fcdcf1ac1f8c0052ee66a20"
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11216746",
+                "timeupdated": "1684763471"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
