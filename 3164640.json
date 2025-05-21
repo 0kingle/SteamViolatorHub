@@ -1,0 +1,28 @@
+{
+    "appid": "3164640",
+    "type": "Game",
+    "name": "Days In Palis",
+    "schinese_name": "欲望都市帕里斯 - 与众多美女的亲密接触",
+    "isfreeapp": "0",
+    "change_number": "29016345",
+    "update_time": "2025-05-16 12:06:49",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3164641": {
+            "manifests": {
+                "public": {
+                    "gid": "4575401503756414445",
+                    "size": "3930168355",
+                    "download": "3726500672"
+                }
+            },
+            "decryptionkey": "e8110420e1f1bf532420da54f98179d0cf76a2ae67e120ec6f303e16b772c4e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18054925",
+                "timeupdated": "1744281645"
+            }
+        }
+    }
+}
