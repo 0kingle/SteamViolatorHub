@@ -1,0 +1,41 @@
+{
+    "appid": "3015880",
+    "type": "Demo",
+    "name": "Slime Heroes Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28132469",
+    "update_time": "2025-03-25 23:28:17",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3015881": {
+            "manifests": {
+                "public": {
+                    "gid": "3434064932753268301",
+                    "size": "2385297629",
+                    "download": "1244028400"
+                }
+            },
+            "decryptionkey": "b3670506c748b72a4e7f5c9948b8c5bcf0dec82d2ad48439035cbc02f9daa22c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17375138",
+                "timeupdated": "1739591534"
+            }
+        }
+    }
+}
