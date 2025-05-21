@@ -1,0 +1,33 @@
+{
+    "appid": "1115580",
+    "type": "Game",
+    "name": "Grand Brix Shooter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984162",
+    "update_time": "2025-05-14 23:33:20",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
+        "hasdepotsindlc": "0",
+        "1115581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1440633381610632183",
+                    "size": "3242777372",
+                    "download": "1073397664"
+                }
+            },
+            "decryptionkey": "19fd2a66a0780527762a1a436392f626acf34eb0b7f230540798c13bb4e46b2c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4185275",
+                "timeupdated": "1568178020"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
