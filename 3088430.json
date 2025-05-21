@@ -1,0 +1,27 @@
+{
+    "appid": "3088430",
+    "type": "Game",
+    "name": "Stratogun",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29003968",
+    "update_time": "2025-05-15 22:03:37",
+    "depot": {
+        "3088431": {
+            "manifests": {
+                "public": {
+                    "gid": "6269538802828694385",
+                    "size": "430959217",
+                    "download": "168277248"
+                }
+            },
+            "decryptionkey": "b3ce0d8a45322ea84f096e066b60d057402a3a6c901da9367bd9c4fead9fea69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18369251",
+                "timeupdated": "1746596302"
+            }
+        }
+    }
+}
