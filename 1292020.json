@@ -1,0 +1,42 @@
+{
+    "appid": "1292020",
+    "type": "Game",
+    "name": "Armoured Commander II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28996160",
+    "update_time": "2025-05-15 14:38:52",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1292021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5977348853145527450",
+                    "size": "96438352",
+                    "download": "33107184"
+                }
+            },
+            "decryptionkey": "cf2ef861e600d5792765e63e9aa54305f6478b59f10acaf7087bd4d191e026f5"
+        },
+        "workshopdepot": "1292020",
+        "branches": {
+            "public": {
+                "buildid": "18471389",
+                "timeupdated": "1747290977"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
