@@ -1,0 +1,63 @@
+{
+    "appid": "1465460",
+    "type": "Game",
+    "name": "Infection Free Zone",
+    "schinese_name": "Infection Free Zone (无感染区)",
+    "isfreeapp": "0",
+    "change_number": "29102958",
+    "update_time": "2025-05-21 19:49:39",
+    "depot": {
+        "1465461": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1052928955024932300",
+                    "size": "6715290813",
+                    "download": "4332150928"
+                },
+                "experimental": {
+                    "gid": "628552550061988938",
+                    "size": "6777163240",
+                    "download": "4388007440"
+                },
+                "open_beta": {
+                    "gid": "628552550061988938",
+                    "size": "6777163240",
+                    "download": "4388007440"
+                },
+                "previous": {
+                    "gid": "7274917212609041006",
+                    "size": "7057672075",
+                    "download": "4432608400"
+                }
+            },
+            "decryptionkey": "e2a62ed18d9479e7bca56d425a8c527bacdfc7435666810eafeea55fe3e7746f"
+        },
+        "workshopdepot": "1465460",
+        "branches": {
+            "public": {
+                "buildid": "18158646",
+                "timeupdated": "1745334433"
+            },
+            "experimental": {
+                "buildid": "18490737",
+                "description": "For experimental builds - highly unstable",
+                "timeupdated": "1747406165"
+            },
+            "open_beta": {
+                "buildid": "18490737",
+                "description": "New builds still in testing",
+                "timeupdated": "1747406157"
+            },
+            "previous": {
+                "buildid": "17968692",
+                "description": "previous default build",
+                "timeupdated": "1744638043"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "86d798c9de12740c68e9f88ad9799466c2fa68547751f1ed7778a246b696742a"
+    }
+}
