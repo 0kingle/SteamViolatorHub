@@ -1,0 +1,28 @@
+{
+    "appid": "2409390",
+    "type": "Game",
+    "name": "Wheelie Life",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28572814",
+    "update_time": "2025-04-20 22:59:42",
+    "depot": {
+        "2409391": {
+            "manifests": {
+                "public": {
+                    "gid": "6237094949882723017",
+                    "size": "352281063",
+                    "download": "92242704"
+                }
+            },
+            "decryptionkey": "7dc47961788254aabb884f30387519c2580d60e6a04ccbfe3b4d3ca83818f832"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "11166748",
+                "timeupdated": "1683312174"
+            }
+        }
+    }
+}
