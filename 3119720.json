@@ -1,0 +1,52 @@
+{
+    "appid": "3119720",
+    "type": "Game",
+    "name": "Barro 2024",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29053850",
+    "update_time": "2025-05-19 09:13:08",
+    "depot": {
+        "3119721": {
+            "manifests": {
+                "public": {
+                    "gid": "7255385814566448633",
+                    "size": "2922286947",
+                    "download": "841491728"
+                },
+                "pre_release": {
+                    "gid": "7255385814566448633",
+                    "size": "2922286947",
+                    "download": "841491728"
+                }
+            },
+            "decryptionkey": "cc275f98756c1c37b18cd77da7096ded0c7f534430753a41df0682bf434a4fbe"
+        },
+        "3119722": {
+            "manifests": {
+                "public": {
+                    "gid": "8381827231256885130",
+                    "size": "148059752",
+                    "download": "44982736"
+                },
+                "pre_release": {
+                    "gid": "8381827231256885130",
+                    "size": "148059752",
+                    "download": "44982736"
+                }
+            },
+            "decryptionkey": "aa75b0e483ba8a870d07b8670d008ee7928786371ca7211c1b353253d59e3f3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18103949",
+                "timeupdated": "1744659511"
+            },
+            "pre_release": {
+                "buildid": "18103949",
+                "description": "pre_release",
+                "timeupdated": "1744659469"
+            }
+        }
+    }
+}
