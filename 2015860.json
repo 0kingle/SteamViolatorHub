@@ -1,0 +1,28 @@
+{
+    "appid": "2015860",
+    "type": "Game",
+    "name": "江湖百异图",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29060426",
+    "update_time": "2025-05-19 19:12:45",
+    "depot": {
+        "2015861": {
+            "manifests": {
+                "public": {
+                    "gid": "1111969840130891370",
+                    "size": "1041095481",
+                    "download": "246061232"
+                }
+            },
+            "decryptionkey": "5bfd6e18f1263c1fe8ca10179af2cdc6405f57bb94200f28ea433ef8dd3d7cc6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18304800",
+                "timeupdated": "1746067752"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
