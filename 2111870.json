@@ -1,0 +1,49 @@
+{
+    "appid": "2111870",
+    "type": "Game",
+    "name": "Section 13",
+    "schinese_name": "断电协议",
+    "isfreeapp": "0",
+    "change_number": "29053872",
+    "update_time": "2025-05-19 09:15:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2111871": {
+            "manifests": {
+                "public": {
+                    "gid": "6623568810488474584",
+                    "size": "5887511043",
+                    "download": "5495884544"
+                }
+            },
+            "decryptionkey": "d34401529ac856c033c5910de719c8b7cf01c5aa2d54f5c5ea943d6c744f31d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18232039",
+                "timeupdated": "1745547821"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
