@@ -1,0 +1,73 @@
+{
+    "appid": "1245480",
+    "type": "Game",
+    "name": "SYNDUALITY Echo of Ada",
+    "schinese_name": "奇异贤伴 爱达之歌",
+    "isfreeapp": "0",
+    "change_number": "29016444",
+    "update_time": "2025-05-16 12:15:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1245481": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8150281081157623696",
+                    "size": "65853836861",
+                    "download": "59855632576"
+                }
+            },
+            "decryptionkey": "c5e7a814d9d7df873a2dc41b6e1ec96bb1ce1d98ee7ab6b5c9dee96e6c6592c5"
+        },
+        "1245482": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2163557720205822787",
+                    "size": "15",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1299100": {
+            "dlcappid": "1299100",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5231014665795451893",
+                    "size": "14464",
+                    "download": "3568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18302662",
+                "timeupdated": "1746176401"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
