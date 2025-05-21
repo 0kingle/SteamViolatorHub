@@ -1,0 +1,45 @@
+{
+    "appid": "2977620",
+    "type": "Game",
+    "name": "Squirreled Away",
+    "schinese_name": "蹦蹦小囤鼠",
+    "isfreeapp": "0",
+    "change_number": "29103444",
+    "update_time": "2025-05-21 20:17:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2977621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7481923136437995786",
+                    "size": "1519695105",
+                    "download": "1222082880"
+                }
+            },
+            "decryptionkey": "9b2b59462dabe462d78e6bac46a35a2fe6c511f9e3a73275388da29b1900901a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18294600",
+                "timeupdated": "1746020333"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
