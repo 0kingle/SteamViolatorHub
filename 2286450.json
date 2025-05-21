@@ -1,0 +1,42 @@
+{
+    "appid": "2286450",
+    "type": "Game",
+    "name": "Striving for Light: Survival",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010409",
+    "update_time": "2025-05-16 03:48:44",
+    "depot": {
+        "2286451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5046490514699500211",
+                    "size": "1248925432",
+                    "download": "1073429296"
+                }
+            },
+            "decryptionkey": "960114b97c1a1820c4a4b0520262a54b173816095d97f40025a7a5f5f64dd9f1"
+        },
+        "2286452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3538039548097739277",
+                    "size": "1261474057",
+                    "download": "1077072880"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17324659",
+                "timeupdated": "1739294695"
+            }
+        }
+    }
+}
