@@ -1,0 +1,27 @@
+{
+    "appid": "2019300",
+    "type": "Game",
+    "name": "Dokimon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090834",
+    "update_time": "2025-05-21 05:13:04",
+    "depot": {
+        "2019301": {
+            "manifests": {
+                "public": {
+                    "gid": "2242878885257136794",
+                    "size": "62454905",
+                    "download": "46897840"
+                }
+            },
+            "decryptionkey": "4c11883ba648c4ff5bb9aba47163fbed2b4c8dce779e482645911c2025dcc1b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18537776",
+                "timeupdated": "1747763984"
+            }
+        }
+    }
+}
