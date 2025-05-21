@@ -1,0 +1,27 @@
+{
+    "appid": "3580350",
+    "type": "Music",
+    "name": "Look Outside Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:22:37",
+    "depot": {
+        "3580351": {
+            "manifests": {
+                "public": {
+                    "gid": "4412457595376941470",
+                    "size": "237171646",
+                    "download": "236763760"
+                }
+            },
+            "decryptionkey": "a138c1e086aaaa678fbd2486fa39d09e40db540fa3effe8aaf2c3b5eacd44287"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17808399",
+                "timeupdated": "1742558418"
+            }
+        }
+    }
+}
