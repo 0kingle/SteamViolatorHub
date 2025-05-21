@@ -1,0 +1,28 @@
+{
+    "appid": "2807150",
+    "type": "Game",
+    "name": "Worshippers of Cthulhu",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103021",
+    "update_time": "2025-05-21 19:53:43",
+    "depot": {
+        "2807151": {
+            "manifests": {
+                "public": {
+                    "gid": "1859210334536766038",
+                    "size": "8847183372",
+                    "download": "3030479536"
+                }
+            },
+            "decryptionkey": "1969ccb9a84fc59a5a2e4c3ea8f3ef0d00ce746e5fe05f2dec27cc4583a45de3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18156654",
+                "timeupdated": "1744978702"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
