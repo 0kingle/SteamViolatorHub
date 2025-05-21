@@ -1,0 +1,28 @@
+{
+    "appid": "1137750",
+    "type": "Game",
+    "name": "Farmer's Life",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984394",
+    "update_time": "2025-05-14 23:46:44",
+    "depot": {
+        "1137751": {
+            "manifests": {
+                "public": {
+                    "gid": "8315607109045086482",
+                    "size": "9362977836",
+                    "download": "4419646992"
+                }
+            },
+            "decryptionkey": "cb893aa124304bb89a0f140bbd3e10f801fb060b671460c585e7e0befab4ac03"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18295640",
+                "timeupdated": "1746111882"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
