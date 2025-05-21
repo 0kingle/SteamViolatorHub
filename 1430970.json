@@ -1,0 +1,53 @@
+{
+    "appid": "1430970",
+    "type": "Game",
+    "name": "Astatos",
+    "schinese_name": "阿斯塔托斯",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:22",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1430971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7784274971425179882",
+                    "size": "750477791",
+                    "download": "574494224"
+                }
+            },
+            "decryptionkey": "d18950209e9fa12a0be8b1ec2279be601080a944d175e26db9c9a80954434ef0"
+        },
+        "1430972": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5238450334391485281",
+                    "size": "837325597",
+                    "download": "595237456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18304207",
+                "timeupdated": "1746062983"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
