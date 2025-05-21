@@ -1,0 +1,27 @@
+{
+    "appid": "2530730",
+    "type": "Game",
+    "name": "Hentai Abigail",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28946842",
+    "update_time": "2025-05-13 04:03:21",
+    "depot": {
+        "2530731": {
+            "manifests": {
+                "public": {
+                    "gid": "8501852822790395024",
+                    "size": "116188307",
+                    "download": "37317632"
+                }
+            },
+            "decryptionkey": "5e41088bb7e91c5eed8fac1bc78b9107611531217d67c48f7bcd4924f61663a5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11772601",
+                "timeupdated": "1690195465"
+            }
+        }
+    }
+}
