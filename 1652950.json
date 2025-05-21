@@ -1,0 +1,61 @@
+{
+    "appid": "1652950",
+    "type": "Game",
+    "name": "Zombies Beyond Me",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28805193",
+    "update_time": "2025-05-04 08:27:23",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1652951": {
+            "manifests": {
+                "public": {
+                    "gid": "5331923056370535848",
+                    "size": "1888857958",
+                    "download": "1528466176"
+                }
+            },
+            "decryptionkey": "263187e0eeef61b95736f31b78a4f77d38af4e5be98f46654d6cd0bcb907247e"
+        },
+        "1652952": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "313098408258329789",
+                    "size": "1326564084",
+                    "download": "965231008"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18328480",
+                "timeupdated": "1746318439"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
