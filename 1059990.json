@@ -1,0 +1,101 @@
+{
+    "appid": "1059990",
+    "type": "Game",
+    "name": "Trombone Champ",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29066199",
+    "update_time": "2025-05-20 04:26:16",
+    "depot": {
+        "baselanguages": "english",
+        "1059991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1803257756199674365",
+                    "size": "1057934059",
+                    "download": "739925968"
+                },
+                "betatesting": {
+                    "gid": "5213035719303747956",
+                    "size": "1060052013",
+                    "download": "740591504"
+                },
+                "last_update": {
+                    "gid": "2729354418821666547",
+                    "size": "1051368292",
+                    "download": "730778512"
+                }
+            },
+            "decryptionkey": "bd08c0c14575910ac0dddfe751ba2c4340b500b7d6c63249077d98c6ba132927"
+        },
+        "1059992": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6714310705953277910",
+                    "size": "1050601924",
+                    "download": "737627344"
+                },
+                "betatesting": {
+                    "gid": "5359087019568478407",
+                    "size": "1052721216",
+                    "download": "738294768"
+                },
+                "last_update": {
+                    "gid": "4340574344520925637",
+                    "size": "1044036659",
+                    "download": "728478640"
+                }
+            },
+            "decryptionkey": "d85242e1d6806b83d9163ca8019e9d78c0f6e57dfac3fe06f666f32779960be8"
+        },
+        "1059993": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4798978594934125458",
+                    "size": "1062564203",
+                    "download": "741499168"
+                },
+                "betatesting": {
+                    "gid": "4658019566974741719",
+                    "size": "1064682243",
+                    "download": "742169696"
+                },
+                "last_update": {
+                    "gid": "544833744270759789",
+                    "size": "1055991198",
+                    "download": "732348448"
+                }
+            },
+            "decryptionkey": "b4885d039a0f2df90e2decd613498908c0e1f100f620504dd2542a955090fe33"
+        },
+        "workshopdepot": "1059990",
+        "branches": {
+            "public": {
+                "buildid": "17782378",
+                "timeupdated": "1742399145"
+            },
+            "betatesting": {
+                "buildid": "18482083",
+                "description": "Public branch for testing updates",
+                "timeupdated": "1747342440"
+            },
+            "last_update": {
+                "buildid": "16883829",
+                "description": "Use the last version (1.24 instead of 1.25)",
+                "timeupdated": "1741882238"
+            }
+        },
+        "workshopdepotdecryptionkey": "fbfa188dd1059e60f5d7d667a455db4ac12f8f701a5c45af232597bc22f855b6"
+    }
+}
