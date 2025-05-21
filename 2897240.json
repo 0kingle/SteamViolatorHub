@@ -1,0 +1,60 @@
+{
+    "appid": "2897240",
+    "type": "Game",
+    "name": "Puffin Planes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098239",
+    "update_time": "2025-05-21 19:22:31",
+    "depot": {
+        "2897241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1116547586441340570",
+                    "size": "630539197",
+                    "download": "196049664"
+                },
+                "preview": {
+                    "gid": "1116547586441340570",
+                    "size": "630539197",
+                    "download": "196049664"
+                },
+                "legacy": {
+                    "gid": "1154810789474934108",
+                    "size": "628295842",
+                    "download": "195404880"
+                },
+                "originalgame": {
+                    "gid": "812925127942085086",
+                    "size": "250984322",
+                    "download": "85975488"
+                }
+            },
+            "decryptionkey": "ba11bbfd0530c6d8c0d71902a329f6345f9bfe90a82e944b111a474559b81a9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18504292",
+                "timeupdated": "1747717219"
+            },
+            "preview": {
+                "buildid": "18504292",
+                "description": "For previewing the next update and giving feedback",
+                "timeupdated": "1747506120"
+            },
+            "legacy": {
+                "buildid": "16546163",
+                "description": "The previous version of the game",
+                "timeupdated": "1747717232"
+            },
+            "originalgame": {
+                "buildid": "13781313",
+                "description": "Want to know what this game was like early on in development? This is a snapshot from March 2024.",
+                "timeupdated": "1720592001"
+            }
+        }
+    }
+}
