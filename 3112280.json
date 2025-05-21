@@ -1,0 +1,40 @@
+{
+    "appid": "3112280",
+    "type": "Game",
+    "name": "Reclaiming the Lost",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28777758",
+    "update_time": "2025-05-02 08:34:44",
+    "depot": {
+        "3112281": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7412120305826440180",
+                    "size": "3555216916",
+                    "download": "3359569376"
+                },
+                "test_branch": {
+                    "gid": "2120117520313371427",
+                    "size": "3528408040",
+                    "download": "3346554896"
+                }
+            },
+            "decryptionkey": "8a1787ce374cb2ba72de205cdebd655424fbba6db8a652615f408c873ff9f5c9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18199156",
+                "timeupdated": "1745357461"
+            },
+            "test_branch": {
+                "buildid": "18182616",
+                "description": "Game Test",
+                "timeupdated": "1745256330"
+            }
+        }
+    }
+}
