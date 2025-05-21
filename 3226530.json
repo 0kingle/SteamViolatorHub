@@ -1,0 +1,40 @@
+{
+    "appid": "3226530",
+    "type": "Game",
+    "name": "Tower Dominion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29088928",
+    "update_time": "2025-05-21 03:01:17",
+    "depot": {
+        "baselanguages": "english",
+        "3226531": {
+            "manifests": {
+                "public": {
+                    "gid": "5434927420872450925",
+                    "size": "2214004774",
+                    "download": "400267440"
+                }
+            },
+            "decryptionkey": "bce32f7a7225638f1c114345d97f78d3462114031739e05859e0b3a07a1eb408"
+        },
+        "3226537": {
+            "dlcappid": "3680480",
+            "manifests": {
+                "public": {
+                    "gid": "389762354450797579",
+                    "size": "95299399",
+                    "download": "90481440"
+                }
+            },
+            "decryptionkey": "3242c2ab84f3526a7c899fd3b8e525dcc15c37504a443d684bb7ec77c6d75362"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18478285",
+                "timeupdated": "1747322508"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
