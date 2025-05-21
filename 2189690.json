@@ -1,0 +1,27 @@
+{
+    "appid": "2189690",
+    "type": "Game",
+    "name": "Speed Up",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 06:59:40",
+    "depot": {
+        "2189691": {
+            "manifests": {
+                "public": {
+                    "gid": "4087619938004114318",
+                    "size": "68597603",
+                    "download": "22097072"
+                }
+            },
+            "decryptionkey": "16c5cb1f5857f066df08655b5b5514a28d51693c2e8537d4fe6c0a25884eb7f0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9907854",
+                "timeupdated": "1668070831"
+            }
+        }
+    }
+}
