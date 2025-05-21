@@ -1,0 +1,39 @@
+{
+    "appid": "3042250",
+    "type": "Game",
+    "name": "Her Last Piece",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015909",
+    "update_time": "2025-05-16 11:24:44",
+    "depot": {
+        "3042251": {
+            "manifests": {
+                "public": {
+                    "gid": "3348315342468195252",
+                    "size": "1822047568",
+                    "download": "1624022592"
+                }
+            },
+            "decryptionkey": "644b0beed3b491a692a4f916696db56fc45bc2c829e84e4ff6ffe7bba5803906"
+        },
+        "3613180": {
+            "dlcappid": "3613180",
+            "manifests": {
+                "public": {
+                    "gid": "9036753595212865766",
+                    "size": "42558512",
+                    "download": "40514288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17942240",
+                "timeupdated": "1743523939"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
