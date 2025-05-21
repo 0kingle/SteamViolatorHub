@@ -1,0 +1,31 @@
+{
+    "appid": "2484370",
+    "type": "Game",
+    "name": "Package Runner",
+    "schinese_name": "快递搁浅",
+    "isfreeapp": "0",
+    "change_number": "28366681",
+    "update_time": "2025-04-08 21:44:17",
+    "depot": {
+        "2484371": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8139313512028636492",
+                    "size": "729570586",
+                    "download": "453926192"
+                }
+            },
+            "decryptionkey": "85f4fdee04e082b7aafe73194c796cd927210426a7d34b51dd8cadf740da68f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17526902",
+                "timeupdated": "1740642497"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
