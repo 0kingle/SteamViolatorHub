@@ -1,0 +1,41 @@
+{
+    "appid": "1638440",
+    "type": "Game",
+    "name": "Gatedelvers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988782",
+    "update_time": "2025-05-15 04:06:35",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1638441": {
+            "manifests": {
+                "public": {
+                    "gid": "1503418505281031222",
+                    "size": "1040567428",
+                    "download": "209373744"
+                }
+            },
+            "decryptionkey": "2a4720e66457488130df27a4408f3697e76d067d003a1fdce770f621d5e199f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16973364",
+                "timeupdated": "1736584230"
+            }
+        }
+    }
+}
