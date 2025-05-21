@@ -1,0 +1,32 @@
+{
+    "appid": "2962420",
+    "type": "Game",
+    "name": "Delivery Hot",
+    "schinese_name": "外送热",
+    "isfreeapp": "0",
+    "change_number": "29015497",
+    "update_time": "2025-05-16 10:48:46",
+    "depot": {
+        "baselanguages": "english,french,koreana,schinese,tchinese,japanese",
+        "2962421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "44925282670604011",
+                    "size": "3960797887",
+                    "download": "396376720"
+                }
+            },
+            "decryptionkey": "421aa1690ba87992f1663d256ac8fa79e1580b392bef84cf1873315ddd3d6cef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18237082",
+                "timeupdated": "1745578775"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
