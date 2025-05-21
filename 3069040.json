@@ -1,0 +1,44 @@
+{
+    "appid": "3069040",
+    "type": "Game",
+    "name": "Little Life: Idyllic Town Tales",
+    "schinese_name": "小生活-悠闲小镇物语",
+    "isfreeapp": "0",
+    "change_number": "28913401",
+    "update_time": "2025-05-10 11:12:52",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "3069041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8183448182399654483",
+                    "size": "811487509",
+                    "download": "480300336"
+                }
+            },
+            "decryptionkey": "e09e1fc52a50e3d41c321a0c7d90f91e4ea7bebf974f089de6039884aff75d7e"
+        },
+        "3069042": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7808465866807158965",
+                    "size": "669935464",
+                    "download": "487784272"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18411440",
+                "timeupdated": "1746846766"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
