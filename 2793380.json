@@ -1,0 +1,74 @@
+{
+    "appid": "2793380",
+    "type": "Game",
+    "name": "Starground",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29071194",
+    "update_time": "2025-05-20 07:16:13",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,schinese,russian,japanese,polish,danish,dutch,brazilian,latam",
+        "2793381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6244017917571792469",
+                    "size": "399073248",
+                    "download": "318334000"
+                },
+                "compatibility": {
+                    "gid": "3496697257740229307",
+                    "size": "303725272",
+                    "download": "232557552"
+                },
+                "experimental": {
+                    "gid": "5050799849519722872",
+                    "size": "398927904",
+                    "download": "317509472"
+                }
+            },
+            "decryptionkey": "4f7ea5e06d0257cdd9dd17bdee5da6ad9cbd4c81f6e096907f7c23221c654689"
+        },
+        "2793383": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3906931032901093128",
+                    "size": "401645496",
+                    "download": "319921328"
+                },
+                "compatibility": {
+                    "gid": "7670500494538648642",
+                    "size": "310269184",
+                    "download": "234404256"
+                },
+                "experimental": {
+                    "gid": "1024567072036956397",
+                    "size": "401500152",
+                    "download": "319152304"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494609",
+                "timeupdated": "1747414976"
+            },
+            "compatibility": {
+                "buildid": "17307102",
+                "description": "Compatibility renderer for old GPUs",
+                "timeupdated": "1739193118"
+            },
+            "experimental": {
+                "buildid": "18410295",
+                "description": "Contains experimental features and content that isn't stable enough for the main branch yet",
+                "timeupdated": "1746836290"
+            }
+        }
+    }
+}
