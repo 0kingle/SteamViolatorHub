@@ -1,0 +1,54 @@
+{
+    "appid": "2485350",
+    "type": "Game",
+    "name": "River Towns",
+    "schinese_name": "河畔小镇",
+    "isfreeapp": "0",
+    "change_number": "29090842",
+    "update_time": "2025-05-21 05:13:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2485351": {
+            "manifests": {
+                "public": {
+                    "gid": "6043602619168950081",
+                    "size": "1088099430",
+                    "download": "753394400"
+                },
+                "experimental": {
+                    "gid": "6537012421028104695",
+                    "size": "1088093258",
+                    "download": "753349536"
+                }
+            },
+            "decryptionkey": "01512fdc1de36a29217fd71dfac8a855c8acb5a787100b2ed3b7f0c23029b32d"
+        },
+        "workshopdepot": "2485350",
+        "branches": {
+            "public": {
+                "buildid": "18195330",
+                "timeupdated": "1745401967"
+            },
+            "experimental": {
+                "buildid": "18113709",
+                "description": "Experimental Feature Testing",
+                "timeupdated": "1746017235"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
