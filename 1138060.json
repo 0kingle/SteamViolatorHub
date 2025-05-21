@@ -1,0 +1,27 @@
+{
+    "appid": "1138060",
+    "type": "Game",
+    "name": "暗黑破坏岛/DiabloIslanD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 05:07:36",
+    "depot": {
+        "1138061": {
+            "manifests": {
+                "public": {
+                    "gid": "4737162112746644194",
+                    "size": "333962365",
+                    "download": "278715744"
+                }
+            },
+            "decryptionkey": "36974292fa230a10c22aa1bd035c3d13ac0a8649266cd6d3c3b6058bd06d05ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4218706",
+                "timeupdated": "1569156712"
+            }
+        }
+    }
+}
