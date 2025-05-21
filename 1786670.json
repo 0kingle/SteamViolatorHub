@@ -1,0 +1,28 @@
+{
+    "appid": "1786670",
+    "type": "Game",
+    "name": "仙绣剑缘录",
+    "schinese_name": "仙绣剑缘录",
+    "isfreeapp": "0",
+    "change_number": "29098874",
+    "update_time": "2025-05-21 19:30:49",
+    "depot": {
+        "1786671": {
+            "manifests": {
+                "public": {
+                    "gid": "8905019344644686732",
+                    "size": "1849835779",
+                    "download": "1249590480"
+                }
+            },
+            "decryptionkey": "30eee66f16f42ae8fbf5cf96abbbbfe5e68d33e5022612dec483fae6d3a805cc"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "18545704",
+                "timeupdated": "1747813636"
+            }
+        }
+    }
+}
