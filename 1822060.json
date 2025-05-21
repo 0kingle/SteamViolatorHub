@@ -1,0 +1,28 @@
+{
+    "appid": "1822060",
+    "type": "Game",
+    "name": "Those Who Rule",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29051827",
+    "update_time": "2025-05-19 03:53:02",
+    "depot": {
+        "1822061": {
+            "manifests": {
+                "public": {
+                    "gid": "6696484370076011898",
+                    "size": "3444838998",
+                    "download": "600053520"
+                }
+            },
+            "decryptionkey": "a10baea0b4c1a2cba826d80b3fdcc88a8a38e9700cab983a4f8d30d55100d8b5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18503931",
+                "timeupdated": "1747505639"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
