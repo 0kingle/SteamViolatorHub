@@ -1,0 +1,164 @@
+{
+    "appid": "1031480",
+    "type": "Game",
+    "name": "TouHou Makuka Sai ~ Fantastic Danmaku Festival Part II",
+    "schinese_name": "东方幕华祭 春雪篇",
+    "isfreeapp": "0",
+    "change_number": "28982802",
+    "update_time": "2025-05-14 22:52:00",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,russian,japanese",
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1031481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1391290699480307076",
+                    "size": "419955357",
+                    "download": "282958064"
+                },
+                "1.01": {
+                    "gid": "335807023451727926",
+                    "size": "367472330",
+                    "download": "243755920"
+                },
+                "fixpreview": {
+                    "gid": "1391290699480307076",
+                    "size": "419955357",
+                    "download": "282958064"
+                }
+            },
+            "decryptionkey": "3635e797f39bd8bcc7341af13dd88dfcf603d6496fdf94f9452a37e26a076068"
+        },
+        "1031482": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8806596531817463647",
+                    "size": "420274205",
+                    "download": "282895904"
+                },
+                "1.01": {
+                    "gid": "2613449830973381568",
+                    "size": "361214866",
+                    "download": "241433328"
+                },
+                "fixpreview": {
+                    "gid": "8806596531817463647",
+                    "size": "420274205",
+                    "download": "282895904"
+                }
+            },
+            "decryptionkey": "ccc33656d1079283a5f98c4edcaead6ee4b04f2b8ddb5ea6142b6aabe2f4b6bb"
+        },
+        "1031483": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "566552613408513740",
+                    "size": "417581205",
+                    "download": "281762656"
+                },
+                "1.01": {
+                    "gid": "8071284346300760162",
+                    "size": "360841114",
+                    "download": "241053440"
+                },
+                "fixpreview": {
+                    "gid": "566552613408513740",
+                    "size": "417581205",
+                    "download": "281762656"
+                }
+            },
+            "decryptionkey": "a7bfdc862d06227c9ad06c9c5ae1cf9fe5e877b33ab68bc147510ba6e211d833"
+        },
+        "1031484": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3628980472999040758",
+                    "size": "419955357",
+                    "download": "282956848"
+                },
+                "1.01": {
+                    "gid": "4710367321586461262",
+                    "size": "367472330",
+                    "download": "243754672"
+                },
+                "fixpreview": {
+                    "gid": "3628980472999040758",
+                    "size": "419955357",
+                    "download": "282956848"
+                }
+            },
+            "decryptionkey": "0fbc5194d5b2c1dc20d7279b93446e5b9cfd7c17a02f3a3006125400917d7478"
+        },
+        "1031485": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1025660115049401944",
+                    "size": "416979069",
+                    "download": "281731168"
+                },
+                "fixpreview": {
+                    "gid": "1025660115049401944",
+                    "size": "416979069",
+                    "download": "281731168"
+                }
+            },
+            "decryptionkey": "f15fb3c8d58513f0ba9a1b5fbd0c8c892bf29f75f38b9b39ebbe077ec72f5a89"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18424309",
+                "timeupdated": "1747022369"
+            },
+            "1.01": {
+                "buildid": "3685100",
+                "timeupdated": "1562391054"
+            },
+            "fixpreview": {
+                "buildid": "18424309",
+                "description": "A preview for crash fix",
+                "timeupdated": "1747022189"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
