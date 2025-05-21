@@ -1,0 +1,27 @@
+{
+    "appid": "2305760",
+    "type": "Game",
+    "name": "人間牧場 Residence",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 02:50:40",
+    "depot": {
+        "2305761": {
+            "manifests": {
+                "public": {
+                    "gid": "2427714077949636408",
+                    "size": "1587577784",
+                    "download": "526839360"
+                }
+            },
+            "decryptionkey": "15f87b7ab55928417f84b159f2467055fcd45da0e91f98bd5559c7f602cf1367"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11545145",
+                "timeupdated": "1687531147"
+            }
+        }
+    }
+}
