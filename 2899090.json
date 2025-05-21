@@ -1,0 +1,27 @@
+{
+    "appid": "2899090",
+    "type": "Game",
+    "name": "Pushing It! With Sisyphus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29050660",
+    "update_time": "2025-05-19 01:13:19",
+    "depot": {
+        "2899091": {
+            "manifests": {
+                "public": {
+                    "gid": "4513193011458453904",
+                    "size": "3176637296",
+                    "download": "1215905136"
+                }
+            },
+            "decryptionkey": "fa3b156c2a5f4fba522cca5c5caaae4b1745d05fdbc01ae69324bd24bbc178d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18035513",
+                "timeupdated": "1744215453"
+            }
+        }
+    }
+}
