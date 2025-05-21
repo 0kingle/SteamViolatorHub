@@ -1,0 +1,72 @@
+{
+    "appid": "926990",
+    "type": "Game",
+    "name": "WolfQuest: Anniversary Edition",
+    "schinese_name": "野狼迷踪：周年纪念版",
+    "isfreeapp": "0",
+    "change_number": "29091649",
+    "update_time": "2025-05-21 06:31:51",
+    "depot": {
+        "null": {
+            "depotfromapp": "457090"
+        },
+        "926992": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1215107098805486999",
+                    "size": "13964273873",
+                    "download": "6391003152"
+                },
+                "beta": {
+                    "gid": "3762119018331107396",
+                    "size": "13871113897",
+                    "download": "6314834304"
+                }
+            }
+        },
+        "926991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5677513051930675911",
+                    "size": "13814451251",
+                    "download": "6335652432"
+                },
+                "beta": {
+                    "gid": "8180759386198074930",
+                    "size": "13706847373",
+                    "download": "6256897648"
+                }
+            },
+            "decryptionkey": "28d993a32040d80b634e5f3338c3f228c75b765f38f99568a398e53b75670e8f"
+        },
+        "926993": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "926994": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18271423",
+                "timeupdated": "1745878183"
+            },
+            "beta": {
+                "buildid": "18540327",
+                "description": "WQ Public Beta",
+                "timeupdated": "1747777388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
