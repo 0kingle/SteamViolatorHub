@@ -1,0 +1,47 @@
+{
+    "appid": "1602000",
+    "type": "Game",
+    "name": "Hotel Architect",
+    "schinese_name": "酒店建筑师 Hotel Architect",
+    "isfreeapp": "0",
+    "change_number": "29103442",
+    "update_time": "2025-05-21 20:17:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1602001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5576252973659436675",
+                    "size": "2732182265",
+                    "download": "1097060848"
+                }
+            },
+            "decryptionkey": "0eae087f0db9be78952d7fae0ef01ab55a34cc7d8bae7f18ccc3379d89476fe7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18513624",
+                "timeupdated": "1747665573"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
