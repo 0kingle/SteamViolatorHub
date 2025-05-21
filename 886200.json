@@ -1,0 +1,76 @@
+{
+    "appid": "886200",
+    "type": "Game",
+    "name": "EndCycle VS",
+    "schinese_name": "轮回对决",
+    "isfreeapp": "0",
+    "change_number": "28980092",
+    "update_time": "2025-05-14 22:48:04",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "886200",
+        "886201": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3321552062991845773",
+                    "size": "313564975",
+                    "download": "253089008"
+                },
+                "beta": {
+                    "gid": "3321552062991845773",
+                    "size": "313564975",
+                    "download": "253089008"
+                }
+            },
+            "decryptionkey": "3fd46d4965876589a10131494449f888bf0df286d5f7b137e46f52c45568cb50"
+        },
+        "886203": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3583782833346301203",
+                    "size": "326515623",
+                    "download": "256401568"
+                },
+                "beta": {
+                    "gid": "3583782833346301203",
+                    "size": "326515623",
+                    "download": "256401568"
+                }
+            }
+        },
+        "886204": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18380204",
+                "timeupdated": "1746653422"
+            },
+            "beta": {
+                "buildid": "18380204",
+                "description": "Join us on Discord for the latest news about the beta version!",
+                "timeupdated": "1746652579"
+            }
+        },
+        "workshopdepotdecryptionkey": "59ffd2668794db73dc549c76a9a66d656fe8c73a269f5cb29e7010accc3d8ee2"
+    }
+}
