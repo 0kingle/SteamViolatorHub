@@ -1,0 +1,40 @@
+{
+    "appid": "2412240",
+    "type": "Game",
+    "name": "Bubble Ghost Remake",
+    "schinese_name": "泡泡幽灵 REMAKE",
+    "isfreeapp": "0",
+    "change_number": "29102062",
+    "update_time": "2025-05-21 19:30:41",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2412241": {
+            "manifests": {
+                "public": {
+                    "gid": "1658295889532184872",
+                    "size": "3332423917",
+                    "download": "891997472"
+                },
+                "gold": {
+                    "gid": "8992260222014504402",
+                    "size": "3205619830",
+                    "download": "816555920"
+                }
+            },
+            "decryptionkey": "1509e9f216704350465db1899294cfd0da5dd3cc3c0abe54ff4b01469f2ad76e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18521217",
+                "timeupdated": "1747813432"
+            },
+            "gold": {
+                "buildid": "16241736",
+                "description": "Rama para la version Gold",
+                "timeupdated": "1730314735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
