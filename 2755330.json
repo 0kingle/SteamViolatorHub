@@ -1,0 +1,43 @@
+{
+    "appid": "2755330",
+    "type": "Game",
+    "name": "Chushpan Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 04:58:12",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2755331": {
+            "manifests": {
+                "public": {
+                    "gid": "4078435339833269149",
+                    "size": "2653870031",
+                    "download": "2483396224"
+                }
+            },
+            "decryptionkey": "210347fd10d9ff3eabefdfca3a4471e392a3a9e1d70689e63953f055a30e2b99"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17485865",
+                "timeupdated": "1740411860"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
