@@ -1,0 +1,28 @@
+{
+    "appid": "2240390",
+    "type": "Game",
+    "name": "Celebrity Kombat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010099",
+    "update_time": "2025-05-16 03:24:40",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2240391": {
+            "manifests": {
+                "public": {
+                    "gid": "3756626071208040766",
+                    "size": "45741408281",
+                    "download": "9754466624"
+                }
+            },
+            "decryptionkey": "95d3cea677f708e1139f2013d0922436400db2500e90988bd8236937a5d2b134"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18164598",
+                "timeupdated": "1745034209"
+            }
+        }
+    }
+}
