@@ -1,0 +1,48 @@
+{
+    "appid": "1178400",
+    "type": "Game",
+    "name": "Pro Cycling Manager 2020",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984818",
+    "update_time": "2025-05-15 00:07:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese,danish,dutch,norwegian",
+        "workshopdepot": "1178400",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1178401": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1744556503933323961",
+                    "size": "13553290451",
+                    "download": "7225198048"
+                }
+            },
+            "decryptionkey": "225ddde065930c9d9d811198df74f12c9b3a799dbe10cdb3bcf92dd613f0b4db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6080990",
+                "timeupdated": "1611046934"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "61ae583304d4e7018ce64e90b072e81e9eb7ddd1830da708073b0991c876d60c"
+    }
+}
