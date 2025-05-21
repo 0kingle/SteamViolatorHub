@@ -1,0 +1,45 @@
+{
+    "appid": "2445690",
+    "type": "Game",
+    "name": "Lost Castle 2",
+    "schinese_name": "失落城堡2",
+    "isfreeapp": "0",
+    "change_number": "29057284",
+    "update_time": "2025-05-19 15:55:41",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2445691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9010577284468766049",
+                    "size": "1086371543",
+                    "download": "751965616"
+                }
+            },
+            "decryptionkey": "58aa213ce335109a11490383c49a406f0bb7a5c68f2844e33e7883c4e70dc1b3"
+        },
+        "2445695": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3955318210804994985",
+                    "size": "1086371543",
+                    "download": "751982224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18485688",
+                "timeupdated": "1747376846"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
