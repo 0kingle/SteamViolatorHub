@@ -1,0 +1,46 @@
+{
+    "appid": "3050930",
+    "type": "Demo",
+    "name": "深空七号 Deep Space 7 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29074690",
+    "update_time": "2025-05-20 12:52:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "3050931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2405923515997258142",
+                    "size": "10207314124",
+                    "download": "9006847296"
+                }
+            },
+            "decryptionkey": "3fb3c44166b43dc0812a4ba1ba0a5aff53906236594ca0a0f1bcc180f7600344"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18528343",
+                "timeupdated": "1747716734"
+            }
+        }
+    }
+}
