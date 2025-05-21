@@ -1,0 +1,28 @@
+{
+    "appid": "1951010",
+    "type": "DLC",
+    "name": "【早咲きのくろゆり】追加シナリオ「樹ちゃんのお弁当！」",
+    "schinese_name": "提早绽放的黑百合 : 追加剧情「小树的便当！」",
+    "isfreeapp": "0",
+    "change_number": "28561001",
+    "update_time": "2025-04-19 16:38:44",
+    "depot": {
+        "1951011": {
+            "manifests": {
+                "public": {
+                    "gid": "2081529740824640335",
+                    "size": "3598848",
+                    "download": "3578224"
+                }
+            },
+            "dlcappid": "1951010",
+            "decryptionkey": "29eb15ad55a447b35c9a4efca706e049ca137a35a6b02d432220b0e35f4d15a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18165940",
+                "timeupdated": "1745051917"
+            }
+        }
+    }
+}
