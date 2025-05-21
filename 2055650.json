@@ -1,0 +1,41 @@
+{
+    "appid": "2055650",
+    "type": "Game",
+    "name": "Rolling Rush",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28567317",
+    "update_time": "2025-04-20 06:35:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2055651": {
+            "manifests": {
+                "public": {
+                    "gid": "8020014577818827088",
+                    "size": "2598024594",
+                    "download": "2336094304"
+                }
+            },
+            "decryptionkey": "612b695ff8826ec3985b41d78c3f6bfb7fda76cd4b70ed113a27ee4180f6a82e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18169677",
+                "timeupdated": "1745102097"
+            }
+        }
+    }
+}
