@@ -1,0 +1,84 @@
+{
+    "appid": "911510",
+    "type": "Game",
+    "name": "Paws and Soul",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980412",
+    "update_time": "2025-05-14 22:48:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "911511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2230391148568733721",
+                    "size": "2339907319",
+                    "download": "2208152528"
+                },
+                "old_version": {
+                    "gid": "4199237060214338646",
+                    "size": "2394840143",
+                    "download": "2278936624"
+                }
+            },
+            "decryptionkey": "9cd3276304edbef5d71f84d80aa26f8b2d5c89025a6584ada41c8cc6563b442a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7617671",
+                "timeupdated": "1635429373"
+            },
+            "old_version": {
+                "buildid": "6196367",
+                "description": "Previous version of the game",
+                "timeupdated": "1635599901"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
