@@ -1,0 +1,73 @@
+{
+    "appid": "1712350",
+    "type": "Game",
+    "name": "Riven",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989326",
+    "update_time": "2025-05-15 04:46:32",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1712351": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4824291477199273671",
+                    "size": "25197013452",
+                    "download": "23616668208"
+                }
+            },
+            "decryptionkey": "0a9409019faf1d8890bd1c24f3c848bdcc9fdb2c09f391963b4dda9a9d3e4168"
+        },
+        "1712352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3648201330260931636",
+                    "size": "35126594182",
+                    "download": "26155561584"
+                }
+            }
+        },
+        "1712353": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18178231",
+                "timeupdated": "1745447038"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
