@@ -1,0 +1,27 @@
+{
+    "appid": "3667230",
+    "type": "Game",
+    "name": "The Deadseat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29053763",
+    "update_time": "2025-05-19 09:02:27",
+    "depot": {
+        "3667231": {
+            "manifests": {
+                "public": {
+                    "gid": "6778639753780875288",
+                    "size": "251909912",
+                    "download": "179908432"
+                }
+            },
+            "decryptionkey": "cc435ceb16e5e33c19898ce4f20e26601982c0760011b37d74bdbcf1f15d90d1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512003",
+                "timeupdated": "1747616431"
+            }
+        }
+    }
+}
