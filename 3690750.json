@@ -1,0 +1,33 @@
+{
+    "appid": "3690750",
+    "type": "Game",
+    "name": "Once Upon A Mind - A Little Too Friendly",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093587",
+    "update_time": "2025-05-21 09:17:59",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "3690751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4310940260849599690",
+                    "size": "1103311141",
+                    "download": "852700320"
+                }
+            },
+            "decryptionkey": "d817bb38eb83fe4fad4e329034711808535ca1363381069195e80b13f7f11fd1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18540940",
+                "timeupdated": "1747781844"
+            }
+        }
+    }
+}
