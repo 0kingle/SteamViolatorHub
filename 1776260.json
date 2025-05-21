@@ -1,0 +1,41 @@
+{
+    "appid": "1776260",
+    "type": "Game",
+    "name": "Crazy Truck",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 01:05:16",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1776261": {
+            "manifests": {
+                "public": {
+                    "gid": "6525651960737684033",
+                    "size": "321297658",
+                    "download": "242702256"
+                }
+            },
+            "decryptionkey": "72a32fdfd27422d56340a825811dd6ff25336fea2f7deeb69cd1617b84f3ba6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7443425",
+                "timeupdated": "1632897377"
+            }
+        }
+    }
+}
