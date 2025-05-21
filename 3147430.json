@@ -1,0 +1,27 @@
+{
+    "appid": "3147430",
+    "type": "Game",
+    "name": "Journey to Incrementalia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094887",
+    "update_time": "2025-05-21 11:16:20",
+    "depot": {
+        "3147431": {
+            "manifests": {
+                "public": {
+                    "gid": "6332568316071307627",
+                    "size": "186866858",
+                    "download": "111767552"
+                }
+            },
+            "decryptionkey": "4aab435ba111207f062739efb410a414d38f11e0e1910a84df1ac5e2b682d325"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512691",
+                "timeupdated": "1747623969"
+            }
+        }
+    }
+}
