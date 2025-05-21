@@ -1,0 +1,83 @@
+{
+    "appid": "843390",
+    "type": "Game",
+    "name": "Vertigo 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28979378",
+    "update_time": "2025-05-14 22:46:50",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,dutch,ukrainian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "843391": {
+            "manifests": {
+                "public": {
+                    "gid": "5824447818455206467",
+                    "size": "10482346459",
+                    "download": "8732365824"
+                },
+                "crunchy": {
+                    "gid": "2528080387207617193",
+                    "size": "3095240832",
+                    "download": "2560061296"
+                },
+                "beta": {
+                    "gid": "5824447818455206467",
+                    "size": "10482346459",
+                    "download": "8732365824"
+                },
+                "pre-bottomless": {
+                    "gid": "5343498457472758998",
+                    "size": "5522847963",
+                    "download": "4626781440"
+                }
+            },
+            "decryptionkey": "d6719362ab7b91b7b7ec67588c8c21cb1ba032f364c426766125ebaecd54b480"
+        },
+        "3305800": {
+            "dlcappid": "3305800",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7519426716415353374",
+                    "size": "1671498403",
+                    "download": "1253932672"
+                },
+                "beta": {
+                    "gid": "7519426716415353374",
+                    "size": "1671498403",
+                    "download": "1253932672"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18434931",
+                "timeupdated": "1747082706"
+            },
+            "crunchy": {
+                "buildid": "13918786",
+                "description": "april fools graphics",
+                "timeupdated": "1712074689"
+            },
+            "beta": {
+                "buildid": "18434931",
+                "description": "beta",
+                "timeupdated": "1747082680"
+            },
+            "pre-bottomless": {
+                "buildid": "11634835",
+                "description": "Pre-bottomless update build from July 2023",
+                "timeupdated": "1740277541"
+            }
+        }
+    }
+}
