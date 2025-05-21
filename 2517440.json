@@ -1,0 +1,54 @@
+{
+    "appid": "2517440",
+    "type": "Game",
+    "name": "Mini City: Mayhem",
+    "schinese_name": "迷你城市",
+    "isfreeapp": "0",
+    "change_number": "29097054",
+    "update_time": "2025-05-21 19:25:51",
+    "depot": {
+        "2517441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5257082168358035575",
+                    "size": "1214741512",
+                    "download": "420243984"
+                }
+            },
+            "decryptionkey": "0fdbb7cb1b20b55c4f89dddba41583da1ff5c4b126c525bd1bd450a951a52fc9"
+        },
+        "2517442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1276340025236826064",
+                    "size": "1240089139",
+                    "download": "428353632"
+                }
+            }
+        },
+        "2517443": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5591449114862486921",
+                    "size": "1216299551",
+                    "download": "420308512"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18425357",
+                "timeupdated": "1747032523"
+            }
+        }
+    }
+}
