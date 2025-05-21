@@ -1,0 +1,61 @@
+{
+    "appid": "3167550",
+    "type": "Game",
+    "name": "Tiny Pasture",
+    "schinese_name": "动物栏：桌面牧场",
+    "isfreeapp": "0",
+    "change_number": "29101428",
+    "update_time": "2025-05-21 19:25:58",
+    "depot": {
+        "3167552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8720798001910312463",
+                    "size": "208932548",
+                    "download": "82022160"
+                },
+                "moduploader": {
+                    "gid": "6766960644749862154",
+                    "size": "367658411",
+                    "download": "84690944"
+                }
+            }
+        },
+        "3167551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8425903112297555772",
+                    "size": "137433368",
+                    "download": "66079952"
+                },
+                "moduploader": {
+                    "gid": "4858462219304377453",
+                    "size": "221465088",
+                    "download": "66619408"
+                }
+            },
+            "decryptionkey": "2eb36141e330220bd89c47de8cca1c780182686771b6f5e9251eeef811774d14"
+        },
+        "workshopdepot": "3167550",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18357822",
+                "timeupdated": "1746608793"
+            },
+            "moduploader": {
+                "buildid": "18038587",
+                "description": "use for upload mod to workshop",
+                "timeupdated": "1744190372"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8ad4b349f08144eb89fa2093abe11113c34919b9d82567c4f0d802ade2479a76"
+    }
+}
