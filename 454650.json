@@ -1,0 +1,64 @@
+{
+    "appid": "454650",
+    "type": "Game",
+    "name": "DRAGON BALL XENOVERSE 2",
+    "schinese_name": "龙珠超宇宙2",
+    "isfreeapp": "0",
+    "change_number": "29099082",
+    "update_time": "2025-05-21 19:31:16",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "454651": {
+            "manifests": {
+                "public": {
+                    "gid": "3541700240475305633",
+                    "size": "35969970593",
+                    "download": "30665183792"
+                }
+            },
+            "decryptionkey": "f42c03be492cf6df28782bcf7630521712bb5425d268fcfc599731056ec1a21c"
+        },
+        "454654": {
+            "manifests": {
+                "public": {
+                    "gid": "7637655414218382129",
+                    "size": "85243161330",
+                    "download": "35488598048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "540070": {
+            "manifests": {
+                "public": {
+                    "gid": "5501846961741041819",
+                    "size": "11792330",
+                    "download": "11738528"
+                }
+            },
+            "dlcappid": "540070",
+            "decryptionkey": "3fe54a572bc1b0c0f9f13f3aa0d468cb56bb0faee8eb10df6a992c161943cc21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18351088",
+                "timeupdated": "1747814403"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
