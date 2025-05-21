@@ -1,0 +1,246 @@
+{
+    "appid": "473770",
+    "type": "Game",
+    "name": "BallisticNG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29082287",
+    "update_time": "2025-05-20 21:03:10",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "473770",
+        "hasdepotsindlc": "1",
+        "473772": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "643489695962157170",
+                    "size": "1684477096",
+                    "download": "743627456"
+                },
+                "development": {
+                    "gid": "643489695962157170",
+                    "size": "1684477096",
+                    "download": "743627456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "473771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6284478927685701581",
+                    "size": "3320443294",
+                    "download": "1888679632"
+                },
+                "development": {
+                    "gid": "81205813816998023",
+                    "size": "3321131177",
+                    "download": "1888756384"
+                }
+            },
+            "decryptionkey": "71af2036c0ca4d22db4835aa09ab4c787c858a885a575eb47aa8a252f49287d0"
+        },
+        "580180": {
+            "dlcappid": "580180",
+            "manifests": {
+                "public": {
+                    "gid": "5288741233217703303",
+                    "size": "10030",
+                    "download": "8192"
+                },
+                "development": {
+                    "gid": "5288741233217703303",
+                    "size": "10030",
+                    "download": "8192"
+                }
+            },
+            "decryptionkey": "44dd0a75dd62c7e7a7b9c450e31eec9983ed1c2b58afbadfbb0b1f673aaee03f"
+        },
+        "473773": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "620778362079245114",
+                    "size": "0",
+                    "download": "0"
+                },
+                "development": {
+                    "gid": "620778362079245114",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "473774": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1688971564974403127",
+                    "size": "3277476525",
+                    "download": "1849971440"
+                },
+                "development": {
+                    "gid": "7588188607638143578",
+                    "size": "3278161390",
+                    "download": "1850050784"
+                }
+            }
+        },
+        "473775": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "135057281956162401",
+                    "size": "0",
+                    "download": "0"
+                },
+                "development": {
+                    "gid": "135057281956162401",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "473776": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7453443811567020211",
+                    "size": "3266489312",
+                    "download": "1856063344"
+                },
+                "development": {
+                    "gid": "4743778268299961546",
+                    "size": "3267174689",
+                    "download": "1856133264"
+                }
+            }
+        },
+        "473777": {
+            "manifests": {
+                "public": {
+                    "gid": "4760465353964547946",
+                    "size": "0",
+                    "download": "0"
+                },
+                "development": {
+                    "gid": "4760465353964547946",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "03d1e67b401ec3e6ea7583be4485e2f65f607c5bdcf3562c1cd11f2a124d76b6"
+        },
+        "1090110": {
+            "dlcappid": "1090110",
+            "manifests": {
+                "public": {
+                    "gid": "135273655236743490",
+                    "size": "105439873",
+                    "download": "81720080"
+                },
+                "development": {
+                    "gid": "135273655236743490",
+                    "size": "105439873",
+                    "download": "81720080"
+                }
+            },
+            "decryptionkey": "fc2152aa742deb16ade0fce1f613eda4791f3b3c8507810b791f461d730ee656"
+        },
+        "473778": {
+            "manifests": {
+                "public": {
+                    "gid": "3956590535396976504",
+                    "size": "186444583",
+                    "download": "141575536"
+                },
+                "development": {
+                    "gid": "3956590535396976504",
+                    "size": "186444583",
+                    "download": "141575536"
+                }
+            },
+            "decryptionkey": "7da9689c80e35b9a9609b495759b2aa9453f2dc75c11d2a955c4f2f0dc5bf259"
+        },
+        "473779": {
+            "manifests": {
+                "public": {
+                    "gid": "6985809133040728544",
+                    "size": "700919569",
+                    "download": "709746256"
+                },
+                "development": {
+                    "gid": "6985809133040728544",
+                    "size": "700919569",
+                    "download": "709746256"
+                }
+            },
+            "decryptionkey": "24ae779fad54913ad9625612aaf45004dad8af7ff06c9bb0dbf78e5d009158fe"
+        },
+        "1165070": {
+            "dlcappid": "1165070",
+            "manifests": {
+                "public": {
+                    "gid": "8781513841656131255",
+                    "size": "115131287",
+                    "download": "88747952"
+                },
+                "development": {
+                    "gid": "8781513841656131255",
+                    "size": "115131287",
+                    "download": "88747952"
+                }
+            },
+            "decryptionkey": "6366c283f1699156f85e65f2cf17428aaeecadc9689a2a8a991cb04de4566662"
+        },
+        "1596120": {
+            "dlcappid": "1596120",
+            "manifests": {
+                "public": {
+                    "gid": "2671375658560622925",
+                    "size": "143390982",
+                    "download": "117087088"
+                },
+                "development": {
+                    "gid": "2671375658560622925",
+                    "size": "143390982",
+                    "download": "117087088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18377319",
+                "timeupdated": "1746637186"
+            },
+            "development": {
+                "buildid": "18530582",
+                "description": "In-development builds of the game.",
+                "timeupdated": "1747746184"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3d3994742e69fcb862b21dda3d284b2099eb84d2a649935a83ef648659185302"
+    }
+}
