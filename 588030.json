@@ -1,0 +1,47 @@
+{
+    "appid": "588030",
+    "type": "Game",
+    "name": "Derail Valley",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102275",
+    "update_time": "2025-05-21 19:22:16",
+    "depot": {
+        "588031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8207368404015146668",
+                    "size": "5021940761",
+                    "download": "2160362496"
+                }
+            },
+            "decryptionkey": "8f86e8547e0ff976ae25b0485d10a772f80b80edd6a0223e81425d8b69917c21"
+        },
+        "588032": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2313122337171636852",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7d1ed980030644def80ae52ff407d02bfeaa9c7c413476ed331ee05730fbb10f"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18464259",
+                "timeupdated": "1747257559"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
