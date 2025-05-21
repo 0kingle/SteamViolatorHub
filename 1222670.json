@@ -1,0 +1,270 @@
+{
+    "appid": "1222670",
+    "type": "Game",
+    "name": "The Sims™ 4",
+    "schinese_name": "模拟人生4",
+    "isfreeapp": "1",
+    "change_number": "29058544",
+    "update_time": "2025-05-19 17:15:53",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1222671": {
+            "manifests": {
+                "public": {
+                    "gid": "6170325357668690675",
+                    "size": "25068089485",
+                    "download": "23624621312"
+                }
+            }
+        },
+        "1222672": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5439851008738027101",
+                    "size": "10298548",
+                    "download": "9651024"
+                }
+            }
+        },
+        "1222673": {
+            "config": {
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4659270571555922569",
+                    "size": "12335778",
+                    "download": "11565536"
+                }
+            }
+        },
+        "1222674": {
+            "config": {
+                "language": "danish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8004117421668010351",
+                    "size": "10277486",
+                    "download": "9624096"
+                }
+            }
+        },
+        "1222675": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "779677268179779349",
+                    "size": "11044223",
+                    "download": "10338688"
+                }
+            }
+        },
+        "1222676": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3401218844868705122",
+                    "size": "11915842",
+                    "download": "11199456"
+                }
+            }
+        },
+        "1222677": {
+            "config": {
+                "language": "finnish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5931053432408910109",
+                    "size": "11653733",
+                    "download": "10971920"
+                }
+            }
+        },
+        "1222678": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5130395315313944801",
+                    "size": "11524016",
+                    "download": "10797680"
+                }
+            }
+        },
+        "1222679": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2090837805455130193",
+                    "size": "11274969",
+                    "download": "10563824"
+                }
+            }
+        },
+        "1235723": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9128069439911327113",
+                    "size": "11681137",
+                    "download": "10944512"
+                }
+            }
+        },
+        "1235724": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2856736301274348529",
+                    "size": "14890002",
+                    "download": "14106480"
+                }
+            }
+        },
+        "1235725": {
+            "config": {
+                "language": "dutch"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2643597562349158657",
+                    "size": "11413087",
+                    "download": "10726512"
+                }
+            }
+        },
+        "1235726": {
+            "config": {
+                "language": "norwegian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2693310598976873763",
+                    "size": "10647954",
+                    "download": "9998064"
+                }
+            }
+        },
+        "1235727": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4788143437214511963",
+                    "size": "11822568",
+                    "download": "11054336"
+                }
+            }
+        },
+        "1235728": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3767345315424450662",
+                    "size": "11336511",
+                    "download": "10680048"
+                }
+            }
+        },
+        "1235729": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7216779201807745925",
+                    "size": "13218084",
+                    "download": "12316800"
+                }
+            }
+        },
+        "1235735": {
+            "config": {
+                "language": "swedish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6363457402931100463",
+                    "size": "10202394",
+                    "download": "9530384"
+                }
+            }
+        },
+        "1235736": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "682676090161593985",
+                    "size": "12326408",
+                    "download": "11660720"
+                }
+            }
+        },
+        "1235737": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "815634926299407219",
+                    "size": "14351107",
+                    "download": "13655504"
+                }
+            }
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "4695958403711974607",
+                    "size": "234273399",
+                    "download": "236385232"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18145126",
+                "timeupdated": "1745945894"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
