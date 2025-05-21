@@ -1,0 +1,66 @@
+{
+    "appid": "549260",
+    "type": "Game",
+    "name": "Alwa's Awakening",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28974714",
+    "update_time": "2025-05-14 22:34:36",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "549261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8075527933128133445",
+                    "size": "285970902",
+                    "download": "43811904"
+                }
+            },
+            "decryptionkey": "99f0b4233558c86da42f820c0a224713ef79fc9fbf0dbb03264f1210e1c40a1d"
+        },
+        "549262": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2969202438351921261",
+                    "size": "329320266",
+                    "download": "54604448"
+                }
+            }
+        },
+        "549263": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4259363157076669334",
+                    "size": "323666170",
+                    "download": "54421168"
+                }
+            }
+        },
+        "2001510": {
+            "dlcappid": "2001510",
+            "manifests": {
+                "public": {
+                    "gid": "1267416614622382298",
+                    "size": "1186820",
+                    "download": "937376"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9019761",
+                "timeupdated": "1656404867"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
