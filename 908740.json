@@ -1,0 +1,71 @@
+{
+    "appid": "908740",
+    "type": "Game",
+    "name": "VALHALL: Harbinger",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29053737",
+    "update_time": "2025-05-19 08:57:27",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "908741": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4577309756328519493",
+                    "size": "29183350225",
+                    "download": "28419635584"
+                }
+            },
+            "decryptionkey": "6a4ef14a9a771dec545a2dce729836be397b17132eaf6af86be9584cec9d93ed"
+        },
+        "908742": {
+            "config": {
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18511984",
+                "timeupdated": "1747616243"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
