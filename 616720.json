@@ -1,0 +1,94 @@
+{
+    "appid": "616720",
+    "type": "Application",
+    "name": "Live2DViewerEX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013672",
+    "update_time": "2025-05-16 08:03:58",
+    "depot": {
+        "workshopdepot": "616720",
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "616721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2239874357266311005",
+                    "size": "1974377749",
+                    "download": "333821616"
+                },
+                "legacy_version": {
+                    "gid": "7911698314792274347",
+                    "size": "903874051",
+                    "download": "193017776"
+                }
+            },
+            "decryptionkey": "34f7b93e924c5d236bba8833fd04d9489e5a55fc76bda6992d5e65eb4cfce6c3"
+        },
+        "616722": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4205336952804416869",
+                    "size": "1056414044",
+                    "download": "224103664"
+                },
+                "legacy_version": {
+                    "gid": "1498672270706767204",
+                    "size": "955839142",
+                    "download": "172493920"
+                }
+            },
+            "decryptionkey": "9e382fdb223d32adfcb889f34734eb3e9d6097b029872159427c233d04928ff3"
+        },
+        "1350680": {
+            "dlcappid": "1350680"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18483750",
+                "timeupdated": "1747353836"
+            },
+            "legacy_version": {
+                "buildid": "6741992",
+                "description": "Compatible with old OS (Win7 | MacOS 10.12 and below)",
+                "timeupdated": "1621670202"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "99529225ccd19a436d52b19894a9a5d24f0559ec79e9384570a58f11d9871727"
+    }
+}
