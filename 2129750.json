@@ -1,0 +1,27 @@
+{
+    "appid": "2129750",
+    "type": "Game",
+    "name": "Cyber Pussy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:49:40",
+    "depot": {
+        "2129751": {
+            "manifests": {
+                "public": {
+                    "gid": "8032699023078438073",
+                    "size": "4794692598",
+                    "download": "1447894288"
+                }
+            },
+            "decryptionkey": "9b55e52ae63e9e80647b14ac94db3a61c96c46ba1be1e5aa755e2414cd69c5f8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9748387",
+                "timeupdated": "1666122833"
+            }
+        }
+    }
+}
