@@ -1,0 +1,43 @@
+{
+    "appid": "2310180",
+    "type": "Game",
+    "name": "Tales of: Sena",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010693",
+    "update_time": "2025-05-16 04:06:45",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "2310181": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5564291567927215904",
+                    "size": "11833368",
+                    "download": "4678256"
+                },
+                "legacy": {
+                    "gid": "895204025194697948",
+                    "size": "491810010",
+                    "download": "347180832"
+                }
+            },
+            "decryptionkey": "2b572057404af2a0ecf0453a67a2a94e7a80cc4dfd1a3804301e5f2fc373adb8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18178846",
+                "timeupdated": "1747329061"
+            },
+            "legacy": {
+                "buildid": "11827473",
+                "description": "Chapter 1 (Old Version)",
+                "timeupdated": "1711397741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
