@@ -1,0 +1,46 @@
+{
+    "appid": "1611580",
+    "type": "Game",
+    "name": "Behind Glass: Aquarium Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28502113",
+    "update_time": "2025-04-16 14:48:05",
+    "depot": {
+        "baselanguages": "",
+        "1611581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9149002226520389425",
+                    "size": "1460894026",
+                    "download": "1218148608"
+                }
+            },
+            "decryptionkey": "4af546b0cd0313d1c1985bf32793b2ca9d51668f94def04e95da7296ac38e555"
+        },
+        "1611582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "326256484898556928",
+                    "size": "1554205102",
+                    "download": "1248721632"
+                }
+            }
+        },
+        "workshopdepot": "1611580",
+        "branches": {
+            "public": {
+                "buildid": "18114273",
+                "timeupdated": "1744785961"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3ec83635fa054968fb2f27254a29202113a9a9ae359d4ce2f34733062beafb9e"
+    }
+}
