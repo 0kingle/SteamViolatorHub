@@ -1,0 +1,42 @@
+{
+    "appid": "1590910",
+    "type": "Game",
+    "name": "Forgive Me Father",
+    "schinese_name": "宽恕我 神父",
+    "isfreeapp": "0",
+    "change_number": "28988396",
+    "update_time": "2025-05-15 03:39:57",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1590911": {
+            "manifests": {
+                "public": {
+                    "gid": "6077132560375918012",
+                    "size": "7739860893",
+                    "download": "7155206432"
+                }
+            },
+            "decryptionkey": "8e2ba27316a162742cd823bb6a93eca7ed9a19826e1adcb9e5efc4c882505347"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17833083",
+                "timeupdated": "1744646231"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
