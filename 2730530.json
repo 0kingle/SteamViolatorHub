@@ -1,0 +1,28 @@
+{
+    "appid": "2730530",
+    "type": "Game",
+    "name": "Syn-Chorus 01: The New Life",
+    "schinese_name": "协律01：新生活",
+    "isfreeapp": "0",
+    "change_number": "29093587",
+    "update_time": "2025-05-21 09:17:56",
+    "depot": {
+        "2730531": {
+            "manifests": {
+                "public": {
+                    "gid": "7906956098245250985",
+                    "size": "18882517110",
+                    "download": "2451661536"
+                }
+            },
+            "decryptionkey": "9b15757dca69a84c6e9b59b81bb72bb691693e11dfb633537772b33eab89a6ae"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18368456",
+                "timeupdated": "1746589954"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
