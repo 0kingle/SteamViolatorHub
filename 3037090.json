@@ -1,0 +1,42 @@
+{
+    "appid": "3037090",
+    "type": "Demo",
+    "name": "Storage Hunter Simulator Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089126",
+    "update_time": "2025-05-21 03:15:17",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3037091": {
+            "manifests": {
+                "public": {
+                    "gid": "4776377938824919642",
+                    "size": "11244220609",
+                    "download": "9091472272"
+                }
+            },
+            "decryptionkey": "7a8243b0785be764f9a1d1da0a2b7c814a601745f667a922683da5343bdc64c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18460054",
+                "timeupdated": "1747393685"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
