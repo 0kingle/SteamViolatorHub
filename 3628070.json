@@ -1,0 +1,43 @@
+{
+    "appid": "3628070",
+    "type": "Game",
+    "name": "X飞行俱乐部：FPV无人机模拟器",
+    "schinese_name": "X飞行俱乐部：FPV无人机模拟器",
+    "isfreeapp": "0",
+    "change_number": "29081103",
+    "update_time": "2025-05-20 19:53:23",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3628071": {
+            "manifests": {
+                "public": {
+                    "gid": "3934226490439579665",
+                    "size": "3185078003",
+                    "download": "2800212160"
+                }
+            },
+            "decryptionkey": "041b13fa538062eb12585b97aa2d91f4844d74600421f236792d5dd8f0d340cf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18261706",
+                "timeupdated": "1745826166"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
