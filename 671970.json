@@ -1,0 +1,76 @@
+{
+    "appid": "671970",
+    "type": "Game",
+    "name": "Junkyard Simulator",
+    "schinese_name": "垃圾场模拟器",
+    "isfreeapp": "0",
+    "change_number": "29082533",
+    "update_time": "2025-05-20 21:15:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "671971": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5887797704896676904",
+                    "size": "13974359147",
+                    "download": "13780993760"
+                },
+                "unrealengine4": {
+                    "gid": "8604895615708688932",
+                    "size": "16150355675",
+                    "download": "15594743520"
+                },
+                "public_test": {
+                    "gid": "5887797704896676904",
+                    "size": "13974359147",
+                    "download": "13780993760"
+                },
+                "rg_test": {
+                    "gid": "5887797704896676904",
+                    "size": "13974359147",
+                    "download": "13780993760"
+                }
+            },
+            "decryptionkey": "ad7914c55b562ea713dcecf9f83ce5a6d28d98ce161066b5b7011f2f7c8a81e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18226536",
+                "timeupdated": "1745566054"
+            },
+            "unrealengine4": {
+                "buildid": "8275101",
+                "description": "Premiere version",
+                "timeupdated": "1667858893"
+            },
+            "public_test": {
+                "buildid": "18226536",
+                "description": "Public_Test",
+                "timeupdated": "1745566015"
+            },
+            "rg_test": {
+                "buildid": "18226536",
+                "description": "Controller",
+                "timeupdated": "1745566063"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
