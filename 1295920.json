@@ -1,0 +1,28 @@
+{
+    "appid": "1295920",
+    "type": "Game",
+    "name": "The Mortuary Assistant",
+    "schinese_name": "太平间助手",
+    "isfreeapp": "0",
+    "change_number": "28985976",
+    "update_time": "2025-05-15 01:06:38",
+    "depot": {
+        "1295921": {
+            "manifests": {
+                "public": {
+                    "gid": "5490431903229642092",
+                    "size": "5128770959",
+                    "download": "2341815456"
+                }
+            },
+            "decryptionkey": "6b61d645efde65dcb14c38641fec46ad7296e8fc2ae9343a376f37c5031850b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18266617",
+                "timeupdated": "1746539637"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
