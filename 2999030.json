@@ -1,0 +1,28 @@
+{
+    "appid": "2999030",
+    "type": "Game",
+    "name": "Exploding Kittens® 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29085693",
+    "update_time": "2025-05-20 23:56:29",
+    "depot": {
+        "2999031": {
+            "manifests": {
+                "public": {
+                    "gid": "6891934237537380301",
+                    "size": "691318588",
+                    "download": "334296480"
+                }
+            },
+            "decryptionkey": "8b8386310bdef28e1d892fac876e1fb231ab87901d9cc711eb0f5edcacacb836"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18280905",
+                "timeupdated": "1746174610"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
