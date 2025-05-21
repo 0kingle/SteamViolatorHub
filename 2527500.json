@@ -1,0 +1,29 @@
+{
+    "appid": "2527500",
+    "type": "Game",
+    "name": "MiSide",
+    "schinese_name": "米塔 MiSide",
+    "isfreeapp": "0",
+    "change_number": "29012818",
+    "update_time": "2025-05-16 06:48:44",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,russian,japanese",
+        "2527501": {
+            "manifests": {
+                "public": {
+                    "gid": "7029404747559026580",
+                    "size": "4103191983",
+                    "download": "2064093232"
+                }
+            },
+            "decryptionkey": "ffef2d1f42cd2438f5b7d029d771a9f941fd224250c3184f595773fb4926e1cd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18458652",
+                "timeupdated": "1747241064"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
