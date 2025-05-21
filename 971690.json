@@ -1,0 +1,32 @@
+{
+    "appid": "971690",
+    "type": "Game",
+    "name": "Cake Bash",
+    "schinese_name": "蛋糕狂欢",
+    "isfreeapp": "0",
+    "change_number": "29095521",
+    "update_time": "2025-05-21 19:23:07",
+    "depot": {
+        "971691": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2561284055615659651",
+                    "size": "1193200368",
+                    "download": "873927936"
+                }
+            },
+            "decryptionkey": "a93074f036ef2788f076100a65f687f43f32429eebba2a07cb859ae3f6b392e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18278313",
+                "timeupdated": "1747754124"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
