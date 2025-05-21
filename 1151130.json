@@ -1,0 +1,56 @@
+{
+    "appid": "1151130",
+    "type": "Game",
+    "name": "Dark Chess",
+    "schinese_name": "后翼弃兵：迷雾棋局",
+    "isfreeapp": "0",
+    "change_number": "29022514",
+    "update_time": "2025-05-16 19:03:15",
+    "depot": {
+        "baselanguages": "english,french,schinese,tchinese,russian,brazilian,ukrainian",
+        "1151131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "400178740314570417",
+                    "size": "1154264076",
+                    "download": "395052864"
+                }
+            },
+            "decryptionkey": "b7cf5a86054e555ef658b03512174a4218bc2504f41613fabae3813898303cad"
+        },
+        "1151132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5739721023200289515",
+                    "size": "1143927222",
+                    "download": "401649952"
+                }
+            }
+        },
+        "1151133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8730845581651396095",
+                    "size": "1164426995",
+                    "download": "394832368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492759",
+                "timeupdated": "1747406288"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
