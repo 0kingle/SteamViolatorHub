@@ -1,0 +1,42 @@
+{
+    "appid": "1511880",
+    "type": "Game",
+    "name": "Slime Heroes",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987731",
+    "update_time": "2025-05-15 02:53:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1511881": {
+            "manifests": {
+                "public": {
+                    "gid": "3294166847153298569",
+                    "size": "1967025076",
+                    "download": "876749664"
+                }
+            },
+            "decryptionkey": "c98880f6217a68ceaf09d0bfa4b10dc8bdd13e6928ddfd472f9ce9356deddf73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18150890",
+                "timeupdated": "1744994381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
