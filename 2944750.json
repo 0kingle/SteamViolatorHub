@@ -1,0 +1,43 @@
+{
+    "appid": "2944750",
+    "type": "Game",
+    "name": "The Strange City",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29066609",
+    "update_time": "2025-05-20 04:33:05",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2944751": {
+            "manifests": {
+                "public": {
+                    "gid": "3535670072623224428",
+                    "size": "3964476052",
+                    "download": "3113022240"
+                }
+            },
+            "decryptionkey": "ff470bc0151da281aad99df41df54e28a6601bafccf8a57172700660785a5530"
+        },
+        "2944752": {},
+        "branches": {
+            "public": {
+                "buildid": "17544144",
+                "timeupdated": "1740734227"
+            }
+        }
+    }
+}
