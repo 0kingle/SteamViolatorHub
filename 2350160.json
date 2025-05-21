@@ -1,0 +1,29 @@
+{
+    "appid": "2350160",
+    "type": "DLC",
+    "name": "Three Kingdoms The Last Warlord-Art Upgrade Pack",
+    "schinese_name": "三国志汉末霸业-美术升级包",
+    "isfreeapp": "0",
+    "change_number": "28897720",
+    "update_time": "2025-05-09 16:32:15",
+    "depot": {
+        "2350161": {
+            "manifests": {
+                "public": {
+                    "gid": "4463875869987076994",
+                    "size": "909542014",
+                    "download": "565459200"
+                }
+            },
+            "dlcappid": "2350160",
+            "decryptionkey": "293246b9dea1db132b7db393d701e46d257e9872cd360125457e02758e3e0978"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18121998",
+                "timeupdated": "1744768357"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
