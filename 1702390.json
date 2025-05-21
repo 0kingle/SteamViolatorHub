@@ -1,0 +1,44 @@
+{
+    "appid": "1702390",
+    "type": "Game",
+    "name": "Voor De Kroon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29070723",
+    "update_time": "2025-05-20 06:28:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1702391": {
+            "manifests": {
+                "public": {
+                    "gid": "6157803075918888329",
+                    "size": "21471881949",
+                    "download": "7926051728"
+                }
+            },
+            "decryptionkey": "681e40088f726437f9224623495d73305f41d9023d688b6956c352b2d5a9b759"
+        },
+        "workshopdepot": "1702390",
+        "branches": {
+            "public": {
+                "buildid": "18509051",
+                "timeupdated": "1747580318"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9e4b13705d9b81d33ebfdf1499d7655ee91fcb22ba5adba4b21343d715169de4"
+    }
+}
