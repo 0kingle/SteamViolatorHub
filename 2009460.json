@@ -1,0 +1,28 @@
+{
+    "appid": "2009460",
+    "type": "Game",
+    "name": "War of Wizards",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101337",
+    "update_time": "2025-05-21 19:36:23",
+    "depot": {
+        "baselanguages": "",
+        "2009461": {
+            "manifests": {
+                "public": {
+                    "gid": "4140684411999905278",
+                    "size": "3443006626",
+                    "download": "1305382144"
+                }
+            },
+            "decryptionkey": "05a8e81700e47a3c1ce9bef4fd8c8ad95329d76e93a07bdbaed355bd5d1941a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18547613",
+                "timeupdated": "1747822383"
+            }
+        }
+    }
+}
