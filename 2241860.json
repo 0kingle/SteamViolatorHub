@@ -1,0 +1,43 @@
+{
+    "appid": "2241860",
+    "type": "Game",
+    "name": "World of Fate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29087699",
+    "update_time": "2025-05-21 01:44:41",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2241861": {
+            "manifests": {
+                "public": {
+                    "gid": "8592553796123278044",
+                    "size": "1039101074",
+                    "download": "461407760"
+                }
+            },
+            "decryptionkey": "2c6ba16f74465c25c6166a6ad3286576b45623a2af1b8b08195b96fe74db81fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18536267",
+                "timeupdated": "1747756872"
+            }
+        }
+    }
+}
