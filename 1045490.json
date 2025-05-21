@@ -1,0 +1,40 @@
+{
+    "appid": "1045490",
+    "type": "Music",
+    "name": "I hate this soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982584",
+    "update_time": "2025-05-14 22:51:40",
+    "depot": {
+        "1045491": {
+            "manifests": {
+                "public": {
+                    "gid": "8985141632479220310",
+                    "size": "50855046",
+                    "download": "50242192"
+                }
+            },
+            "decryptionkey": "93d0db9efe381e361db48c5733baae4b8df83ce4efe7e7cced3368ee94cb5de9"
+        },
+        "1045492": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5867279441739306022",
+                    "size": "217207256",
+                    "download": "219932480"
+                }
+            },
+            "decryptionkey": "3ce3d1f7dd7cdf07feea201adc3b97dde012b9f3fa5178230f4fc91fbe117747"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8147822",
+                "timeupdated": "1644003945"
+            }
+        }
+    }
+}
