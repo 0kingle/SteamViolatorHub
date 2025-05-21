@@ -1,0 +1,45 @@
+{
+    "appid": "1540570",
+    "type": "Game",
+    "name": "Fractal Block World",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987895",
+    "update_time": "2025-05-15 03:06:40",
+    "depot": {
+        "baselanguages": "english",
+        "1540571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1638974449453178646",
+                    "size": "69879498",
+                    "download": "40929664"
+                }
+            },
+            "decryptionkey": "cbea28ba0ec65bde697d2cb86d18bc5c1d7d8f7dcdd6faae9143044da078a771"
+        },
+        "1540572": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2464870245350834900",
+                    "size": "43743965",
+                    "download": "14850096"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18216058",
+                "timeupdated": "1745451032"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
