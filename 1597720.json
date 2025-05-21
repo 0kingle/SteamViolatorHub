@@ -1,0 +1,28 @@
+{
+    "appid": "1597720",
+    "type": "Game",
+    "name": "Feed All Monsters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988500",
+    "update_time": "2025-05-15 03:46:32",
+    "depot": {
+        "1597721": {
+            "manifests": {
+                "public": {
+                    "gid": "1966229507927699789",
+                    "size": "226188698",
+                    "download": "184262544"
+                }
+            },
+            "decryptionkey": "c0b6bcb89fbaf10f302f686c35b35c7c45235e2c0def560f0a9862704c5c1c01"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17527529",
+                "timeupdated": "1740645013"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
