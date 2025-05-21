@@ -1,0 +1,40 @@
+{
+    "appid": "1429150",
+    "type": "Game",
+    "name": "Dungeon Tavern",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29086774",
+    "update_time": "2025-05-21 00:54:23",
+    "depot": {
+        "1429151": {
+            "manifests": {
+                "public": {
+                    "gid": "1034852745163985238",
+                    "size": "5319273731",
+                    "download": "427310640"
+                }
+            },
+            "decryptionkey": "3bafd302794f50e2031adb6ea5dad62c3478d1eda232044deaf520f93b4ecd4e"
+        },
+        "1429152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5084449256759549979",
+                    "size": "5335917423",
+                    "download": "434607568"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18405303",
+                "timeupdated": "1746804623"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
