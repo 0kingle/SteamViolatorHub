@@ -1,0 +1,91 @@
+{
+    "appid": "2516360",
+    "type": "Application",
+    "name": "Nonsensical Video Generator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984454",
+    "update_time": "2025-05-14 23:49:11",
+    "depot": {
+        "workshopdepot": "2516360",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2516361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2438859194764024868",
+                    "size": "676673564",
+                    "download": "258970400"
+                },
+                "previous": {
+                    "gid": "3572548574808110799",
+                    "size": "677199517",
+                    "download": "258971440"
+                },
+                "previous2024": {
+                    "gid": "204049683408082940",
+                    "size": "220144222",
+                    "download": "167279984"
+                },
+                "desktopgl": {
+                    "gid": "3412914912868732087",
+                    "size": "126308206",
+                    "download": "87537920"
+                },
+                "precompliance": {
+                    "gid": "4772348803428612794",
+                    "size": "141684556",
+                    "download": "96467072"
+                },
+                "initialrelease": {
+                    "gid": "5014747655677779909",
+                    "size": "141546921",
+                    "download": "96250160"
+                }
+            },
+            "decryptionkey": "779f27dc4de99eec1b8ed7a9ac3a70bc85c571ac15f944b3c8da2f9441cfca2a"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18462869",
+                "timeupdated": "1747237745"
+            },
+            "previous": {
+                "buildid": "18390590",
+                "description": "Previous build rollback",
+                "timeupdated": "1747237727"
+            },
+            "previous2024": {
+                "buildid": "16845750",
+                "description": "Milestone 6 Hotfix 9 (v1.0.2.9)",
+                "timeupdated": "1741875134"
+            },
+            "desktopgl": {
+                "buildid": "12238994",
+                "description": "Milestone 3 Hotfix 2 (v1.0.0.11) (DesktopGL)",
+                "timeupdated": "1716589663"
+            },
+            "precompliance": {
+                "buildid": "11785658",
+                "description": "Milestone 1 Hotfix 3 (v1.0.0.5)",
+                "timeupdated": "1690403651"
+            },
+            "initialrelease": {
+                "buildid": "11768580",
+                "description": "Initial release (July 23 2023)",
+                "timeupdated": "1746753949"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "09daf2b8cbecda5e32cff45a20fd36556d55965f6c605a48ebb531b1be1bb8b4"
+    }
+}
