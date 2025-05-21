@@ -1,0 +1,38 @@
+{
+    "appid": "2078910",
+    "type": "Game",
+    "name": "汉尘：腐草为萤",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29060889",
+    "update_time": "2025-05-19 19:47:37",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2078911": {
+            "manifests": {
+                "public": {
+                    "gid": "1313137959959984356",
+                    "size": "6466848309",
+                    "download": "4646154368"
+                },
+                "v0.4": {
+                    "gid": "5169707365490036567",
+                    "size": "6075987008",
+                    "download": "4294640144"
+                }
+            },
+            "decryptionkey": "ca47cfa859a0729e7198bde0c958be7956f9bb89d2af8a066acb02d20e70ba0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18517143",
+                "timeupdated": "1747655252"
+            },
+            "v0.4": {
+                "buildid": "18322677",
+                "description": "0.4版本",
+                "timeupdated": "1746620898"
+            }
+        }
+    }
+}
