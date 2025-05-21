@@ -1,0 +1,52 @@
+{
+    "appid": "2789130",
+    "type": "Game",
+    "name": "Highway Police Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28831084",
+    "update_time": "2025-05-06 06:54:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2789131": {
+            "manifests": {
+                "public": {
+                    "gid": "3224382374953738478",
+                    "size": "24798110837",
+                    "download": "19561799008"
+                }
+            }
+        },
+        "2789132": {
+            "manifests": {
+                "public": {
+                    "gid": "5433996632708996645",
+                    "size": "131",
+                    "download": "176"
+                }
+            },
+            "decryptionkey": "812f9fc26eeeff34c48354b5030e607dbafa597fccb44a3dcbf58dc90f60bd34"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,polish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18105166",
+                "timeupdated": "1744882344"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
