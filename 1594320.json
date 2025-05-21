@@ -1,0 +1,137 @@
+{
+    "appid": "1594320",
+    "type": "Game",
+    "name": "Captain of Industry",
+    "schinese_name": "工业巨头 (Captain of Industry)",
+    "isfreeapp": "0",
+    "change_number": "29099872",
+    "update_time": "2025-05-21 19:33:21",
+    "depot": {
+        "1594321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7704260772239294787",
+                    "size": "2910550418",
+                    "download": "2507837776"
+                },
+                "experimental": {
+                    "gid": "676668665585450648",
+                    "size": "2910618614",
+                    "download": "2507837808"
+                },
+                "alpha-legacy": {
+                    "gid": "4486113827918517499",
+                    "size": "521492663",
+                    "download": "416814080"
+                },
+                "beta-legacy": {
+                    "gid": "8024176006462910408",
+                    "size": "779021317",
+                    "download": "661562432"
+                },
+                "pre-alpha-legacy": {
+                    "gid": "51148691094757715",
+                    "size": "438934032",
+                    "download": "334997888"
+                },
+                "ea-legacy": {
+                    "gid": "8808902189245306884",
+                    "size": "1006088607",
+                    "download": "830484240"
+                },
+                "update1-legacy": {
+                    "gid": "2343200866089698002",
+                    "size": "1381631972",
+                    "download": "1151341040"
+                },
+                "update2-legacy": {
+                    "gid": "3195232451474689004",
+                    "size": "1561514918",
+                    "download": "1314050912"
+                }
+            },
+            "decryptionkey": "4ff3d26a9ec89b9d17aa43ee05ea46cb83cd638a31b36a385b43fc810ccc6703"
+        },
+        "2004740": {
+            "dlcappid": "2004740",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4672568607089277304",
+                    "size": "11554729",
+                    "download": "9743104"
+                },
+                "experimental": {
+                    "gid": "8025001328976889629",
+                    "size": "11554729",
+                    "download": "9743072"
+                },
+                "ea-legacy": {
+                    "gid": "1505119816856339038",
+                    "size": "8517139",
+                    "download": "6947872"
+                },
+                "update1-legacy": {
+                    "gid": "694384496265204915",
+                    "size": "8447021",
+                    "download": "6864704"
+                },
+                "update2-legacy": {
+                    "gid": "3673242767828715487",
+                    "size": "10426300",
+                    "download": "8601216"
+                }
+            },
+            "decryptionkey": "99e976dbccd9e46b15b201695ea57868cd42725d13bb6fc4512e5f3a7d620687"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18524083",
+                "timeupdated": "1747693565"
+            },
+            "experimental": {
+                "buildid": "18542057",
+                "description": "Testing of experimental features, not stable",
+                "timeupdated": "1747789665"
+            },
+            "alpha-legacy": {
+                "buildid": "7546314",
+                "description": "Legacy alpha build v0.2.14",
+                "timeupdated": "1640055536"
+            },
+            "beta-legacy": {
+                "buildid": "8074186",
+                "description": "Legacy beta build v0.3.11f",
+                "timeupdated": "1652756679"
+            },
+            "pre-alpha-legacy": {
+                "buildid": "7344310",
+                "description": "Legacy pre-alpha build v0.1.9c",
+                "timeupdated": "1631411171"
+            },
+            "ea-legacy": {
+                "buildid": "11552291",
+                "description": "Legacy early access v0.4.xx",
+                "timeupdated": "1687643980"
+            },
+            "update1-legacy": {
+                "buildid": "13643163",
+                "description": "Legacy Update 1 build v0.5.5d",
+                "timeupdated": "1711830810"
+            },
+            "update2-legacy": {
+                "buildid": "16141552",
+                "description": "Legacy Update 2 build v0.6.4d b347",
+                "timeupdated": "1746683785"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
