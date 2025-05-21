@@ -1,0 +1,31 @@
+{
+    "appid": "2372950",
+    "type": "Game",
+    "name": "Meteorfall: Rustbowl Rumble",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29053057",
+    "update_time": "2025-05-19 07:06:24",
+    "depot": {
+        "2372951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "286013679665899264",
+                    "size": "1188931224",
+                    "download": "421492832"
+                }
+            },
+            "decryptionkey": "0a3cbe45f584c4d1b5ea2903d04a27c83c9cb614cc77d85a28966352adf90379"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18415979",
+                "timeupdated": "1747609580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
