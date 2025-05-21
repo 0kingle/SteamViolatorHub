@@ -1,0 +1,216 @@
+{
+    "appid": "465240",
+    "type": "Game",
+    "name": "Serious Sam VR: The Last Hope",
+    "schinese_name": "英雄萨姆 VR：最后的希望",
+    "isfreeapp": "0",
+    "change_number": "28973724",
+    "update_time": "2025-05-14 13:07:52",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "465241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7372015903234975022",
+                    "size": "51015472",
+                    "download": "15909824"
+                },
+                "previousversion": {
+                    "gid": "3804626784038322166",
+                    "size": "53256176",
+                    "download": "16388048"
+                },
+                "publicbeta": {
+                    "gid": "3738674451113520313",
+                    "size": "54060528",
+                    "download": "16658480"
+                }
+            },
+            "decryptionkey": "42852748f40239566e979405aa35a34074b5ec2ab4a04e3c63c3015ff8a619df"
+        },
+        "465245": {
+            "manifests": {
+                "public": {
+                    "gid": "8098158271013055033",
+                    "size": "4903180554",
+                    "download": "4892733104"
+                },
+                "previousversion": {
+                    "gid": "3636917862658936118",
+                    "size": "4929517097",
+                    "download": "4928763088"
+                },
+                "publicbeta": {
+                    "gid": "1200045028912010734",
+                    "size": "4960193665",
+                    "download": "4949638512"
+                }
+            },
+            "decryptionkey": "9993fc7b51f1302c3a76f2e9bf96ce58b2c66fa234e76a7b8601a73b4f4d71bb"
+        },
+        "465246": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6374729498828934686",
+                    "size": "30416227",
+                    "download": "20354240"
+                },
+                "previousversion": {
+                    "gid": "471341005872058615",
+                    "size": "30405987",
+                    "download": "20349312"
+                },
+                "publicbeta": {
+                    "gid": "6439985341611296848",
+                    "size": "30405987",
+                    "download": "20349312"
+                }
+            },
+            "decryptionkey": "4d4ead7f6df5f3c683f7b5ddd11ddedf5cf71fe4ffde767d6ff7390a115e8c51"
+        },
+        "465249": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5598891527346595557",
+                    "size": "947264",
+                    "download": "422048"
+                },
+                "previousversion": {
+                    "gid": "5598891527346595557",
+                    "size": "947264",
+                    "download": "422048"
+                },
+                "publicbeta": {
+                    "gid": "5598891527346595557",
+                    "size": "947264",
+                    "download": "422048"
+                }
+            },
+            "decryptionkey": "fd72880cff2baaa7e2f0f83f11403d68b4783e647e06f864570fd1c9bf017522"
+        },
+        "465242": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4713983544650786310",
+                    "size": "47362856",
+                    "download": "12754272"
+                },
+                "previousversion": {
+                    "gid": "8743295057056584494",
+                    "size": "46805832",
+                    "download": "12616416"
+                },
+                "publicbeta": {
+                    "gid": "4713983544650786310",
+                    "size": "47362856",
+                    "download": "12754272"
+                }
+            }
+        },
+        "465248": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "80018804703196182",
+                    "size": "197498",
+                    "download": "41776"
+                },
+                "previousversion": {
+                    "gid": "80018804703196182",
+                    "size": "197498",
+                    "download": "41776"
+                },
+                "publicbeta": {
+                    "gid": "80018804703196182",
+                    "size": "197498",
+                    "download": "41776"
+                }
+            }
+        },
+        "465247": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8405821246188680057",
+                    "size": "2399222",
+                    "download": "547264"
+                },
+                "previousversion": {
+                    "gid": "8405821246188680057",
+                    "size": "2399222",
+                    "download": "547264"
+                },
+                "publicbeta": {
+                    "gid": "8405821246188680057",
+                    "size": "2399222",
+                    "download": "547264"
+                }
+            }
+        },
+        "706900": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3950014341530079484",
+                    "size": "14864792",
+                    "download": "4826656"
+                },
+                "previousversion": {
+                    "gid": "5342898113082088890",
+                    "size": "14693368",
+                    "download": "4687280"
+                },
+                "publicbeta": {
+                    "gid": "8885058857511823909",
+                    "size": "14938616",
+                    "download": "4782288"
+                }
+            },
+            "dlcappid": "706900"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18428024",
+                "timeupdated": "1747047826"
+            },
+            "previousversion": {
+                "buildid": "2441677",
+                "timeupdated": "1519316520"
+            },
+            "publicbeta": {
+                "buildid": "2548499",
+                "description": "Public testing",
+                "timeupdated": "1519316543"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
