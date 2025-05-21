@@ -1,0 +1,33 @@
+{
+    "appid": "1238920",
+    "type": "Game",
+    "name": "Future Fragments",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985316",
+    "update_time": "2025-05-15 00:33:26",
+    "depot": {
+        "baselanguages": "english",
+        "1238921": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "664449217157103436",
+                    "size": "1854415382",
+                    "download": "1613837232"
+                }
+            },
+            "decryptionkey": "695c29433df4e38e9ffd9f3ba326af791b0d0b77da7d7ae1eb69e0696e622b63"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18295206",
+                "timeupdated": "1746063967"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
