@@ -1,0 +1,55 @@
+{
+    "appid": "2263980",
+    "type": "Game",
+    "name": "Memories: Millennium Girl",
+    "schinese_name": "千年的少女",
+    "isfreeapp": "0",
+    "change_number": "29010275",
+    "update_time": "2025-05-16 03:36:41",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "2263981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5275650918570708865",
+                    "size": "4432361646",
+                    "download": "2671251472"
+                }
+            },
+            "decryptionkey": "c4d29ea809993ba78f3e106af8bda5e11427133b1b5e47fd192610495e640808"
+        },
+        "2573160": {
+            "dlcappid": "2573160",
+            "manifests": {
+                "public": {
+                    "gid": "3983580632460128562",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2624250": {
+            "dlcappid": "2624250",
+            "manifests": {
+                "public": {
+                    "gid": "5976227522514993396",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16480845",
+                "timeupdated": "1732605730"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
