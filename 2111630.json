@@ -1,0 +1,56 @@
+{
+    "appid": "2111630",
+    "type": "Game",
+    "name": "JR EAST Train Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29056509",
+    "update_time": "2025-05-19 14:59:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "2111631": {
+            "manifests": {
+                "public": {
+                    "gid": "8590399574091773291",
+                    "size": "9903314184",
+                    "download": "6480484992"
+                }
+            },
+            "decryptionkey": "560843c4356cc57dba2fefb072f32f56e21217fb7fa03e3c21625e195bc9de7d"
+        },
+        "2111632": {
+            "manifests": {
+                "public": {
+                    "gid": "1361090722419900604",
+                    "size": "40718889088",
+                    "download": "41275998176"
+                }
+            },
+            "decryptionkey": "f720bf041063477e203355bc887e84ac7f0fb76ebc26755bda6ffe21cfb76dda"
+        },
+        "2111633": {
+            "manifests": {
+                "public": {
+                    "gid": "7527104272882126236",
+                    "size": "386649904",
+                    "download": "391941280"
+                }
+            },
+            "decryptionkey": "17a52417f2821a4843121052b9bcb954f9f32f0947a7b05b5fe08439575b272e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18022523",
+                "timeupdated": "1744103764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
