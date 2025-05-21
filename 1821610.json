@@ -1,0 +1,47 @@
+{
+    "appid": "1821610",
+    "type": "Demo",
+    "name": "Glyde The Dragon™ Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28829960",
+    "update_time": "2025-05-06 05:18:26",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1821611": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9048365858377197428",
+                    "size": "1598697915",
+                    "download": "1444977200"
+                }
+            },
+            "decryptionkey": "15521455e4990d9ad3d4143494304ed8006fd959e715787c1c555c7ed04a4a97"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18351356",
+                "timeupdated": "1746479897"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
