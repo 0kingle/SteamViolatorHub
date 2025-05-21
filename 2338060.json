@@ -1,0 +1,50 @@
+{
+    "appid": "2338060",
+    "type": "Beta",
+    "name": "Ascendant Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008897",
+    "update_time": "2025-05-16 02:10:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2338061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8804398060529351684",
+                    "size": "50969810495",
+                    "download": "30915873664"
+                }
+            },
+            "decryptionkey": "30456dc1aee9e7208e7bdb81e963412044270110e74bb6f7725031a718f64609"
+        },
+        "2338062": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18322940",
+                "timeupdated": "1746882604"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
