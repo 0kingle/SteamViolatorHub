@@ -1,0 +1,28 @@
+{
+    "appid": "2497930",
+    "type": "Game",
+    "name": "The Grey Dream",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103370",
+    "update_time": "2025-05-21 20:13:26",
+    "depot": {
+        "baselanguages": "english",
+        "2497931": {
+            "manifests": {
+                "public": {
+                    "gid": "4029205175805938434",
+                    "size": "12998252041",
+                    "download": "12617849920"
+                }
+            },
+            "decryptionkey": "af80d4af1a25de8531c4635be4ee9237e8e5b2df826acb45008de83fdd34e40d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18549092",
+                "timeupdated": "1747829600"
+            }
+        }
+    }
+}
