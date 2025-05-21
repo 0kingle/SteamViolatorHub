@@ -1,0 +1,46 @@
+{
+    "appid": "963000",
+    "type": "Game",
+    "name": "Frog Detective 1: The Haunted Island",
+    "schinese_name": "鬼魂岛：青蛙侦探",
+    "isfreeapp": "0",
+    "change_number": "28981363",
+    "update_time": "2025-05-14 22:50:08",
+    "depot": {
+        "baselanguages": "english",
+        "963001": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2950123816553552106",
+                    "size": "324441753",
+                    "download": "225613424"
+                }
+            },
+            "decryptionkey": "810e3049968166a5d211e0045aa0990eb7250421a18015fe3193ac3e848a61f9"
+        },
+        "963002": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8672349782392224175",
+                    "size": "317920006",
+                    "download": "223469456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18274793",
+                "timeupdated": "1746022281"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
