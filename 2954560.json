@@ -1,0 +1,38 @@
+{
+    "appid": "2954560",
+    "type": "Game",
+    "name": "100 Forest Cats",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102412",
+    "update_time": "2025-05-21 19:38:54",
+    "depot": {
+        "2954561": {
+            "manifests": {
+                "public": {
+                    "gid": "8212327613053746147",
+                    "size": "437676525",
+                    "download": "34518976"
+                }
+            },
+            "decryptionkey": "6d0c37ba50fdf961cad523bdd08885d331be02f0867240a50583606c5b7ab4ee"
+        },
+        "2954610": {
+            "dlcappid": "2954610",
+            "manifests": {
+                "public": {
+                    "gid": "1074327911979432115",
+                    "size": "23666184",
+                    "download": "18406288"
+                }
+            },
+            "decryptionkey": "0f3f2747054b37430568e43ee8e1c47b632ed579e0ad70ca6d726d9f08b9c937"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419691",
+                "timeupdated": "1746964591"
+            }
+        }
+    }
+}
