@@ -1,0 +1,40 @@
+{
+    "appid": "1286220",
+    "type": "Game",
+    "name": "Sea Power",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103613",
+    "update_time": "2025-05-21 20:25:54",
+    "depot": {
+        "1286221": {
+            "manifests": {
+                "public": {
+                    "gid": "7744482255644356126",
+                    "size": "16829413840",
+                    "download": "7967730064"
+                },
+                "stable": {
+                    "gid": "5535600994817568696",
+                    "size": "16836680695",
+                    "download": "7973898736"
+                }
+            },
+            "decryptionkey": "984343174565db9374b496a4535fbef08482bad32064195c9afa10617cb1346f"
+        },
+        "workshopdepot": "1286220",
+        "branches": {
+            "public": {
+                "buildid": "18279344",
+                "timeupdated": "1745927037"
+            },
+            "stable": {
+                "buildid": "18530234",
+                "description": "Beta branch",
+                "timeupdated": "1747829241"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "dbdef3444402c235c449614d6b97c9d4723f3cd0f1e0a7fbea407eb56b4a07c8"
+    }
+}
