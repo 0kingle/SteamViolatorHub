@@ -1,0 +1,76 @@
+{
+    "appid": "1771980",
+    "type": "Game",
+    "name": "The Operator",
+    "schinese_name": "接线疑云 The Operator",
+    "isfreeapp": "0",
+    "change_number": "29048545",
+    "update_time": "2025-05-18 20:16:13",
+    "depot": {
+        "baselanguages": "english,french",
+        "1771981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6864708707716914461",
+                    "size": "2425082578",
+                    "download": "1224805456"
+                },
+                "beta": {
+                    "gid": "2022443524706504009",
+                    "size": "1849085939",
+                    "download": "641206000"
+                }
+            },
+            "decryptionkey": "a132c1c3d884ac55a44f68c500d37d3562afab6e6642d3051469f09a097274c3"
+        },
+        "1771982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7252231352510049050",
+                    "size": "2465476997",
+                    "download": "1235490208"
+                },
+                "beta": {
+                    "gid": "5650046098122826048",
+                    "size": "1889345996",
+                    "download": "651747344"
+                }
+            }
+        },
+        "1771983": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2478351340749994574",
+                    "size": "1813606670",
+                    "download": "624723152"
+                },
+                "beta": {
+                    "gid": "5550187232046164258",
+                    "size": "1830529310",
+                    "download": "637742496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18088160",
+                "timeupdated": "1745572337"
+            },
+            "beta": {
+                "buildid": "18235720",
+                "description": "beta branch to test the latest version",
+                "timeupdated": "1745571541"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
