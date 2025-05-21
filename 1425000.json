@@ -1,0 +1,64 @@
+{
+    "appid": "1425000",
+    "type": "Game",
+    "name": "Endless Alice",
+    "schinese_name": "无尽爱丽丝",
+    "isfreeapp": "0",
+    "change_number": "29081474",
+    "update_time": "2025-05-20 20:15:37",
+    "depot": {
+        "baselanguages": "tchinese",
+        "hasdepotsindlc": "0",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1425001": {
+            "manifests": {
+                "public": {
+                    "gid": "838093675458422819",
+                    "size": "6279857022",
+                    "download": "5921797072"
+                },
+                "alice_beta": {
+                    "gid": "6903271431663386384",
+                    "size": "6254278718",
+                    "download": "5894439200"
+                },
+                "rollback": {
+                    "gid": "838093675458422819",
+                    "size": "6279857022",
+                    "download": "5921797072"
+                }
+            },
+            "decryptionkey": "538a019189be9b823a8c7ff25c61d33657551e295cfe7a4d4abde120d7eb0eb7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18165188",
+                "timeupdated": "1746028341"
+            },
+            "alice_beta": {
+                "buildid": "18261733",
+                "description": "public beta test",
+                "timeupdated": "1745828193"
+            },
+            "rollback": {
+                "buildid": "18165188",
+                "description": "previous version",
+                "timeupdated": "1745848696"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
