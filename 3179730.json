@@ -1,0 +1,42 @@
+{
+    "appid": "3179730",
+    "type": "Game",
+    "name": "Deck of Haunts",
+    "schinese_name": "《幽室鬼牌》（Deck of Haunts）",
+    "isfreeapp": "0",
+    "change_number": "29085621",
+    "update_time": "2025-05-20 23:52:39",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3179731": {
+            "manifests": {
+                "public": {
+                    "gid": "6359448932015064631",
+                    "size": "1175306514",
+                    "download": "1034799728"
+                }
+            },
+            "decryptionkey": "91d2eed03b2cc6817cc2329b211f66b067b0bba3941763d1852e02eb8f56e970"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18536184",
+                "timeupdated": "1747756355"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
