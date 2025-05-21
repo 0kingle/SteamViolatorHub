@@ -1,0 +1,39 @@
+{
+    "appid": "3489660",
+    "type": "Demo",
+    "name": "ORDER 13 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28958409",
+    "update_time": "2025-05-13 18:37:53",
+    "depot": {
+        "3489661": {
+            "manifests": {
+                "public": {
+                    "gid": "6742782905315375487",
+                    "size": "4298874953",
+                    "download": "1600235664"
+                }
+            },
+            "decryptionkey": "913902381c03455b7bcfea2c4df46c30c378a0521958864956c5bdec710e86ea"
+        },
+        "2259312": {
+            "manifests": {
+                "public": {
+                    "gid": "1743321103450271532",
+                    "size": "4782981131",
+                    "download": "1789295216"
+                }
+            },
+            "depotfromapp": "2259310",
+            "decryptionkey": "a3f0d162fd3d9861b0aaf0fac52beb7598655e86a6a919f048767d3d6832ab5d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17578286",
+                "timeupdated": "1741027955"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
