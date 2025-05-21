@@ -1,0 +1,72 @@
+{
+    "appid": "1876850",
+    "type": "Game",
+    "name": "Babushka's Glitch Dungeon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29072688",
+    "update_time": "2025-05-20 09:37:26",
+    "depot": {
+        "1876851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1443298388358672855",
+                    "size": "458650352",
+                    "download": "128546080"
+                },
+                "gles2": {
+                    "gid": "1964205596793850087",
+                    "size": "490087552",
+                    "download": "129807760"
+                },
+                "dev_debug": {
+                    "gid": "1443298388358672855",
+                    "size": "458650352",
+                    "download": "128546080"
+                }
+            },
+            "decryptionkey": "5e4a5c85e7f492961bfcfae46d26d68b0606204222358a8c4f9f54411140e18c"
+        },
+        "1876852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "848993050361726099",
+                    "size": "504452755",
+                    "download": "139324496"
+                },
+                "gles2": {
+                    "gid": "5845005064061309990",
+                    "size": "491109980",
+                    "download": "139326992"
+                },
+                "dev_debug": {
+                    "gid": "848993050361726099",
+                    "size": "504452755",
+                    "download": "139324496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18526796",
+                "timeupdated": "1747704982"
+            },
+            "gles2": {
+                "buildid": "18423621",
+                "description": "For older hardware that doesn't support new GPUs",
+                "timeupdated": "1747014213"
+            },
+            "dev_debug": {
+                "buildid": "18526796",
+                "description": "secret",
+                "timeupdated": "1747704952"
+            }
+        }
+    }
+}
