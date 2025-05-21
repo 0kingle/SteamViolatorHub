@@ -1,0 +1,27 @@
+{
+    "appid": "3396330",
+    "type": "Game",
+    "name": "Involve",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016664",
+    "update_time": "2025-05-16 12:42:43",
+    "depot": {
+        "3396331": {
+            "manifests": {
+                "public": {
+                    "gid": "980564261566444863",
+                    "size": "109167688",
+                    "download": "19949888"
+                }
+            },
+            "decryptionkey": "d718bb2c91d90a4e07a44e4e1653752213644fbd8eb0fe0a20ba9b771bcdb5a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16672053",
+                "timeupdated": "1733656299"
+            }
+        }
+    }
+}
