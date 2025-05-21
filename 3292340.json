@@ -1,0 +1,32 @@
+{
+    "appid": "3292340",
+    "type": "Game",
+    "name": "Time Space Rebuild",
+    "schinese_name": "时空重构",
+    "isfreeapp": "0",
+    "change_number": "29102412",
+    "update_time": "2025-05-21 19:26:25",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "3292341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3614857321609751101",
+                    "size": "14035025067",
+                    "download": "12883756224"
+                }
+            },
+            "decryptionkey": "5ca8a714c8700f36f3055986591c56b5c50f85c33d96c07f1e67c56c06c110e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18547236",
+                "timeupdated": "1747820900"
+            }
+        }
+    }
+}
