@@ -1,0 +1,93 @@
+{
+    "appid": "651380",
+    "type": "Game",
+    "name": "BANG! BANG! Totally Accurate Redneck Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28259877",
+    "update_time": "2025-04-02 10:26:01",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "651381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2922726397075761954",
+                    "size": "188390199",
+                    "download": "78803600"
+                }
+            },
+            "decryptionkey": "2878985f7ecdbad76b3e4e95b05d8df46330a27eb81cce9da5465d395f3f3507"
+        },
+        "651382": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4479133881282625080",
+                    "size": "167394057",
+                    "download": "76694992"
+                }
+            }
+        },
+        "651384": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "219920819277283604",
+                    "size": "217309458",
+                    "download": "80749360"
+                }
+            }
+        },
+        "651385": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6023930205609734307",
+                    "size": "211943154",
+                    "download": "77761392"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3119777",
+                "timeupdated": "1536872645"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
