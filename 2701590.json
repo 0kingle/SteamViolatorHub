@@ -1,0 +1,42 @@
+{
+    "appid": "2701590",
+    "type": "Game",
+    "name": "Cthulhu Mythos ADV The Isle Of Ubohoth",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28401240",
+    "update_time": "2025-04-10 14:41:57",
+    "depot": {
+        "2701591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6769361100557214241",
+                    "size": "1378296342",
+                    "download": "937215440"
+                }
+            },
+            "decryptionkey": "a75e49f9ab8a885f0a5a14bba249f8a1877bed55604769a8e6da5cb46b343370"
+        },
+        "2701592": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2672484205083843553",
+                    "size": "1627265676",
+                    "download": "1148587280"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18051976",
+                "timeupdated": "1744267314"
+            }
+        }
+    }
+}
