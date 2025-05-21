@@ -1,0 +1,55 @@
+{
+    "appid": "288330",
+    "type": "Demo",
+    "name": "RUNNING WITH RIFLES Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28870174",
+    "update_time": "2025-05-08 05:20:01",
+    "depot": {
+        "overridescddb": "1",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "288331": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8228497838948768626",
+                    "size": "863457817",
+                    "download": "535232336"
+                }
+            },
+            "decryptionkey": "43701660cc13a4383a9af5f0494585b60510068238061e1caa0cad10526363c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18380213",
+                "timeupdated": "1746652796"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
