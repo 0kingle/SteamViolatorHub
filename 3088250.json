@@ -1,0 +1,57 @@
+{
+    "appid": "3088250",
+    "type": "Game",
+    "name": "Nitro Express",
+    "schinese_name": "硝基特快",
+    "isfreeapp": "0",
+    "change_number": "29094887",
+    "update_time": "2025-05-21 11:16:17",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3088251": {
+            "manifests": {
+                "public": {
+                    "gid": "2745419387768773531",
+                    "size": "354906560",
+                    "download": "304022000"
+                }
+            },
+            "decryptionkey": "29bc6269d41b15e5aca49f0a0e9a4e2f3182e5c8767c7df16432aa14544f0dea"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18470675",
+                "timeupdated": "1747361735"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
