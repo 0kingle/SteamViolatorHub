@@ -1,0 +1,270 @@
+{
+    "appid": "324080",
+    "type": "Game",
+    "name": "Rising World",
+    "schinese_name": "瑞星世界",
+    "isfreeapp": "0",
+    "change_number": "28971903",
+    "update_time": "2025-05-14 10:17:52",
+    "depot": {
+        "baselanguages": "english,german",
+        "workshopdepot": "324080",
+        "hasdepotsindlc": "0",
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "324081": {
+            "manifests": {
+                "public": {
+                    "gid": "4869322139146083325",
+                    "size": "1549159961",
+                    "download": "1470296128"
+                },
+                "java": {
+                    "gid": "544767562288992694",
+                    "size": "1549159961",
+                    "download": "1470296128"
+                },
+                "unity": {
+                    "gid": "4869322139146083325",
+                    "size": "1549159961",
+                    "download": "1470296128"
+                },
+                "unity_old": {
+                    "gid": "544767562288992694",
+                    "size": "1549159961",
+                    "download": "1470296128"
+                },
+                "unity_previous": {
+                    "gid": "4869322139146083325",
+                    "size": "1549159961",
+                    "download": "1470296128"
+                }
+            },
+            "decryptionkey": "15ddb75872372f5f287317d991d16f6c3287a378ab860c177b5c8c9d1b242207"
+        },
+        "324082": {
+            "config": {
+                "osarch": "64"
+            }
+        },
+        "324084": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6034765951523801698",
+                    "size": "107900975",
+                    "download": "31300880"
+                },
+                "java": {
+                    "gid": "1166703069546331270",
+                    "size": "107900975",
+                    "download": "31300880"
+                },
+                "unity": {
+                    "gid": "6034765951523801698",
+                    "size": "107900975",
+                    "download": "31300880"
+                },
+                "unity_old": {
+                    "gid": "1166703069546331270",
+                    "size": "107900975",
+                    "download": "31300880"
+                },
+                "unity_previous": {
+                    "gid": "6034765951523801698",
+                    "size": "107900975",
+                    "download": "31300880"
+                }
+            }
+        },
+        "324085": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7993639623053889123",
+                    "size": "123607071",
+                    "download": "31653216"
+                },
+                "java": {
+                    "gid": "8169534757367056131",
+                    "size": "123607071",
+                    "download": "31653216"
+                },
+                "unity": {
+                    "gid": "7993639623053889123",
+                    "size": "123607071",
+                    "download": "31653216"
+                },
+                "unity_old": {
+                    "gid": "8169534757367056131",
+                    "size": "123607071",
+                    "download": "31653216"
+                },
+                "unity_previous": {
+                    "gid": "7993639623053889123",
+                    "size": "123607071",
+                    "download": "31653216"
+                }
+            }
+        },
+        "324086": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6271954649645812927",
+                    "size": "100501435",
+                    "download": "30615824"
+                },
+                "java": {
+                    "gid": "2937925494673189149",
+                    "size": "100501435",
+                    "download": "30615824"
+                },
+                "unity": {
+                    "gid": "6271954649645812927",
+                    "size": "100501435",
+                    "download": "30615824"
+                },
+                "unity_old": {
+                    "gid": "2937925494673189149",
+                    "size": "100501435",
+                    "download": "30615824"
+                },
+                "unity_previous": {
+                    "gid": "6271954649645812927",
+                    "size": "100501435",
+                    "download": "30615824"
+                }
+            },
+            "decryptionkey": "e304084c0fe5b6a2da873f35b5d4eda8c27fd67906ac94cb78ae1dfc5ec1a8b6"
+        },
+        "324087": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4810373123771851688",
+                    "size": "10305675437",
+                    "download": "6857236576"
+                },
+                "unity": {
+                    "gid": "4810373123771851688",
+                    "size": "10305675437",
+                    "download": "6857236576"
+                },
+                "unity_old": {
+                    "gid": "3666480156446910287",
+                    "size": "12754867337",
+                    "download": "5686513776"
+                },
+                "unity_previous": {
+                    "gid": "3821006317514167084",
+                    "size": "10383198125",
+                    "download": "6885435616"
+                }
+            },
+            "decryptionkey": "f2a385e511df8d915cfca6d0d2af4ac20b21404a087bb4efc91ad5679afead78"
+        },
+        "324088": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3695397784895257806",
+                    "size": "10232988723",
+                    "download": "6813332944"
+                },
+                "unity": {
+                    "gid": "3695397784895257806",
+                    "size": "10232988723",
+                    "download": "6813332944"
+                },
+                "unity_old": {
+                    "gid": "5274780804397150333",
+                    "size": "12708040579",
+                    "download": "5661076784"
+                },
+                "unity_previous": {
+                    "gid": "8792191423988399625",
+                    "size": "10318350657",
+                    "download": "6841745216"
+                }
+            }
+        },
+        "324089": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1252882545675461698",
+                    "size": "10353448608",
+                    "download": "6754609696"
+                },
+                "unity": {
+                    "gid": "1252882545675461698",
+                    "size": "10353448608",
+                    "download": "6754609696"
+                },
+                "unity_old": {
+                    "gid": "2764637706995563344",
+                    "size": "12859915141",
+                    "download": "5667509088"
+                },
+                "unity_previous": {
+                    "gid": "31252110692822136",
+                    "size": "10450926091",
+                    "download": "6785062960"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18407929",
+                "timeupdated": "1746819385"
+            },
+            "java": {
+                "buildid": "7448611",
+                "description": "Legacy Version",
+                "timeupdated": "1668202216"
+            },
+            "unity": {
+                "buildid": "18407929",
+                "description": "New Version Preview",
+                "timeupdated": "1746819409"
+            },
+            "unity_old": {
+                "buildid": "15655849",
+                "description": "Old 0.7.5.2",
+                "timeupdated": "1734538652"
+            },
+            "unity_previous": {
+                "buildid": "18312304",
+                "description": "Old 0.8.5.2",
+                "timeupdated": "1746819350"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "02e5bc6f0551cc093f0f87012e9eb124dd3f5411dd25849f82beb911c0be4cde"
+    }
+}
