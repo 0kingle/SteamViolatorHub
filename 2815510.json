@@ -1,0 +1,40 @@
+{
+    "appid": "2815510",
+    "type": "Music",
+    "name": "Enshrouded Original Soundtrack",
+    "schinese_name": "《雾锁王国》原声音乐",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:26:11",
+    "depot": {
+        "2815512": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8341692237213806114",
+                    "size": "1934152268",
+                    "download": "1611581552"
+                }
+            },
+            "decryptionkey": "1300e25a3d42f4575462d0c45d57106388d9a7edfabf92b6352c0e184d3950d0"
+        },
+        "2815513": {
+            "manifests": {
+                "public": {
+                    "gid": "2747458637255882618",
+                    "size": "204006506",
+                    "download": "203194336"
+                }
+            },
+            "decryptionkey": "95d1aa60ff64ddf23447f97dace7a7b532104a9982ceffbe37c010f95077d966"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18517133",
+                "timeupdated": "1747654831"
+            }
+        }
+    }
+}
