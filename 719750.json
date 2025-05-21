@@ -1,0 +1,94 @@
+{
+    "appid": "719750",
+    "type": "Game",
+    "name": "PUSS!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102904",
+    "update_time": "2025-05-21 19:46:57",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,russian,japanese,portuguese,polish,dutch,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "719753": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4665256609048793858",
+                    "size": "661105878",
+                    "download": "355715440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "719751": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4883536110316213490",
+                    "size": "933293714",
+                    "download": "420422944"
+                }
+            },
+            "decryptionkey": "b6b196600f6ab32beea140248fe3b5ea19bab6802fd115b894352e2696b4347c"
+        },
+        "719752": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "852601587648625849",
+                    "size": "946768824",
+                    "download": "426180304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "719754": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1699595337459316573",
+                    "size": "711707090",
+                    "download": "404125056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "719755": {
+            "config": {
+                "osarch": "64",
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7404646868778446477",
+                    "size": "948656544",
+                    "download": "419909920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548750",
+                "timeupdated": "1747828011"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
