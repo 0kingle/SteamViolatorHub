@@ -1,0 +1,49 @@
+{
+    "appid": "2668910",
+    "type": "Game",
+    "name": "Real Shoot",
+    "schinese_name": "真实射击",
+    "isfreeapp": "0",
+    "change_number": "29019948",
+    "update_time": "2025-05-16 16:36:33",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "2668911": {
+            "manifests": {
+                "public": {
+                    "gid": "62310250297681566",
+                    "size": "41685766041",
+                    "download": "40656962736"
+                }
+            },
+            "decryptionkey": "7af8795092286b0e0325fdb4eb350b82637fac1049a3ca19ba2080364c75f4ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18487446",
+                "timeupdated": "1747381138"
+            }
+        }
+    }
+}
