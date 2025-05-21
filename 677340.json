@@ -1,0 +1,138 @@
+{
+    "appid": "677340",
+    "type": "Game",
+    "name": "The Colonists",
+    "schinese_name": "殖民者",
+    "isfreeapp": "0",
+    "change_number": "28976832",
+    "update_time": "2025-05-14 22:41:56",
+    "depot": {
+        "workshopdepot": "677340",
+        "677341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6814846821606182967",
+                    "size": "893274110",
+                    "download": "329817104"
+                },
+                "development": {
+                    "gid": "6666063066804970767",
+                    "size": "921702717",
+                    "download": "336924240"
+                },
+                "review": {
+                    "gid": "6814846821606182967",
+                    "size": "893274110",
+                    "download": "329817104"
+                },
+                "v1.6.14": {
+                    "gid": "8632081931032329320",
+                    "size": "759678616",
+                    "download": "291661872"
+                },
+                "v1.9.5.1": {
+                    "gid": "6400471271403888185",
+                    "size": "888073831",
+                    "download": "327364256"
+                }
+            },
+            "decryptionkey": "3d7728de928df3197a32149676017b26ef9e1222f52626fb2f19f3190a7e9433"
+        },
+        "677342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2562227604339920253",
+                    "size": "929990166",
+                    "download": "342601184"
+                },
+                "development": {
+                    "gid": "2562227604339920253",
+                    "size": "929990166",
+                    "download": "342601184"
+                },
+                "review": {
+                    "gid": "2562227604339920253",
+                    "size": "929990166",
+                    "download": "342601184"
+                },
+                "v1.6.14": {
+                    "gid": "4647520566175148666",
+                    "size": "781623067",
+                    "download": "298016976"
+                },
+                "v1.9.5.1": {
+                    "gid": "2348107677790031076",
+                    "size": "924017689",
+                    "download": "339932592"
+                }
+            }
+        },
+        "677343": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7255251428854071775",
+                    "size": "913013147",
+                    "download": "328185648"
+                },
+                "development": {
+                    "gid": "7255251428854071775",
+                    "size": "913013147",
+                    "download": "328185648"
+                },
+                "review": {
+                    "gid": "7255251428854071775",
+                    "size": "913013147",
+                    "download": "328185648"
+                },
+                "v1.6.14": {
+                    "gid": "5375393842313911543",
+                    "size": "804838597",
+                    "download": "293784656"
+                },
+                "v1.9.5.1": {
+                    "gid": "4767899199894361550",
+                    "size": "909259255",
+                    "download": "326247984"
+                }
+            }
+        },
+        "2784480": {
+            "dlcappid": "2784480"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18303177",
+                "timeupdated": "1746058989"
+            },
+            "development": {
+                "buildid": "18311504",
+                "timeupdated": "1746118471"
+            },
+            "review": {
+                "buildid": "18303177",
+                "timeupdated": "1746058956"
+            },
+            "v1.6.14": {
+                "buildid": "13607331",
+                "description": "v1.6.14",
+                "timeupdated": "1718061946"
+            },
+            "v1.9.5.1": {
+                "buildid": "15893156",
+                "description": "v1.9.5.1",
+                "timeupdated": "1731339709"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "13f3fcd06bf79baf372a433e9995719a6a89e090b95edfdeb6112a9297564339"
+    }
+}
