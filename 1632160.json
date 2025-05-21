@@ -1,0 +1,50 @@
+{
+    "appid": "1632160",
+    "type": "Game",
+    "name": "祛魅·格心（祛魅3） - Disenchantment Heart",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28924541",
+    "update_time": "2025-05-11 18:06:46",
+    "depot": {
+        "baselanguages": "schinese",
+        "1632161": {
+            "manifests": {
+                "public": {
+                    "gid": "6743075962131600349",
+                    "size": "819356094",
+                    "download": "674105648"
+                }
+            },
+            "decryptionkey": "cf7924417fbb5223106093efadb4d0338e31dca57c13566824cf6371c3bfd87c"
+        },
+        "1673930": {
+            "dlcappid": "1673930",
+            "manifests": {
+                "public": {
+                    "gid": "3174706464928412557",
+                    "size": "155308731",
+                    "download": "155079616"
+                }
+            },
+            "decryptionkey": "352778f0c50e0afd2bb41df0c9e1f3b4ebb9c3902218848de6946ac54a12980c"
+        },
+        "1697480": {
+            "dlcappid": "1697480",
+            "manifests": {
+                "public": {
+                    "gid": "6152110218182897196",
+                    "size": "2359954",
+                    "download": "1611408"
+                }
+            },
+            "decryptionkey": "0bb2fa732a5882c0becada6cd55a32eeda4531e1f9d5e6fefc7897ca575d7b9f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419245",
+                "timeupdated": "1746958001"
+            }
+        }
+    }
+}
