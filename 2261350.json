@@ -1,0 +1,49 @@
+{
+    "appid": "2261350",
+    "type": "Game",
+    "name": "Cozy Keep",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29072437",
+    "update_time": "2025-05-20 09:12:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2261351": {
+            "manifests": {
+                "public": {
+                    "gid": "8220160125257758538",
+                    "size": "2759511157",
+                    "download": "2553387488"
+                }
+            },
+            "decryptionkey": "d69076bb6ef8e9fe72fc48d7e81f79a512ba83496052e773a1097d65712291f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18227237",
+                "timeupdated": "1745515332"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
