@@ -1,0 +1,134 @@
+{
+    "appid": "774091",
+    "type": "Game",
+    "name": "Ostalgie: The Berlin Wall",
+    "schinese_name": "东德情结：柏林墙",
+    "isfreeapp": "0",
+    "change_number": "29060994",
+    "update_time": "2025-05-19 19:54:35",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "774092": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1463185949479653128",
+                    "size": "3362509283",
+                    "download": "1322901984"
+                }
+            },
+            "decryptionkey": "eba58582ab0dbc0d16691378ef2a05090b6b8568d9cd652ee7cf2048714e830a"
+        },
+        "774093": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2708780019226220014",
+                    "size": "1399968976",
+                    "download": "1043034400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "774094": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8634170085982429940",
+                    "size": "1404583905",
+                    "download": "1044417712"
+                }
+            }
+        },
+        "774095": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9162487081945421697",
+                    "size": "1553338513",
+                    "download": "1109103216"
+                }
+            }
+        },
+        "950760": {
+            "dlcappid": "950760",
+            "manifests": {
+                "public": {
+                    "gid": "7732251236892473207",
+                    "size": "32",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "1e22712719a10374f5cef7efe9f52089d70279647d10e9313f012f5f82551c06"
+        },
+        "1034970": {
+            "dlcappid": "1034970",
+            "manifests": {
+                "public": {
+                    "gid": "5781455874972234196",
+                    "size": "32",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "48dd310c5033b96a10f23ddd1aea14c353b28750f23264bb318e62d604dd3e9e"
+        },
+        "1794910": {
+            "dlcappid": "1794910",
+            "manifests": {
+                "public": {
+                    "gid": "3472049958207245660",
+                    "size": "32",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "780c7fb9b350d9b84ec6499cf3f26877d9fb185950ab24416be6228a7caa48ec"
+        },
+        "1886380": {
+            "dlcappid": "1886380",
+            "manifests": {
+                "public": {
+                    "gid": "2811353292703045583",
+                    "size": "32",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "930677f8e4402242e5777cdf331b8faaa86faf37ceed001b54ae4fa95de80fd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18517306",
+                "timeupdated": "1747655671"
+            }
+        }
+    }
+}
