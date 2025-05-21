@@ -1,0 +1,43 @@
+{
+    "appid": "2459550",
+    "type": "Game",
+    "name": "Emberward",
+    "schinese_name": "余烬守卫 Emberward",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:27:07",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "2459551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "605523726070705422",
+                    "size": "2010988446",
+                    "download": "511839152"
+                },
+                "beta_branch": {
+                    "gid": "605523726070705422",
+                    "size": "2010988446",
+                    "download": "511839152"
+                }
+            },
+            "decryptionkey": "da804a84952ce187ba4449fd2d61ff14c21ea7bd9bf5c20a3e81beda8423c8c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18401869",
+                "timeupdated": "1746792207"
+            },
+            "beta_branch": {
+                "buildid": "18401869",
+                "description": "Public Test Branch",
+                "timeupdated": "1746792185"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
