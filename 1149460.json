@@ -1,0 +1,52 @@
+{
+    "appid": "1149460",
+    "type": "Game",
+    "name": "Icarus",
+    "schinese_name": "翼星求生 ICARUS",
+    "isfreeapp": "0",
+    "change_number": "29095188",
+    "update_time": "2025-05-21 19:21:52",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1149461": {
+            "manifests": {
+                "public": {
+                    "gid": "7319475224950298252",
+                    "size": "44194112551",
+                    "download": "35202196416"
+                },
+                "experimental": {
+                    "gid": "6365133937548348763",
+                    "size": "44403571199",
+                    "download": "35340916768"
+                }
+            },
+            "decryptionkey": "c71fc47ef9e1e718df06677c0d6cf06fc0f01145d8481e0db444a26eed261296"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18457210",
+                "timeupdated": "1747364539"
+            },
+            "experimental": {
+                "buildid": "18510601",
+                "description": "Predeployment Testing",
+                "timeupdated": "1747599598"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
