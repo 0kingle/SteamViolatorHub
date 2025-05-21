@@ -1,0 +1,147 @@
+{
+    "appid": "2531310",
+    "type": "Game",
+    "name": "The Last of Us™ Part II Remastered",
+    "schinese_name": "最后生还者2 重制版",
+    "isfreeapp": "0",
+    "change_number": "29093783",
+    "update_time": "2025-05-21 09:35:58",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2531311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5151442398504601055",
+                    "size": "87391374056",
+                    "download": "76835078016"
+                },
+                "previous_version": {
+                    "gid": "5818127708734001712",
+                    "size": "87391240184",
+                    "download": "76834983968"
+                }
+            },
+            "decryptionkey": "f7506952e736e71547c2d3c2c82959438e836c66d5b8b8f3208ccc082f60df23"
+        },
+        "2531312": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5608329698800797019",
+                    "size": "6893964036",
+                    "download": "5777850240"
+                },
+                "previous_version": {
+                    "gid": "9210612150342159594",
+                    "size": "6892803770",
+                    "download": "5776827872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2531313": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5241159688705703611",
+                    "size": "36266555724",
+                    "download": "30768122384"
+                },
+                "previous_version": {
+                    "gid": "7297381045588692143",
+                    "size": "36255782096",
+                    "download": "30758318256"
+                }
+            },
+            "decryptionkey": "a88758211f172f53efb57ad5c819b9d5f34b0796b44bd876639a09029e6a8089"
+        },
+        "2537700": {
+            "dlcappid": "2537700",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7978371625226688313",
+                    "size": "5515031602",
+                    "download": "920202688"
+                },
+                "previous_version": {
+                    "gid": "5998434485974011744",
+                    "size": "5510252082",
+                    "download": "922067744"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2537710": {
+            "dlcappid": "2537710",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7857659966436588638",
+                    "size": "13143364731",
+                    "download": "12676155904"
+                },
+                "previous_version": {
+                    "gid": "7857659966436588638",
+                    "size": "13143364731",
+                    "download": "12676155904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2531314": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "191855825481859544",
+                    "size": "685247043",
+                    "download": "502550928"
+                },
+                "previous_version": {
+                    "gid": "4551653102028974524",
+                    "size": "681539315",
+                    "download": "493816368"
+                }
+            },
+            "decryptionkey": "3dc1a7d997476f1b4eb3a78f11af1be0d750a14719dc5d5eaeb940bcd44b74e5"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian,greek,latam",
+        "branches": {
+            "public": {
+                "buildid": "18478005",
+                "timeupdated": "1747648529"
+            },
+            "previous_version": {
+                "buildid": "18295720",
+                "description": "Rollback to previous version",
+                "timeupdated": "1747648558"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
