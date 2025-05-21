@@ -1,0 +1,44 @@
+{
+    "appid": "1299060",
+    "type": "Game",
+    "name": "NOROI KAGO: the Grudged Domain",
+    "schinese_name": "咒笼: 诅咒领域",
+    "isfreeapp": "0",
+    "change_number": "29070577",
+    "update_time": "2025-05-20 06:15:17",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1299061": {
+            "manifests": {
+                "public": {
+                    "gid": "7201532307808181521",
+                    "size": "7226007904",
+                    "download": "3154503936"
+                }
+            },
+            "decryptionkey": "f7877468295d8af69a753371182cc0971a7e9da31a3caadd34add951d94439c0"
+        },
+        "1299062": {},
+        "branches": {
+            "public": {
+                "buildid": "18437822",
+                "timeupdated": "1747192088"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
