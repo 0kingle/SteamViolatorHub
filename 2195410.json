@@ -1,0 +1,30 @@
+{
+    "appid": "2195410",
+    "type": "Game",
+    "name": "Songs Of Silence",
+    "schinese_name": "寂静之歌",
+    "isfreeapp": "0",
+    "change_number": "29009666",
+    "update_time": "2025-05-16 02:54:51",
+    "depot": {
+        "2195411": {
+            "manifests": {
+                "public": {
+                    "gid": "7090616468167217358",
+                    "size": "6405941183",
+                    "download": "5475053568"
+                }
+            },
+            "decryptionkey": "9634043c605d62441a08ab388b7013a6cedb82be1cff7dbcdf8a8f77045a773a"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18365786",
+                "timeupdated": "1746626804"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
