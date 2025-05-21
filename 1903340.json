@@ -1,0 +1,28 @@
+{
+    "appid": "1903340",
+    "type": "Game",
+    "name": "Clair Obscur: Expedition 33",
+    "schinese_name": "光与影：33号远征队",
+    "isfreeapp": "0",
+    "change_number": "29094822",
+    "update_time": "2025-05-21 11:10:48",
+    "depot": {
+        "1903341": {
+            "manifests": {
+                "public": {
+                    "gid": "3291917955150102469",
+                    "size": "43614197058",
+                    "download": "41961457664"
+                }
+            },
+            "decryptionkey": "8593f9c4cd595f833d5344e55cd6c6fdb73d9a4fa05dab033ba71622265e8c82"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18363348",
+                "timeupdated": "1746777597"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
