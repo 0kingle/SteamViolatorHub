@@ -1,0 +1,43 @@
+{
+    "appid": "2667960",
+    "type": "Demo",
+    "name": "Granblue Fantasy Versus: Rising Free Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094599",
+    "update_time": "2025-05-21 10:49:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2667961": {
+            "manifests": {
+                "public": {
+                    "gid": "340470661159477203",
+                    "size": "21683132527",
+                    "download": "20308851568"
+                }
+            },
+            "decryptionkey": "ad7bcc52fb0cb22fd55fbacf8d872e9a305a122d38509469565985175252927a"
+        },
+        "baselanguages": "english,german,french,spanish,japanese,portuguese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "17829424",
+                "timeupdated": "1742951514"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
