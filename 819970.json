@@ -1,0 +1,40 @@
+{
+    "appid": "819970",
+    "type": "Game",
+    "name": "Space Junkies - Beta",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:31:00",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "819971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2393822277068721857",
+                    "size": "4915097567",
+                    "download": "4795975920"
+                }
+            },
+            "decryptionkey": "be6100698bb12628bc6237a7302c66631a2930f31572d6696fa4b70ebc2cbb41"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3631465",
+                "timeupdated": "1553080573"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
