@@ -1,0 +1,28 @@
+{
+    "appid": "3183500",
+    "type": "Game",
+    "name": "Epoch of Guardians",
+    "schinese_name": "文明守护者：抗争",
+    "isfreeapp": "0",
+    "change_number": "28660212",
+    "update_time": "2025-04-25 20:55:34",
+    "depot": {
+        "3183501": {
+            "manifests": {
+                "public": {
+                    "gid": "9207709569537225704",
+                    "size": "396644333",
+                    "download": "158099840"
+                }
+            },
+            "decryptionkey": "54df609a0197e30bfe5bd1ea8058bb42b7e9c4f8ad9e9452397ad33ee59741ec"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17363236",
+                "timeupdated": "1741753765"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
