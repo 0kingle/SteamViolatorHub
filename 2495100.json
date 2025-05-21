@@ -1,0 +1,29 @@
+{
+    "appid": "2495100",
+    "type": "Game",
+    "name": "Hello Kitty Island Adventure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101812",
+    "update_time": "2025-05-21 19:37:21",
+    "depot": {
+        "2495101": {
+            "manifests": {
+                "public": {
+                    "gid": "6335678812216577294",
+                    "size": "3505985288",
+                    "download": "2765045760"
+                }
+            },
+            "decryptionkey": "62b02a1a603b53787ec2fea81ea2b505fdca436fa17d52d82e3df9097e14fab7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18316648",
+                "timeupdated": "1746200681"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
