@@ -1,0 +1,180 @@
+{
+    "appid": "1063730",
+    "type": "Game",
+    "name": "New World: Aeternum",
+    "schinese_name": "新世界",
+    "isfreeapp": "0",
+    "change_number": "29075556",
+    "update_time": "2025-05-20 14:06:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1063731": {
+            "manifests": {
+                "public": {
+                    "gid": "8213326400219275646",
+                    "size": "81937973746",
+                    "download": "72226393008"
+                }
+            },
+            "decryptionkey": "3d40a764fce79086fca5d6ec9b71ab93a9b539b43510269327bcf68dc420081a"
+        },
+        "1200566": {
+            "dlcappid": "1200566",
+            "manifests": {
+                "public": {
+                    "gid": "6793007841600635654",
+                    "size": "402743150",
+                    "download": "214043824"
+                }
+            },
+            "decryptionkey": "62dee2d57bdbb651633764350102f2900adc0587c6115c676ae246501d7291ac"
+        },
+        "1716920": {
+            "dlcappid": "1716920",
+            "manifests": {
+                "public": {
+                    "gid": "4124920687863079512",
+                    "size": "589929325",
+                    "download": "163634352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1210560": {
+            "dlcappid": "1210560",
+            "manifests": {
+                "public": {
+                    "gid": "163215248706639259",
+                    "size": "288522256",
+                    "download": "94646800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1063732": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8991366360831643156",
+                    "size": "2067165944",
+                    "download": "2067246848"
+                }
+            },
+            "decryptionkey": "1a6d3cfd214ea9edae0c047154695474ad222fbb9663df3536177e6524d992f9"
+        },
+        "1063733": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4089177349464681132",
+                    "size": "2238147360",
+                    "download": "2240003008"
+                }
+            },
+            "decryptionkey": "84ae5ddfec1337f0954f8dbb8ae7862b503115fa0cecde91191886b154fb8dd8"
+        },
+        "1063734": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "515244328416713086",
+                    "size": "2038540220",
+                    "download": "2040281600"
+                }
+            },
+            "decryptionkey": "9ac25234e5db7ab0a1b696412992c3a432b06b49840eb383c42ef65fb8182a23"
+        },
+        "1063735": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8848196723242518649",
+                    "size": "2308397141",
+                    "download": "2307679488"
+                }
+            },
+            "decryptionkey": "d86ebc93de739c675894a49390d24bbe1e8d068f8807fbc3b7ff8a8f746a9863"
+        },
+        "1063736": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1246399320118255066",
+                    "size": "2092254602",
+                    "download": "2090759984"
+                }
+            },
+            "decryptionkey": "a95f0a127122291e0606ea1e236324cf4e6ce693dc493f3d74157e1cb0b1a2d2"
+        },
+        "1063737": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3664622238470827533",
+                    "size": "2067165944",
+                    "download": "2067246848"
+                }
+            },
+            "decryptionkey": "aef030bb115c126069afc825632e4686a89ad080bed843d6721e2d2521f67640"
+        },
+        "1063738": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "450735505886122001",
+                    "size": "2067165944",
+                    "download": "2067246848"
+                }
+            },
+            "decryptionkey": "460f6208eeb04784578d12eb5e0a4f1f1167da2da29c39367f8e568f670db19d"
+        },
+        "1063739": {
+            "config": {
+                "language": "latam"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1731025659108903355",
+                    "size": "2308397141",
+                    "download": "2307679488"
+                }
+            },
+            "decryptionkey": "945f658ad330c5df1f98d799bed37d69cc0380bfad054133bd5b9eb45c2f1c9c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18520881",
+                "timeupdated": "1747721170"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
