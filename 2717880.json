@@ -1,0 +1,60 @@
+{
+    "appid": "2717880",
+    "type": "Game",
+    "name": "The Rogue Prince of Persia",
+    "schinese_name": "波斯王子：Rogue",
+    "isfreeapp": "0",
+    "change_number": "29093587",
+    "update_time": "2025-05-21 09:17:58",
+    "depot": {
+        "baselanguages": "english",
+        "2717881": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5807315004995814392",
+                    "size": "1080166107",
+                    "download": "768689344"
+                },
+                "publictestversion": {
+                    "gid": "5807315004995814392",
+                    "size": "1080166107",
+                    "download": "768689344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2717882": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6908843235110431873",
+                    "size": "876712021",
+                    "download": "592226256"
+                },
+                "publictestversion": {
+                    "gid": "5476553084346003528",
+                    "size": "933918455",
+                    "download": "667722624"
+                }
+            },
+            "decryptionkey": "9cf88420d3b56db810785d1f9254e8368b15540c6441246024469862221f7edd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18158580",
+                "timeupdated": "1744985931"
+            },
+            "publictestversion": {
+                "buildid": "18518181",
+                "description": "Public TEST branch with work in progress content. BACK UP YOUR SAVE.",
+                "timeupdated": "1747664873"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
