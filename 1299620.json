@@ -1,0 +1,70 @@
+{
+    "appid": "1299620",
+    "type": "Game",
+    "name": "Fabled Lands",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023681",
+    "update_time": "2025-05-16 20:06:10",
+    "depot": {
+        "1299621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "230339661680061237",
+                    "size": "1776453500",
+                    "download": "714315856"
+                }
+            },
+            "decryptionkey": "4c61a038d542ba57c8611f9798997544a73c28f4947fb96f0c6ca30e0bf612cd"
+        },
+        "1299622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2778334006273793730",
+                    "size": "1877155768",
+                    "download": "729934096"
+                }
+            },
+            "decryptionkey": "54578d4a2fe0c3c3631f70cec87812dfbff26f8433b05e099157b01ace495586"
+        },
+        "1299623": {
+            "config": {
+                "steamdeck": "1",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4841213460340236077",
+                    "size": "1776453500",
+                    "download": "714255488"
+                }
+            },
+            "decryptionkey": "e9f6c632db8548569ee325477789437e1f482b46fa820894ede27ee58e675b54"
+        },
+        "1299624": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7956604583145029806",
+                    "size": "1773003252",
+                    "download": "712312784"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18490834",
+                "timeupdated": "1747398053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
