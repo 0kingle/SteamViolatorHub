@@ -1,0 +1,59 @@
+{
+    "appid": "983870",
+    "type": "Game",
+    "name": "FOUNDRY",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101425",
+    "update_time": "2025-05-21 19:23:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "983872": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1460565644962432601",
+                    "size": "5165310393",
+                    "download": "2774253472"
+                },
+                "legacy_update_1": {
+                    "gid": "1911512643230071683",
+                    "size": "5206427396",
+                    "download": "2615975344"
+                }
+            },
+            "decryptionkey": "02b02434bbf6af2846d16a87ae33b7f7afe40754b260232f86761b1d16594aaf"
+        },
+        "workshopdepot": "983870",
+        "branches": {
+            "public": {
+                "buildid": "18415293",
+                "timeupdated": "1747051181"
+            },
+            "legacy_update_1": {
+                "buildid": "15370679",
+                "description": "Legacy Update 1",
+                "timeupdated": "1744723891"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "2ced29f8acc253f69face242ce601e37135dc86e1bf4ce0fef452007ea28b8b9"
+    }
+}
