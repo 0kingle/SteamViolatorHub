@@ -1,0 +1,62 @@
+{
+    "appid": "1207650",
+    "type": "Game",
+    "name": "Suzerain",
+    "schinese_name": "宗主国",
+    "isfreeapp": "0",
+    "change_number": "29085728",
+    "update_time": "2025-05-20 23:58:34",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1207651": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2001104150694518248",
+                    "size": "1381434959",
+                    "download": "1147341024"
+                },
+                "legacy3.0.9": {
+                    "gid": "6834909163177145501",
+                    "size": "1993061206",
+                    "download": "1716881424"
+                }
+            },
+            "decryptionkey": "e962f7f3acaa1caae21e3a4b34d2c88979477e1e5c6343007e2b688814031f1b"
+        },
+        "1207652": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "890171355533988784",
+                    "size": "1575912764",
+                    "download": "1164974112"
+                },
+                "legacy3.0.9": {
+                    "gid": "6763430676057143134",
+                    "size": "2021809006",
+                    "download": "1724393472"
+                }
+            },
+            "decryptionkey": "eec4a5f35bdeae4e24e087931ce32ca88abc8136a7f68f3fcf2c207145696479"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447917",
+                "timeupdated": "1747235866"
+            },
+            "legacy3.0.9": {
+                "buildid": "14875541",
+                "description": "Suzerain 3.0.9 Legacy Branch",
+                "timeupdated": "1746452075"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
