@@ -1,0 +1,29 @@
+{
+    "appid": "3002560",
+    "type": "Game",
+    "name": "Containment Initiative 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29063439",
+    "update_time": "2025-05-20 04:26:17",
+    "depot": {
+        "3002561": {
+            "manifests": {
+                "public": {
+                    "gid": "1893223349123752197",
+                    "size": "14467898035",
+                    "download": "5556899312"
+                }
+            },
+            "decryptionkey": "a97bd7c3d7b4acffe437bd63209d6472cc345cf7e6ee7ac140c62931a68b3b45"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,japanese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18404576",
+                "timeupdated": "1746836239"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
