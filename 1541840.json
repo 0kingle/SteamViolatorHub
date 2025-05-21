@@ -1,0 +1,40 @@
+{
+    "appid": "1541840",
+    "type": "Game",
+    "name": "古剑奇谭网络版 海外版",
+    "schinese_name": "古剑奇谭网络版 海外版",
+    "isfreeapp": "0",
+    "change_number": "28992791",
+    "update_time": "2025-05-15 09:22:53",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese",
+        "1541841": {
+            "manifests": {
+                "public": {
+                    "gid": "4467410071284090278",
+                    "size": "118930867147",
+                    "download": "117377146560"
+                }
+            },
+            "decryptionkey": "0f5631ce37d98adadf273d08f6fae0e481ff0ccd72eaed5230f9542ea036b3be"
+        },
+        "1541842": {
+            "manifests": {
+                "public": {
+                    "gid": "5840477825616065376",
+                    "size": "627552552",
+                    "download": "266359360"
+                }
+            },
+            "decryptionkey": "2161fc9e8d3fd0b98f06144ae9b39eeefd137abad8de3802ea3e45a1d11dea95"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18457823",
+                "timeupdated": "1747272156"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
