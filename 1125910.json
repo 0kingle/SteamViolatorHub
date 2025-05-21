@@ -1,0 +1,58 @@
+{
+    "appid": "1125910",
+    "type": "Game",
+    "name": "Crowns and Pawns: Kingdom of Deceit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984279",
+    "update_time": "2025-05-14 23:40:04",
+    "depot": {
+        "1125911": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5594067291517947932",
+                    "size": "2371796982",
+                    "download": "576826736"
+                }
+            },
+            "decryptionkey": "b8dd7bbc7355f5ae0da2f91e401f91ebc8532e0431d507117272542a3050f74f"
+        },
+        "1125912": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7459176075742934785",
+                    "size": "2393458821",
+                    "download": "582986256"
+                }
+            }
+        },
+        "1125913": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2281450851372263237",
+                    "size": "2372835717",
+                    "download": "576276240"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16567270",
+                "timeupdated": "1732893509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
