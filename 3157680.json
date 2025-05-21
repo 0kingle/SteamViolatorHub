@@ -1,0 +1,28 @@
+{
+    "appid": "3157680",
+    "type": "Game",
+    "name": "Card of Legend",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28802187",
+    "update_time": "2025-05-04 01:29:48",
+    "depot": {
+        "3157681": {
+            "manifests": {
+                "public": {
+                    "gid": "153640331709981374",
+                    "size": "1453329433",
+                    "download": "896893888"
+                }
+            },
+            "decryptionkey": "c33b29b176ff21c2969e945942105e636107b7229801716fdb95683df17cfc04"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18204517",
+                "timeupdated": "1745476644"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
