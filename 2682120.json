@@ -1,0 +1,28 @@
+{
+    "appid": "2682120",
+    "type": "Game",
+    "name": "Movie Cinema Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013930",
+    "update_time": "2025-05-16 08:24:43",
+    "depot": {
+        "2682121": {
+            "manifests": {
+                "public": {
+                    "gid": "6934662534529113230",
+                    "size": "1317003791",
+                    "download": "236233344"
+                }
+            },
+            "decryptionkey": "3cc68d260deb9bb026c2c38517e9257980ff4a7975de91222eacd1ca5e40f4d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18177139",
+                "timeupdated": "1745209181"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
