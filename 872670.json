@@ -1,0 +1,68 @@
+{
+    "appid": "872670",
+    "type": "Game",
+    "name": "SCP: 5K (Alpha Testing)",
+    "schinese_name": "SCP：大流行",
+    "isfreeapp": "0",
+    "change_number": "29095177",
+    "update_time": "2025-05-21 19:21:33",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "872671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8978397738746937178",
+                    "size": "37505690727",
+                    "download": "11751978064"
+                }
+            },
+            "decryptionkey": "87514c506dda0ed736b270bc5563c239ebe571e9c215a2c9085414ba6c22d26a"
+        },
+        "872672": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18181541",
+                "timeupdated": "1745542887"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
