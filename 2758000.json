@@ -1,0 +1,43 @@
+{
+    "appid": "2758000",
+    "type": "Game",
+    "name": "名利游戏",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28837256",
+    "update_time": "2025-05-06 16:26:43",
+    "depot": {
+        "2758001": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8568721491847982468",
+                    "size": "23217937382",
+                    "download": "22865968816"
+                }
+            },
+            "decryptionkey": "70d82cd1e81fe339eb087ae9438c39ee6e0540ab7f6efeaab136e4ca57f85199"
+        },
+        "2758002": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1115730931516217071",
+                    "size": "23242745728",
+                    "download": "22873420496"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18111147",
+                "timeupdated": "1745564060"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
