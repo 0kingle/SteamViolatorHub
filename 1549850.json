@@ -1,0 +1,38 @@
+{
+    "appid": "1549850",
+    "type": "Game",
+    "name": "Virtual Hunter",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988001",
+    "update_time": "2025-05-15 03:13:40",
+    "depot": {
+        "1549851": {
+            "manifests": {
+                "public": {
+                    "gid": "1181605033117122091",
+                    "size": "15629121894",
+                    "download": "5600657136"
+                },
+                "beta": {
+                    "gid": "1181605033117122091",
+                    "size": "15629121894",
+                    "download": "5600657136"
+                }
+            },
+            "decryptionkey": "62adaa150b211f96b7398f77aecc4ad436ec96334edacccfe9d4096a50934a42"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18141744",
+                "timeupdated": "1744904613"
+            },
+            "beta": {
+                "buildid": "18141744",
+                "description": "Patches for testing",
+                "timeupdated": "1744904580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
