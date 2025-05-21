@@ -1,0 +1,28 @@
+{
+    "appid": "2217580",
+    "type": "Game",
+    "name": "New Star GP",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009830",
+    "update_time": "2025-05-16 03:06:42",
+    "depot": {
+        "2217581": {
+            "manifests": {
+                "public": {
+                    "gid": "637828437627761330",
+                    "size": "1123517759",
+                    "download": "252048480"
+                }
+            },
+            "decryptionkey": "94ee113568e147cb7d7aab0385228c0803ecee39e034bd932f7107fb9a97e33b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18388655",
+                "timeupdated": "1746710034"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
