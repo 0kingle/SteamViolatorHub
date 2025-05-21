@@ -1,0 +1,57 @@
+{
+    "appid": "583930",
+    "type": "Game",
+    "name": "Faerie Solitaire Remastered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29071830",
+    "update_time": "2025-05-20 08:16:23",
+    "depot": {
+        "583931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5473853297115161250",
+                    "size": "430097866",
+                    "download": "111414976"
+                }
+            },
+            "decryptionkey": "25ab78b683c0e3e9057abe3fd034e4828e9fe2e7c32fd4d55b049970cb8c9a36"
+        },
+        "583932": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "988474988267712803",
+                    "size": "385131846",
+                    "download": "103730784"
+                }
+            },
+            "decryptionkey": "aee63f14b84ec26fffb3a6e24a008bf400ef71159703e304bdcdde7ee9141bad"
+        },
+        "583933": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1488291419230975668",
+                    "size": "394584498",
+                    "download": "117003248"
+                }
+            },
+            "decryptionkey": "0fc58496a7c546dd5eb57b95e1b4ca02efd0658ad4109eaf0cc6cb272dd6fc94"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18486060",
+                "timeupdated": "1747372430"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
