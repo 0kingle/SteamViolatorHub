@@ -1,0 +1,75 @@
+{
+    "appid": "980940",
+    "type": "Game",
+    "name": "My Little Blacksmith Shop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28611663",
+    "update_time": "2025-04-23 08:19:09",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "980942": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2536978566228134388",
+                    "size": "1382523451",
+                    "download": "1099340624"
+                },
+                "oldbranch": {
+                    "gid": "3496802882199935067",
+                    "size": "1138329521",
+                    "download": "849848096"
+                },
+                "unstable": {
+                    "gid": "9157629330933936538",
+                    "size": "2629099258",
+                    "download": "2467489104"
+                }
+            },
+            "decryptionkey": "30404ab3164bd60f33290dbab3496be4700278cebdf2a5deeab80214da9b0f81"
+        },
+        "980943": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18090988",
+                "timeupdated": "1744566579"
+            },
+            "oldbranch": {
+                "buildid": "8988055",
+                "description": "Place where old stable version hangs out.",
+                "timeupdated": "1743445279"
+            },
+            "unstable": {
+                "buildid": "17506912",
+                "description": "May have lots of crashes and other issues.",
+                "timeupdated": "1740531596"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
