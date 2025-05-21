@@ -1,0 +1,27 @@
+{
+    "appid": "2752530",
+    "type": "Game",
+    "name": "宗门与妖兽",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078346",
+    "update_time": "2025-05-20 17:16:00",
+    "depot": {
+        "2752531": {
+            "manifests": {
+                "public": {
+                    "gid": "3625135471643239730",
+                    "size": "607460229",
+                    "download": "137409488"
+                }
+            },
+            "decryptionkey": "0dbfd7fa1bae0978a7a3d5907baf77a9b69ea5e7f7a078d14938bf76b4956050"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18519584",
+                "timeupdated": "1747666788"
+            }
+        }
+    }
+}
