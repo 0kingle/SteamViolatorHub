@@ -1,0 +1,28 @@
+{
+    "appid": "1204750",
+    "type": "Game",
+    "name": "Swing & Miss",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:20:04",
+    "depot": {
+        "baselanguages": "english",
+        "1204751": {
+            "manifests": {
+                "public": {
+                    "gid": "7374124945491318704",
+                    "size": "1269810904",
+                    "download": "1151361184"
+                }
+            },
+            "decryptionkey": "6e2ebab83e448de6384816033b4909296e2ed3914870c3e57d51dc7bbe4b9874"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18321809",
+                "timeupdated": "1746191533"
+            }
+        }
+    }
+}
