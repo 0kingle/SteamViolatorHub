@@ -1,0 +1,45 @@
+{
+    "appid": "3225010",
+    "type": "Game",
+    "name": "SPARTA 2035",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29000751",
+    "update_time": "2025-05-15 19:14:32",
+    "depot": {
+        "baselanguages": "english,russian",
+        "3225014": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7953689433741416225",
+                    "size": "17489516787",
+                    "download": "9182283392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3225011": {
+            "config": {
+                "oslist": "windows,linux",
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8713576722415203282",
+                    "size": "17489755208",
+                    "download": "9182542448"
+                }
+            },
+            "decryptionkey": "34cb2c0023c0b262527470556a20b848bd3d5e1b07b9bc8afacd2d9d23122a3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18306892",
+                "timeupdated": "1746085124"
+            }
+        }
+    }
+}
