@@ -1,0 +1,79 @@
+{
+    "appid": "2812450",
+    "type": "Game",
+    "name": "Tiny Garden",
+    "schinese_name": "手提菜园",
+    "isfreeapp": "0",
+    "change_number": "29102372",
+    "update_time": "2025-05-21 19:37:26",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese,brazilian",
+        "2812451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4892971662844781803",
+                    "size": "1369141032",
+                    "download": "468019312"
+                }
+            },
+            "decryptionkey": "92971f4b75b3fdfcd20b47058bcc1355587bf47f8d0dde109c5d19a73d2fe192"
+        },
+        "2812452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7164746274244081070",
+                    "size": "1364740736",
+                    "download": "464257504"
+                }
+            }
+        },
+        "2812453": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1988687013689833096",
+                    "size": "1458169385",
+                    "download": "487975280"
+                }
+            }
+        },
+        "3493700": {
+            "dlcappid": "3493700",
+            "manifests": {
+                "public": {
+                    "gid": "286172990771027038",
+                    "size": "11844288",
+                    "download": "9193840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3623570": {
+            "dlcappid": "3623570",
+            "manifests": {
+                "public": {
+                    "gid": "1112310697822525139",
+                    "size": "9495766",
+                    "download": "8407392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18477631",
+                "timeupdated": "1747667149"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
