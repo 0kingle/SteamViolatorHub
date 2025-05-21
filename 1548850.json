@@ -1,0 +1,43 @@
+{
+    "appid": "1548850",
+    "type": "Game",
+    "name": "Six Days in Fallujah",
+    "schinese_name": "Six Days in Fallujah 费卢杰六日",
+    "isfreeapp": "0",
+    "change_number": "29102585",
+    "update_time": "2025-05-21 19:35:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1548851": {
+            "manifests": {
+                "public": {
+                    "gid": "4148589630259022875",
+                    "size": "35717287651",
+                    "download": "17964901920"
+                }
+            },
+            "decryptionkey": "5ddd294e2b084b4ae33865370c91bf4f1f505788577332bd9542a4cf4d01835c"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,latam",
+        "branches": {
+            "public": {
+                "buildid": "18464604",
+                "timeupdated": "1747756247"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
