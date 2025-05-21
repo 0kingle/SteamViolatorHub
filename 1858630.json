@@ -1,0 +1,55 @@
+{
+    "appid": "1858630",
+    "type": "Game",
+    "name": "SWORD ART ONLINE Fractured Daydream",
+    "schinese_name": "刀剑神域 碎梦边境",
+    "isfreeapp": "0",
+    "change_number": "29087143",
+    "update_time": "2025-05-21 01:15:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1858631": {
+            "manifests": {
+                "public": {
+                    "gid": "1814745459102844359",
+                    "size": "52208600552",
+                    "download": "50931113600"
+                }
+            },
+            "decryptionkey": "21adba4e332aa48b0f8834b0896bc582f7132947f62dd148cd8d5a3f1df6cfee"
+        },
+        "1858632": {},
+        "2387391": {
+            "dlcappid": "2387391",
+            "manifests": {
+                "public": {
+                    "gid": "7408737874369189412",
+                    "size": "754366451",
+                    "download": "641518096"
+                }
+            },
+            "decryptionkey": "0b159382f281cad0e7b1c810c1dce8d0c7265e096706792f5e90920a8c92bfe1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18054739",
+                "timeupdated": "1745456405"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
