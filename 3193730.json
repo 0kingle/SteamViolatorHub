@@ -1,0 +1,28 @@
+{
+    "appid": "3193730",
+    "type": "Game",
+    "name": "Seek",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29087149",
+    "update_time": "2025-05-21 01:15:07",
+    "depot": {
+        "3193731": {
+            "manifests": {
+                "public": {
+                    "gid": "3603734166678863001",
+                    "size": "461972041",
+                    "download": "243880464"
+                }
+            },
+            "decryptionkey": "eb9694b2cc21d4697b6b4f58a3d215705eb558ddc58099e10298688011457c69"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18512282",
+                "timeupdated": "1747619670"
+            }
+        }
+    }
+}
