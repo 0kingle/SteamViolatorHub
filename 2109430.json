@@ -1,0 +1,44 @@
+{
+    "appid": "2109430",
+    "type": "Game",
+    "name": "Tron: Identity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008846",
+    "update_time": "2025-05-16 02:06:53",
+    "depot": {
+        "baselanguages": "english",
+        "2109432": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8008319961848288178",
+                    "size": "5188822392",
+                    "download": "1729658352"
+                }
+            },
+            "decryptionkey": "04a20a0f7a3a95f398dd1605a2cef32575bfbf6af66a13fd45f8c5144da0a623"
+        },
+        "2109433": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4621845690015418505",
+                    "size": "5213444529",
+                    "download": "1737043824"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10987471",
+                "timeupdated": "1681463298"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
