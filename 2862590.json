@@ -1,0 +1,31 @@
+{
+    "appid": "2862590",
+    "type": "Game",
+    "name": "Hentai Puppy Maid",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29053850",
+    "update_time": "2025-05-19 09:13:10",
+    "depot": {
+        "2862591": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5003520607332307758",
+                    "size": "3810021442",
+                    "download": "713600096"
+                }
+            },
+            "decryptionkey": "574815a5ba7fd6850dfea49215a27db906bfb3a5b01ee697bb59a208ce99191b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17756809",
+                "timeupdated": "1742243601"
+            }
+        }
+    }
+}
