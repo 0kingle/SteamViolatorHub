@@ -1,0 +1,42 @@
+{
+    "appid": "3127480",
+    "type": "Game",
+    "name": "CornField",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28495129",
+    "update_time": "2025-04-16 04:33:29",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3127481": {
+            "manifests": {
+                "public": {
+                    "gid": "5933317470740878426",
+                    "size": "1401006830",
+                    "download": "1209103840"
+                }
+            },
+            "decryptionkey": "fe5b41723d774146cb24cc327b990c032ccd57e429cdcf1d067a31bb4f2a9441"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18119104",
+                "timeupdated": "1744749192"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
