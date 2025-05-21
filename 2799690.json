@@ -1,0 +1,41 @@
+{
+    "appid": "2799690",
+    "type": "Game",
+    "name": "The Secret Atelier",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29049295",
+    "update_time": "2025-05-18 22:11:34",
+    "depot": {
+        "2799691": {
+            "manifests": {
+                "public": {
+                    "gid": "3293146291946554666",
+                    "size": "7168003494",
+                    "download": "7164438320"
+                }
+            },
+            "decryptionkey": "c9a31c20b8e8fb95478ef9df03a4131c471da468ed8001b788d5ffd5e349ee3e"
+        },
+        "2855720": {
+            "dlcappid": "2855720",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "189032007536028132",
+                    "size": "6701220794",
+                    "download": "6754495264"
+                }
+            },
+            "decryptionkey": "88612944aa6426092b7946fcab7e87462a2746b4f8698b4fb59e6e7136b78d5c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332014",
+                "timeupdated": "1746276675"
+            }
+        }
+    }
+}
