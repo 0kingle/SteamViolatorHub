@@ -1,0 +1,46 @@
+{
+    "appid": "2787320",
+    "type": "Game",
+    "name": "Revenge of the Savage Planet",
+    "schinese_name": "狂野星球复仇记 / Revenge of the Savage Planet",
+    "isfreeapp": "0",
+    "change_number": "29098197",
+    "update_time": "2025-05-21 19:27:19",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2787321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2080635596441714882",
+                    "size": "13181921613",
+                    "download": "12676644464"
+                }
+            },
+            "decryptionkey": "07fdf2268a8c0b6b8d7dd4c5d7978e054ce837759193f7f5cacd2968150199a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509278",
+                "timeupdated": "1747672525"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
