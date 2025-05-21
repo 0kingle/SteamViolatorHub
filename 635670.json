@@ -1,0 +1,44 @@
+{
+    "appid": "635670",
+    "type": "Game",
+    "name": "EMPORIUM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28591242",
+    "update_time": "2025-04-22 08:01:11",
+    "depot": {
+        "635671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3298796073749208322",
+                    "size": "518824144",
+                    "download": "81612128"
+                }
+            }
+        },
+        "635672": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "871573036407485620",
+                    "size": "523099647",
+                    "download": "82850928"
+                }
+            },
+            "decryptionkey": "0be4c11c63bacc652be29249187ade4349e7c3d0300412c6e093803950ae45e8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1932982",
+                "timeupdated": "1499080999"
+            }
+        }
+    }
+}
