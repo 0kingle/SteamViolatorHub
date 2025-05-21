@@ -1,0 +1,300 @@
+{
+    "appid": "1149620",
+    "type": "Game",
+    "name": "Gas Station Simulator",
+    "schinese_name": "加油站大亨",
+    "isfreeapp": "0",
+    "change_number": "29099190",
+    "update_time": "2025-05-21 19:30:02",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,russian,polish,turkish",
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1149621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5739136252271929930",
+                    "size": "6346293470",
+                    "download": "5988371200"
+                }
+            },
+            "decryptionkey": "1d21f7beeda92128e1267f7eea3c00d440b14678cf3cfe14a169dcea7e12edf1"
+        },
+        "1149622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "580676531208306292",
+                    "size": "12414329500",
+                    "download": "10691767392"
+                }
+            },
+            "decryptionkey": "5318833456ef715b96282071c2916dd84417c4f6a9415de3f0ae5c6228431866"
+        },
+        "1940030": {
+            "dlcappid": "1940030",
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6929487657672271545",
+                    "size": "1330359202",
+                    "download": "1201918688"
+                }
+            },
+            "decryptionkey": "0a6183b31d33d942748a804b209c92164d3c822726e740991f2873e8f2b7fefd"
+        },
+        "2126170": {
+            "dlcappid": "2126170",
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4379211872208836296",
+                    "size": "274092674",
+                    "download": "254948000"
+                }
+            },
+            "decryptionkey": "bb40410fd736969baa459a221e60a7e83aefe67cd59b62c00109497d3dc18694"
+        },
+        "1940032": {
+            "dlcappid": "1940030",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1369430487422218975",
+                    "size": "2017782630",
+                    "download": "1806617664"
+                }
+            },
+            "decryptionkey": "780b4c505f94867c8dec072ec8a2df451200acc3b430a52b0abb0605fba295bc"
+        },
+        "2126171": {
+            "dlcappid": "2126170",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4840317332731806651",
+                    "size": "366652783",
+                    "download": "345267376"
+                }
+            },
+            "decryptionkey": "e6debb7a8780b5e921ecae8e60c3f19ebce80efcff459a39f2d4181d3833e400"
+        },
+        "2126172": {
+            "dlcappid": "2126170",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5578111279220963058",
+                    "size": "429835930",
+                    "download": "381535312"
+                }
+            },
+            "decryptionkey": "6efbdbd33b5157ebf1b8b3ac1fd975269aea92948a309ab536d20e3135c7b78b"
+        },
+        "1940034": {
+            "dlcappid": "1940030",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7010099722612566912",
+                    "size": "1830940871",
+                    "download": "1699592384"
+                }
+            },
+            "decryptionkey": "93dfa45eede2d156fe5a935250b520bf52fba604f7187701775eefcd69c91a89"
+        },
+        "2137370": {
+            "dlcappid": "2137370",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "204897874532379925",
+                    "size": "1646761830",
+                    "download": "1584010672"
+                }
+            },
+            "decryptionkey": "c2b1f158fa3ed61786915df4ddb9b96c82b12af014cbc800b8f56381899e237f"
+        },
+        "2137371": {
+            "dlcappid": "2137370",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5456586547790645935",
+                    "size": "2059039423",
+                    "download": "1782224528"
+                }
+            },
+            "decryptionkey": "685c4b4fc21a9eaf46bbac2f9d0ccbf89a7b09a2659b70b8632a9e9ae8c3b3f6"
+        },
+        "2600880": {
+            "dlcappid": "2600880",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6016525511392541837",
+                    "size": "2989558074",
+                    "download": "2868048256"
+                }
+            },
+            "decryptionkey": "1e3492c0a87fd4d13473643a89a13ca11e6b53b14cc3379b58786298a54b5d4a"
+        },
+        "2600881": {
+            "dlcappid": "2600880",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3380274012537353029",
+                    "size": "1082783589",
+                    "download": "1011752624"
+                }
+            }
+        },
+        "1992100": {
+            "dlcappid": "1992100",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3135756799379688353",
+                    "size": "4834033224",
+                    "download": "4614998400"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1992101": {
+            "dlcappid": "1992100",
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "2782920": {
+            "dlcappid": "2782920",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7160478597751541952",
+                    "size": "1983585053",
+                    "download": "1933192816"
+                }
+            },
+            "decryptionkey": "05e1bc2f942cafd052d92277aa419aeecfa5f362cb8bd4706c8836f4002686d7"
+        },
+        "2782921": {
+            "dlcappid": "2782920",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "908782562968943870",
+                    "size": "1487316594",
+                    "download": "1436065792"
+                }
+            }
+        },
+        "3014630": {
+            "dlcappid": "3014630",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "846778069603572610",
+                    "size": "198685921",
+                    "download": "192163936"
+                }
+            },
+            "decryptionkey": "505eac0ad2793193b10c693e3121593f075636e9bfb9cae6314d1298a1b013ff"
+        },
+        "3014631": {
+            "dlcappid": "3014630",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7390892863088314607",
+                    "size": "201925807",
+                    "download": "191334928"
+                }
+            }
+        },
+        "3543920": {
+            "dlcappid": "3543920",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6199324854045653742",
+                    "size": "636454992",
+                    "download": "597435760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3543921": {
+            "dlcappid": "3543920",
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18193665",
+                "timeupdated": "1745339340"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
