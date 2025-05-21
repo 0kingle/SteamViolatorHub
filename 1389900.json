@@ -1,0 +1,29 @@
+{
+    "appid": "1389900",
+    "type": "Game",
+    "name": "大鹏 - The Roc",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29080718",
+    "update_time": "2025-05-20 19:31:23",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1389901": {
+            "manifests": {
+                "public": {
+                    "gid": "3481688433649897145",
+                    "size": "4703176580",
+                    "download": "4043325408"
+                }
+            },
+            "decryptionkey": "0d3f41a038925beb2bdc9d47b00056266c2c470979e22ba69912965e1362b116"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18074077",
+                "timeupdated": "1744386622"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
