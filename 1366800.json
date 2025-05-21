@@ -1,0 +1,34 @@
+{
+    "appid": "1366800",
+    "type": "Application",
+    "name": "Crosshair X",
+    "schinese_name": "十字线X",
+    "isfreeapp": "0",
+    "change_number": "29062227",
+    "update_time": "2025-05-20 04:22:19",
+    "depot": {
+        "1366801": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6392100364459158812",
+                    "size": "563118175",
+                    "download": "153959872"
+                }
+            },
+            "decryptionkey": "c5417c02a22d0961ede2808e93da40d019b1d1f88131568488d7659bdc01ddcf"
+        },
+        "workshopdepot": "1366800",
+        "branches": {
+            "public": {
+                "buildid": "18452919",
+                "timeupdated": "1747189032"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4dd13eda157bbef37f1b72f4b538e1ee7e6b437bfd5678303e0e9e493215d60e"
+    }
+}
