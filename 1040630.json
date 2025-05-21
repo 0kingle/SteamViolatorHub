@@ -1,0 +1,46 @@
+{
+    "appid": "1040630",
+    "type": "Game",
+    "name": "Alchemy Story",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983048",
+    "update_time": "2025-05-14 22:52:20",
+    "depot": {
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1040631": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1399831433712706394",
+                    "size": "1085951773",
+                    "download": "211371120"
+                }
+            },
+            "decryptionkey": "295f89c47888af2b8c68d4ef6fc1ff6c3794d4ddaa5012932e3cb2a5b77d71b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5143388",
+                "timeupdated": "1591755499"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
