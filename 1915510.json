@@ -1,0 +1,40 @@
+{
+    "appid": "1915510",
+    "type": "Game",
+    "name": "降妖散记",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29061258",
+    "update_time": "2025-05-19 20:13:05",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "workshopdepot": "1915510",
+        "1915511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6656221866073049822",
+                    "size": "7787468024",
+                    "download": "2961886192"
+                }
+            },
+            "decryptionkey": "1b7531ca6c07167e114602fbe07e1b3ad6ec33c04d54e26567b73bef30fb5376"
+        },
+        "3654180": {
+            "dlcappid": "3654180",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18490087",
+                "timeupdated": "1747404032"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "69d0546ea747f362ae057314aa875f745bdf8f5076f552964e0f2a19b57ca281"
+    }
+}
