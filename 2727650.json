@@ -1,0 +1,57 @@
+{
+    "appid": "2727650",
+    "type": "Game",
+    "name": "WHAT THE CAR?",
+    "schinese_name": "WHAT THE CAR? 万物皆可赛车",
+    "isfreeapp": "0",
+    "change_number": "29093244",
+    "update_time": "2025-05-21 08:53:01",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2727652": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5586165903419451048",
+                    "size": "3058598168",
+                    "download": "484763872"
+                }
+            }
+        },
+        "2727651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1816780168802397305",
+                    "size": "2760518718",
+                    "download": "422763824"
+                }
+            },
+            "decryptionkey": "38b9b13f02f1364f6559e2e54c1ed8bf72c0022dba9dc433df0a351779500a28"
+        },
+        "2727653": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3829202096085115000",
+                    "size": "1502202423",
+                    "download": "196261856"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18296329",
+                "timeupdated": "1746175010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
