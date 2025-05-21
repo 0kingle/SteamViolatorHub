@@ -1,0 +1,57 @@
+{
+    "appid": "1636850",
+    "type": "Game",
+    "name": "CYBRID",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28963804",
+    "update_time": "2025-05-13 23:51:35",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1636851": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5258499931678863217",
+                    "size": "1310846761",
+                    "download": "513609040"
+                },
+                "openbeta": {
+                    "gid": "1856026722389634446",
+                    "size": "1310662339",
+                    "download": "513582336"
+                }
+            },
+            "decryptionkey": "c39bb3972ee3abdffe7fcd5264a30205d3a9e513ce9a352d444b6306137fc53e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447229",
+                "timeupdated": "1747151489"
+            },
+            "openbeta": {
+                "buildid": "18430649",
+                "description": "openbeta",
+                "timeupdated": "1747060668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
