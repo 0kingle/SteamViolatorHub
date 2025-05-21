@@ -1,0 +1,45 @@
+{
+    "appid": "2644470",
+    "type": "Game",
+    "name": "PICO PARK 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094822",
+    "update_time": "2025-05-21 11:10:51",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "2644471": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2924012056785307079",
+                    "size": "217661029",
+                    "download": "107644976"
+                }
+            },
+            "decryptionkey": "742488856b65c1f5c8c1d8c3d8b64f0f47fe89887d5308427c354d9ef5902e51"
+        },
+        "2644472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6634242654530814647",
+                    "size": "305631008",
+                    "download": "125501520"
+                }
+            },
+            "decryptionkey": "b53539a4f7c49575c61018fe492c2d05dbb6ca16267bc077043797ef23f427f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18332878",
+                "timeupdated": "1746604898"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
