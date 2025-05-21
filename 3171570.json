@@ -1,0 +1,46 @@
+{
+    "appid": "3171570",
+    "type": "DLC",
+    "name": "Yarimono ~ DLC 1",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28951632",
+    "update_time": "2025-05-13 10:33:42",
+    "depot": {
+        "3171570": {
+            "dlcappid": "3171570",
+            "config": {
+                "oslist": "windows",
+                "language": "indonesian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9160537544495656538",
+                    "size": "88226425",
+                    "download": "17543216"
+                }
+            },
+            "decryptionkey": "006677b4d7eb93ef97bd8ade42a0c84efe2ca2a7983f406b1f79b4bcfeabe666"
+        },
+        "3171571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3309968121601332384",
+                    "size": "88226425",
+                    "download": "17543216"
+                }
+            },
+            "dlcappid": "3171570",
+            "decryptionkey": "3ec0a8d4b8c0f87b6df335032a93b2d866d94819cce90ef8deb6123dc6e602e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18201586",
+                "timeupdated": "1745376409"
+            }
+        }
+    }
+}
