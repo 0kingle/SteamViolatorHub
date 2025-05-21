@@ -1,0 +1,57 @@
+{
+    "appid": "2611730",
+    "type": "Demo",
+    "name": "Deceit 2 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101101",
+    "update_time": "2025-05-21 19:35:59",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2064871": {
+            "manifests": {
+                "public": {
+                    "gid": "5326595560952759471",
+                    "size": "25110326403",
+                    "download": "21106108672"
+                }
+            },
+            "depotfromapp": "2064870",
+            "decryptionkey": "b0f8bc90f762c42a1f9272a155af3c7fd5ec0c0d2b08572bda4353fd8450c827"
+        },
+        "2611731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "38501088721521429",
+                    "size": "10834544146",
+                    "download": "8962241600"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13511085",
+                "timeupdated": "1708454677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
