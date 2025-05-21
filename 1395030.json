@@ -1,0 +1,58 @@
+{
+    "appid": "1395030",
+    "type": "Game",
+    "name": "Kathy Rain: Director's Cut",
+    "schinese_name": "凯茜·瑞恩：导演剪辑版",
+    "isfreeapp": "0",
+    "change_number": "29089120",
+    "update_time": "2025-05-21 03:14:48",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,polish,brazilian",
+        "1395031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7713919728306704908",
+                    "size": "868385031",
+                    "download": "435117216"
+                }
+            },
+            "decryptionkey": "1f91bfa49a2a1c2408480b422395bf9779304e369c0e4e55492dff398064809d"
+        },
+        "1395032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2838781748396371315",
+                    "size": "872453017",
+                    "download": "435431328"
+                }
+            }
+        },
+        "1395033": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5641309650353763309",
+                    "size": "861735334",
+                    "download": "432194560"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18531328",
+                "timeupdated": "1747735310"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
