@@ -1,0 +1,57 @@
+{
+    "appid": "1525700",
+    "type": "Game",
+    "name": "Tavern Master",
+    "schinese_name": "酒馆大师",
+    "isfreeapp": "0",
+    "change_number": "29080702",
+    "update_time": "2025-05-20 19:30:06",
+    "depot": {
+        "1525701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4586107042553296362",
+                    "size": "2465301036",
+                    "download": "951661792"
+                }
+            },
+            "decryptionkey": "148f2103f69eac632cc21e2946672efc48866c28e811cf4548c86d486585d13b"
+        },
+        "1525702": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3026647689586103313",
+                    "size": "2491702602",
+                    "download": "960498640"
+                }
+            },
+            "decryptionkey": "7743d6c36c89910df1f23ba93a8f49d450afcdb31a0ce13da77477399a584a46"
+        },
+        "1525703": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4066394148603284253",
+                    "size": "2592961184",
+                    "download": "1026982416"
+                }
+            },
+            "decryptionkey": "8e39ceb3086a0d0f4c045ab2273ab1f838dbb58aaece0433256a307bdb8bc6b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18532560",
+                "timeupdated": "1747740518"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
