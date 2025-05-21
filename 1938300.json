@@ -1,0 +1,31 @@
+{
+    "appid": "1938300",
+    "type": "Game",
+    "name": "Latex & Tentacles",
+    "schinese_name": "模拟触手",
+    "isfreeapp": "0",
+    "change_number": "29053833",
+    "update_time": "2025-05-19 09:11:06",
+    "depot": {
+        "1938301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4954047863732884312",
+                    "size": "4359975640",
+                    "download": "636791312"
+                }
+            },
+            "decryptionkey": "1788feeb0f2ddff968a94fd76e7a3b8c64b57f191c423264c48b7fb22839eb4a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512050",
+                "timeupdated": "1747617062"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
