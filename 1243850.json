@@ -1,0 +1,43 @@
+{
+    "appid": "1243850",
+    "type": "Game",
+    "name": "This Bed We Made",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985441",
+    "update_time": "2025-05-15 00:39:56",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1243851": {
+            "manifests": {
+                "public": {
+                    "gid": "8900282185595102694",
+                    "size": "8661557199",
+                    "download": "4155728432"
+                }
+            },
+            "decryptionkey": "86c396a5290b9f8988b07469182701a3545368ce1f1ad107f95c504d73b7094e"
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "18118665",
+                "timeupdated": "1744747085"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
