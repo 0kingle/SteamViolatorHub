@@ -1,0 +1,43 @@
+{
+    "appid": "2286710",
+    "type": "Demo",
+    "name": "The Matchless KungFu Demo",
+    "schinese_name": "绝世好武功 试玩版",
+    "isfreeapp": "0",
+    "change_number": "28811682",
+    "update_time": "2025-05-05 01:28:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2286711": {
+            "manifests": {
+                "public": {
+                    "gid": "6240488419635780858",
+                    "size": "2709623474",
+                    "download": "2405516880"
+                }
+            },
+            "decryptionkey": "0bcfc2b80a5354c12eb7883020844554771cb19896da7397baf117967876a89a"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "15675461",
+                "timeupdated": "1726296491"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
