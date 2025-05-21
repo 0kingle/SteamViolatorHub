@@ -1,0 +1,48 @@
+{
+    "appid": "1614850",
+    "type": "Game",
+    "name": "Colosseum VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988601",
+    "update_time": "2025-05-15 03:53:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1614851": {
+            "manifests": {
+                "public": {
+                    "gid": "548242360461279898",
+                    "size": "7850055993",
+                    "download": "3365111664"
+                }
+            },
+            "decryptionkey": "ec7a99211807931765a9b2b54989770c1bcea732400b072d091a57eb9609a511"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7807676",
+                "timeupdated": "1638518170"
+            }
+        }
+    }
+}
