@@ -1,0 +1,75 @@
+{
+    "appid": "2494780",
+    "type": "Game",
+    "name": "#DRIVE Rally",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012540",
+    "update_time": "2025-05-16 06:24:44",
+    "depot": {
+        "2494781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2260181505162179605",
+                    "size": "2819098919",
+                    "download": "960823728"
+                },
+                "public-beta": {
+                    "gid": "2260181505162179605",
+                    "size": "2819098919",
+                    "download": "960823728"
+                }
+            },
+            "decryptionkey": "e2c270ac8664f72fa91c1b705bd44a7ed986d6ef6230309e000724795e515931"
+        },
+        "2494782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2476302772245919576",
+                    "size": "3068001940",
+                    "download": "1007440912"
+                },
+                "public-beta": {
+                    "gid": "2476302772245919576",
+                    "size": "3068001940",
+                    "download": "1007440912"
+                }
+            }
+        },
+        "2494783": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "344104517780053575",
+                    "size": "2816790001",
+                    "download": "965152384"
+                },
+                "public-beta": {
+                    "gid": "344104517780053575",
+                    "size": "2816790001",
+                    "download": "965152384"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18168428",
+                "timeupdated": "1745086106"
+            },
+            "public-beta": {
+                "buildid": "18168428",
+                "description": "Public Beta",
+                "timeupdated": "1745086068"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
