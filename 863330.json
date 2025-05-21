@@ -1,0 +1,110 @@
+{
+    "appid": "863330",
+    "type": "Demo",
+    "name": "RPG in a Box Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28928799",
+    "update_time": "2025-05-12 04:25:47",
+    "depot": {
+        "863331": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "371709913518906985",
+                    "size": "243958084",
+                    "download": "161723392"
+                }
+            },
+            "decryptionkey": "e2d0ed665b70fc724e4e6260db0cae4638a6a16bdb0fef0a0e10b30edf2c0143"
+        },
+        "863332": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2440222975988862163",
+                    "size": "66093416",
+                    "download": "19940496"
+                }
+            },
+            "decryptionkey": "09a3d74aef2599d15ad6e7165585b9093de8509c3e25738ce8b0e41d589b2580"
+        },
+        "863333": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6497975469807617431",
+                    "size": "102522429",
+                    "download": "26333344"
+                }
+            }
+        },
+        "863334": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8314715734138697314",
+                    "size": "816424493",
+                    "download": "446558752"
+                }
+            }
+        },
+        "863335": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6116397012372832550",
+                    "size": "54452584",
+                    "download": "17241936"
+                }
+            }
+        },
+        "863336": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3609231405975252495",
+                    "size": "99657391",
+                    "download": "25926208"
+                }
+            }
+        },
+        "498312": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6687030967127450812",
+                    "size": "477692395",
+                    "download": "261107600"
+                }
+            },
+            "depotfromapp": "498310",
+            "decryptionkey": "e3f1c82e8c8760b393df1ab50bf63c91e7bac75e719816d845a491cd3cfa8784"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18421989",
+                "timeupdated": "1746995142"
+            }
+        }
+    }
+}
