@@ -1,0 +1,45 @@
+{
+    "appid": "2320500",
+    "type": "Game",
+    "name": "Chloe's Requiem -encore-",
+    "schinese_name": "克罗艾的镇魂曲 -encore-",
+    "isfreeapp": "0",
+    "change_number": "29010787",
+    "update_time": "2025-05-16 04:13:00",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,koreana,schinese,japanese",
+        "2320501": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6965913540650919935",
+                    "size": "1662939190",
+                    "download": "1122991344"
+                }
+            },
+            "decryptionkey": "76c51cc5b8972b9978814647f1fcfb0e98497fdd4b334d3abf0ff9241ff4023e"
+        },
+        "2320502": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2906711346358791505",
+                    "size": "1637022491",
+                    "download": "1108740448"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18098706",
+                "timeupdated": "1744632535"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
