@@ -1,0 +1,48 @@
+{
+    "appid": "2479320",
+    "type": "Game",
+    "name": "Pesticide Not Required",
+    "schinese_name": "青蛙农场：幸存者",
+    "isfreeapp": "0",
+    "change_number": "29012394",
+    "update_time": "2025-05-16 06:12:53",
+    "depot": {
+        "baselanguages": "english",
+        "2479321": {
+            "manifests": {
+                "public": {
+                    "gid": "1335445956113825674",
+                    "size": "650652787",
+                    "download": "239828736"
+                }
+            },
+            "decryptionkey": "8cb7f16f2207f1607055e20d8163a3a0810c7801b912b91dd37694cadfeba8d8"
+        },
+        "2479322": {
+            "manifests": {
+                "public": {
+                    "gid": "3537348622645789891",
+                    "size": "650652787",
+                    "download": "239837168"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2479323": {
+            "manifests": {
+                "public": {
+                    "gid": "3997909124240234129",
+                    "size": "650652787",
+                    "download": "239838784"
+                }
+            },
+            "decryptionkey": "380b6dcddb8810b5cbfff68f1f2b60954d3b5a0f966cae6f48ec441261db7d51"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18186764",
+                "timeupdated": "1745286344"
+            }
+        }
+    }
+}
