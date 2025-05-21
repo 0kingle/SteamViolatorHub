@@ -1,0 +1,44 @@
+{
+    "appid": "997010",
+    "type": "Game",
+    "name": "Police Simulator: Patrol Officers",
+    "schinese_name": "警察模拟器：巡警",
+    "isfreeapp": "0",
+    "change_number": "29102385",
+    "update_time": "2025-05-21 19:38:41",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "997011": {
+            "manifests": {
+                "public": {
+                    "gid": "6221735064285009142",
+                    "size": "13828515312",
+                    "download": "4096618560"
+                }
+            },
+            "decryptionkey": "788e33ebc2e38174d9b613b57ed47947aacaf7399a6bbd32762161e56ce34d62"
+        },
+        "workshopdepot": "997010",
+        "branches": {
+            "public": {
+                "buildid": "18537005",
+                "timeupdated": "1747771867"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "e0a4648d4ca142f34287122872b86bd305cacbe1ff627fe6f774aa1b0576ed6f"
+    }
+}
