@@ -1,0 +1,41 @@
+{
+    "appid": "585380",
+    "type": "Demo",
+    "name": "Acceleration of SUGURI 2 DEMO",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28094339",
+    "update_time": "2025-03-23 16:53:04",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "585381": {
+            "manifests": {
+                "public": {
+                    "gid": "7853849025957193669",
+                    "size": "520306164",
+                    "download": "456410640"
+                }
+            },
+            "decryptionkey": "659e43421d24d5a877689318befc2397cda0a4673df4b40b939bc9e54595964e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2584291",
+                "timeupdated": "1520444724"
+            }
+        }
+    }
+}
