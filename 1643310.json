@@ -1,0 +1,141 @@
+{
+    "appid": "1643310",
+    "type": "Game",
+    "name": "Dungeons 4",
+    "schinese_name": "地下城4",
+    "isfreeapp": "0",
+    "change_number": "29101263",
+    "update_time": "2025-05-21 19:20:44",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,turkish,arabic,brazilian",
+        "1643311": {
+            "manifests": {
+                "public": {
+                    "gid": "1921856565345732567",
+                    "size": "19330937868",
+                    "download": "7608842512"
+                }
+            },
+            "decryptionkey": "cf9f51ccd8d94b522dc56436124832d70ef4faab1f6d052c335f98fbafc360a4"
+        },
+        "1643314": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1467041023899394362",
+                    "size": "266398064",
+                    "download": "266379680"
+                }
+            },
+            "decryptionkey": "66632a5feedc278af0811277f287b13c3ae7ac8cc2f47a40ed50620d5728b5b2"
+        },
+        "1643315": {
+            "manifests": {
+                "public": {
+                    "gid": "983879767335931887",
+                    "size": "222924736",
+                    "download": "223072416"
+                }
+            },
+            "decryptionkey": "c47d96acb4435886a14b6627224baa52cb6e57a37da14d28a1bb574be4ce9cdc"
+        },
+        "1643316": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8506494557191848775",
+                    "size": "244388512",
+                    "download": "244214400"
+                }
+            },
+            "decryptionkey": "565c3d97a09cff199a9a8f1ec568d8af6d63c15c59974f9c2fe9aa335cedfb44"
+        },
+        "1643317": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7819028524073525515",
+                    "size": "209961968",
+                    "download": "209909520"
+                }
+            },
+            "decryptionkey": "46f172ad788d562906f54ab92a62c7d8a89e6caaf0426eaf93f5fb48ea373225"
+        },
+        "1643318": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8417534297390692881",
+                    "size": "231820512",
+                    "download": "232275328"
+                }
+            },
+            "decryptionkey": "742f4f063448a39cb1567fed92ae3424ed3549d387ff6252e8a9809c0854b14b"
+        },
+        "2522990": {
+            "dlcappid": "2522990",
+            "manifests": {
+                "public": {
+                    "gid": "5856389807139286307",
+                    "size": "55298486",
+                    "download": "27615072"
+                }
+            },
+            "decryptionkey": "aaebd061f9520f9bb59540b27b76d4e32e892cf91362490d96bd7d66a0aa86b1"
+        },
+        "1643319": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6948084545347575695",
+                    "size": "231820512",
+                    "download": "232275328"
+                }
+            },
+            "decryptionkey": "dbd7d580ee4e87549c39f43f318fdbc4e7c124ce719bfc00a4032c1b2d3a0861"
+        },
+        "2964020": {
+            "dlcappid": "2964020",
+            "manifests": {
+                "public": {
+                    "gid": "1236007530020898747",
+                    "size": "1093387998",
+                    "download": "639964176"
+                }
+            },
+            "decryptionkey": "7fd20d469bcd9a3e28b633b95425f8f9d221e2da2005818751b8d1ca8a51787a"
+        },
+        "3332590": {
+            "dlcappid": "3332590",
+            "manifests": {
+                "public": {
+                    "gid": "9140613915666946027",
+                    "size": "722533933",
+                    "download": "530320032"
+                }
+            },
+            "decryptionkey": "dd724502d1884b9ca8140738830272543fcdec140ff6c981c02b4f6cf78ed957"
+        },
+        "3707110": {
+            "dlcappid": "3707110",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "17922416",
+                "timeupdated": "1744117382"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
