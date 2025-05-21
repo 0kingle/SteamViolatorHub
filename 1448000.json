@@ -1,0 +1,89 @@
+{
+    "appid": "1448000",
+    "type": "Game",
+    "name": "迷离诡夜 blurred weird night",
+    "schinese_name": "迷离诡夜 blurred weird night",
+    "isfreeapp": "0",
+    "change_number": "29087133",
+    "update_time": "2025-05-21 01:14:16",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "1448001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7653261508365024579",
+                    "size": "8847229307",
+                    "download": "5429196000"
+                }
+            },
+            "decryptionkey": "0445234211b4ae1169c59a96c9b6663a4f1893494e0dcae848166d852425a8e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18435940",
+                "timeupdated": "1747091570"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
