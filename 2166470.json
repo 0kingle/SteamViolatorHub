@@ -1,0 +1,42 @@
+{
+    "appid": "2166470",
+    "type": "Game",
+    "name": "The Survival of Sarah Rose",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052342",
+    "update_time": "2025-05-19 05:02:39",
+    "depot": {
+        "2166471": {
+            "manifests": {
+                "public": {
+                    "gid": "7591251955356029535",
+                    "size": "1594079139",
+                    "download": "1385954128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2166472": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9185310437264538363",
+                    "size": "1594079139",
+                    "download": "1385954128"
+                }
+            },
+            "decryptionkey": "6ebfc97d8d151311a64c5c7e094b0a3ebe37ddcecd2a3976a2f982c354930bee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18510948",
+                "timeupdated": "1747602156"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
