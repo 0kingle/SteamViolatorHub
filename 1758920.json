@@ -1,0 +1,43 @@
+{
+    "appid": "1758920",
+    "type": "Game",
+    "name": "Witch Explorer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989612",
+    "update_time": "2025-05-15 05:06:38",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,japanese",
+        "1758921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "603478497614857754",
+                    "size": "545254926",
+                    "download": "152109232"
+                }
+            },
+            "decryptionkey": "377fc105bd5119554ab5ba2d8897a14413b908027786a96d7dc6939301fe1098"
+        },
+        "1758940": {
+            "dlcappid": "1758940",
+            "manifests": {
+                "public": {
+                    "gid": "7951001011841413347",
+                    "size": "657347710",
+                    "download": "258072928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "9050846",
+                "timeupdated": "1656792210"
+            }
+        }
+    }
+}
