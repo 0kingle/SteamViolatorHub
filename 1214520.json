@@ -1,0 +1,65 @@
+{
+    "appid": "1214520",
+    "type": "Game",
+    "name": "Pro Gymnast",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:19:58",
+    "depot": {
+        "1214521": {
+            "config": {
+                "language": ""
+            }
+        },
+        "1214522": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7648793474593838027",
+                    "size": "459497398",
+                    "download": "182875392"
+                },
+                "beta": {
+                    "gid": "752776775923154356",
+                    "size": "459581958",
+                    "download": "182876352"
+                }
+            },
+            "decryptionkey": "f48e1cfe9f93c1738c64b16ca3c4d3b59a11306e2a53bc0e1d4f2a0eb79c6164"
+        },
+        "1214523": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "327727414225227819",
+                    "size": "759768913",
+                    "download": "455964144"
+                },
+                "beta": {
+                    "gid": "327727414225227819",
+                    "size": "759768913",
+                    "download": "455964144"
+                }
+            }
+        },
+        "workshopdepot": "1214520",
+        "branches": {
+            "public": {
+                "buildid": "9573518",
+                "timeupdated": "1663886045"
+            },
+            "beta": {
+                "buildid": "12596753",
+                "timeupdated": "1698882489"
+            }
+        },
+        "workshopdepotdecryptionkey": "1cb8f361e64c6737163139cce888ea3fde0e029e64fcac543dd5286ad643b8fb"
+    }
+}
