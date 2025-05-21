@@ -1,0 +1,56 @@
+{
+    "appid": "3427090",
+    "type": "Game",
+    "name": "Refence",
+    "schinese_name": "肉鸽防线",
+    "isfreeapp": "0",
+    "change_number": "29016664",
+    "update_time": "2025-05-16 12:42:47",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "3427092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8184692840034711661",
+                    "size": "131172631",
+                    "download": "58953792"
+                }
+            }
+        },
+        "3427093": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5573707082545255245",
+                    "size": "98353000",
+                    "download": "51440768"
+                }
+            },
+            "decryptionkey": "9c0a3c590ba31a6b8a6c5969d0884db94617d9cd9044e6380ba591d7f00ddc3d"
+        },
+        "3427094": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8859482705845151344",
+                    "size": "107465896",
+                    "download": "53530016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18254655",
+                "timeupdated": "1745741530"
+            }
+        }
+    }
+}
