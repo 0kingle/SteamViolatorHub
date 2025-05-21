@@ -1,0 +1,41 @@
+{
+    "appid": "2983780",
+    "type": "Game",
+    "name": "Head Collector VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052735",
+    "update_time": "2025-05-19 06:08:27",
+    "depot": {
+        "2983781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8847312082431429840",
+                    "size": "6121073713",
+                    "download": "4863212864"
+                },
+                "headcollectorvrlegacy": {
+                    "gid": "4992974993762355303",
+                    "size": "4932491590",
+                    "download": "3925605328"
+                }
+            },
+            "decryptionkey": "04fb3bd53f6f4a84a10004174ad12f9e79a2afc85d750089d745206f85f2acb6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18511220",
+                "timeupdated": "1747606104"
+            },
+            "headcollectorvrlegacy": {
+                "buildid": "17925938",
+                "description": "headcollectorvrlegacy",
+                "timeupdated": "1747234013"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
