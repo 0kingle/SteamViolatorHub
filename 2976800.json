@@ -1,0 +1,31 @@
+{
+    "appid": "2976800",
+    "type": "Game",
+    "name": "VARYZNEX",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28679513",
+    "update_time": "2025-04-26 13:30:26",
+    "depot": {
+        "2976801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6869119559709356307",
+                    "size": "276209802",
+                    "download": "78777328"
+                }
+            },
+            "decryptionkey": "d8d1080a3d767672633408d342c5ca048ad1ec0ad151dfa74489fe89408e350d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18247476",
+                "timeupdated": "1745644317"
+            }
+        }
+    }
+}
