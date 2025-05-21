@@ -1,0 +1,42 @@
+{
+    "appid": "1086620",
+    "type": "Game",
+    "name": "Selfloss",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29055191",
+    "update_time": "2025-05-19 12:12:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1086621": {
+            "manifests": {
+                "public": {
+                    "gid": "9146747282350940132",
+                    "size": "3506954412",
+                    "download": "1620351008"
+                }
+            },
+            "decryptionkey": "6e4e3de29233e4ee26c94144b2cdbf6678f449e985835a13f6c857ab11f593c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18226460",
+                "timeupdated": "1747044041"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
