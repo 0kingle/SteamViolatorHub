@@ -1,0 +1,28 @@
+{
+    "appid": "2888460",
+    "type": "DLC",
+    "name": "Princess & Conquest - Additional Characters #2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28930793",
+    "update_time": "2025-05-12 09:32:21",
+    "depot": {
+        "2888460": {
+            "dlcappid": "2888460",
+            "manifests": {
+                "public": {
+                    "gid": "9130890207179099456",
+                    "size": "28639",
+                    "download": "28576"
+                }
+            },
+            "decryptionkey": "47f86a13809c32798e3c3c8906a9333eb3057caeaaa4d74104fce85b1e560bfc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18338835",
+                "timeupdated": "1746377146"
+            }
+        }
+    }
+}
