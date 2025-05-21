@@ -1,0 +1,48 @@
+{
+    "appid": "1229380",
+    "type": "Game",
+    "name": "Everhood",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052434",
+    "update_time": "2025-05-19 05:16:11",
+    "depot": {
+        "1229381": {
+            "manifests": {
+                "public": {
+                    "gid": "6865747340588249279",
+                    "size": "1231746056",
+                    "download": "547547552"
+                },
+                "speedrun": {
+                    "gid": "1180695380045298196",
+                    "size": "1282817838",
+                    "download": "623468720"
+                },
+                "communitylanguagestest": {
+                    "gid": "8761339214176390365",
+                    "size": "1231746056",
+                    "download": "547547488"
+                }
+            },
+            "decryptionkey": "7cc7ff5e5b664787ad0b9a68935c1f4cfcff978908599c8b64d9ed0a1b643c56"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16890688",
+                "timeupdated": "1735812197"
+            },
+            "speedrun": {
+                "buildid": "6329416",
+                "description": "Speedrunning branch including incial game version",
+                "timeupdated": "1616945603"
+            },
+            "communitylanguagestest": {
+                "buildid": "18508757",
+                "description": "Community made languages testing",
+                "timeupdated": "1747574981"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
