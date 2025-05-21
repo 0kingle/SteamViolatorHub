@@ -1,0 +1,28 @@
+{
+    "appid": "2676160",
+    "type": "Game",
+    "name": "Arcade Paradise VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013863",
+    "update_time": "2025-05-16 08:18:48",
+    "depot": {
+        "2676161": {
+            "manifests": {
+                "public": {
+                    "gid": "3198749879862123011",
+                    "size": "4617281152",
+                    "download": "2563810432"
+                }
+            },
+            "decryptionkey": "51f0c7eac9ef8ff548b6470862724f7ed167d7cf27bff57009b80d4d65f1cff5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16450552",
+                "timeupdated": "1733223163"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
