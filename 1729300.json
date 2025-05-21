@@ -1,0 +1,58 @@
+{
+    "appid": "1729300",
+    "type": "Game",
+    "name": "PlayForm: Human Dynamics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29073091",
+    "update_time": "2025-05-20 10:12:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1729301": {
+            "manifests": {
+                "public": {
+                    "gid": "6318308613158033678",
+                    "size": "32659080786",
+                    "download": "9965074736"
+                }
+            },
+            "decryptionkey": "9910834e9b5f1d3bac390d7781903791165596aa7e0b0d20136afc95b4d2b862"
+        },
+        "workshopdepot": "1729300",
+        "branches": {
+            "public": {
+                "buildid": "15311772",
+                "timeupdated": "1723165357"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "32d3bdfde72197f5f30a5968866f11bfea003657648f8c146dbb1fd45cad2801"
+    }
+}
