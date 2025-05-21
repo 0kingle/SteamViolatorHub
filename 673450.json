@@ -1,0 +1,30 @@
+{
+    "appid": "673450",
+    "type": "Game",
+    "name": "Time Lock VR 1 ",
+    "schinese_name": "时间锁 VR",
+    "isfreeapp": "0",
+    "change_number": "28976832",
+    "update_time": "2025-05-14 22:41:50",
+    "depot": {
+        "673451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6679840933930438255",
+                    "size": "1945759725",
+                    "download": "633179376"
+                }
+            },
+            "decryptionkey": "c8ad3dbf40ff38fb49a6f441673fb83398174b087fa9c2aff6e9e7a97ec835c4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2024604",
+                "timeupdated": "1502285710"
+            }
+        }
+    }
+}
