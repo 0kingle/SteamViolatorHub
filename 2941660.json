@@ -1,0 +1,33 @@
+{
+    "appid": "2941660",
+    "type": "Game",
+    "name": "Archean",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098541",
+    "update_time": "2025-05-21 19:29:49",
+    "depot": {
+        "2941661": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4122387811906646783",
+                    "size": "779533382",
+                    "download": "324099584"
+                }
+            },
+            "decryptionkey": "9e9c4a4cb9451b1e189a13b090d38f79707b0a150a3bf50a17cdd38aedfb85c5"
+        },
+        "workshopdepot": "2941660",
+        "branches": {
+            "public": {
+                "buildid": "18545422",
+                "timeupdated": "1747812446"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
