@@ -1,0 +1,30 @@
+{
+    "appid": "1656930",
+    "type": "Game",
+    "name": "Coridden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988909",
+    "update_time": "2025-05-15 04:13:17",
+    "depot": {
+        "1656931": {
+            "manifests": {
+                "public": {
+                    "gid": "3199096400608736374",
+                    "size": "15303258838",
+                    "download": "6702010096"
+                }
+            },
+            "decryptionkey": "b376bdb0502d1e99844e5c84dd2cd9b178186f17f4ec21d2b4a4c7cc5fff47cf"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18195673",
+                "timeupdated": "1745338890"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
