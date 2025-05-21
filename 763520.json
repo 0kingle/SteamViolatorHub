@@ -1,0 +1,27 @@
+{
+    "appid": "763520",
+    "type": "Game",
+    "name": "Hard Place",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991967",
+    "update_time": "2025-05-15 08:14:05",
+    "depot": {
+        "763521": {
+            "manifests": {
+                "public": {
+                    "gid": "8970749626735214696",
+                    "size": "163000433",
+                    "download": "36804896"
+                }
+            },
+            "decryptionkey": "a0a4138c06b3cbafb840b5c62577dce9eb6acf28d269f9631aafaedead09a211"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2457901",
+                "timeupdated": "1516629415"
+            }
+        }
+    }
+}
