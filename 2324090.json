@@ -1,0 +1,40 @@
+{
+    "appid": "2324090",
+    "type": "Application",
+    "name": "VRHandsFrame",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978320",
+    "update_time": "2025-05-14 22:44:04",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2324091": {
+            "manifests": {
+                "public": {
+                    "gid": "7174678515442047559",
+                    "size": "512445582",
+                    "download": "211446512"
+                },
+                "beta": {
+                    "gid": "7174678515442047559",
+                    "size": "512445582",
+                    "download": "211446512"
+                }
+            },
+            "decryptionkey": "9a7809ed206c1931f812d5c41a3e5159493b17a284755f2f95d17564667cae4a"
+        },
+        "workshopdepot": "2324090",
+        "branches": {
+            "public": {
+                "buildid": "18455003",
+                "timeupdated": "1747217142"
+            },
+            "beta": {
+                "buildid": "18455003",
+                "description": "beta",
+                "timeupdated": "1747216360"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
