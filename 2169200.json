@@ -1,0 +1,304 @@
+{
+    "appid": "2169200",
+    "type": "Game",
+    "name": "Sniper Elite: Resistance",
+    "schinese_name": "狙击精英：抵抗",
+    "isfreeapp": "0",
+    "change_number": "29099676",
+    "update_time": "2025-05-21 19:21:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2169201": {
+            "manifests": {
+                "public": {
+                    "gid": "7390790410798152144",
+                    "size": "710716839",
+                    "download": "277793520"
+                }
+            },
+            "decryptionkey": "f0442f7884739333bfdcc7544a60a639ccf65a344fb7e5312d81b71d53f3483f"
+        },
+        "2169202": {
+            "manifests": {
+                "public": {
+                    "gid": "7896646825321763300",
+                    "size": "26560870106",
+                    "download": "17723932000"
+                }
+            },
+            "decryptionkey": "01734f2ec3ffff33c42ef6f7337642950f08f3d7251d72eead052011085536f6"
+        },
+        "2169203": {
+            "manifests": {
+                "public": {
+                    "gid": "1763128744613692379",
+                    "size": "68329418",
+                    "download": "68131984"
+                }
+            },
+            "decryptionkey": "e6c06bbeb1a3f7316704546bd26db1ec93406963a3d84d402a9e31956f8b7cc7"
+        },
+        "2169204": {
+            "manifests": {
+                "public": {
+                    "gid": "4371419928766780078",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "d11132ae9b8705ec81f29311b269dda0811ffb55d25dbf766eadaac3660ad7f5"
+        },
+        "2169205": {
+            "manifests": {
+                "public": {
+                    "gid": "6277587945260762969",
+                    "size": "3375374405",
+                    "download": "2177810880"
+                }
+            },
+            "decryptionkey": "cfdf61799a0c9e8ec83eb607ab4fd3482ee99d700d99eb6d6d194f0f41360faa"
+        },
+        "2169206": {
+            "manifests": {
+                "public": {
+                    "gid": "1975990557252905967",
+                    "size": "59053130658",
+                    "download": "41076419296"
+                }
+            },
+            "decryptionkey": "58856b5fdc9f0115eeef7fa218522ef3f74c223a794906e53b01541c82b9f32e"
+        },
+        "2169207": {
+            "manifests": {
+                "public": {
+                    "gid": "6987834209872568741",
+                    "size": "22690995101",
+                    "download": "17110959952"
+                }
+            },
+            "decryptionkey": "f2266e1c1d7f21bcf969ad780c66debeaf32eb3d564ed083458f9d64ef89d1c6"
+        },
+        "2169208": {
+            "manifests": {
+                "public": {
+                    "gid": "9129358225461378452",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "7130b3aa6ad5e700afca9674a124616dc9d04c226ebab6453d98cab4d8dfa2d1"
+        },
+        "2169209": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7901306238841049959",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "d722416d284d1778f0911b4c0577c3e6864b72100d39bdea21056ade0129251b"
+        },
+        "2561511": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2986244239721807293",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "ed396bd5a04dcb8cbf85bfb20018ce8905c58a3f245459ca2c4f18f036a5d932"
+        },
+        "2561512": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6194973235883246527",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "edd809a64000a91fb3ac08691ba68bbcb629ea6f693c9811c3c32679ce936be9"
+        },
+        "2561513": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7142122736112490521",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "fc8eca9e12e0f3bf1fb24524a1703fcc77a1f3f636afe8ac954922d202d3989d"
+        },
+        "2561514": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2739010291254853159",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "81aa2260b9d0d8a0a4e194dee301d61e683d6aa6aa151e20ad351f579b9ce991"
+        },
+        "2561515": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4637776867098934755",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "db078358a476eb1b8549563936329da856dcdf7f2dc1b5deeec74eaf78d679c6"
+        },
+        "2561516": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5239681340769563822",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "1c448e10003fbe6f2be8716ca09189c53b2bd8dbfc36e6abe243d7736679a458"
+        },
+        "2561517": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8494279159009964697",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "444cee8f5e54fc5971ae18ec553fd532307d6ba3b9d11036cc8a143b36f32f38"
+        },
+        "2561518": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7389827362519075077",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "6439c73ba8f70236c8e73c167af4b04bbc5f2476ffab4554ccc1340e466a4c2d"
+        },
+        "2561519": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3641721077878712306",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "6a940a58a5b3e5fe4b41c87e7d1e8fe5339025a1934e46835f0146b2f2a4e0ab"
+        },
+        "2561521": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8002330991403823057",
+                    "size": "32",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": "9f465c45d74c657d4af3adf7d4048c896868b411ec45d6dde4cc057d5fb0c7ae"
+        },
+        "2561510": {
+            "dlcappid": "2561510",
+            "manifests": {
+                "public": {
+                    "gid": "5292221213100537244",
+                    "size": "3586994545",
+                    "download": "2349320832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2561520": {
+            "dlcappid": "2561520",
+            "manifests": {
+                "public": {
+                    "gid": "1167245037014145696",
+                    "size": "3939369210",
+                    "download": "3126044720"
+                }
+            },
+            "decryptionkey": "e9782dcff591c25264d47b0a83c5d9738ae22a2456e4d7fd5eba2ce17858d21c"
+        },
+        "2729150": {
+            "dlcappid": "2729150",
+            "manifests": {
+                "public": {
+                    "gid": "800418552798849370",
+                    "size": "3667169375",
+                    "download": "2951087360"
+                }
+            },
+            "decryptionkey": "9008f4414e442c17ceb0d7b181d9da5a763bb6407bef14f212f915e57c7e921c"
+        },
+        "2800240": {
+            "dlcappid": "2800240",
+            "manifests": {
+                "public": {
+                    "gid": "8563666455465520090",
+                    "size": "3407071892",
+                    "download": "2782344368"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2800250": {
+            "dlcappid": "2800250",
+            "manifests": {
+                "public": {
+                    "gid": "8376677095256209021",
+                    "size": "2171066623",
+                    "download": "1707821920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18106859",
+                "timeupdated": "1745923770"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
