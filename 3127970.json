@@ -1,0 +1,55 @@
+{
+    "appid": "3127970",
+    "type": "Demo",
+    "name": "Volkolak: The Will of Gods Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28835055",
+    "update_time": "2025-05-06 13:34:38",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3127971": {
+            "manifests": {
+                "public": {
+                    "gid": "2319535145137942921",
+                    "size": "5581422944",
+                    "download": "597240480"
+                }
+            },
+            "decryptionkey": "034bee9d630e503023bf22b014c63a77f306dc07588aa669cd33ead5a9f70f81"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17404760",
+                "timeupdated": "1739870935"
+            }
+        }
+    }
+}
