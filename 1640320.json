@@ -1,0 +1,33 @@
+{
+    "appid": "1640320",
+    "type": "Game",
+    "name": "B.I.O.T.A.",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988782",
+    "update_time": "2025-05-15 04:06:39",
+    "depot": {
+        "1640321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5130810921076922737",
+                    "size": "221770950",
+                    "download": "119893904"
+                }
+            },
+            "decryptionkey": "ef9ddba9618ef5639c2787d27b709582734f2ac9a3059d69a5a9083ffc162067"
+        },
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17619221",
+                "timeupdated": "1741281937"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
