@@ -1,0 +1,47 @@
+{
+    "appid": "3464170",
+    "type": "Demo",
+    "name": "Kaal Yoddha Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28523368",
+    "update_time": "2025-04-17 15:04:22",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3464172": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4851875383132154801",
+                    "size": "7427675963",
+                    "download": "7073431888"
+                }
+            },
+            "decryptionkey": "cfe8422e038a99927f3b4f2681765a3570ff80aa3afada905a2c960e40cdb548"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17584572",
+                "timeupdated": "1741069532"
+            }
+        }
+    }
+}
