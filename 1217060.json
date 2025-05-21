@@ -1,0 +1,36 @@
+{
+    "appid": "1217060",
+    "type": "Game",
+    "name": "Gunfire Reborn",
+    "schinese_name": "枪火重生",
+    "isfreeapp": "0",
+    "change_number": "29021740",
+    "update_time": "2025-05-16 18:14:11",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1217061": {
+            "manifests": {
+                "public": {
+                    "gid": "5920436068204847878",
+                    "size": "4069073403",
+                    "download": "2933588080"
+                }
+            },
+            "decryptionkey": "572c9d118c2d97b0d21798e01e43f4402b71b563c6aa09942c2ceb46b36d8300"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18489457",
+                "timeupdated": "1747390448"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
