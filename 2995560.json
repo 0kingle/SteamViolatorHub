@@ -1,0 +1,46 @@
+{
+    "appid": "2995560",
+    "type": "Game",
+    "name": "Wildkeepers Rising",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29065435",
+    "update_time": "2025-05-20 04:30:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2995561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7336430927814994494",
+                    "size": "1664061858",
+                    "download": "1462922976"
+                }
+            },
+            "decryptionkey": "82e700a5f0601b7e7330daa61fa8dabf30452670a844774860ceae85d6f1fce3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18423018",
+                "timeupdated": "1747008209"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
