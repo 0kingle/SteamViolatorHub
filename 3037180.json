@@ -1,0 +1,49 @@
+{
+    "appid": "3037180",
+    "type": "Game",
+    "name": "深空七号 Deep Space 7",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090006",
+    "update_time": "2025-05-21 04:15:19",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3037181": {
+            "manifests": {
+                "public": {
+                    "gid": "2304517693255899240",
+                    "size": "9463796942",
+                    "download": "8820311040"
+                }
+            },
+            "decryptionkey": "9bf67fe08ee40e301fee63f14a8b0723ff36d0a02ba9bc02bfd29ee270f68b9c"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18223484",
+                "timeupdated": "1745499007"
+            }
+        }
+    }
+}
