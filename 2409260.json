@@ -1,0 +1,28 @@
+{
+    "appid": "2409260",
+    "type": "Game",
+    "name": "Mannequin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011645",
+    "update_time": "2025-05-16 05:13:07",
+    "depot": {
+        "2409261": {
+            "manifests": {
+                "public": {
+                    "gid": "983672676551898342",
+                    "size": "7403472654",
+                    "download": "6484074432"
+                }
+            },
+            "decryptionkey": "3241b41bcf2432af62bbabedbb209c3b5a1868e596412b4522a51331f851f4e3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18124916",
+                "timeupdated": "1744802292"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
