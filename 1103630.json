@@ -1,0 +1,75 @@
+{
+    "appid": "1103630",
+    "type": "Game",
+    "name": "Event Horizon - Frontier",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28800757",
+    "update_time": "2025-05-03 22:05:23",
+    "depot": {
+        "baselanguages": "english,russian",
+        "1103631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "868809136742172661",
+                    "size": "142842166",
+                    "download": "54499504"
+                },
+                "beta": {
+                    "gid": "7705077268422311933",
+                    "size": "148335225",
+                    "download": "56097152"
+                }
+            },
+            "decryptionkey": "f0d1dba83ac169014f479a7ac55602e3328d795d07060061a779c75b33433050"
+        },
+        "1103632": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5927968088175082266",
+                    "size": "135534180",
+                    "download": "56527824"
+                },
+                "beta": {
+                    "gid": "2229377369078503371",
+                    "size": "106598908",
+                    "download": "48089008"
+                }
+            }
+        },
+        "1103633": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7276559292398820967",
+                    "size": "176278053",
+                    "download": "56491904"
+                },
+                "beta": {
+                    "gid": "38015495078916484",
+                    "size": "179920946",
+                    "download": "57196992"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14586270",
+                "timeupdated": "1717424974"
+            },
+            "beta": {
+                "buildid": "18332220",
+                "description": "Beta version",
+                "timeupdated": "1746280552"
+            }
+        }
+    }
+}
