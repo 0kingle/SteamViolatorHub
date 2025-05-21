@@ -1,0 +1,27 @@
+{
+    "appid": "2438130",
+    "type": "Game",
+    "name": "战争世界",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011954",
+    "update_time": "2025-05-16 05:36:52",
+    "depot": {
+        "2438131": {
+            "manifests": {
+                "public": {
+                    "gid": "7689110215042161614",
+                    "size": "968392865",
+                    "download": "750434368"
+                }
+            },
+            "decryptionkey": "858bf128b923516b22cb86dec178274fa90e26960f252a69524bd87931e220fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13278226",
+                "timeupdated": "1706243131"
+            }
+        }
+    }
+}
