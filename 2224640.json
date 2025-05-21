@@ -1,0 +1,30 @@
+{
+    "appid": "2224640",
+    "type": "Game",
+    "name": "Artisan TD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28818988",
+    "update_time": "2025-05-05 16:39:52",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "2224641": {
+            "manifests": {
+                "public": {
+                    "gid": "956178928329373697",
+                    "size": "2738391725",
+                    "download": "1225111728"
+                }
+            },
+            "decryptionkey": "46d866d7d06da5000604b7ddcd02940d6355f2e56c23a2456ba08f6d5b7b93c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18055348",
+                "timeupdated": "1744385524"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
