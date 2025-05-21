@@ -1,0 +1,28 @@
+{
+    "appid": "1280080",
+    "type": "Game",
+    "name": "Faeland",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985793",
+    "update_time": "2025-05-15 00:59:53",
+    "depot": {
+        "1280081": {
+            "manifests": {
+                "public": {
+                    "gid": "7239911463563806095",
+                    "size": "764870865",
+                    "download": "497079568"
+                }
+            },
+            "decryptionkey": "c48d5e95814120b9866a177114cc9db0a2eeff8afc69ca347f5fdfe23f488a37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18028232",
+                "timeupdated": "1744753941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
