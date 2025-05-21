@@ -1,0 +1,50 @@
+{
+    "appid": "1984020",
+    "type": "Game",
+    "name": "Everhood 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29084080",
+    "update_time": "2025-05-20 22:36:12",
+    "depot": {
+        "baselanguages": "english,french,japanese",
+        "workshopdepot": "1984020",
+        "1984021": {
+            "manifests": {
+                "public": {
+                    "gid": "1932292316879198663",
+                    "size": "1657971183",
+                    "download": "889176448"
+                },
+                "battle-warp-bug": {
+                    "gid": "3846618076835830125",
+                    "size": "1638960401",
+                    "download": "874404016"
+                },
+                "russian-translation": {
+                    "gid": "8865184937221436726",
+                    "size": "1658490679",
+                    "download": "889165504"
+                }
+            },
+            "decryptionkey": "08f1a3d67b607bd3ee2f42873e693d99e99ed8ef0f93389a91debed6bb422dee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18535026",
+                "timeupdated": "1747751768"
+            },
+            "battle-warp-bug": {
+                "buildid": "17625721",
+                "description": "An old version of EVERHOOD 2 with buggy warps in battle colosseum.",
+                "timeupdated": "1742404902"
+            },
+            "russian-translation": {
+                "buildid": "18466554",
+                "description": "russian translation test",
+                "timeupdated": "1747256495"
+            }
+        },
+        "workshopdepotdecryptionkey": "2d7f3f1308451c96455f836fdf1c83caa92f2b335ce51d0eb542639fa8aacbde"
+    }
+}
