@@ -1,0 +1,32 @@
+{
+    "appid": "1157740",
+    "type": "Game",
+    "name": "Iron Meat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29087416",
+    "update_time": "2025-05-21 01:28:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,polish,brazilian,latam",
+        "1157741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3918958219127915402",
+                    "size": "1737918679",
+                    "download": "370959872"
+                }
+            },
+            "decryptionkey": "9575b37dcacda67ed9e2966999b1258c3255c65e2404ac12219267257b7baf77"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16332641",
+                "timeupdated": "1731693784"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
