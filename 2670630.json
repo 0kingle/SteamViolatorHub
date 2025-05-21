@@ -1,0 +1,28 @@
+{
+    "appid": "2670630",
+    "type": "Game",
+    "name": "Supermarket Simulator",
+    "schinese_name": "超市模拟器",
+    "isfreeapp": "0",
+    "change_number": "29084299",
+    "update_time": "2025-05-20 22:47:57",
+    "depot": {
+        "2670631": {
+            "manifests": {
+                "public": {
+                    "gid": "3171119147163536569",
+                    "size": "3856452359",
+                    "download": "1932784816"
+                }
+            },
+            "decryptionkey": "72fc26c211612ffaa7b30cdfea152be9628668260d7f8c375980e0f96e445701"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18347334",
+                "timeupdated": "1746459325"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
