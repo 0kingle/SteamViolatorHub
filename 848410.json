@@ -1,0 +1,46 @@
+{
+    "appid": "848410",
+    "type": "Game",
+    "name": "Detached: Non-VR Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28466746",
+    "update_time": "2025-04-14 20:51:58",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "848411": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7401745214089631387",
+                    "size": "11791675429",
+                    "download": "3667967984"
+                }
+            },
+            "decryptionkey": "db488e03f1e6711c7a6d372d7618072bec39782408bd1d95d9d4f32006a2194d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17513561",
+                "timeupdated": "1744635113"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
