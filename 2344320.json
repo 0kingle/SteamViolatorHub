@@ -1,0 +1,45 @@
+{
+    "appid": "2344320",
+    "type": "Game",
+    "name": "Legacy: Steel & Sorcery",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093064",
+    "update_time": "2025-05-21 08:39:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2344321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1206753469505583139",
+                    "size": "21405445118",
+                    "download": "19621632464"
+                }
+            },
+            "decryptionkey": "a080d0b573b949016080909f58b6c1efbd2c40dfd4d331560cfbbe6a6ff1c8b8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18498485",
+                "timeupdated": "1747442388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
