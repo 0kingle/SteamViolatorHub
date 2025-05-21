@@ -1,0 +1,88 @@
+{
+    "appid": "2701700",
+    "type": "Game",
+    "name": "Maestro",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098805",
+    "update_time": "2025-05-21 19:30:38",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2701701": {
+            "manifests": {
+                "public": {
+                    "gid": "5750947533707989470",
+                    "size": "1739795612",
+                    "download": "1587523088"
+                }
+            },
+            "decryptionkey": "b76ebf3606bcb620ac016cbd1b82209d33f969e6b2208f59946f2d562d0f1c06"
+        },
+        "3252040": {
+            "dlcappid": "3252040",
+            "manifests": {
+                "public": {
+                    "gid": "4718282142266129872",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "config": {
+                "optionaldlc": "3252040"
+            },
+            "decryptionkey": ""
+        },
+        "3352570": {
+            "dlcappid": "3352570",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7307741494583746822",
+                    "size": "225647191",
+                    "download": "221306848"
+                }
+            },
+            "decryptionkey": "022fe7cb197b2917937fbdf1d8b2570c68cb40f132e43e12da84d73201e49090"
+        },
+        "3645630": {
+            "dlcappid": "3645630",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5257565342959767767",
+                    "size": "156577367",
+                    "download": "152502656"
+                }
+            },
+            "decryptionkey": "ea989b494e203fee4f27d10f6f0bf96e8c3f33c7493bdced6a929e4f851f71f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18057247",
+                "timeupdated": "1744395036"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
