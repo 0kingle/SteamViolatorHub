@@ -1,0 +1,33 @@
+{
+    "appid": "2294660",
+    "type": "Game",
+    "name": "The Quinfall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29071998",
+    "update_time": "2025-05-20 08:31:11",
+    "depot": {
+        "2294661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5950690572055742946",
+                    "size": "69399273046",
+                    "download": "38810560896"
+                }
+            },
+            "decryptionkey": "39cbd76774d7cd7e3a7638344169ac77056c44361a66db94cb7e59fac501c576"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18290278",
+                "timeupdated": "1746061424"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
