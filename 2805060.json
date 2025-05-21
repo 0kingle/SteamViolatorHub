@@ -1,0 +1,32 @@
+{
+    "appid": "2805060",
+    "type": "Game",
+    "name": "Diabotical Rogue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28553437",
+    "update_time": "2025-04-19 01:27:01",
+    "depot": {
+        "2805061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4563758882825089517",
+                    "size": "10882058227",
+                    "download": "4168200816"
+                }
+            },
+            "decryptionkey": "58a8b7bf5c8f32cddebf3f8b254554051a08dc6b561fdada408f932afaee3ca9"
+        },
+        "baselanguages": "english,german,koreana,spanish,schinese,japanese,polish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18160208",
+                "timeupdated": "1744997215"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
