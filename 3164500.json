@@ -1,0 +1,57 @@
+{
+    "appid": "3164500",
+    "type": "Game",
+    "name": "Schedule I",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29074477",
+    "update_time": "2025-05-20 12:27:30",
+    "depot": {
+        "3164501": {
+            "manifests": {
+                "public": {
+                    "gid": "1747201163387605035",
+                    "size": "7451241999",
+                    "download": "1919712704"
+                },
+                "alternate": {
+                    "gid": "3127357968124663564",
+                    "size": "7419832697",
+                    "download": "1913440496"
+                },
+                "beta": {
+                    "gid": "1747201163387605035",
+                    "size": "7451241999",
+                    "download": "1919712704"
+                },
+                "alternate-beta": {
+                    "gid": "3127357968124663564",
+                    "size": "7419832697",
+                    "download": "1913440496"
+                }
+            },
+            "decryptionkey": "81d0de07788de885787b0519b9dabf51618be6cba9124497decf572ac96624f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18366871",
+                "timeupdated": "1746683197"
+            },
+            "alternate": {
+                "buildid": "18366857",
+                "description": "Less performant then the default version, but less prone to crashes.",
+                "timeupdated": "1746683179"
+            },
+            "beta": {
+                "buildid": "18366871",
+                "description": "Hosts the beta version of Schedule I. May be unstable.",
+                "timeupdated": "1746577974"
+            },
+            "alternate-beta": {
+                "buildid": "18366857",
+                "description": "Hosts the beta version of Schedule I in alternate mode. May be unstable.",
+                "timeupdated": "1746577968"
+            }
+        }
+    }
+}
