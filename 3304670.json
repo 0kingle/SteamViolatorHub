@@ -1,0 +1,47 @@
+{
+    "appid": "3304670",
+    "type": "Demo",
+    "name": "Acts of Blood Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977143",
+    "update_time": "2025-05-14 22:42:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3304671": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7507000370483212043",
+                    "size": "2216138234",
+                    "download": "1878091792"
+                }
+            },
+            "decryptionkey": "cb8a83fb811482e2f22587127a28ad0ae92032aff274e645513d87ae8336debe"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18457318",
+                "timeupdated": "1747213328"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
