@@ -1,0 +1,166 @@
+{
+    "appid": "1771300",
+    "type": "Game",
+    "name": "Kingdom Come: Deliverance II",
+    "schinese_name": "天国：拯救2",
+    "isfreeapp": "0",
+    "change_number": "29104180",
+    "update_time": "2025-05-21 20:54:32",
+    "depot": {
+        "workshopdepot": "1771300",
+        "baselanguages": "",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1771302": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "61731850163874788",
+                    "size": "92550047",
+                    "download": "25252096"
+                }
+            },
+            "decryptionkey": "41bc41c39ce79db318e98b533bab1fe71bfd294c4e8c90f90e4f8efa5fcc2a91"
+        },
+        "1771303": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2668688070250756417",
+                    "size": "82251456528",
+                    "download": "79103924960"
+                }
+            },
+            "decryptionkey": "397ab2e5c59bbb75f716c30dba3374be8af7ff49a2fc45c621e0bc23bafbd5f3"
+        },
+        "1771304": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "3406020",
+            "manifests": {
+                "public": {
+                    "gid": "1665890799291805824",
+                    "size": "574393156",
+                    "download": "401929616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1771305": {
+            "config": {
+                "oslist": "windows",
+                "language": "czech"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3371613535921288470",
+                    "size": "8824005885",
+                    "download": "7820647600"
+                }
+            },
+            "decryptionkey": "66d5a42e0171363eac9b79352c78401952d616880979d26967c385d2d7a88368"
+        },
+        "1771306": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4042405478941181549",
+                    "size": "7097628256",
+                    "download": "6048804544"
+                }
+            },
+            "decryptionkey": "120aed0e767afa1ac85539240704d613b82c13473fcd7136d3cea555a784783e"
+        },
+        "1771307": {
+            "config": {
+                "oslist": "windows",
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7483410199424178811",
+                    "size": "5887709507",
+                    "download": "4865921808"
+                }
+            },
+            "decryptionkey": "8d47328b0b82d9b9ba25bfb199c69ea2dd005954298bd2aff2b448321569b727"
+        },
+        "1771308": {
+            "config": {
+                "oslist": "windows",
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6462712787840840798",
+                    "size": "6347799785",
+                    "download": "5298642496"
+                }
+            },
+            "decryptionkey": "b457fdf0e78f3465b9ccbfed5f8ecbb85f22428ba321534ee0df4a0d08754d02"
+        },
+        "1771309": {
+            "config": {
+                "oslist": "windows",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "173142341665399565",
+                    "size": "6398319671",
+                    "download": "5349741152"
+                }
+            },
+            "decryptionkey": "1f8b55f9f4ac27eac8ffa310ca46163ee5aaad0937438035274a30b78de4e81a"
+        },
+        "3118101": {
+            "config": {
+                "oslist": "windows",
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4846375994781995034",
+                    "size": "6275278146",
+                    "download": "5238656672"
+                }
+            },
+            "decryptionkey": "69d3aecd16754fea50cf46182e56be5d29647e571e45c1dd1ef3294b966d0ee4"
+        },
+        "1771301": {
+            "dlcappid": "3677330",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3717085862351095507",
+                    "size": "12942491744",
+                    "download": "2073069040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18340494",
+                "timeupdated": "1747320997"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3caed047b77bd7be8e68f818a3a6729b75371e0f67c871728c7a19de18aa6f53"
+    }
+}
