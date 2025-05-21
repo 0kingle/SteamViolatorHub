@@ -1,0 +1,69 @@
+{
+    "appid": "2647680",
+    "type": "Game",
+    "name": "ICBM: Escalation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29071150",
+    "update_time": "2025-05-20 07:11:59",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2647681": {
+            "manifests": {
+                "public": {
+                    "gid": "7922092759804978127",
+                    "size": "6081455314",
+                    "download": "5126080864"
+                },
+                "legacy": {
+                    "gid": "5958671166726840041",
+                    "size": "5964486503",
+                    "download": "5074374624"
+                }
+            },
+            "decryptionkey": "b1bf03cc4418c9b103c1d3e63e121d3b36137b3a70cd03b7662c3b155a365a91"
+        },
+        "2647682": {
+            "manifests": {
+                "public": {
+                    "gid": "1469593302833114994",
+                    "size": "3540053",
+                    "download": "1290768"
+                },
+                "legacy": {
+                    "gid": "2246846154666979650",
+                    "size": "3592214",
+                    "download": "1297952"
+                }
+            },
+            "decryptionkey": "89cba265964e76f3b0c5986e82b514b75d3292ad19c6e554cde5d67a57906e4e"
+        },
+        "workshopdepot": "2647680",
+        "branches": {
+            "public": {
+                "buildid": "18320296",
+                "timeupdated": "1746196877"
+            },
+            "legacy": {
+                "buildid": "17423597",
+                "description": "revert back a version",
+                "timeupdated": "1746031119"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c242cf1fa20dc1df63043f2aa9695af3c54b72aac4f1962b3cb873f3f40a224d"
+    }
+}
