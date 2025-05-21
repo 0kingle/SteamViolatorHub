@@ -1,0 +1,31 @@
+{
+    "appid": "2384730",
+    "type": "Game",
+    "name": "Beyond the Ice Palace 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011482",
+    "update_time": "2025-05-16 05:00:41",
+    "depot": {
+        "2384732": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6316187423228752997",
+                    "size": "2170133998",
+                    "download": "522726832"
+                }
+            },
+            "decryptionkey": "b2d1cccdc286021b1329be0374318889746aea5760d749ee71e991857e24abfe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18054032",
+                "timeupdated": "1744628407"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
