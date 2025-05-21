@@ -1,0 +1,47 @@
+{
+    "appid": "1486920",
+    "type": "Game",
+    "name": "Tempest Rising",
+    "schinese_name": "风暴崛起 Tempest Rising",
+    "isfreeapp": "0",
+    "change_number": "29094189",
+    "update_time": "2025-05-21 10:11:30",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1486921": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7766718968271629497",
+                    "size": "45069624801",
+                    "download": "41475884944"
+                }
+            },
+            "decryptionkey": "26528db8fe19a223ddd4dbc280b52006e6b4aad5884ce084762e313c91d0de46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18489445",
+                "timeupdated": "1747749590"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
