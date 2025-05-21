@@ -1,0 +1,27 @@
+{
+    "appid": "1841900",
+    "type": "Game",
+    "name": "BACK and BACK to Hell",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:40:43",
+    "depot": {
+        "1841901": {
+            "manifests": {
+                "public": {
+                    "gid": "5030950104152116450",
+                    "size": "40526744",
+                    "download": "34068128"
+                }
+            },
+            "decryptionkey": "789eff5ecca968bad048d0161dcd30c391cc32287f2393403e0d59e874b10f52"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7854282",
+                "timeupdated": "1639046262"
+            }
+        }
+    }
+}
