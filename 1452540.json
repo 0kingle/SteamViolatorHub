@@ -1,0 +1,45 @@
+{
+    "appid": "1452540",
+    "type": "Game",
+    "name": "Frincess&Cnight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987341",
+    "update_time": "2025-05-15 02:26:37",
+    "depot": {
+        "1452541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3145458486022259266",
+                    "size": "133463162",
+                    "download": "43967792"
+                }
+            },
+            "decryptionkey": "484ca774a7aeeaf2cd2686f413542586d2a7b8efc4b29308571ff62fa4d6db69"
+        },
+        "1452542": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8722945650683717183",
+                    "size": "129633202",
+                    "download": "42168384"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7791158",
+                "timeupdated": "1638125372"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
