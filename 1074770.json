@@ -1,0 +1,30 @@
+{
+    "appid": "1074770",
+    "type": "Game",
+    "name": "The Rescue of Mermaids",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29048184",
+    "update_time": "2025-05-18 19:13:51",
+    "depot": {
+        "1074771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7954948206326973517",
+                    "size": "229038005",
+                    "download": "89310256"
+                }
+            },
+            "decryptionkey": "f8d07052e6af4432215ae26cf1ee0379f65d611409d2664c06449f48382b81c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18496297",
+                "timeupdated": "1747435400"
+            }
+        }
+    }
+}
