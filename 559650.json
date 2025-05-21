@@ -1,0 +1,48 @@
+{
+    "appid": "559650",
+    "type": "Game",
+    "name": "Witch It",
+    "schinese_name": "女巫来了",
+    "isfreeapp": "0",
+    "change_number": "28998696",
+    "update_time": "2025-05-15 17:20:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "559651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "958894483913024275",
+                    "size": "7943540039",
+                    "download": "7631904704"
+                }
+            },
+            "decryptionkey": "a7187005733a13b0010375c98d113e6ad44bb945f73e3f9d582dc81f88a520ec"
+        },
+        "workshopdepot": "559650",
+        "branches": {
+            "public": {
+                "buildid": "18403861",
+                "timeupdated": "1746798239"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b03393b3fdf852a3dfd1f309e8bc810168e2c426670178bbb307603a642f4c81"
+    }
+}
