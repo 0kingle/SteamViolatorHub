@@ -1,0 +1,42 @@
+{
+    "appid": "3393180",
+    "type": "Game",
+    "name": "Sweep!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29050660",
+    "update_time": "2025-05-19 01:13:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3393181": {
+            "manifests": {
+                "public": {
+                    "gid": "1422133846636029623",
+                    "size": "2758785304",
+                    "download": "2602281280"
+                }
+            },
+            "decryptionkey": "4590698f5c5fd5c7467358d298fae94b39c167f1c2c3be6d8df2c7a5230262c3"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese,portuguese,polish,dutch",
+        "branches": {
+            "public": {
+                "buildid": "18461381",
+                "timeupdated": "1747231514"
+            }
+        }
+    }
+}
