@@ -1,0 +1,34 @@
+{
+    "appid": "1777440",
+    "type": "Game",
+    "name": "Kimi ga Nozomu Eien Enhanced Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29075879",
+    "update_time": "2025-05-20 14:34:45",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "hasdepotsindlc": "1",
+        "1777441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3855342711679321387",
+                    "size": "2733804122",
+                    "download": "2199765584"
+                }
+            },
+            "decryptionkey": "42af52393d0d56b75c7b2f6f94407fccd75084dfa7870ae3bc145806a84f2731"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18222868",
+                "timeupdated": "1746180259"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
