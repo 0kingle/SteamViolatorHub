@@ -1,0 +1,49 @@
+{
+    "appid": "3108790",
+    "type": "Game",
+    "name": "三国志潜龙在渊",
+    "schinese_name": "三国志潜龙在渊",
+    "isfreeapp": "0",
+    "change_number": "29023851",
+    "update_time": "2025-05-16 20:17:34",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "1",
+        "3108791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "536785951445417039",
+                    "size": "1092935426",
+                    "download": "765406544"
+                }
+            },
+            "decryptionkey": "043b18feb8b6efd5d18f96151a75ecb6d99b3559630a69fe5f54c2da4f4cb4b0"
+        },
+        "3108792": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2491734533008050360",
+                    "size": "1102085854",
+                    "download": "773849872"
+                }
+            },
+            "decryptionkey": "f7c798f4412ec1c1e7c94869fad5d3ba3b965ff130ac78ce4b14f7b2249fc961"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18235833",
+                "timeupdated": "1745571990"
+            }
+        }
+    }
+}
