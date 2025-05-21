@@ -1,0 +1,51 @@
+{
+    "appid": "2427410",
+    "type": "Game",
+    "name": "S.T.A.L.K.E.R.: Shadow of Chornobyl - Enhanced Edition",
+    "schinese_name": "《潜行者：切尔诺贝利的阴影》增强版",
+    "isfreeapp": "0",
+    "change_number": "29102412",
+    "update_time": "2025-05-21 19:25:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2427411": {
+            "manifests": {
+                "public": {
+                    "gid": "7440211536964657621",
+                    "size": "12008607088",
+                    "download": "7393092336"
+                }
+            },
+            "decryptionkey": "b846b553ca61c86d7281f7f121dab3628adebb5655e6bb80262c1a06780f14a6"
+        },
+        "workshopdepot": "2427410",
+        "branches": {
+            "public": {
+                "buildid": "18465678",
+                "timeupdated": "1747679147"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8160764e382fa94a45ede73009c85911741094b92586b5a9c477196e24f1d3ff"
+    }
+}
