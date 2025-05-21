@@ -1,0 +1,28 @@
+{
+    "appid": "3324320",
+    "type": "Game",
+    "name": "MYRIAD DEATH",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29072471",
+    "update_time": "2025-05-20 09:15:59",
+    "depot": {
+        "3324321": {
+            "manifests": {
+                "public": {
+                    "gid": "234845043046852562",
+                    "size": "339008095",
+                    "download": "172766944"
+                }
+            },
+            "decryptionkey": "cfbdf185084ae680275be4d0cd9564c374e24ffd24702d9cfad44063f18a5705"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18468963",
+                "timeupdated": "1747275782"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
