@@ -1,0 +1,44 @@
+{
+    "appid": "3525580",
+    "type": "Game",
+    "name": "Castle Combat",
+    "schinese_name": "城堡战记",
+    "isfreeapp": "0",
+    "change_number": "29096927",
+    "update_time": "2025-05-21 19:25:38",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "hasdepotsindlc": "0",
+        "3525581": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6143240252061943067",
+                    "size": "142210289",
+                    "download": "56156992"
+                }
+            },
+            "decryptionkey": "bc3d95dfee9505ceceb773ef61fefbfff2e042162d6f929de688b57b5a5cd9e1"
+        },
+        "3525582": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4919777728059517358",
+                    "size": "114378177",
+                    "download": "50771792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18532761",
+                "timeupdated": "1747740614"
+            }
+        }
+    }
+}
