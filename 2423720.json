@@ -1,0 +1,42 @@
+{
+    "appid": "2423720",
+    "type": "Demo",
+    "name": "Mandragora Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28896097",
+    "update_time": "2025-05-09 14:32:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2423721": {
+            "manifests": {
+                "public": {
+                    "gid": "3147019946970219237",
+                    "size": "5286972231",
+                    "download": "4971469440"
+                }
+            },
+            "decryptionkey": "0a103cdf3fdea3fa163e420434b88e25157b36261ef0d20b268df8ed96c9e2d0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18057435",
+                "timeupdated": "1744303094"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
