@@ -1,0 +1,64 @@
+{
+    "appid": "1443590",
+    "type": "Demo",
+    "name": " Warnament Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29084105",
+    "update_time": "2025-05-20 22:37:14",
+    "depot": {
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1443591": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4555687043460357150",
+                    "size": "275297883",
+                    "download": "235623920"
+                }
+            }
+        },
+        "1443592": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "117247510487295076",
+                    "size": "270241460",
+                    "download": "234955408"
+                }
+            },
+            "decryptionkey": "62c5de7dd8d7f590de7629e5f08c913718080c444b0b3ff3784b24b49ef74ab9"
+        },
+        "1443593": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3080095167031913354",
+                    "size": "268332102",
+                    "download": "234285552"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18535147",
+                "timeupdated": "1747751829"
+            }
+        }
+    }
+}
