@@ -1,0 +1,36 @@
+{
+    "appid": "2878960",
+    "type": "Game",
+    "name": "WWE 2K25",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29086789",
+    "update_time": "2025-05-21 00:55:26",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2878961": {
+            "manifests": {
+                "public": {
+                    "gid": "1938834547018379263",
+                    "size": "105485883157",
+                    "download": "102311426080"
+                }
+            },
+            "decryptionkey": "06400ef21bacfd625a917c8964e13740059333d2173dc2496357ef23db97f483"
+        },
+        "baselanguages": "english,german,french,italian,spanish,arabic",
+        "branches": {
+            "public": {
+                "buildid": "18409445",
+                "timeupdated": "1747234708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
