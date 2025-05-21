@@ -1,0 +1,45 @@
+{
+    "appid": "2070000",
+    "type": "Game",
+    "name": "Heavy Burden",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008365",
+    "update_time": "2025-05-16 01:42:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2070001": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8458401401356269566",
+                    "size": "3793755205",
+                    "download": "1806019136"
+                }
+            },
+            "decryptionkey": "a7871e69ef6390e0f8e06620e9a510b0f37e1593d1c5f29969fb90f37a79b75a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17342029",
+                "timeupdated": "1739391331"
+            }
+        }
+    }
+}
