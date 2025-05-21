@@ -1,0 +1,36 @@
+{
+    "appid": "2399420",
+    "type": "Game",
+    "name": "Le Mans Ultimate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098837",
+    "update_time": "2025-05-21 19:30:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2399421": {
+            "manifests": {
+                "public": {
+                    "gid": "5353637632724745951",
+                    "size": "30392048209",
+                    "download": "28786638448"
+                }
+            },
+            "decryptionkey": "5ebe75565e2b00384fc9a712d85cb05cff556cce0e0a2566bbb63be290aaa378"
+        },
+        "baselanguages": "english,german,french,italian,spanish",
+        "branches": {
+            "public": {
+                "buildid": "18459722",
+                "timeupdated": "1747731805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
