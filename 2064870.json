@@ -1,0 +1,53 @@
+{
+    "appid": "2064870",
+    "type": "Game",
+    "name": "Deceit 2",
+    "schinese_name": "黑暗逃生2",
+    "isfreeapp": "1",
+    "change_number": "29101101",
+    "update_time": "2025-05-21 19:35:58",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2064871": {
+            "manifests": {
+                "public": {
+                    "gid": "5326595560952759471",
+                    "size": "25110326403",
+                    "download": "21106108672"
+                },
+                "external-public": {
+                    "gid": "7518170521442742635",
+                    "size": "22942629093",
+                    "download": "19188275600"
+                }
+            },
+            "decryptionkey": "b0f8bc90f762c42a1f9272a155af3c7fd5ec0c0d2b08572bda4353fd8450c827"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18521219",
+                "timeupdated": "1747821423"
+            },
+            "external-public": {
+                "buildid": "17643079",
+                "description": "External public",
+                "timeupdated": "1741792081"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
