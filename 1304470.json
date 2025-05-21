@@ -1,0 +1,32 @@
+{
+    "appid": "1304470",
+    "type": "Game",
+    "name": "降妖神兵",
+    "schinese_name": "降妖神兵",
+    "isfreeapp": "0",
+    "change_number": "29049648",
+    "update_time": "2025-05-18 23:02:51",
+    "depot": {
+        "baselanguages": "schinese",
+        "1304471": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3365060266393759346",
+                    "size": "672954612",
+                    "download": "367273952"
+                }
+            },
+            "decryptionkey": "0ed64ad571e5fe283b9916cf37db08ab2f37a8221a53651dd1544e812832c239"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509116",
+                "timeupdated": "1747580566"
+            }
+        }
+    }
+}
