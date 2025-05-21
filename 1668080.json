@@ -1,0 +1,43 @@
+{
+    "appid": "1668080",
+    "type": "Game",
+    "name": "Flåklypa Grand Prix",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29059188",
+    "update_time": "2025-05-19 17:54:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1668081": {
+            "manifests": {
+                "public": {
+                    "gid": "5442348421397844864",
+                    "size": "6546024119",
+                    "download": "5526827072"
+                }
+            },
+            "decryptionkey": "2a24f7b86849f4c000de5d70068e8cf375e62eb26588b69659c24357ef167911"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18451168",
+                "timeupdated": "1747302464"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
