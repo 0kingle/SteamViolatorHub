@@ -1,0 +1,27 @@
+{
+    "appid": "2283780",
+    "type": "Game",
+    "name": "Stranded in Space",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010409",
+    "update_time": "2025-05-16 03:48:50",
+    "depot": {
+        "2283782": {
+            "manifests": {
+                "public": {
+                    "gid": "673033984115369509",
+                    "size": "16233935499",
+                    "download": "16069636224"
+                }
+            },
+            "decryptionkey": "823ea5f1a167ddc9924062a3e1e81ffce15a2a60d02a7a21faba32e316a8a1b6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16883851",
+                "timeupdated": "1735688529"
+            }
+        }
+    }
+}
