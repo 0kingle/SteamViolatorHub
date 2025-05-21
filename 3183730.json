@@ -1,0 +1,42 @@
+{
+    "appid": "3183730",
+    "type": "Game",
+    "name": "Driveloop: Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078363",
+    "update_time": "2025-05-20 17:16:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3183731": {
+            "manifests": {
+                "public": {
+                    "gid": "4330683475510785766",
+                    "size": "1695631374",
+                    "download": "1508954144"
+                }
+            },
+            "decryptionkey": "7d199e7ef5e7ea1f9ae6d728a6d1525bb6a4f3a76bb4fa68113bf7ed5d5c9772"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18390455",
+                "timeupdated": "1746716383"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
