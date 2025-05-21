@@ -1,0 +1,60 @@
+{
+    "appid": "1626620",
+    "type": "Game",
+    "name": "Koira",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29057569",
+    "update_time": "2025-05-19 16:12:12",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,arabic,brazilian",
+        "1626622": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3135328503161550055",
+                    "size": "859274860",
+                    "download": "679808496"
+                }
+            },
+            "decryptionkey": "2dde08ba13fea4295ac7843ea72319b9aee0c322b50e94f82a7104ef7d242dea"
+        },
+        "1626623": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7758130818454397796",
+                    "size": "939231083",
+                    "download": "698077808"
+                }
+            }
+        },
+        "1626624": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1025538239077715490",
+                    "size": "875196468",
+                    "download": "687441024"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18043847",
+                "timeupdated": "1744881899"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
