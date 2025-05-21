@@ -1,0 +1,31 @@
+{
+    "appid": "1370620",
+    "type": "Game",
+    "name": "Zodiac Girls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28447314",
+    "update_time": "2025-04-13 03:07:56",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1370621": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2326414645178279174",
+                    "size": "383621366",
+                    "download": "189096608"
+                }
+            },
+            "decryptionkey": "c79542921325dfecba698dea564baf1c72d99833cae6d19998bf0aba733b0029"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5374587",
+                "timeupdated": "1596633271"
+            }
+        }
+    }
+}
