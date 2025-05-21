@@ -1,0 +1,43 @@
+{
+    "appid": "2079180",
+    "type": "Game",
+    "name": "VIDEOVERSE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28498488",
+    "update_time": "2025-04-16 09:07:49",
+    "depot": {
+        "2079181": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7972236651591732135",
+                    "size": "650360737",
+                    "download": "493420464"
+                }
+            },
+            "decryptionkey": "b913a04495ecd4ae0688b8e1a38adf6f2700c20b5933708d016f42ae7b1ce065"
+        },
+        "2079182": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2899215063867557508",
+                    "size": "559462637",
+                    "download": "464266368"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16394301",
+                "timeupdated": "1731579803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
