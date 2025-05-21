@@ -1,0 +1,80 @@
+{
+    "appid": "440310",
+    "type": "Game",
+    "name": "Project Arrhythmia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973443",
+    "update_time": "2025-05-14 12:37:44",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "440310",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "440311": {
+            "config": {
+                "osarch": "32",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6301140160103406095",
+                    "size": "191177386",
+                    "download": "91220512"
+                },
+                "alpha": {
+                    "gid": "6301140160103406095",
+                    "size": "191177386",
+                    "download": "91220512"
+                }
+            }
+        },
+        "440312": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4003831988257268771",
+                    "size": "885492881",
+                    "download": "492514928"
+                },
+                "alpha": {
+                    "gid": "4003831988257268771",
+                    "size": "885492881",
+                    "download": "492514928"
+                }
+            },
+            "decryptionkey": "751393c24525029f71ff78d38785beb04b3206384961c2cb01a0223eb9519f43"
+        },
+        "440313": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18198276",
+                "timeupdated": "1745419988"
+            },
+            "alpha": {
+                "buildid": "18198276",
+                "description": "Preview new features, patches before they hit the default branch!",
+                "timeupdated": "1745352203"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "80e1ef4ac02e04e8bafaf0e3bebf73df27cdba56be338265b82ba7daf4aac051"
+    }
+}
