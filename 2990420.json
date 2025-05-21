@@ -1,0 +1,68 @@
+{
+    "appid": "2990420",
+    "type": "Demo",
+    "name": "The Void Project Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980813",
+    "update_time": "2025-05-14 22:49:20",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2990421": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6056233530426633398",
+                    "size": "158453400",
+                    "download": "67001328"
+                }
+            },
+            "decryptionkey": "b72ff5bce4c47c11f91e0e7be4cc131fda4c0af19d2b68942417e7cbc46cf816"
+        },
+        "2990422": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7904596051597492738",
+                    "size": "185245464",
+                    "download": "73888416"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18388514",
+                "timeupdated": "1746706385"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
