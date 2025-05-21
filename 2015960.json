@@ -1,0 +1,59 @@
+{
+    "appid": "2015960",
+    "type": "Game",
+    "name": "Parcel Corps",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078957",
+    "update_time": "2025-05-20 17:50:12",
+    "depot": {
+        "workshopdepot": "2015960",
+        "2015961": {
+            "manifests": {
+                "public": {
+                    "gid": "3286795613354607404",
+                    "size": "12542668644",
+                    "download": "5424181040"
+                },
+                "patchpreview": {
+                    "gid": "3286795613354607404",
+                    "size": "12542668644",
+                    "download": "5424181040"
+                }
+            },
+            "decryptionkey": "49e28894827dbb154e036251a43241f0b5c9aa01cf1f3d09db9ddcaed8e526fb"
+        },
+        "2015962": {
+            "config": {
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1716824922656423729",
+                    "size": "12542668644",
+                    "download": "5423538864"
+                },
+                "patchpreview": {
+                    "gid": "1716824922656423729",
+                    "size": "12542668644",
+                    "download": "5423538864"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "16485454",
+                "timeupdated": "1732543166"
+            },
+            "patchpreview": {
+                "buildid": "16485454",
+                "description": "Testing branch for upcoming patch",
+                "timeupdated": "1732188874"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
