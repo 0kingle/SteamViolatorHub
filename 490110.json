@@ -1,0 +1,28 @@
+{
+    "appid": "490110",
+    "type": "Game",
+    "name": "The Precinct",
+    "schinese_name": "警区",
+    "isfreeapp": "0",
+    "change_number": "29101621",
+    "update_time": "2025-05-21 19:37:03",
+    "depot": {
+        "490111": {
+            "manifests": {
+                "public": {
+                    "gid": "5248906601395034933",
+                    "size": "8157595402",
+                    "download": "3802269024"
+                }
+            },
+            "decryptionkey": "44bcc3870bf156385e37ff47e71ae28824fa905a542cdc8eaf05715799f78fc2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18523787",
+                "timeupdated": "1747823272"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
