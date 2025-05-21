@@ -1,0 +1,74 @@
+{
+    "appid": "931180",
+    "type": "Game",
+    "name": "Conan Exiles - Public Beta Client",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28904534",
+    "update_time": "2025-05-09 23:22:58",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "931181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2258901516701765070",
+                    "size": "113223088205",
+                    "download": "70140675408"
+                }
+            },
+            "decryptionkey": "148be429147b66017ae568eff3a28fe80d384e6ea1a6e48d2ec0cc6711e6ffd2"
+        },
+        "931182": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6418604546377544946",
+                    "size": "122110985",
+                    "download": "40606096"
+                }
+            },
+            "decryptionkey": "80f7f1f6004dc0278bdeb3d0cc5cd1a191127c0668f5e02325e1769fe4f29c40"
+        },
+        "931183": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2350002295967312136",
+                    "size": "229574628",
+                    "download": "97288064"
+                }
+            },
+            "decryptionkey": "e25c2382fde91bd8cfe90d79598b8fec9b3de056d030df03a576a64a0e155e93"
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "931180",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18405219",
+                "timeupdated": "1746804153"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d6d18708d30bc505754b1b0251bdeba7a3d26cdffe33928b7802884d8330c6a0"
+    }
+}
