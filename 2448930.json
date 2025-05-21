@@ -1,0 +1,31 @@
+{
+    "appid": "2448930",
+    "type": "Game",
+    "name": "Starstruck Vagabond",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012131",
+    "update_time": "2025-05-16 05:48:45",
+    "depot": {
+        "2448931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1180786766282928721",
+                    "size": "608172859",
+                    "download": "540639648"
+                }
+            },
+            "decryptionkey": "3d870cdd002205d6605e4469544c4886f6e130b00d558e838b13e386a0005337"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18018427",
+                "timeupdated": "1744069314"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
