@@ -1,0 +1,44 @@
+{
+    "appid": "1171320",
+    "type": "Game",
+    "name": "Frog Detective 3: Corruption at Cowboy County",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28788444",
+    "update_time": "2025-05-03 00:00:25",
+    "depot": {
+        "1171321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4274120940009160535",
+                    "size": "522297135",
+                    "download": "387257120"
+                }
+            },
+            "decryptionkey": "6ac45405f24f2c6a5216e561fea9c8dc3fca9a69d28e176afc71bfcbaabbaf3b"
+        },
+        "1171322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9159227299759177931",
+                    "size": "515918191",
+                    "download": "385149248"
+                }
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18274760",
+                "timeupdated": "1746022381"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
