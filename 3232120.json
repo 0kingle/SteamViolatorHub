@@ -1,0 +1,42 @@
+{
+    "appid": "3232120",
+    "type": "Demo",
+    "name": "Otherskin Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023764",
+    "update_time": "2025-05-16 20:11:40",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3232121": {
+            "manifests": {
+                "public": {
+                    "gid": "3528765364435114144",
+                    "size": "11615513129",
+                    "download": "9281256416"
+                }
+            },
+            "decryptionkey": "02da996e886eb84957d8d0c1b7dfd99162e6d013e41b91dae61a4ec294a9839b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493934",
+                "timeupdated": "1747413891"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
