@@ -1,0 +1,50 @@
+{
+    "appid": "1347550",
+    "type": "Game",
+    "name": "Tiny Combat Arena",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986316",
+    "update_time": "2025-05-15 01:26:44",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1347551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8973001001615835063",
+                    "size": "280018591",
+                    "download": "99522544"
+                },
+                "testers": {
+                    "gid": "2828700708912758203",
+                    "size": "299711409",
+                    "download": "103976256"
+                }
+            },
+            "decryptionkey": "1e3ccdbe24790bab10b3168dc06989e1c4cda5ef70c031f1def7d7762f2eb74a"
+        },
+        "workshopdepot": "1347550",
+        "branches": {
+            "public": {
+                "buildid": "18019605",
+                "timeupdated": "1744078143"
+            },
+            "testers": {
+                "buildid": "18019625",
+                "description": "Test builds before they go live",
+                "timeupdated": "1744078107"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d9e972f0ee01ee083c2744ce3bf7a86b546dc4e4ae9f7b8925d0be243690ab3d"
+    }
+}
