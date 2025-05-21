@@ -1,0 +1,35 @@
+{
+    "appid": "986310",
+    "type": "Game",
+    "name": "Recompile",
+    "schinese_name": "再编译",
+    "isfreeapp": "0",
+    "change_number": "28981801",
+    "update_time": "2025-05-14 22:50:47",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "0",
+        "986311": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8685773753324340303",
+                    "size": "2784076142",
+                    "download": "1352111136"
+                }
+            },
+            "decryptionkey": "9b495245ee5a8746ab08833e1952584398d0fa2ea86a74f77ef584347907fbda"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7246495",
+                "timeupdated": "1629965803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
