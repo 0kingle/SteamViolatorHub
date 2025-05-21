@@ -1,0 +1,95 @@
+{
+    "appid": "1816140",
+    "type": "Game",
+    "name": "Sinners Landing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078825",
+    "update_time": "2025-05-20 17:41:47",
+    "depot": {
+        "1816141": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3919319599575123314",
+                    "size": "3305221267",
+                    "download": "2008295808"
+                },
+                "beta": {
+                    "gid": "1728142848157356035",
+                    "size": "3623977977",
+                    "download": "2235906832"
+                }
+            },
+            "decryptionkey": "047b5ee922164c61ac956957d3b6362d17be98ae7076ae44fd086b3570f37949"
+        },
+        "1816142": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5677842391010665840",
+                    "size": "3296688544",
+                    "download": "2006836192"
+                },
+                "beta": {
+                    "gid": "2044121209603832530",
+                    "size": "3615448887",
+                    "download": "2234339488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1816143": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4621648650492933858",
+                    "size": "3329128909",
+                    "download": "2017501152"
+                },
+                "beta": {
+                    "gid": "1037762450119566258",
+                    "size": "3647904855",
+                    "download": "2246301776"
+                }
+            }
+        },
+        "1816144": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8734663882312706233",
+                    "size": "3305622367",
+                    "download": "2008068768"
+                },
+                "beta": {
+                    "gid": "7509650586935037356",
+                    "size": "3624408926",
+                    "download": "2235836160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17588285",
+                "timeupdated": "1741091081"
+            },
+            "beta": {
+                "buildid": "18546975",
+                "description": "Beta Branch",
+                "timeupdated": "1747819681"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
