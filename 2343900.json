@@ -1,0 +1,41 @@
+{
+    "appid": "2343900",
+    "type": "Game",
+    "name": "Project Werewulf",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29071892",
+    "update_time": "2025-05-20 08:21:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2343901": {
+            "manifests": {
+                "public": {
+                    "gid": "8750236859879991334",
+                    "size": "12412561064",
+                    "download": "11720446816"
+                }
+            },
+            "decryptionkey": "d6e9c4301a0a996edf1723a1b92a7b04e1869b11928726496af4af41b22299ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18516870",
+                "timeupdated": "1747655228"
+            }
+        }
+    }
+}
