@@ -1,0 +1,118 @@
+{
+    "appid": "12480",
+    "type": "Game",
+    "name": "9th Company: Roots of Terror",
+    "schinese_name": "第九连：恐怖之源",
+    "isfreeapp": "0",
+    "change_number": "29051721",
+    "update_time": "2025-05-19 03:35:57",
+    "depot": {
+        "overridescddb": "1",
+        "baselanguages": "english,french,tchinese,russian,polish,hungarian,czech",
+        "12481": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7215328923291544789",
+                    "size": "1550292727",
+                    "download": "1480041904"
+                }
+            },
+            "decryptionkey": "75c2701acd7caebf8651e5f60eb31a33fc4eb4eebb3bf312105f3da6adde8ab4"
+        },
+        "12482": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "583964690333663952",
+                    "size": "1445881771",
+                    "download": "1338998144"
+                }
+            },
+            "decryptionkey": "a80f2d8681b0f0f943fd5c19a565ebcea7b5c1e8e3f890bbd354a72af2ef5df4"
+        },
+        "12483": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6680180187101550654",
+                    "size": "1853021585",
+                    "download": "1395575344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "12484": {
+            "config": {
+                "language": "polish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5940279640510466031",
+                    "size": "1546109627",
+                    "download": "1445841792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "12485": {
+            "config": {
+                "language": "czech",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3291762126326792815",
+                    "size": "1547709948",
+                    "download": "1447437872"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "12486": {
+            "config": {
+                "language": "hungarian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2511022793199713949",
+                    "size": "1547709905",
+                    "download": "1447440176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "12487": {
+            "config": {
+                "language": "tchinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5469149098837066791",
+                    "size": "1542351801",
+                    "download": "1444792256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18510465",
+                "timeupdated": "1747596953"
+            }
+        }
+    }
+}
