@@ -1,0 +1,90 @@
+{
+    "appid": "1961600",
+    "type": "Game",
+    "name": "Darfall",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102409",
+    "update_time": "2025-05-21 19:35:47",
+    "depot": {
+        "1961601": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "493780617088315117",
+                    "size": "4250303596",
+                    "download": "1853649632"
+                },
+                "ptr-1": {
+                    "gid": "45727068817031837",
+                    "size": "4250353970",
+                    "download": "1853678208"
+                },
+                "ptr-2": {
+                    "gid": "6153226839293448114",
+                    "size": "4250162692",
+                    "download": "1853620352"
+                },
+                "ptr-osx": {
+                    "gid": "8414385900372025860",
+                    "size": "4249918500",
+                    "download": "1853549776"
+                }
+            },
+            "decryptionkey": "648e64e57df4bde6e9a0e771af2cc97e87617a73b96057c3c67a788fab747bdb"
+        },
+        "1961602": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8211938843249727105",
+                    "size": "0",
+                    "download": "0"
+                },
+                "ptr-1": {
+                    "gid": "8211938843249727105",
+                    "size": "0",
+                    "download": "0"
+                },
+                "ptr-2": {
+                    "gid": "8211938843249727105",
+                    "size": "0",
+                    "download": "0"
+                },
+                "ptr-osx": {
+                    "gid": "5782595649130144157",
+                    "size": "4214233870",
+                    "download": "1819653024"
+                }
+            }
+        },
+        "workshopdepot": "1961600",
+        "branches": {
+            "public": {
+                "buildid": "18534955",
+                "timeupdated": "1747755142"
+            },
+            "ptr-1": {
+                "buildid": "18492557",
+                "description": "[Prod] Public Test Branch 1 for testing early builds. Expect issues.",
+                "timeupdated": "1747404829"
+            },
+            "ptr-2": {
+                "buildid": "18533310",
+                "description": "\t[Prod] Public Test Branch 2 for testing early builds. Expect issues.",
+                "timeupdated": "1747743113"
+            },
+            "ptr-osx": {
+                "buildid": "18448723",
+                "description": "[Prod] Public Test Branch for MacOS build",
+                "timeupdated": "1747158338"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
