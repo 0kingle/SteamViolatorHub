@@ -1,0 +1,27 @@
+{
+    "appid": "2627410",
+    "type": "Game",
+    "name": "Boxing School 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29083610",
+    "update_time": "2025-05-20 22:12:15",
+    "depot": {
+        "2627411": {
+            "manifests": {
+                "public": {
+                    "gid": "8403460135973509839",
+                    "size": "1306169400",
+                    "download": "489904080"
+                }
+            },
+            "decryptionkey": "e74ab9b45b305fdff87afcef0d6d1885727edffdf266e386b639d308bcbaa0b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18465991",
+                "timeupdated": "1747253306"
+            }
+        }
+    }
+}
