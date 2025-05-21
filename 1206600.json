@@ -1,0 +1,32 @@
+{
+    "appid": "1206600",
+    "type": "Game",
+    "name": "Almighty: Kill Your Gods",
+    "schinese_name": "全能：弑神之旅",
+    "isfreeapp": "0",
+    "change_number": "28985085",
+    "update_time": "2025-05-15 00:19:52",
+    "depot": {
+        "1206601": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2456153239409207627",
+                    "size": "17855279297",
+                    "download": "9059824912"
+                }
+            },
+            "decryptionkey": "35f29bdeb223b92227e2f8c1321fff6bb4a578a1fe97fddc9165cc6db5d11b73"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10527522",
+                "timeupdated": "1676568697"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
