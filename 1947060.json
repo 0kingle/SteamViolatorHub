@@ -1,0 +1,44 @@
+{
+    "appid": "1947060",
+    "type": "Game",
+    "name": "On the Wings - Birth of a Hero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29017663",
+    "update_time": "2025-05-16 14:16:13",
+    "depot": {
+        "baselanguages": "english",
+        "1947061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4216509788604805109",
+                    "size": "4946812185",
+                    "download": "2100427840"
+                }
+            },
+            "decryptionkey": "27f01cbe22952ff2a9057860c6cc7239b70a2c0a7cf734a3cec3a5cec5acd69d"
+        },
+        "1947062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6311614312206338201",
+                    "size": "5055405842",
+                    "download": "2176053296"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14053237",
+                "timeupdated": "1713161612"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
