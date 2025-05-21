@@ -1,0 +1,42 @@
+{
+    "appid": "2622280",
+    "type": "Game",
+    "name": "Shell Runner",
+    "schinese_name": "Shell Runner 攻壳行者",
+    "isfreeapp": "0",
+    "change_number": "28871654",
+    "update_time": "2025-05-08 07:30:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2622281": {
+            "manifests": {
+                "public": {
+                    "gid": "4375215603715505060",
+                    "size": "2415876224",
+                    "download": "2077904560"
+                }
+            },
+            "decryptionkey": "d57abfcd9dbd63893836c880df4c1d9d83d03840c29dd2e9066928f234529a7b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17872392",
+                "timeupdated": "1744387173"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
