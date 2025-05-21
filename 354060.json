@@ -1,0 +1,45 @@
+{
+    "appid": "354060",
+    "type": "Tool",
+    "name": "RaceRoom Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28996217",
+    "update_time": "2025-05-15 14:44:52",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "354061": {
+            "manifests": {
+                "public": {
+                    "gid": "4103455317979777075",
+                    "size": "56970240",
+                    "download": "51160048"
+                },
+                "preview": {
+                    "gid": "4103455317979777075",
+                    "size": "56970240",
+                    "download": "51160048"
+                }
+            },
+            "decryptionkey": "c1811c77d3445ab53c90d654679efabe128cc6acf20f5652e96dc4661138f110"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18234179",
+                "timeupdated": "1745565903"
+            },
+            "preview": {
+                "buildid": "18234179",
+                "description": "early look",
+                "timeupdated": "1745563065"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
