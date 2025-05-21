@@ -1,0 +1,65 @@
+{
+    "appid": "2644210",
+    "type": "Game",
+    "name": "Margarita (Berkeley's Maid: Remake Edition)",
+    "schinese_name": "伯克利家的女仆：重制版（玛格丽特）",
+    "isfreeapp": "0",
+    "change_number": "29057492",
+    "update_time": "2025-05-19 16:07:54",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "schinese",
+        "2644211": {
+            "manifests": {
+                "public": {
+                    "gid": "4101262742260753257",
+                    "size": "983796417",
+                    "download": "585875168"
+                },
+                "testingversion": {
+                    "gid": "5462728062124906082",
+                    "size": "969164154",
+                    "download": "575130304"
+                },
+                "legacy": {
+                    "gid": "6993248507331680107",
+                    "size": "482172975",
+                    "download": "273109552"
+                }
+            },
+            "decryptionkey": "fed9415b636fe2e0a81ac3ee813bbf79a3cb1afa6ca089b0242817567d1c8943"
+        },
+        "3311500": {
+            "dlcappid": "3311500",
+            "manifests": {
+                "public": {
+                    "gid": "1474116739216971749",
+                    "size": "111411607",
+                    "download": "102188944"
+                }
+            },
+            "config": {
+                "optionaldlc": "3311500"
+            },
+            "depotfromapp": "3311500",
+            "decryptionkey": "5e0668e0b08cc28a87e3a72a316a550e7de73f8a60832f59b57e29a52c14f3fb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18514642",
+                "timeupdated": "1747642068"
+            },
+            "testingversion": {
+                "buildid": "18390041",
+                "description": "测试版，内部使用",
+                "timeupdated": "1746714009"
+            },
+            "legacy": {
+                "buildid": "14926727",
+                "description": "已经作废的旧版",
+                "timeupdated": "1739180506"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
