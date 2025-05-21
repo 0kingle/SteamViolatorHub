@@ -1,0 +1,28 @@
+{
+    "appid": "1683150",
+    "type": "Game",
+    "name": "Railroader",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090143",
+    "update_time": "2025-05-21 04:24:16",
+    "depot": {
+        "1683151": {
+            "manifests": {
+                "public": {
+                    "gid": "2650306394579216359",
+                    "size": "8898329381",
+                    "download": "3297225440"
+                }
+            },
+            "decryptionkey": "a6213f68b5dd47f4f8e9e0252dfc6ff390dea9931c891b01fca20408efae3bb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18404845",
+                "timeupdated": "1746802492"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
