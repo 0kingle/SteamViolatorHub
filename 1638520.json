@@ -1,0 +1,44 @@
+{
+    "appid": "1638520",
+    "type": "Game",
+    "name": "Hyperglide",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28391514",
+    "update_time": "2025-04-10 01:21:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1638521": {
+            "manifests": {
+                "public": {
+                    "gid": "605087102783965579",
+                    "size": "654765031",
+                    "download": "238245456"
+                },
+                "beta": {
+                    "gid": "605087102783965579",
+                    "size": "654765031",
+                    "download": "238245456"
+                }
+            },
+            "decryptionkey": "14f919985b9cfd360bf02c061e9a05541e85bf40bb3db9382e7c1149dc9f1579"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18043577",
+                "timeupdated": "1744219290"
+            },
+            "beta": {
+                "buildid": "18043577",
+                "description": "Public Beta",
+                "timeupdated": "1744218312"
+            }
+        }
+    }
+}
