@@ -1,0 +1,42 @@
+{
+    "appid": "1266540",
+    "type": "Game",
+    "name": "Ships At Sea",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089524",
+    "update_time": "2025-05-21 03:41:21",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1266542": {
+            "manifests": {
+                "public": {
+                    "gid": "1608747421583401907",
+                    "size": "23140880696",
+                    "download": "22468942208"
+                }
+            },
+            "decryptionkey": "fbcc1f73994ed18e530465bb11c2a7f9a7a2d4cbdab681c215bf1ddfe135a8ca"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18473849",
+                "timeupdated": "1747304990"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
