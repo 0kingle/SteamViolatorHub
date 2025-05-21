@@ -1,0 +1,43 @@
+{
+    "appid": "1484280",
+    "type": "Game",
+    "name": "Demeo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102779",
+    "update_time": "2025-05-21 19:40:11",
+    "depot": {
+        "1484281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6846938464555711844",
+                    "size": "4389390033",
+                    "download": "3765981712"
+                }
+            },
+            "decryptionkey": "aaa814ad1a235312ae0274245cf6cd361dc8c3e7dda76ea0f4a3d19ae1937fcc"
+        },
+        "1484282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4731824063823417116",
+                    "size": "5567326495",
+                    "download": "3334283616"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18516985",
+                "timeupdated": "1747661004"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
