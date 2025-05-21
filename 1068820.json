@@ -1,0 +1,64 @@
+{
+    "appid": "1068820",
+    "type": "Application",
+    "name": "OVR Toolkit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089977",
+    "update_time": "2025-05-21 04:13:21",
+    "depot": {
+        "1068821": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1470032695591501551",
+                    "size": "955386301",
+                    "download": "195625680"
+                },
+                "no-updates": {
+                    "gid": "1136215697058543365",
+                    "size": "824930979",
+                    "download": "153086976"
+                },
+                "open-beta": {
+                    "gid": "4177900411652151337",
+                    "size": "952340142",
+                    "download": "195463840"
+                },
+                "previous-release": {
+                    "gid": "588968288140795784",
+                    "size": "825167987",
+                    "download": "153143424"
+                }
+            },
+            "decryptionkey": "b1ac70eb9afc949e0644b8f68791b30974d10d6976185dc44402eef72124e49b"
+        },
+        "workshopdepot": "1068820",
+        "branches": {
+            "public": {
+                "buildid": "18077890",
+                "timeupdated": "1744488559"
+            },
+            "no-updates": {
+                "buildid": "12400445",
+                "description": "Static branch that will not regularly change",
+                "timeupdated": "1699915438"
+            },
+            "open-beta": {
+                "buildid": "18539306",
+                "description": "Open Beta",
+                "timeupdated": "1747771994"
+            },
+            "previous-release": {
+                "buildid": "14405330",
+                "description": "Previous release build",
+                "timeupdated": "1726082676"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "497d3631e03efd5431847d78de22db53c7315f734d838831b0bea7490cdcaa6a"
+    }
+}
