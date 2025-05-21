@@ -1,0 +1,75 @@
+{
+    "appid": "1812450",
+    "type": "Game",
+    "name": "Bellwright",
+    "schinese_name": "颂钟长鸣",
+    "isfreeapp": "0",
+    "change_number": "29094337",
+    "update_time": "2025-05-21 10:26:10",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1812451": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8015424006209963425",
+                    "size": "17465364449",
+                    "download": "16553742320"
+                },
+                "august_update": {
+                    "gid": "7447371077549308270",
+                    "size": "17938347044",
+                    "download": "15691962880"
+                },
+                "villages2.0_update": {
+                    "gid": "2620526387081695033",
+                    "size": "17135176930",
+                    "download": "15881794608"
+                }
+            },
+            "decryptionkey": "287e622ba6bcbad4ca8384750d7928d394c05c2377042af90f4d9eb474cba91a"
+        },
+        "workshopdepot": "1812450",
+        "branches": {
+            "public": {
+                "buildid": "18475519",
+                "timeupdated": "1747321057"
+            },
+            "august_update": {
+                "buildid": "16516789",
+                "description": "August update [2024]",
+                "timeupdated": "1732492841"
+            },
+            "villages2.0_update": {
+                "buildid": "16835542",
+                "description": "Villages 2.0 Update [November 2024]",
+                "timeupdated": "1745422999"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
