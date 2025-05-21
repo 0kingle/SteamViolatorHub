@@ -1,0 +1,30 @@
+{
+    "appid": "3014080",
+    "type": "Game",
+    "name": "The Hundred Line -Last Defense Academy-",
+    "schinese_name": "百日战纪 -最终防卫学园-",
+    "isfreeapp": "0",
+    "change_number": "29077562",
+    "update_time": "2025-05-20 16:28:23",
+    "depot": {
+        "3014081": {
+            "manifests": {
+                "public": {
+                    "gid": "6601787832262830435",
+                    "size": "32577311640",
+                    "download": "29932732640"
+                }
+            },
+            "decryptionkey": "9c8b0e729ef1fce35224045a12393cf5a7069e60692bc9b3bf2d64b0bb37b6a3"
+        },
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18307260",
+                "timeupdated": "1746097223"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
