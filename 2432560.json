@@ -1,0 +1,40 @@
+{
+    "appid": "2432560",
+    "type": "Music",
+    "name": "降妖散记 Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:27:10",
+    "depot": {
+        "2432561": {
+            "manifests": {
+                "public": {
+                    "gid": "4953932230941545377",
+                    "size": "98500483",
+                    "download": "97455088"
+                }
+            },
+            "decryptionkey": "c75099f4e1cfd0549c0a80a433bd40110ef398688cac5b9544c62e59439c4317"
+        },
+        "2432562": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3722160905937366120",
+                    "size": "709348528",
+                    "download": "686275120"
+                }
+            },
+            "decryptionkey": "00ec62e62e5d5bbb40531a8042225db93d2c79a54f86bd5a3bedbed821fa54e0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18147273",
+                "timeupdated": "1744910061"
+            }
+        }
+    }
+}
