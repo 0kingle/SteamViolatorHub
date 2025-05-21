@@ -1,0 +1,92 @@
+{
+    "appid": "564050",
+    "type": "Game",
+    "name": "Bud Spencer & Terence Hill - Slaps And Beans",
+    "schinese_name": "无耻乱斗",
+    "isfreeapp": "0",
+    "change_number": "28974848",
+    "update_time": "2025-05-14 22:37:15",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese,danish,hungarian",
+        "564051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6831371196994245468",
+                    "size": "2277358882",
+                    "download": "519345744"
+                }
+            },
+            "decryptionkey": "825cf8e6fbf2a6a005f7d2791f62ec008067a988e77f352ee98d7eef6ab8cbe1"
+        },
+        "564053": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1399174826530533404",
+                    "size": "2299394628",
+                    "download": "525416384"
+                }
+            }
+        },
+        "564054": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "882080512110768268",
+                    "size": "2293212754",
+                    "download": "523954208"
+                }
+            }
+        },
+        "564052": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "207131383036025619",
+                    "size": "1809194141",
+                    "download": "183230480"
+                }
+            }
+        },
+        "564055": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7634761297907654666",
+                    "size": "2299394628",
+                    "download": "526794688"
+                }
+            }
+        },
+        "564056": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7076579475360522586",
+                    "size": "2293212754",
+                    "download": "526378784"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7285611",
+                "timeupdated": "1631731299"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
