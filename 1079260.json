@@ -1,0 +1,61 @@
+{
+    "appid": "1079260",
+    "type": "Game",
+    "name": "Fireworks Mania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28997414",
+    "update_time": "2025-05-15 16:05:06",
+    "depot": {
+        "1079261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "983294993513480062",
+                    "size": "1221534009",
+                    "download": "271445920"
+                },
+                "experimental": {
+                    "gid": "983294993513480062",
+                    "size": "1221534009",
+                    "download": "271445920"
+                },
+                "v2024.10.5": {
+                    "gid": "2378809925652682806",
+                    "size": "1476845521",
+                    "download": "306817936"
+                },
+                "v2021.6.2": {
+                    "gid": "5969806323198583127",
+                    "size": "667215615",
+                    "download": "116345984"
+                }
+            },
+            "decryptionkey": "9ef012833a3fdebc10b1f390b4c16fcae877c9f4253d463fa80622a4d863af13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456878",
+                "timeupdated": "1747234678"
+            },
+            "experimental": {
+                "buildid": "18456878",
+                "description": "Public experimental branch for testing out new things",
+                "timeupdated": "1747234661"
+            },
+            "v2024.10.5": {
+                "buildid": "16079925",
+                "description": "Before multiplayer support",
+                "timeupdated": "1729162824"
+            },
+            "v2021.6.2": {
+                "buildid": "6988476",
+                "description": "Before mod support",
+                "timeupdated": "1639832351"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
