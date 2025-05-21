@@ -1,0 +1,46 @@
+{
+    "appid": "3391050",
+    "type": "Demo",
+    "name": "Crown and Adventure / 王冠与冒险  Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29081458",
+    "update_time": "2025-05-20 20:15:22",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3391051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2934135217607727793",
+                    "size": "2708657325",
+                    "download": "2495875472"
+                }
+            },
+            "decryptionkey": "30f9dfb6c17340d725b4a5ad647866294907b1131b1711151cbd0b7ff3943eb3"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18275700",
+                "timeupdated": "1745909858"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
