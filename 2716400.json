@@ -1,0 +1,96 @@
+{
+    "appid": "2716400",
+    "type": "Game",
+    "name": "The Rise of the Golden Idol",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29058015",
+    "update_time": "2025-05-19 16:41:58",
+    "depot": {
+        "baselanguages": "english",
+        "2716401": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6217062659511703250",
+                    "size": "2938334725",
+                    "download": "2807816608"
+                }
+            },
+            "decryptionkey": "369c88aa7a34e596ee6cf0e3eb93af0259fe3ef7de70e1e285e73557f365188f"
+        },
+        "2716402": {},
+        "2716403": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8052053210838536759",
+                    "size": "3017429255",
+                    "download": "2826237456"
+                }
+            }
+        },
+        "3333870": {
+            "dlcappid": "3333870",
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2955620359222756537",
+                    "size": "500572304",
+                    "download": "485511072"
+                }
+            },
+            "decryptionkey": "27c915af9c80ea8746d49e5832f54c3637bd9a20db457028196b94222b47142d"
+        },
+        "3333860": {
+            "dlcappid": "3333860",
+            "manifests": {
+                "public": {
+                    "gid": "5324208831798358648",
+                    "size": "891159632",
+                    "download": "864151712"
+                }
+            },
+            "decryptionkey": "2adfc1b7518f90239656a9f29587c851f9b8f206381b83d6f0efef44af1bb663"
+        },
+        "3333880": {
+            "dlcappid": "3333880",
+            "config": {
+                "oslist": "windows,macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "386529205146985280",
+                    "size": "390587328",
+                    "download": "380267696"
+                }
+            },
+            "decryptionkey": "1a7ba8ee1daadc056b3316e58463f01679a4266c1cdc4f6d6598072e65ce0443"
+        },
+        "3335341": {
+            "dlcappid": "3335340",
+            "config": {
+                "oslist": "windows,macos"
+            }
+        },
+        "3335351": {
+            "dlcappid": "3335350",
+            "config": {
+                "oslist": "windows,macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492492",
+                "timeupdated": "1747404555"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
