@@ -1,0 +1,102 @@
+{
+    "appid": "2937910",
+    "type": "Game",
+    "name": "Don't Disturb Your STEPMOM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052426",
+    "update_time": "2025-05-19 05:15:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2937911": {
+            "manifests": {
+                "public": {
+                    "gid": "4489975991155385527",
+                    "size": "10294108544",
+                    "download": "8927309920"
+                },
+                "dx11": {
+                    "gid": "4489975991155385527",
+                    "size": "10294108544",
+                    "download": "8927309920"
+                },
+                "testing": {
+                    "gid": "4489975991155385527",
+                    "size": "10294108544",
+                    "download": "8927309920"
+                },
+                "vulkan": {
+                    "gid": "4489975991155385527",
+                    "size": "10294108544",
+                    "download": "8927309920"
+                }
+            },
+            "decryptionkey": "7f1c7ada777551a1a6b52b48d1def3e574cdc1aae86d2e5575821f5002fe0733"
+        },
+        "workshopdepot": "2937910",
+        "branches": {
+            "public": {
+                "buildid": "18503216",
+                "timeupdated": "1747511194"
+            },
+            "dx11": {
+                "buildid": "18503216",
+                "description": "DirectX11",
+                "timeupdated": "1747492923"
+            },
+            "testing": {
+                "buildid": "18503216",
+                "description": "Preview branch",
+                "timeupdated": "1747492929"
+            },
+            "vulkan": {
+                "buildid": "18503216",
+                "description": "vulkan driver",
+                "timeupdated": "1747492936"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "dd17d9d283211eabadb869981da926a994d701c135ecd5e7a49152b7b1bbc0c8"
+    }
+}
