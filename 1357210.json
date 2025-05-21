@@ -1,0 +1,101 @@
+{
+    "appid": "1357210",
+    "type": "Game",
+    "name": "Galactic Civilizations IV",
+    "schinese_name": "银河文明IV",
+    "isfreeapp": "0",
+    "change_number": "29104284",
+    "update_time": "2025-05-21 20:59:03",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,portuguese,polish,brazilian,greek,latam",
+        "workshopdepot": "1357210",
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1357211": {
+            "manifests": {
+                "public": {
+                    "gid": "2667839740463873064",
+                    "size": "27214501742",
+                    "download": "22916158144"
+                },
+                "version_1.51": {
+                    "gid": "5431806142850171811",
+                    "size": "22823136538",
+                    "download": "19562369008"
+                },
+                "insiders": {
+                    "gid": "4459496545050675282",
+                    "size": "27224842715",
+                    "download": "22917272832"
+                },
+                "version_2.96": {
+                    "gid": "2667839740463873064",
+                    "size": "27214501742",
+                    "download": "22916158144"
+                }
+            },
+            "decryptionkey": "e1b28e464e8a1b73bce264c89ada3f3c39d55f32e584807487f8696e927901ff"
+        },
+        "1357212": {
+            "manifests": {
+                "public": {
+                    "gid": "2521258555161199658",
+                    "size": "41405301",
+                    "download": "36712048"
+                },
+                "version_1.51": {
+                    "gid": "334258286141795391",
+                    "size": "33548717",
+                    "download": "28229440"
+                },
+                "insiders": {
+                    "gid": "2521258555161199658",
+                    "size": "41405301",
+                    "download": "36712048"
+                },
+                "version_2.96": {
+                    "gid": "2521258555161199658",
+                    "size": "41405301",
+                    "download": "36712048"
+                }
+            },
+            "decryptionkey": "c867831f9324890e385929266c8b0ebba69267e6432a5d1ebfb372c32a8ab652"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18364586",
+                "timeupdated": "1746631266"
+            },
+            "version_1.51": {
+                "buildid": "11218835",
+                "description": "Version 1.51 for older saves",
+                "timeupdated": "1685545333"
+            },
+            "insiders": {
+                "buildid": "18476156",
+                "description": "Explore experimental features and fixes",
+                "timeupdated": "1747327017"
+            },
+            "version_2.96": {
+                "buildid": "18364586",
+                "description": "Version 2.96 Build",
+                "timeupdated": "1747658695"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "01193d7aaa8aeb8688d5493c22d5d3fdfc2ae46fb544414e8d47a316c67146c8"
+    }
+}
