@@ -1,0 +1,45 @@
+{
+    "appid": "1895630",
+    "type": "Application",
+    "name": "VRM Posing Desktop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990836",
+    "update_time": "2025-05-15 06:33:13",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "1895631": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4127168442292558082",
+                    "size": "243303261",
+                    "download": "130665840"
+                }
+            }
+        },
+        "1895633": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2514076273250909398",
+                    "size": "215090737",
+                    "download": "121126960"
+                }
+            },
+            "decryptionkey": "83728c2f395ea8886c260f975373366a333569fd43b5ecf6dcfbf8718754ada5"
+        },
+        "workshopdepot": "1895630",
+        "branches": {
+            "public": {
+                "buildid": "18169115",
+                "timeupdated": "1745093134"
+            }
+        },
+        "workshopdepotdecryptionkey": "04ea75c42eb9dc478eed9b468cc6883c04d7bd3a4fadafea5596692f1d70df05"
+    }
+}
