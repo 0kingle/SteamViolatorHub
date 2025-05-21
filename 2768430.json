@@ -1,0 +1,31 @@
+{
+    "appid": "2768430",
+    "type": "Game",
+    "name": "ATLYSS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090882",
+    "update_time": "2025-05-21 05:15:50",
+    "depot": {
+        "2768431": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5383564228950874292",
+                    "size": "299337991",
+                    "download": "128289728"
+                }
+            },
+            "decryptionkey": "2bd641c21a3ea24a52b13cb9892f040c0664deb5017a14eb5a5e89056edb29a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16841279",
+                "timeupdated": "1735026818"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
