@@ -1,0 +1,46 @@
+{
+    "appid": "1094730",
+    "type": "Game",
+    "name": "Black Legend",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1094731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7602636697852888264",
+                    "size": "12989105108",
+                    "download": "4725668672"
+                }
+            },
+            "decryptionkey": "15d09be8554e7089f04a5d117ae170be9c187899cadb76f231fd64ff9c246236"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6800276",
+                "timeupdated": "1623078578"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
