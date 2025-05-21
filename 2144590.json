@@ -1,0 +1,72 @@
+{
+    "appid": "2144590",
+    "type": "Game",
+    "name": "Take Me, Vitaly",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098107",
+    "update_time": "2025-05-21 19:28:32",
+    "depot": {
+        "2144591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4862606365871078385",
+                    "size": "3022614852",
+                    "download": "1326535792"
+                }
+            },
+            "decryptionkey": "ad90799e27fcdab8e4951c4460f2695843849573e3d65a76e98fb209372e1acb"
+        },
+        "2144592": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1127407053329542438",
+                    "size": "2994314437",
+                    "download": "1317349008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2144593": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8198606418527961010",
+                    "size": "3013218360",
+                    "download": "1323544064"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2144594": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4991419254028625366",
+                    "size": "3066148267",
+                    "download": "1341792624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18420962",
+                "timeupdated": "1746981955"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
