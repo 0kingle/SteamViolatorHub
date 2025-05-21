@@ -1,0 +1,28 @@
+{
+    "appid": "2719060",
+    "type": "Game",
+    "name": "Mirage Feathers",
+    "schinese_name": "幻耀的羽毛 / Mirage Feathers",
+    "isfreeapp": "0",
+    "change_number": "29099373",
+    "update_time": "2025-05-21 19:32:10",
+    "depot": {
+        "baselanguages": "english",
+        "2719061": {
+            "manifests": {
+                "public": {
+                    "gid": "2203927309078100542",
+                    "size": "815169536",
+                    "download": "139928368"
+                }
+            },
+            "decryptionkey": "05fdf6e0a87a40f02883352bcf83fe2cf99e9df2e9eec653b8746844a2ac12c5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18081606",
+                "timeupdated": "1744441396"
+            }
+        }
+    }
+}
