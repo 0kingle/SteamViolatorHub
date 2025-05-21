@@ -1,0 +1,42 @@
+{
+    "appid": "1272320",
+    "type": "Game",
+    "name": "Diplomacy is Not an Option",
+    "schinese_name": "要战便战",
+    "isfreeapp": "0",
+    "change_number": "29090882",
+    "update_time": "2025-05-21 05:15:43",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1272321": {
+            "manifests": {
+                "public": {
+                    "gid": "260105539661521371",
+                    "size": "11357116077",
+                    "download": "4625294864"
+                }
+            },
+            "decryptionkey": "679b29b2f179a1a412570aecff5f975e3722b084a18733f963832690fcfd6005"
+        },
+        "2941670": {
+            "dlcappid": "2941670",
+            "manifests": {
+                "public": {
+                    "gid": "7411711389904263098",
+                    "size": "663065911",
+                    "download": "662175504"
+                }
+            },
+            "decryptionkey": "bec3b6bade013e0df9876a4149398270a2ef588a15164b75a5c21fb2197029d0"
+        },
+        "workshopdepot": "1272320",
+        "branches": {
+            "public": {
+                "buildid": "18448703",
+                "timeupdated": "1747160226"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a6e1d14489efd06ce2c35a50e97f75a2c94eabec03dcc91536e1266ee2b1d8ce"
+    }
+}
