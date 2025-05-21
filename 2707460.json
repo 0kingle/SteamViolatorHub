@@ -1,0 +1,46 @@
+{
+    "appid": "2707460",
+    "type": "Game",
+    "name": "Dungeon Renovation Simulator Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014083",
+    "update_time": "2025-05-16 08:36:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2707461": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4451723005853770151",
+                    "size": "2036999141",
+                    "download": "1741195488"
+                }
+            },
+            "decryptionkey": "191e0b3c7bd9fac72f560592cdcc67ce5acaebcb6f772603690ea6a306751010"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13062356",
+                "timeupdated": "1703855591"
+            }
+        }
+    }
+}
