@@ -1,0 +1,42 @@
+{
+    "appid": "2782880",
+    "type": "Game",
+    "name": "Sword of the Necromancer: Resurrection",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29021315",
+    "update_time": "2025-05-16 17:51:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2782881": {
+            "manifests": {
+                "public": {
+                    "gid": "5440787606331642261",
+                    "size": "3275522197",
+                    "download": "1006727184"
+                }
+            },
+            "decryptionkey": "39c02db18b94bbade1d2cd650ab83bdf7626604a456bc8211c73645ae0cb6ea9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18488928",
+                "timeupdated": "1747389067"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
