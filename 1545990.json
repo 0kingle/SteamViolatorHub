@@ -1,0 +1,58 @@
+{
+    "appid": "1545990",
+    "type": "Game",
+    "name": "Deadeye Deepfake Simulacrum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089197",
+    "update_time": "2025-05-21 03:20:34",
+    "depot": {
+        "baselanguages": "english",
+        "1545991": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7269792065268506764",
+                    "size": "1419004258",
+                    "download": "393055600"
+                }
+            },
+            "decryptionkey": "c1423b26c8f601a3b2d9d27b3dc2750d2104b9336dab2feb761582d257270f7a"
+        },
+        "1545992": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1317800511959672611",
+                    "size": "1434713960",
+                    "download": "392883712"
+                }
+            }
+        },
+        "1545993": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4865444806225159842",
+                    "size": "1457462938",
+                    "download": "387282960"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18538717",
+                "timeupdated": "1747768829"
+            }
+        }
+    }
+}
