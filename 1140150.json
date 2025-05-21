@@ -1,0 +1,63 @@
+{
+    "appid": "1140150",
+    "type": "Game",
+    "name": "东方光耀夜 ~ Lost Branch of Legend",
+    "schinese_name": "东方光耀夜 ~ Lost Branch of Legend",
+    "isfreeapp": "0",
+    "change_number": "29061063",
+    "update_time": "2025-05-19 19:59:59",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1140151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2876518430293277978",
+                    "size": "4915679806",
+                    "download": "1624907504"
+                },
+                "beta": {
+                    "gid": "2876518430293277978",
+                    "size": "4915679806",
+                    "download": "1624907504"
+                }
+            },
+            "decryptionkey": "50615b31d57243ccab3116b85ab46fe01d860584a3a8ede2bde1362d2d581cc1"
+        },
+        "1140152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4725716528032765324",
+                    "size": "4909543132",
+                    "download": "1623909168"
+                },
+                "beta": {
+                    "gid": "4725716528032765324",
+                    "size": "4909543132",
+                    "download": "1623909168"
+                }
+            },
+            "decryptionkey": "c946bb7206279356b9b1a03620110ce4f354d253b4664f59f1f00da7e61b79ee"
+        },
+        "baselanguages": "",
+        "workshopdepot": "1140150",
+        "branches": {
+            "public": {
+                "buildid": "18514937",
+                "timeupdated": "1747643826"
+            },
+            "beta": {
+                "buildid": "18514937",
+                "description": "v1.7.2",
+                "timeupdated": "1747643606"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
