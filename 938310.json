@@ -1,0 +1,43 @@
+{
+    "appid": "938310",
+    "type": "Game",
+    "name": "12 Labours of Hercules VIII: How I Met Megara",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980806",
+    "update_time": "2025-05-14 22:49:12",
+    "depot": {
+        "938311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4438106731159127132",
+                    "size": "288635495",
+                    "download": "288905520"
+                }
+            },
+            "decryptionkey": "a4e41342bd76f90ccb2ca2c640a904e55543a16ccb2f282cd0c6c113fd814b58"
+        },
+        "938312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3424617111111054220",
+                    "size": "290009135",
+                    "download": "290025888"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "7260530",
+                "timeupdated": "1632307930"
+            }
+        }
+    }
+}
