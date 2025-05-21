@@ -1,0 +1,200 @@
+{
+    "appid": "641320",
+    "type": "Game",
+    "name": "Cooking Simulator",
+    "schinese_name": "料理模拟器",
+    "isfreeapp": "0",
+    "change_number": "29091797",
+    "update_time": "2025-05-21 06:37:40",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "641321": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5469282230986734412",
+                    "size": "4988889810",
+                    "download": "3687839136"
+                },
+                "poltergeist": {
+                    "gid": "972027167869808479",
+                    "size": "4559781982",
+                    "download": "3329049200"
+                }
+            },
+            "decryptionkey": "693af0f9d3395af0e1b880807b3b8b17e6391a03fc860c96b19ed41405f60b47"
+        },
+        "1139960": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "dlcappid": "1139960",
+            "manifests": {
+                "public": {
+                    "gid": "8738189176505780735",
+                    "size": "689737424",
+                    "download": "593096752"
+                },
+                "poltergeist": {
+                    "gid": "8738189176505780735",
+                    "size": "689737424",
+                    "download": "593096752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1168680": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "dlcappid": "1168680",
+            "manifests": {
+                "public": {
+                    "gid": "2982156650603443071",
+                    "size": "236989871",
+                    "download": "200985264"
+                },
+                "poltergeist": {
+                    "gid": "3863902362290471050",
+                    "size": "232899055",
+                    "download": "197592048"
+                }
+            },
+            "decryptionkey": "797b64d673b14e960e7038223232c095037fffe4c87d0a5df408038992d80277"
+        },
+        "1227350": {
+            "dlcappid": "1227350",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5228486800272860493",
+                    "size": "1969450042",
+                    "download": "1784757328"
+                },
+                "poltergeist": {
+                    "gid": "8407915883947809875",
+                    "size": "1960299494",
+                    "download": "1776045552"
+                }
+            },
+            "decryptionkey": "95e78a282673605fd207d57e859d2ebfad79b7e109bf46948174367912417ea4"
+        },
+        "1357180": {
+            "dlcappid": "1357180",
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            }
+        },
+        "1400460": {
+            "dlcappid": "1400460",
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3790781031181987272",
+                    "size": "1701593113",
+                    "download": "1489433280"
+                },
+                "poltergeist": {
+                    "gid": "1980294947058981427",
+                    "size": "1646155496",
+                    "download": "1439334320"
+                }
+            },
+            "decryptionkey": "0b0a23c7ebe1db10757fd3fe167ad02d5a24d30b85ea6204aa955224a82deb4f"
+        },
+        "1575660": {
+            "dlcappid": "1575660",
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8848392722717758104",
+                    "size": "2313541672",
+                    "download": "2095390528"
+                },
+                "poltergeist": {
+                    "gid": "6715647609153354260",
+                    "size": "2587535068",
+                    "download": "2345549280"
+                }
+            },
+            "decryptionkey": "3da4fdcde0a30525db779f45c19281032e80bdf2174c17b75edae1ff9892c4ac"
+        },
+        "641322": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1461777323593563761",
+                    "size": "4408337740",
+                    "download": "3214918352"
+                }
+            },
+            "decryptionkey": "db47cd4de11025ce2760303af3fd623baa4f940a1d4abade766929e6fdea5773"
+        },
+        "2655000": {
+            "dlcappid": "2655000",
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3903894926250015946",
+                    "size": "2714801451",
+                    "download": "2256438128"
+                }
+            },
+            "decryptionkey": "2f18b51f4778cff77849ba20d5641847ce0ee6d1695ca634a6ba22af6482b01d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18490803",
+                "timeupdated": "1747396683"
+            },
+            "poltergeist": {
+                "buildid": "7921875",
+                "description": "Poltergeist",
+                "timeupdated": "1640105257"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
