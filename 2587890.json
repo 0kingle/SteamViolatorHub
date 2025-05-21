@@ -1,0 +1,38 @@
+{
+    "appid": "2587890",
+    "type": "Game",
+    "name": "Poon Puzzle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013203",
+    "update_time": "2025-05-16 07:24:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2587891": {
+            "manifests": {
+                "public": {
+                    "gid": "8992795552489623505",
+                    "size": "315004695",
+                    "download": "262824240"
+                },
+                "beta": {
+                    "gid": "8992795552489623505",
+                    "size": "315004695",
+                    "download": "262824240"
+                }
+            },
+            "decryptionkey": "c1e63e2eb2ba5eae62a85cce7075fa575103d6102f17667d40db07928712b509"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16274628",
+                "timeupdated": "1730555453"
+            },
+            "beta": {
+                "buildid": "16274628",
+                "description": "For testing",
+                "timeupdated": "1730554703"
+            }
+        }
+    }
+}
