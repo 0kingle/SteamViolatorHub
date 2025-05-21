@@ -1,0 +1,28 @@
+{
+    "appid": "2791100",
+    "type": "DLC",
+    "name": "Touhou Danmaku Kagura Phantasia Lost Digital Artbook",
+    "schinese_name": "东方弹幕神乐 失落幻想 电子美术设定集",
+    "isfreeapp": "0",
+    "change_number": "28580655",
+    "update_time": "2025-04-21 16:47:28",
+    "depot": {
+        "2791100": {
+            "dlcappid": "2791100",
+            "manifests": {
+                "public": {
+                    "gid": "6891064590758046517",
+                    "size": "552255214",
+                    "download": "501735648"
+                }
+            },
+            "decryptionkey": "2a3437e1e75880812d6836420d39450fa6a965142dfbf0fe5b1ec7936b5e0f70"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18178815",
+                "timeupdated": "1745225243"
+            }
+        }
+    }
+}
