@@ -1,0 +1,32 @@
+{
+    "appid": "2228280",
+    "type": "Game",
+    "name": "MEMORIA POLIS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29085236",
+    "update_time": "2025-05-20 23:32:38",
+    "depot": {
+        "2228281": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8315098694719213779",
+                    "size": "3696991390",
+                    "download": "1270113648"
+                }
+            },
+            "decryptionkey": "43ae0c2c71df2d5cfb0d270b8568580b99b626f5ebaa5d6115aefe84f3cd901a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18487339",
+                "timeupdated": "1747380620"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
