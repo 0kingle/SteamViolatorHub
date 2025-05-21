@@ -1,0 +1,57 @@
+{
+    "appid": "2324390",
+    "type": "Game",
+    "name": "Knights of the Road",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010877",
+    "update_time": "2025-05-16 04:18:42",
+    "depot": {
+        "baselanguages": "",
+        "2324391": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6379710141324111039",
+                    "size": "149902076",
+                    "download": "80603600"
+                }
+            },
+            "decryptionkey": "3f33c92a727bd946da14e1d377ddc268c2bf6e6261610bea0b231622fbbfb706"
+        },
+        "2324392": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5646655897851859405",
+                    "size": "142899820",
+                    "download": "78137232"
+                }
+            }
+        },
+        "2324393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6460295072153066027",
+                    "size": "222536119",
+                    "download": "95921200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15646742",
+                "timeupdated": "1725944343"
+            }
+        }
+    }
+}
