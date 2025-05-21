@@ -1,0 +1,45 @@
+{
+    "appid": "3582420",
+    "type": "Game",
+    "name": "Millennium Runners",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29079604",
+    "update_time": "2025-05-20 18:25:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3582421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8414398402282447823",
+                    "size": "3473674506",
+                    "download": "3218402976"
+                }
+            },
+            "decryptionkey": "784d238b6a31904b5df11d0915516b3159e443b0c2fda6562abcccc397dc29ce"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18441219",
+                "timeupdated": "1747125572"
+            }
+        }
+    }
+}
