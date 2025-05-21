@@ -1,0 +1,56 @@
+{
+    "appid": "996180",
+    "type": "Game",
+    "name": "Cryptofall: Investor simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 05:13:53",
+    "depot": {
+        "996181": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5181201017589244677",
+                    "size": "247424374",
+                    "download": "87923776"
+                }
+            }
+        },
+        "996182": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8643059683080929546",
+                    "size": "250188974",
+                    "download": "91765488"
+                }
+            },
+            "decryptionkey": "1c7375663b2100fb41e3778c74d0ba7057e4d9a1991ea4637b574083a4fde3a2"
+        },
+        "996183": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3892117880477537083",
+                    "size": "281976997",
+                    "download": "98220192"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6215823",
+                "timeupdated": "1612965795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
