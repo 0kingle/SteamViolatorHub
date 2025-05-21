@@ -1,0 +1,193 @@
+{
+    "appid": "449550",
+    "type": "Game",
+    "name": "Chicken Invaders 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973544",
+    "update_time": "2025-05-14 12:47:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,polish",
+        "449551": {
+            "manifests": {
+                "public": {
+                    "gid": "4930440341199916931",
+                    "size": "67791647",
+                    "download": "10858064"
+                },
+                "episode_beta": {
+                    "gid": "4930440341199916931",
+                    "size": "67791647",
+                    "download": "10858064"
+                }
+            },
+            "decryptionkey": "aeb0e15afeadf85dc3cb68e3958f70bdbbfe97749902767587bcc18d2ef0a5d6"
+        },
+        "449552": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7911669208746522128",
+                    "size": "3325573",
+                    "download": "1110016"
+                },
+                "episode_beta": {
+                    "gid": "7911669208746522128",
+                    "size": "3325573",
+                    "download": "1110016"
+                }
+            },
+            "decryptionkey": "4a589777ad6bb7cd29caad80adf83b51d564376fdfefe7fd1c14d41e7b7d6721"
+        },
+        "449553": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7298173773711933834",
+                    "size": "3351057",
+                    "download": "875920"
+                },
+                "episode_beta": {
+                    "gid": "7298173773711933834",
+                    "size": "3351057",
+                    "download": "875920"
+                }
+            }
+        },
+        "449554": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2319462311874706707",
+                    "size": "9326299",
+                    "download": "2674960"
+                },
+                "episode_beta": {
+                    "gid": "2319462311874706707",
+                    "size": "9326299",
+                    "download": "2674960"
+                }
+            }
+        },
+        "450100": {
+            "dlcappid": "450100",
+            "manifests": {
+                "public": {
+                    "gid": "3411147906267540756",
+                    "size": "69452826",
+                    "download": "10114080"
+                },
+                "episode_beta": {
+                    "gid": "3411147906267540756",
+                    "size": "69452826",
+                    "download": "10114080"
+                }
+            }
+        },
+        "449555": {
+            "dlcappid": "450100",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4864168931771106001",
+                    "size": "3333253",
+                    "download": "1112048"
+                },
+                "episode_beta": {
+                    "gid": "4864168931771106001",
+                    "size": "3333253",
+                    "download": "1112048"
+                }
+            }
+        },
+        "449556": {
+            "dlcappid": "450100",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6755760227767376493",
+                    "size": "3363345",
+                    "download": "879056"
+                },
+                "episode_beta": {
+                    "gid": "6755760227767376493",
+                    "size": "3363345",
+                    "download": "879056"
+                }
+            }
+        },
+        "449557": {
+            "dlcappid": "450100",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7472169605471893917",
+                    "size": "9474660",
+                    "download": "2830720"
+                },
+                "episode_beta": {
+                    "gid": "7472169605471893917",
+                    "size": "9474660",
+                    "download": "2830720"
+                }
+            }
+        },
+        "449558": {
+            "manifests": {
+                "public": {
+                    "gid": "6275750824971044367",
+                    "size": "600701507",
+                    "download": "121692624"
+                },
+                "episode_beta": {
+                    "gid": "6275750824971044367",
+                    "size": "600701507",
+                    "download": "121692624"
+                }
+            },
+            "decryptionkey": "517d1bf966e21267913b40af1a64349f908be04de5e2c7c5f53360c89d7585d4"
+        },
+        "449559": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1940953482758497070",
+                    "size": "19246903",
+                    "download": "4302768"
+                },
+                "episode_beta": {
+                    "gid": "1940953482758497070",
+                    "size": "19246903",
+                    "download": "4302768"
+                }
+            },
+            "decryptionkey": "88fb563a23bb3c2089fb1bccc52bbf03bb0dab292c1b4bb28b84ae258445ec45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18089947",
+                "timeupdated": "1744631179"
+            },
+            "episode_beta": {
+                "buildid": "18089947",
+                "description": "CIep2",
+                "timeupdated": "1744552979"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
