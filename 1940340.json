@@ -1,0 +1,195 @@
+{
+    "appid": "1940340",
+    "type": "Game",
+    "name": "Darkest Dungeon® II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094886",
+    "update_time": "2025-05-21 11:16:18",
+    "depot": {
+        "workshopdepot": "1940340",
+        "1940341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3551531267236906370",
+                    "size": "5877161829",
+                    "download": "4739611824"
+                },
+                "coming_in_hot": {
+                    "gid": "3551531267236906370",
+                    "size": "5877161829",
+                    "download": "4739611824"
+                }
+            },
+            "decryptionkey": "4266c37ee75bce9e4b3c5d16b0cffd8e21ed9ca98a95eed54900689ab5242d23"
+        },
+        "2598510": {
+            "dlcappid": "2598510",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4480984070008064691",
+                    "size": "230818629",
+                    "download": "180803440"
+                },
+                "coming_in_hot": {
+                    "gid": "4480984070008064691",
+                    "size": "230818629",
+                    "download": "180803440"
+                }
+            },
+            "decryptionkey": "235f932f22e943699a9dd3de36d77beb99ce3e99b25eea7d1467da814906bbde"
+        },
+        "1940342": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1291991628820569035",
+                    "size": "6406739540",
+                    "download": "5077089232"
+                },
+                "coming_in_hot": {
+                    "gid": "1291991628820569035",
+                    "size": "6406739540",
+                    "download": "5077089232"
+                }
+            },
+            "decryptionkey": "e9c92bd06c91103e6d6f07ae4be80184bb8a28fcb63018f3941d222048c45287"
+        },
+        "2598511": {
+            "dlcappid": "2598510",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5374954344168950180",
+                    "size": "250166238",
+                    "download": "193843584"
+                },
+                "coming_in_hot": {
+                    "gid": "5374954344168950180",
+                    "size": "250166238",
+                    "download": "193843584"
+                }
+            },
+            "decryptionkey": "dbaaed9071a3364932fffa0e960be801e3abb368b91a3ebacb3bb0657e0cc6ca"
+        },
+        "3205310": {
+            "dlcappid": "3205310",
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "574650544987829989",
+                    "size": "447786854",
+                    "download": "351833904"
+                },
+                "coming_in_hot": {
+                    "gid": "574650544987829989",
+                    "size": "447786854",
+                    "download": "351833904"
+                }
+            },
+            "decryptionkey": "36bbc8f34a0af50c71728ea98f60e80969087846308d321308eeacf180c72b81"
+        },
+        "3205311": {
+            "dlcappid": "3205310",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "847456823497155570",
+                    "size": "550378290",
+                    "download": "418547344"
+                },
+                "coming_in_hot": {
+                    "gid": "847456823497155570",
+                    "size": "550378290",
+                    "download": "418547344"
+                }
+            },
+            "decryptionkey": "b1b962b48dd30d0bca610ea61a17f745d8e60bf227f5b60c93ce056739650224"
+        },
+        "3591040": {
+            "dlcappid": "3591040",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8920180394636506233",
+                    "size": "50619237",
+                    "download": "41922288"
+                },
+                "coming_in_hot": {
+                    "gid": "8920180394636506233",
+                    "size": "50619237",
+                    "download": "41922288"
+                }
+            },
+            "decryptionkey": "bcb4dce50f021f662a8f4dc7765e5952186fdd6f4faad47e379af0b95202bebb"
+        },
+        "3591041": {
+            "dlcappid": "3591040",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7063408792591384598",
+                    "size": "50619186",
+                    "download": "41922288"
+                },
+                "coming_in_hot": {
+                    "gid": "7063408792591384598",
+                    "size": "50619186",
+                    "download": "41922288"
+                }
+            }
+        },
+        "3715610": {
+            "dlcappid": "3715610",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3715611": {
+            "dlcappid": "3715610",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18314480",
+                "timeupdated": "1746142356"
+            },
+            "coming_in_hot": {
+                "buildid": "18314480",
+                "description": "Experimental builds",
+                "timeupdated": "1746142335"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "813ac2fc24ad2efd41c269d79360b3514c9f55e28d0a1d6695425875b5aae0f3"
+    }
+}
