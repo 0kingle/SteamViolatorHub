@@ -1,0 +1,79 @@
+{
+    "appid": "1380070",
+    "type": "Game",
+    "name": "Slaves of Rome",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067138",
+    "update_time": "2025-05-20 04:33:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1380071": {
+            "manifests": {
+                "public": {
+                    "gid": "2999293696681974145",
+                    "size": "5830362941",
+                    "download": "5729246272"
+                },
+                "test": {
+                    "gid": "2999293696681974145",
+                    "size": "5830362941",
+                    "download": "5729246272"
+                }
+            },
+            "decryptionkey": "35bbeb039ac8fcae5ecedb7bf9592c5fbead89187c78e7fca100ccc0b85d39a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18521480",
+                "timeupdated": "1747676790"
+            },
+            "test": {
+                "buildid": "18521480",
+                "description": "Test Branch",
+                "timeupdated": "1747676297"
+            }
+        }
+    }
+}
