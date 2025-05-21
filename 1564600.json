@@ -1,0 +1,55 @@
+{
+    "appid": "1564600",
+    "type": "Game",
+    "name": "The Last Plague: Blight",
+    "schinese_name": "最后的瘟疫：枯萎",
+    "isfreeapp": "0",
+    "change_number": "28889749",
+    "update_time": "2025-05-09 04:22:20",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1564601": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6504963071885680311",
+                    "size": "5501814182",
+                    "download": "2381425232"
+                }
+            }
+        },
+        "1564602": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5687939161850654844",
+                    "size": "5401647169",
+                    "download": "2356849760"
+                }
+            },
+            "decryptionkey": "1da35cc535878c4b14d381335faeb900987cb61ad57e9db8c3a649ed028c722c"
+        },
+        "1564603": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3179719475961354754",
+                    "size": "5522275880",
+                    "download": "2400334176"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18394033",
+                "timeupdated": "1746735736"
+            }
+        }
+    }
+}
