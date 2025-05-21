@@ -1,0 +1,48 @@
+{
+    "appid": "2394070",
+    "type": "Game",
+    "name": "Melody Mania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28812842",
+    "update_time": "2025-05-05 03:37:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2394071": {
+            "manifests": {
+                "public": {
+                    "gid": "1015414455332937649",
+                    "size": "3003086286",
+                    "download": "1375126080"
+                },
+                "public-beta": {
+                    "gid": "1656751174291739631",
+                    "size": "3011875156",
+                    "download": "1377904912"
+                }
+            },
+            "decryptionkey": "1fdf45dcfd05ab8bb2dbe8a5a4523600137e4914eb130a034f05845fa8d2320f"
+        },
+        "baselanguages": "",
+        "workshopdepot": "2394070",
+        "branches": {
+            "public": {
+                "buildid": "17841393",
+                "timeupdated": "1742850077"
+            },
+            "public-beta": {
+                "buildid": "18339727",
+                "description": "Public beta version",
+                "timeupdated": "1746387425"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8b182eb88a56ad4de63bb7912f6acc06749d33e3b43543c55455205561be850c"
+    }
+}
