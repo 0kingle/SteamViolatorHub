@@ -1,0 +1,42 @@
+{
+    "appid": "1079330",
+    "type": "Game",
+    "name": "Welcome To Cathouse（欢迎来到猫咪花园）",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29049654",
+    "update_time": "2025-05-18 23:04:18",
+    "depot": {
+        "baselanguages": "schinese",
+        "workshopdepot": "1079330",
+        "1079331": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7021247376683982947",
+                    "size": "11246416870",
+                    "download": "4821284496"
+                },
+                "develop": {
+                    "gid": "6666862941239020834",
+                    "size": "1442490819",
+                    "download": "512036976"
+                }
+            },
+            "decryptionkey": "3732ae6e819dcd5f945d705ec3172ee137b7278285efaf985d9bc11ffd276b37"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509097",
+                "timeupdated": "1747580654"
+            },
+            "develop": {
+                "buildid": "18181970",
+                "timeupdated": "1745251985"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
