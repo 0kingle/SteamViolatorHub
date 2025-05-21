@@ -1,0 +1,46 @@
+{
+    "appid": "2427700",
+    "type": "Game",
+    "name": "Backpack Battles",
+    "schinese_name": "背包乱斗：福西法的宝藏 Backpack Battles",
+    "isfreeapp": "0",
+    "change_number": "29091797",
+    "update_time": "2025-05-21 06:37:58",
+    "depot": {
+        "baselanguages": "english,german,koreana,schinese,japanese",
+        "workshopdepot": "2427700",
+        "2427701": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6374252348812736004",
+                    "size": "274669043",
+                    "download": "204023392"
+                }
+            },
+            "decryptionkey": "40bbfd9e7aaf1830bd55729aa2c13d2eed07e0ed92dd6f9d35ced2a7b7dde436"
+        },
+        "2427702": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8443856876401645304",
+                    "size": "279455680",
+                    "download": "206089392"
+                }
+            },
+            "decryptionkey": "392b31e91e8d666f24765d8ef4fed439f1e7d82cedd1a8fc17ed77f519ef4361"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18488181",
+                "timeupdated": "1747385339"
+            }
+        },
+        "workshopdepotdecryptionkey": "390494bb2b12665d053b2b0eb8096ac5c377d8a72fcd2e572ec535d2c8de1d4f"
+    }
+}
