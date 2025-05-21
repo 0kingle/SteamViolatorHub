@@ -1,0 +1,52 @@
+{
+    "appid": "1495320",
+    "type": "Game",
+    "name": "Carnal Instinct",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29059872",
+    "update_time": "2025-05-19 18:34:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1495321": {
+            "manifests": {
+                "public": {
+                    "gid": "4230704629318245812",
+                    "size": "3438599089",
+                    "download": "3276349696"
+                },
+                "ue5_beta": {
+                    "gid": "7460312358501917958",
+                    "size": "7139634853",
+                    "download": "6836368368"
+                }
+            },
+            "decryptionkey": "ca5070e2afd6a9665bbb4aaf33a228a623ac43c0c7b7a001a618a7cfcb2f6b53"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11536020",
+                "timeupdated": "1745968846"
+            },
+            "ue5_beta": {
+                "buildid": "18437133",
+                "description": "Unreal Engine 5 Beta",
+                "timeupdated": "1747097580"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
