@@ -1,0 +1,34 @@
+{
+    "appid": "2081540",
+    "type": "Game",
+    "name": "Rustled Pete",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008517",
+    "update_time": "2025-05-16 01:48:45",
+    "depot": {
+        "2081541": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5071782379532535533",
+                    "size": "171467827",
+                    "download": "24918544"
+                }
+            },
+            "decryptionkey": "c519e325190abb114fd06a6fbea13083a78adf9cdc0d9a3f58dbc0ce2cf6f08c"
+        },
+        "workshopdepot": "2081540",
+        "branches": {
+            "public": {
+                "buildid": "10650051",
+                "timeupdated": "1677535929"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
