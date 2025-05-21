@@ -1,0 +1,32 @@
+{
+    "appid": "1416050",
+    "type": "Game",
+    "name": "Shovel Knight Dig",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093890",
+    "update_time": "2025-05-21 09:45:46",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,arabic,brazilian",
+        "1416052": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7191899519630997036",
+                    "size": "507706281",
+                    "download": "280748512"
+                }
+            },
+            "decryptionkey": "e08c8ef3509406337f1cca1b38b73c68fcadc8f88db5600f4c9e521c3e13fd80"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18541268",
+                "timeupdated": "1747791940"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
