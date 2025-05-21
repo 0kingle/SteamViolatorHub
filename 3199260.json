@@ -1,0 +1,61 @@
+{
+    "appid": "3199260",
+    "type": "Demo",
+    "name": "SUIKAWA LEAD Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28610308",
+    "update_time": "2025-04-23 06:49:27",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "japanese",
+        "3199261": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2413906234890557720",
+                    "size": "3216550674",
+                    "download": "2943063040"
+                }
+            },
+            "decryptionkey": "039f40569f81c1dc7cf9d23ff1c3a4874aa1a3b74b1771c9f51090a29fbdf3b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18139295",
+                "timeupdated": "1744868440"
+            }
+        }
+    }
+}
