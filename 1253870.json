@@ -1,0 +1,27 @@
+{
+    "appid": "1253870",
+    "type": "Game",
+    "name": "ANIME STANDING",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985441",
+    "update_time": "2025-05-15 00:39:56",
+    "depot": {
+        "1253871": {
+            "manifests": {
+                "public": {
+                    "gid": "6861519987381284594",
+                    "size": "535310532",
+                    "download": "424515424"
+                }
+            },
+            "decryptionkey": "1b9103dfa5f105cdc3c88050b6ff5acce34fa3a3bacecd03e783597f3f4695ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5388193",
+                "timeupdated": "1596899121"
+            }
+        }
+    }
+}
