@@ -1,0 +1,31 @@
+{
+    "appid": "1500860",
+    "type": "Game",
+    "name": "SAW HELL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29066628",
+    "update_time": "2025-05-20 04:31:00",
+    "depot": {
+        "1500861": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3889356220410911884",
+                    "size": "214397129",
+                    "download": "84471536"
+                }
+            },
+            "decryptionkey": "a7949bf92da52783378a2d8a3de141802a2f5c8eec0f9e9246c4e0b58f3ff464"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "5961512",
+                "timeupdated": "1607865418"
+            }
+        }
+    }
+}
