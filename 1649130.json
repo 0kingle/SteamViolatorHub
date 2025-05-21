@@ -1,0 +1,28 @@
+{
+    "appid": "1649130",
+    "type": "Game",
+    "name": "Knight Crawlers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988909",
+    "update_time": "2025-05-15 04:13:12",
+    "depot": {
+        "1649131": {
+            "manifests": {
+                "public": {
+                    "gid": "4163331398545399085",
+                    "size": "2400460161",
+                    "download": "652759728"
+                }
+            },
+            "decryptionkey": "aa2510034d039e35e9ba93e08608233c7c3e6b569eeff1563ceaaf54315d8b7f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11296916",
+                "timeupdated": "1684844622"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
