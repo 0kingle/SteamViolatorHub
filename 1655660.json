@@ -1,0 +1,42 @@
+{
+    "appid": "1655660",
+    "type": "Game",
+    "name": "Runeverse: Sea Brawls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988909",
+    "update_time": "2025-05-15 04:13:10",
+    "depot": {
+        "1655661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1152380976620506803",
+                    "size": "1187615861",
+                    "download": "746655456"
+                }
+            },
+            "decryptionkey": "e9b65b2f4e149536ae9a17372413c3a8e8dae5897675a61b304de36458663bcc"
+        },
+        "1655662": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5010183747778466486",
+                    "size": "1202060234",
+                    "download": "750204432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7958375",
+                "timeupdated": "1640972817"
+            }
+        }
+    }
+}
