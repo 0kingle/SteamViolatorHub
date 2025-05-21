@@ -1,0 +1,62 @@
+{
+    "appid": "3625270",
+    "type": "Application",
+    "name": "MateEngine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093240",
+    "update_time": "2025-05-21 08:52:41",
+    "depot": {
+        "workshopdepot": "3625270",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3625271": {
+            "manifests": {
+                "public": {
+                    "gid": "8149858567441005804",
+                    "size": "4032692796",
+                    "download": "3101228112"
+                }
+            },
+            "decryptionkey": "734456d4a0a4052b952e0aa76968df9f9c584b67bf4b28aeada100b6ed9d0860"
+        },
+        "3625272": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18541968",
+                "timeupdated": "1747788755"
+            }
+        },
+        "workshopdepotdecryptionkey": "d97e3ad750481e887bc385db2bed3b71745c5b84bd505dfbbbd9eb20975f8217"
+    }
+}
