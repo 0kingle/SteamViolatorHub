@@ -1,0 +1,31 @@
+{
+    "appid": "3236460",
+    "type": "Game",
+    "name": "NNNNNIGHT",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28532215",
+    "update_time": "2025-04-17 23:24:08",
+    "depot": {
+        "3236461": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8783982746004743306",
+                    "size": "339235239",
+                    "download": "274136128"
+                }
+            },
+            "decryptionkey": "5d747ccf8a941851727b9f05f7b9b5b336f76351bf7de4ea6190a6ff77735031"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18146034",
+                "timeupdated": "1744903443"
+            }
+        }
+    }
+}
