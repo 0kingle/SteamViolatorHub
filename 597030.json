@@ -1,0 +1,27 @@
+{
+    "appid": "597030",
+    "type": "Game",
+    "name": "Aircraft Evolution",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28975409",
+    "update_time": "2025-05-14 22:38:59",
+    "depot": {
+        "597031": {
+            "manifests": {
+                "public": {
+                    "gid": "5969629958630587262",
+                    "size": "363371411",
+                    "download": "72303008"
+                }
+            },
+            "decryptionkey": "048342f9de7044b2b2a19a9b3ed8db89d87576dae49d6ba62423419d5fa45cba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18226896",
+                "timeupdated": "1745513210"
+            }
+        }
+    }
+}
