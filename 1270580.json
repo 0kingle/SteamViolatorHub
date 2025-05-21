@@ -1,0 +1,40 @@
+{
+    "appid": "1270580",
+    "type": "Game",
+    "name": "Mind Over Magic",
+    "schinese_name": "超灵秘法社",
+    "isfreeapp": "0",
+    "change_number": "29006336",
+    "update_time": "2025-05-15 23:58:52",
+    "depot": {
+        "1270581": {
+            "manifests": {
+                "public": {
+                    "gid": "2795361205002393453",
+                    "size": "5286777906",
+                    "download": "2327483904"
+                },
+                "prerelease": {
+                    "gid": "2795361205002393453",
+                    "size": "5286777906",
+                    "download": "2327483904"
+                }
+            },
+            "decryptionkey": "67890182f6c150a904481b542ff399526709e363f448cb001c6cb02fbf8cfe70"
+        },
+        "workshopdepot": "1270580",
+        "branches": {
+            "public": {
+                "buildid": "18478368",
+                "timeupdated": "1747324727"
+            },
+            "prerelease": {
+                "buildid": "18478368",
+                "description": "Pre-release of updates for preview testing",
+                "timeupdated": "1747324689"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "06e83ff6c8c024242b6fa419fcb3c3394cabb2293bec098f53bee6916ec2fa95"
+    }
+}
