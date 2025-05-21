@@ -1,0 +1,28 @@
+{
+    "appid": "2090890",
+    "type": "Game",
+    "name": "Protect Harem City",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008646",
+    "update_time": "2025-05-16 01:54:44",
+    "depot": {
+        "2090891": {
+            "manifests": {
+                "public": {
+                    "gid": "6481258252822576861",
+                    "size": "850745887",
+                    "download": "92392448"
+                }
+            },
+            "decryptionkey": "be66a9cacd044e65dfebe55495b4d7c7d5d15f45907cd0280a7a135ab4b57636"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10647885",
+                "timeupdated": "1677527605"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
