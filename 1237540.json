@@ -1,0 +1,32 @@
+{
+    "appid": "1237540",
+    "type": "Game",
+    "name": "Ultimate MMA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 18:03:58",
+    "depot": {
+        "1237541": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1716528567772920764",
+                    "size": "3429693621",
+                    "download": "830915776"
+                }
+            },
+            "decryptionkey": "9037abaea40747709cc5e35d0fcc05f2fba2e2d1b51f6cc785b2af79c61f7e0d"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "4738293",
+                "timeupdated": "1583252834"
+            }
+        }
+    }
+}
