@@ -1,0 +1,28 @@
+{
+    "appid": "2175570",
+    "type": "Game",
+    "name": "Eternamine",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009342",
+    "update_time": "2025-05-16 02:36:49",
+    "depot": {
+        "2175571": {
+            "manifests": {
+                "public": {
+                    "gid": "9189021513619847817",
+                    "size": "389243301",
+                    "download": "226856160"
+                }
+            },
+            "decryptionkey": "4823eef3af39d20115f2fa676ed5b48183d5d23ef4ec32280a0531c79feb199c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18342731",
+                "timeupdated": "1746424251"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
