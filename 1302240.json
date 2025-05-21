@@ -1,0 +1,42 @@
+{
+    "appid": "1302240",
+    "type": "Game",
+    "name": "Labyrinthine",
+    "schinese_name": "迷宫探险",
+    "isfreeapp": "0",
+    "change_number": "28986082",
+    "update_time": "2025-05-15 01:13:23",
+    "depot": {
+        "1302241": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5638885452739080124",
+                    "size": "19440881176",
+                    "download": "9340541856"
+                },
+                "public_testing": {
+                    "gid": "5638885452739080124",
+                    "size": "19440881176",
+                    "download": "9340541856"
+                }
+            },
+            "decryptionkey": "1f0abf461681b647baf3263a992ea65516c85019d3015e79620b7136afb158dd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18127519",
+                "timeupdated": "1744904465"
+            },
+            "public_testing": {
+                "buildid": "18127519",
+                "description": "Public Test Branch",
+                "timeupdated": "1744904393"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
