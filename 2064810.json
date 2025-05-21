@@ -1,0 +1,45 @@
+{
+    "appid": "2064810",
+    "type": "Game",
+    "name": "CityDriver",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008256",
+    "update_time": "2025-05-16 01:36:54",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "2064810",
+        "hasdepotsindlc": "0",
+        "2064811": {
+            "manifests": {
+                "public": {
+                    "gid": "2818799918104783476",
+                    "size": "26685695953",
+                    "download": "23782486096"
+                }
+            },
+            "decryptionkey": "7e25ccb0238f67152f4924b077ed53be6414306157c4bf813e3058ca755b0b0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12698158",
+                "timeupdated": "1699978561"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "44f5d0f9c33fb250465d68e8016b77fd7b711ed83b933efeb5abd4bf758b848d"
+    }
+}
