@@ -1,0 +1,27 @@
+{
+    "appid": "2132380",
+    "type": "Game",
+    "name": "Book of Korvald",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29062912",
+    "update_time": "2025-05-20 04:24:35",
+    "depot": {
+        "2132381": {
+            "manifests": {
+                "public": {
+                    "gid": "6390535511204376159",
+                    "size": "1371233427",
+                    "download": "633425024"
+                }
+            },
+            "decryptionkey": "8782de171969f1be81976a6c3562295da523b11c1d60f4ddf42e5d91e2ab6fe1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18518786",
+                "timeupdated": "1747662935"
+            }
+        }
+    }
+}
