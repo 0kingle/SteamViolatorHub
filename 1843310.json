@@ -1,0 +1,47 @@
+{
+    "appid": "1843310",
+    "type": "Game",
+    "name": "FUNKO FUSION",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29099998",
+    "update_time": "2025-05-21 19:27:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,dutch,turkish,brazilian,latam",
+        "hasdepotsindlc": "0",
+        "1843311": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4825032636855902051",
+                    "size": "54960048553",
+                    "download": "52827420240"
+                }
+            },
+            "decryptionkey": "b727ec45805174cdf8fc7ec522fec599a44a5131fe329f2aa39437d7013ec4bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18362266",
+                "timeupdated": "1746615681"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
