@@ -1,0 +1,52 @@
+{
+    "appid": "3186690",
+    "type": "Demo",
+    "name": "Konfronto Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29104272",
+    "update_time": "2025-05-21 20:58:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3186691": {
+            "manifests": {
+                "public": {
+                    "gid": "5272187760506375468",
+                    "size": "1451852749",
+                    "download": "778730128"
+                },
+                "open-beta": {
+                    "gid": "2318734808093935109",
+                    "size": "1450954062",
+                    "download": "746365072"
+                }
+            },
+            "decryptionkey": "adeb23e983aafdc2df4c6a812c957995e3a4a9b8fedb97f7e97a07dd360e95d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18525605",
+                "timeupdated": "1747726369"
+            },
+            "open-beta": {
+                "buildid": "18385418",
+                "description": "open beta builds for the brave",
+                "timeupdated": "1746694132"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
