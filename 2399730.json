@@ -1,0 +1,32 @@
+{
+    "appid": "2399730",
+    "type": "Game",
+    "name": "FRONT MISSION 1st: Remake",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011559",
+    "update_time": "2025-05-16 05:06:47",
+    "depot": {
+        "2399731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2740150932563886194",
+                    "size": "14978865273",
+                    "download": "13630327984"
+                }
+            },
+            "decryptionkey": "66cda9db2dc9bdde03391ee1cc314e13e0dbb8e06d08220bac453cf3012e97e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17125968",
+                "timeupdated": "1740472746"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
