@@ -1,0 +1,71 @@
+{
+    "appid": "1152340",
+    "type": "Game",
+    "name": "Book of Travels",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29080377",
+    "update_time": "2025-05-20 19:10:21",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1152341": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7571113689499797154",
+                    "size": "8178293487",
+                    "download": "2050405776"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1152342": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8178935583495066973",
+                    "size": "8280397646",
+                    "download": "2082630352"
+                }
+            }
+        },
+        "1152344": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1075039178329045347",
+                    "size": "8225250943",
+                    "download": "2086261696"
+                }
+            },
+            "decryptionkey": "7a6aeff4e41bfc67af65cf6073c1c4d0ba3d7d130f628b82a99144fcb27c3454"
+        },
+        "1152345": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7632390237288415875",
+                    "size": "8333259287",
+                    "download": "2092858720"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18234380",
+                "timeupdated": "1745565299"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
