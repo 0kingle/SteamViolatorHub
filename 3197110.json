@@ -1,0 +1,42 @@
+{
+    "appid": "3197110",
+    "type": "Demo",
+    "name": "Permafrost Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28772055",
+    "update_time": "2025-05-02 01:01:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3197111": {
+            "manifests": {
+                "public": {
+                    "gid": "8108721939789277349",
+                    "size": "16739227380",
+                    "download": "15839732128"
+                }
+            },
+            "decryptionkey": "78dd60c3ebcf9318165f39b6af42f7a1d7caf2a2586aba0bca5ac3fcf26060df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17855530",
+                "timeupdated": "1743169657"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
