@@ -1,0 +1,27 @@
+{
+    "appid": "3242750",
+    "type": "Game",
+    "name": "Level Devil",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29074349",
+    "update_time": "2025-05-20 12:11:50",
+    "depot": {
+        "3242751": {
+            "manifests": {
+                "public": {
+                    "gid": "3424665579187520361",
+                    "size": "56710382",
+                    "download": "14961232"
+                }
+            },
+            "decryptionkey": "20715373400230b7184afdfb64c33c5a97093edd019c92ada23c16db734de7b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18210574",
+                "timeupdated": "1745425490"
+            }
+        }
+    }
+}
