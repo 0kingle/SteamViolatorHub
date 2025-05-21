@@ -1,0 +1,43 @@
+{
+    "appid": "2313160",
+    "type": "Game",
+    "name": "闇鍋人狼",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28796866",
+    "update_time": "2025-05-03 12:41:29",
+    "depot": {
+        "2313161": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5928194128071532426",
+                    "size": "164246550",
+                    "download": "74305520"
+                }
+            },
+            "decryptionkey": "3c274771914696c53d8909f775dd2917f399ae9ad4a206a06d0c8407a12b5949"
+        },
+        "2313162": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8066399598451240280",
+                    "size": "472944173",
+                    "download": "122704704"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18329638",
+                "timeupdated": "1746247285"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
