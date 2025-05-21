@@ -1,0 +1,81 @@
+{
+    "appid": "1840800",
+    "type": "Game",
+    "name": "Headquarters: World War II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29057245",
+    "update_time": "2025-05-19 15:53:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1840801": {
+            "manifests": {
+                "public": {
+                    "gid": "4696528885751839551",
+                    "size": "27020351381",
+                    "download": "12443584704"
+                }
+            },
+            "decryptionkey": "ff2d8c45c35e81391fda349955290d9ec6bb2125325841f63df17a59d559fcd1"
+        },
+        "1840802": {
+            "manifests": {
+                "public": {
+                    "gid": "665396272411347263",
+                    "size": "42591223",
+                    "download": "35478896"
+                }
+            },
+            "decryptionkey": "02d4624618c1b7a31579dc43a230a772f6573474738baadaec47e45debe14e0c"
+        },
+        "3047640": {
+            "dlcappid": "3047640",
+            "manifests": {
+                "public": {
+                    "gid": "1782778401599206756",
+                    "size": "2410807317",
+                    "download": "1194663600"
+                }
+            },
+            "decryptionkey": "ccef1868801a9d1b50abe1161a90efdac4950ad7f57b5b04aa4f1704da6a178e"
+        },
+        "3295310": {
+            "dlcappid": "3295310",
+            "manifests": {
+                "public": {
+                    "gid": "1839571456079579218",
+                    "size": "1304418374",
+                    "download": "703075776"
+                }
+            },
+            "decryptionkey": "27d046f37b398876ab45a3f5e257a42e0b33f68061aef514b37fdb669e4b3559"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18323905",
+                "timeupdated": "1747228217"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
