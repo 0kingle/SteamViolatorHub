@@ -1,0 +1,71 @@
+{
+    "appid": "281200",
+    "type": "Game",
+    "name": "A Boy and His Blob",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971263",
+    "update_time": "2025-05-14 09:17:51",
+    "depot": {
+        "overridescddb": "1",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "281201": {
+            "systemdefined": "1",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8832770353773642052",
+                    "size": "1309128726",
+                    "download": "422762272"
+                }
+            },
+            "decryptionkey": "09350faba45549dfcae10c5670d5c41640647c643cfe2d2f24e5f34a13d3e518"
+        },
+        "281202": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4797905203947161638",
+                    "size": "1325551567",
+                    "download": "374188112"
+                }
+            }
+        },
+        "281203": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7708190655303838194",
+                    "size": "1320628661",
+                    "download": "372755600"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1063146",
+                "timeupdated": "1461266323"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
