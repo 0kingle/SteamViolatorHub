@@ -1,0 +1,31 @@
+{
+    "appid": "629840",
+    "type": "Game",
+    "name": "Caligo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28577576",
+    "update_time": "2025-04-21 10:58:25",
+    "depot": {
+        "629841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6408129716693583657",
+                    "size": "6744043268",
+                    "download": "2445652640"
+                }
+            },
+            "decryptionkey": "a06b5b854d9108dcc31e700a4a905a89a5f1712b523b0681d18274ec5a32394f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17939023",
+                "timeupdated": "1743705677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
