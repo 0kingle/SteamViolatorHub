@@ -1,0 +1,61 @@
+{
+    "appid": "3030720",
+    "type": "Game",
+    "name": "FATE: Reawakened",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100955",
+    "update_time": "2025-05-21 19:35:43",
+    "depot": {
+        "3030722": {},
+        "3030724": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "576150708728589650",
+                    "size": "1694323836",
+                    "download": "723969264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3030723": {
+            "manifests": {
+                "public": {
+                    "gid": "960800671492131792",
+                    "size": "2630771817",
+                    "download": "1225324592"
+                }
+            },
+            "decryptionkey": "d925533af99c1e945956c6294e981eb95863ab700955a2065244b84092708f5b"
+        },
+        "3030725": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6076842390916718383",
+                    "size": "2616445737",
+                    "download": "1218568208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3030721": {
+            "config": {
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18241050",
+                "timeupdated": "1745852341"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
