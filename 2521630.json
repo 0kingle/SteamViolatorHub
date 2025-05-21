@@ -1,0 +1,41 @@
+{
+    "appid": "2521630",
+    "type": "Game",
+    "name": "Mini Settlers",
+    "schinese_name": "小小城建 Mini Settlers",
+    "isfreeapp": "0",
+    "change_number": "29092248",
+    "update_time": "2025-05-21 07:19:11",
+    "depot": {
+        "2521631": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4656086993732340043",
+                    "size": "926514894",
+                    "download": "325056912"
+                },
+                "earlyaccess_build": {
+                    "gid": "5404401322768448737",
+                    "size": "735265666",
+                    "download": "315412192"
+                }
+            },
+            "decryptionkey": "d06bb3d739ba94610c96828ed1642365fa3dfbefbd811f058750a5a33d22c706"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419775",
+                "timeupdated": "1746965653"
+            },
+            "earlyaccess_build": {
+                "buildid": "16362871",
+                "description": "Early Access Build",
+                "timeupdated": "1746550010"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
