@@ -1,0 +1,188 @@
+{
+    "appid": "1934680",
+    "type": "Game",
+    "name": "Age of Mythology: Retold",
+    "schinese_name": "神话时代：重述版",
+    "isfreeapp": "0",
+    "change_number": "29102638",
+    "update_time": "2025-05-21 19:39:39",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian,greek,latam,vietnamese,indonesian",
+        "1934681": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2470504615728604068",
+                    "size": "25291751817",
+                    "download": "11918030464"
+                }
+            },
+            "decryptionkey": "802af330b3164b4c3b78d2f3b015e1017979ec6738f5d952aeb72eb14a138f19"
+        },
+        "1934685": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "1934686": {
+            "manifests": {}
+        },
+        "1934687": {
+            "manifests": {}
+        },
+        "1934688": {
+            "manifests": {}
+        },
+        "1934689": {
+            "manifests": {}
+        },
+        "2991161": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1763279064055522245",
+                    "size": "79628540",
+                    "download": "79632960"
+                }
+            },
+            "decryptionkey": "fae9ece6176586c7ad4c1d4d07e75e8a242d36d65d0402f3d20b5e86a58a6235"
+        },
+        "2991162": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2783547877112991503",
+                    "size": "77929622",
+                    "download": "77753664"
+                }
+            },
+            "decryptionkey": "bb3cd97225c4980fef59f25e876b5532339ff29dbceb7d4fc12190fde94bd372"
+        },
+        "2991163": {
+            "config": {
+                "language": "latam"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1589855763573179861",
+                    "size": "72927483",
+                    "download": "72608064"
+                }
+            },
+            "decryptionkey": "c47645f8442a72793113ab28d3206eb7841e9eed83e1817307859ac900a973f3"
+        },
+        "2991164": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2498768807150457168",
+                    "size": "73555718",
+                    "download": "73451280"
+                }
+            },
+            "decryptionkey": "8e17cff7c72b2eb5c1f2a5c16e5088810e0b5a33678f0d62455aabdab9ba2b1e"
+        },
+        "2991165": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "422117959909652435",
+                    "size": "75784926",
+                    "download": "75613536"
+                }
+            },
+            "decryptionkey": "27aacd4bd5627dd1a4743bba1773d24b4a05993f10bff71faeb3f492d619366f"
+        },
+        "2991166": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4196017078849102622",
+                    "size": "72090800",
+                    "download": "71649344"
+                }
+            },
+            "decryptionkey": "3a5ba82ffea3a7063fe196e3bb0af72a423c2dc227c4d80b7798161fe655c684"
+        },
+        "2991167": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5516275486197434235",
+                    "size": "79142929",
+                    "download": "79037296"
+                }
+            },
+            "decryptionkey": "cbac32577b886bb30bfeb6c606edb883e882c3fc1105f56f3a3fc0d4c8e2ed90"
+        },
+        "2991168": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4565430964928326271",
+                    "size": "74722363",
+                    "download": "74392992"
+                }
+            },
+            "decryptionkey": "71854c8d94abca5cbeebd6ac1eb8edad6fd674437d935f99b70cff19034bbaec"
+        },
+        "2991169": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4064790243739723877",
+                    "size": "70920519",
+                    "download": "70712832"
+                }
+            },
+            "decryptionkey": "c2504a8202da8fed8ef95c22f3528335c285257173876e4ff0ad1f351f4dd1a9"
+        },
+        "2991171": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "822827171810829800",
+                    "size": "73786600",
+                    "download": "73525360"
+                }
+            },
+            "decryptionkey": "495e93c32f00d9f9ca59ada943e22fd8a423448c4e512b0903b92ae40730f01b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18487074",
+                "timeupdated": "1747760879"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
