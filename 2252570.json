@@ -1,0 +1,57 @@
+{
+    "appid": "2252570",
+    "type": "Game",
+    "name": "Football Manager 2024",
+    "schinese_name": "足球经理 2024",
+    "isfreeapp": "0",
+    "change_number": "29084581",
+    "update_time": "2025-05-20 23:00:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,turkish,greek",
+        "2252571": {
+            "manifests": {
+                "public": {
+                    "gid": "71174279217418086",
+                    "size": "5146656154",
+                    "download": "4571664864"
+                }
+            },
+            "decryptionkey": "c4a30eff8aaf9a640fd740cb4f8eba42bd8163948ff47bcf9670fca6aad8d4b1"
+        },
+        "2252572": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "996561852771015976",
+                    "size": "527754221",
+                    "download": "281316368"
+                }
+            },
+            "decryptionkey": "2b349b48c7bd678d894c913c65a245d7612795616c0d36c57d836c52743aa605"
+        },
+        "2252573": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8012591859304476492",
+                    "size": "249859968",
+                    "download": "78612352"
+                }
+            },
+            "decryptionkey": "6d28f613f8d2aad33574107f177137159dfe61839f140fe1b9f19afbb4636c9e"
+        },
+        "workshopdepot": "2252570",
+        "branches": {
+            "public": {
+                "buildid": "18129188",
+                "timeupdated": "1747753241"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "1370f1d8e231cb8c777183440276a6fafaff257460a663bcb188ca2dc805af6c"
+    }
+}
