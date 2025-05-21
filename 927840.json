@@ -1,0 +1,36 @@
+{
+    "appid": "927840",
+    "type": "Game",
+    "name": "Clinically Dead",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980613",
+    "update_time": "2025-05-14 22:49:02",
+    "depot": {
+        "927841": {
+            "manifests": {
+                "public": {
+                    "gid": "8172701621883496813",
+                    "size": "1648890317",
+                    "download": "1026275760"
+                },
+                "test": {
+                    "gid": "4109703975975445837",
+                    "size": "1652281896",
+                    "download": "1028016368"
+                }
+            },
+            "decryptionkey": "75afa4752695f7b33de11d167f0a142b1a70bc1a99ae35ae2ed37311bd9328e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3652999",
+                "timeupdated": "1552767839"
+            },
+            "test": {
+                "buildid": "3357809",
+                "timeupdated": "1543677751"
+            }
+        }
+    }
+}
