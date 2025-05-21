@@ -1,0 +1,114 @@
+{
+    "appid": "1899350",
+    "type": "Game",
+    "name": "Trade Bots: A Technical Analysis Simulation",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013822",
+    "update_time": "2025-05-16 08:15:45",
+    "depot": {
+        "1899351": {
+            "manifests": {
+                "public": {
+                    "gid": "5194832872536121595",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "5194832872536121595",
+                    "size": "0",
+                    "download": "0"
+                },
+                "prerelease": {
+                    "gid": "5194832872536121595",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1899352": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2754900512509136176",
+                    "size": "2463490019",
+                    "download": "692503856"
+                },
+                "previous": {
+                    "gid": "7110153745338075704",
+                    "size": "2218106027",
+                    "download": "623535184"
+                },
+                "prerelease": {
+                    "gid": "2754900512509136176",
+                    "size": "2463490019",
+                    "download": "692503856"
+                }
+            }
+        },
+        "1899353": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7527640628135059238",
+                    "size": "2304993155",
+                    "download": "644954816"
+                },
+                "previous": {
+                    "gid": "2286717828359135815",
+                    "size": "2072982836",
+                    "download": "579010192"
+                },
+                "prerelease": {
+                    "gid": "7527640628135059238",
+                    "size": "2304993155",
+                    "download": "644954816"
+                }
+            },
+            "decryptionkey": "bf47bd13892a35e193380e12f4b16a191a4eaf9d8d23423c279eb8ef69c29209"
+        },
+        "1899354": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "122963625926812585",
+                    "size": "2305137758",
+                    "download": "639624432"
+                },
+                "previous": {
+                    "gid": "4427056994347183132",
+                    "size": "2075997496",
+                    "download": "574858896"
+                },
+                "prerelease": {
+                    "gid": "122963625926812585",
+                    "size": "2305137758",
+                    "download": "639624432"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "15965859",
+                "timeupdated": "1729932188"
+            },
+            "previous": {
+                "buildid": "11523731",
+                "description": "last version",
+                "timeupdated": "1704272777"
+            },
+            "prerelease": {
+                "buildid": "15965859",
+                "description": "Pre-release branch",
+                "timeupdated": "1728385242"
+            }
+        }
+    }
+}
