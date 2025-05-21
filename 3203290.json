@@ -1,0 +1,27 @@
+{
+    "appid": "3203290",
+    "type": "Game",
+    "name": "The Black Vault",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091968",
+    "update_time": "2025-05-21 06:53:03",
+    "depot": {
+        "3203291": {
+            "manifests": {
+                "public": {
+                    "gid": "2982846733508530929",
+                    "size": "2545079853",
+                    "download": "761229808"
+                }
+            },
+            "decryptionkey": "e934f55b7f4ce6898a1b4870482ebe255bddd1cd9fc404e05806abc493a3d975"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18540899",
+                "timeupdated": "1747781578"
+            }
+        }
+    }
+}
