@@ -1,0 +1,38 @@
+{
+    "appid": "3063520",
+    "type": "Game",
+    "name": "LISC",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094350",
+    "update_time": "2025-05-21 10:26:47",
+    "depot": {
+        "baselanguages": "english",
+        "3063521": {
+            "manifests": {
+                "public": {
+                    "gid": "6109919360512380408",
+                    "size": "14226726532",
+                    "download": "13771677168"
+                }
+            },
+            "decryptionkey": "d06cfd37a509592c6f54599bdedc319e4933a4f15391d5024ec96b63285ac30d"
+        },
+        "3063522": {
+            "manifests": {
+                "public": {
+                    "gid": "2169400166693979775",
+                    "size": "14226726532",
+                    "download": "13771677168"
+                }
+            },
+            "decryptionkey": "cf7dec6f9c5422aa5ffa041a00bb3a1a6a2142165ae72de7d7d12922f17d3ac6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18542811",
+                "timeupdated": "1747794402"
+            }
+        }
+    }
+}
