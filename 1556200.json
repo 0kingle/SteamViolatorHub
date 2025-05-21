@@ -1,0 +1,43 @@
+{
+    "appid": "1556200",
+    "type": "Game",
+    "name": "Predator: Hunting Grounds",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29065805",
+    "update_time": "2025-05-20 04:31:33",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1556201": {
+            "manifests": {
+                "public": {
+                    "gid": "3744747889329955708",
+                    "size": "47840672443",
+                    "download": "25062992944"
+                }
+            },
+            "decryptionkey": "7a1631859e10145a80ee71e4738ec99e651fe132374c97e98c06d77c5a64ef89"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,tchinese,russian,japanese,portuguese,polish,arabic,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18154444",
+                "timeupdated": "1745517668"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
