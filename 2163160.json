@@ -1,0 +1,48 @@
+{
+    "appid": "2163160",
+    "type": "Game",
+    "name": "OVRLRD",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28812767",
+    "update_time": "2025-05-05 03:29:11",
+    "depot": {
+        "2163161": {
+            "manifests": {
+                "public": {
+                    "gid": "8671311021542545073",
+                    "size": "5261983833",
+                    "download": "1417441872"
+                },
+                "old-version": {
+                    "gid": "2355350804931886259",
+                    "size": "3669860938",
+                    "download": "1034544208"
+                },
+                "very-old-version": {
+                    "gid": "3379153061006338530",
+                    "size": "2939893074",
+                    "download": "883328736"
+                }
+            },
+            "decryptionkey": "edecdcddaaec4d0901db9c1eac3078a5c004e0a0b561547441ff542a1109d861"
+        },
+        "workshopdepot": "2163160",
+        "branches": {
+            "public": {
+                "buildid": "17966089",
+                "timeupdated": "1743665531"
+            },
+            "old-version": {
+                "buildid": "17083787",
+                "description": "The previous version of OVRLRD, in case of issues.",
+                "timeupdated": "1742907307"
+            },
+            "very-old-version": {
+                "buildid": "15642113",
+                "description": "A very old version of OVRLRD, for fun.",
+                "timeupdated": "1729813753"
+            }
+        }
+    }
+}
