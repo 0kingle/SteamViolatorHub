@@ -1,0 +1,61 @@
+{
+    "appid": "3175670",
+    "type": "Game",
+    "name": "Defense Builder",
+    "schinese_name": "防线建造者",
+    "isfreeapp": "0",
+    "change_number": "29064326",
+    "update_time": "2025-05-20 04:28:21",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3175671": {
+            "manifests": {
+                "public": {
+                    "gid": "5082172111223064988",
+                    "size": "5712580788",
+                    "download": "5538804512"
+                },
+                "previous": {
+                    "gid": "8105575222761765100",
+                    "size": "5192834001",
+                    "download": "5008527776"
+                },
+                "test": {
+                    "gid": "4902388217565226330",
+                    "size": "5701998514",
+                    "download": "5518862400"
+                }
+            },
+            "decryptionkey": "2cdbff526a6a1f6f52e680afd6d910b3e83895cde454ed5ace37f46dd0063e78"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18476537",
+                "timeupdated": "1747315417"
+            },
+            "previous": {
+                "buildid": "17899478",
+                "description": "PreviousVersion",
+                "timeupdated": "1743772281"
+            },
+            "test": {
+                "buildid": "18346210",
+                "description": "TestVersion",
+                "timeupdated": "1746448707"
+            }
+        }
+    }
+}
