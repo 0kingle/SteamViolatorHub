@@ -1,0 +1,44 @@
+{
+    "appid": "3405490",
+    "type": "Game",
+    "name": "SORRY SURVIVOR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094259",
+    "update_time": "2025-05-21 10:17:59",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3405491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7013548984038777728",
+                    "size": "4785849929",
+                    "download": "1252270416"
+                }
+            },
+            "decryptionkey": "1ed068e8b56383ead45f3757b93879c3c8fc2f5a1ceec3512b9323ca0747a5a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18535124",
+                "timeupdated": "1747751775"
+            }
+        }
+    }
+}
