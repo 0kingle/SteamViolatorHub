@@ -1,0 +1,30 @@
+{
+    "appid": "2169950",
+    "type": "Game",
+    "name": "Yasha: Legends of the Demon Blade",
+    "schinese_name": "百剑讨妖传绮谭",
+    "isfreeapp": "0",
+    "change_number": "29100963",
+    "update_time": "2025-05-21 19:22:23",
+    "depot": {
+        "baselanguages": "english,tchinese,japanese",
+        "2169951": {
+            "manifests": {
+                "public": {
+                    "gid": "1527823039875708719",
+                    "size": "2242481440",
+                    "download": "1817222848"
+                }
+            },
+            "decryptionkey": "abf41543840ce6e00b0c343f72d66ae59ca452df07e68b85836ba7a4eec7cb5f"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18546619",
+                "timeupdated": "1747820927"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
