@@ -1,0 +1,29 @@
+{
+    "appid": "1817610",
+    "type": "Game",
+    "name": "Battle Heroine Crisis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990220",
+    "update_time": "2025-05-15 05:46:34",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1817611": {
+            "manifests": {
+                "public": {
+                    "gid": "2937967964940784119",
+                    "size": "827495524",
+                    "download": "628405472"
+                }
+            },
+            "decryptionkey": "193fd29f6c2d2c5209895c2fdd5f65763b379083d986332a5deee3679c6bce2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10762633",
+                "timeupdated": "1678950545"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
