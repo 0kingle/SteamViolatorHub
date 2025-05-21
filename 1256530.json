@@ -1,0 +1,46 @@
+{
+    "appid": "1256530",
+    "type": "Game",
+    "name": "Sentimental K",
+    "schinese_name": "奇情战姬",
+    "isfreeapp": "0",
+    "change_number": "28985548",
+    "update_time": "2025-05-15 00:46:38",
+    "depot": {
+        "baselanguages": "english,koreana,japanese,portuguese,brazilian",
+        "1256531": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3621947305091842048",
+                    "size": "1002156307",
+                    "download": "476396016"
+                }
+            },
+            "decryptionkey": "051f50ef60722af7a8cb86c85216583e34077b8836e694b6dcded4e41c87f094"
+        },
+        "1256532": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "798867993709238886",
+                    "size": "997976844",
+                    "download": "474061728"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14707467",
+                "timeupdated": "1718292420"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
