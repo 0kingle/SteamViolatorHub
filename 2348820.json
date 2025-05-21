@@ -1,0 +1,50 @@
+{
+    "appid": "2348820",
+    "type": "Game",
+    "name": "Living In A Brothel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011026",
+    "update_time": "2025-05-16 04:30:45",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "2348821": {
+            "manifests": {
+                "public": {
+                    "gid": "5353267123320575004",
+                    "size": "3173220762",
+                    "download": "3015296896"
+                },
+                "pending_update": {
+                    "gid": "4059226603411778012",
+                    "size": "3173223195",
+                    "download": "3015311984"
+                }
+            },
+            "decryptionkey": "e237b89b417153bf1e8a6d4ce2981647779d7ceb96065d712bb22f4319210e2c"
+        },
+        "2815540": {
+            "dlcappid": "2815540",
+            "manifests": {
+                "public": {
+                    "gid": "1955242457818554811",
+                    "size": "294282100",
+                    "download": "285830992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18050084",
+                "timeupdated": "1744252930"
+            },
+            "pending_update": {
+                "buildid": "17560823",
+                "description": "Updates that need some adjustments within the Steam platform before going public",
+                "timeupdated": "1740858514"
+            }
+        }
+    }
+}
