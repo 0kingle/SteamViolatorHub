@@ -1,0 +1,53 @@
+{
+    "appid": "1239520",
+    "type": "Game",
+    "name": "Madden NFL 21",
+    "schinese_name": "麦登橄榄球21",
+    "isfreeapp": "0",
+    "change_number": "28985316",
+    "update_time": "2025-05-15 00:33:15",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1239521": {
+            "manifests": {
+                "public": {
+                    "gid": "1021389291823651617",
+                    "size": "43863341413",
+                    "download": "41116632640"
+                }
+            },
+            "decryptionkey": "37260877aa7fd2ea7e076f5132d7b03bc0725f92bbe2f147dc202f8d32623027"
+        },
+        "3340991": {
+            "manifests": {
+                "public": {
+                    "gid": "4695958403711974607",
+                    "size": "234273399",
+                    "download": "236385232"
+                }
+            },
+            "depotfromapp": "3340990",
+            "decryptionkey": "023daedb070e5af8704dc88ee0af829f5c11923d2e6a42cca11ba5713b9f4491"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10352248",
+                "timeupdated": "1674648727"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
