@@ -1,0 +1,59 @@
+{
+    "appid": "1189100",
+    "type": "Game",
+    "name": "Rise Of The White Sun",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29085493",
+    "update_time": "2025-05-20 23:46:41",
+    "depot": {
+        "baselanguages": "english,french,schinese",
+        "1189101": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "844003710686533572",
+                    "size": "3540670324",
+                    "download": "527972848"
+                }
+            },
+            "decryptionkey": "79f24bd2f4144c72053a730936b79682e151d998834bdfc7373e345617d4c6a2"
+        },
+        "1189102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8725274040208534849",
+                    "size": "3382238864",
+                    "download": "538874672"
+                }
+            }
+        },
+        "1189103": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8187405921531635236",
+                    "size": "3309209749",
+                    "download": "510707072"
+                }
+            }
+        },
+        "workshopdepot": "1189100",
+        "branches": {
+            "public": {
+                "buildid": "18536115",
+                "timeupdated": "1747755996"
+            }
+        },
+        "workshopdepotdecryptionkey": "7409a5b04ad4a66cf45345d84edc59698af0b0e52db1fa7dd5f79e95cb9d1d88"
+    }
+}
