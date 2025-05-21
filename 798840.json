@@ -1,0 +1,100 @@
+{
+    "appid": "798840",
+    "type": "Game",
+    "name": "Panzer War:Definitely Edition",
+    "schinese_name": "装甲纷争:决定版",
+    "isfreeapp": "0",
+    "change_number": "28971923",
+    "update_time": "2025-05-14 10:19:19",
+    "depot": {
+        "baselanguages": "english,schinese,russian,ukrainian",
+        "hasdepotsindlc": "1",
+        "workshopdepot": "798840",
+        "798841": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5870980934506079305",
+                    "size": "8588031011",
+                    "download": "6036670240"
+                },
+                "old_frag_replay": {
+                    "gid": "8947390067449636522",
+                    "size": "6760661243",
+                    "download": "4722377088"
+                },
+                "old_workshop": {
+                    "gid": "5697451642855427265",
+                    "size": "6696106084",
+                    "download": "4686985760"
+                },
+                "supertest": {
+                    "gid": "5870980934506079305",
+                    "size": "8588031011",
+                    "download": "6036670240"
+                }
+            },
+            "decryptionkey": "b76b149da694cf2ce80690e30879f3eeb86839127d379a035a7bfeac8fc3bc87"
+        },
+        "798842": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9098025065693783228",
+                    "size": "1291359555",
+                    "download": "1014173840"
+                },
+                "old_frag_replay": {
+                    "gid": "9098025065693783228",
+                    "size": "1291359555",
+                    "download": "1014173840"
+                },
+                "old_workshop": {
+                    "gid": "9098025065693783228",
+                    "size": "1291359555",
+                    "download": "1014173840"
+                },
+                "supertest": {
+                    "gid": "9098025065693783228",
+                    "size": "1291359555",
+                    "download": "1014173840"
+                }
+            }
+        },
+        "1019010": {
+            "dlcappid": "1019010",
+            "config": {
+                "language": ""
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18453391",
+                "timeupdated": "1747189154"
+            },
+            "old_frag_replay": {
+                "buildid": "15037801",
+                "description": "old fragment replay",
+                "timeupdated": "1723055754"
+            },
+            "old_workshop": {
+                "buildid": "14789970",
+                "description": "The old tank workshop",
+                "timeupdated": "1720492193"
+            },
+            "supertest": {
+                "buildid": "18453391",
+                "description": "Super Test",
+                "timeupdated": "1747188600"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cbeb0611bd2afc590f8e06791c7a52c570b71ea85d05306337eb28451615b3ff"
+    }
+}
