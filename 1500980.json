@@ -1,0 +1,44 @@
+{
+    "appid": "1500980",
+    "type": "Game",
+    "name": "Doomsday Vault",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:33",
+    "depot": {
+        "1500981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4706788067358234900",
+                    "size": "1954657717",
+                    "download": "243145584"
+                }
+            },
+            "decryptionkey": "b9ea9d745c2bb2e93310e6cad58457c3ae41bf5b1f078cdc498d0738085c8786"
+        },
+        "1500982": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5524604931344119893",
+                    "size": "1958246980",
+                    "download": "242605744"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,dutch,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "7111579",
+                "timeupdated": "1627626948"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
