@@ -1,0 +1,33 @@
+{
+    "appid": "1430220",
+    "type": "Game",
+    "name": "BIOMORPH",
+    "schinese_name": "化形战士 BIOMORPH",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:18",
+    "depot": {
+        "baselanguages": "english,french,schinese",
+        "1430221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6133470603360015836",
+                    "size": "3911505395",
+                    "download": "3278883840"
+                }
+            },
+            "decryptionkey": "741e4d6d777d69310452c5ebcca9eb68a88ff5b35f4b4998079af839d4f6f2f9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18099004",
+                "timeupdated": "1744636509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
