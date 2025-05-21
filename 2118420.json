@@ -1,0 +1,33 @@
+{
+    "appid": "2118420",
+    "type": "Game",
+    "name": "Stories from Sol: The Gun-Dog",
+    "schinese_name": "星舰铳犬 太阳系物语",
+    "isfreeapp": "0",
+    "change_number": "29008846",
+    "update_time": "2025-05-16 02:06:50",
+    "depot": {
+        "2118421": {
+            "manifests": {
+                "public": {
+                    "gid": "7969527995990251058",
+                    "size": "264298951",
+                    "download": "150728432"
+                }
+            },
+            "decryptionkey": "ca6c947bc32d228f3036759070557ce4d3fb7aa4dd11074ddfe44680ba6e7d09"
+        },
+        "2118422": {
+            "dlcappid": "3531500",
+            "manifests": {}
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18257272",
+                "timeupdated": "1745907919"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
