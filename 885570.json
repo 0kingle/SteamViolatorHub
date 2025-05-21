@@ -1,0 +1,57 @@
+{
+    "appid": "885570",
+    "type": "Game",
+    "name": "Nova-Life: Amboise",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28257111",
+    "update_time": "2025-04-02 05:59:36",
+    "depot": {
+        "baselanguages": "english,french",
+        "workshopdepot": "885570",
+        "hasdepotsindlc": "1",
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "885571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8172675113938853184",
+                    "size": "9369251553",
+                    "download": "3146172064"
+                }
+            },
+            "decryptionkey": "c8ffd533c040f2aa31e09d0372cc1b870e3bfc1bc923c2b7f1a4c4a3ae9593fe"
+        },
+        "885572": {
+            "config": {
+                "oslist": "windows,linux"
+            }
+        },
+        "885573": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "885574": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17942976",
+                "timeupdated": "1743544770"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
