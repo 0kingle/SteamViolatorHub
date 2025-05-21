@@ -1,0 +1,73 @@
+{
+    "appid": "1985740",
+    "type": "Game",
+    "name": "Bugaboo Pocket",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29074924",
+    "update_time": "2025-05-20 13:15:52",
+    "depot": {
+        "1985741": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9117000067338425736",
+                    "size": "628489684",
+                    "download": "207747216"
+                },
+                "public-beta": {
+                    "gid": "9117000067338425736",
+                    "size": "628489684",
+                    "download": "207747216"
+                },
+                "save-data-hotfix": {
+                    "gid": "8771831548739418138",
+                    "size": "628591389",
+                    "download": "207761200"
+                }
+            },
+            "decryptionkey": "a3252f3aa3682f681667989ab6df551e3683e9cc90488b7083056835f2694317"
+        },
+        "1985742": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "268676125069177101",
+                    "size": "651717746",
+                    "download": "214644736"
+                },
+                "public-beta": {
+                    "gid": "268676125069177101",
+                    "size": "651717746",
+                    "download": "214644736"
+                },
+                "save-data-hotfix": {
+                    "gid": "1009025726003455940",
+                    "size": "651950165",
+                    "download": "214708144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18316482",
+                "timeupdated": "1746654892"
+            },
+            "public-beta": {
+                "buildid": "18316482",
+                "description": "Public branch for testing new updates",
+                "timeupdated": "1746237962"
+            },
+            "save-data-hotfix": {
+                "buildid": "18461236",
+                "description": "Branch for players experiencing save file corruption issues",
+                "timeupdated": "1747230988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
