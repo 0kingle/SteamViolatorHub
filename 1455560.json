@@ -1,0 +1,27 @@
+{
+    "appid": "1455560",
+    "type": "Game",
+    "name": "Cyberpunica 2.0.2.0",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013470",
+    "update_time": "2025-05-16 07:49:58",
+    "depot": {
+        "1455561": {
+            "manifests": {
+                "public": {
+                    "gid": "976918291885963323",
+                    "size": "86771679",
+                    "download": "23510048"
+                }
+            },
+            "decryptionkey": "cb7fbc54f1e0a009124c89d9646d7fbba7c8d8620872c844633e7372924dc0f1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5760032",
+                "timeupdated": "1604048039"
+            }
+        }
+    }
+}
