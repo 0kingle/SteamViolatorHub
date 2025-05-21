@@ -1,0 +1,63 @@
+{
+    "appid": "1783190",
+    "type": "Game",
+    "name": "Hatsumira -from the future undying-",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:55",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1783191": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2592039390745914258",
+                    "size": "6415768355",
+                    "download": "6085011504"
+                }
+            },
+            "decryptionkey": "c666eae138472183d9250dc83b46f3a4fb01abcd893b5a9863e025acc1025499"
+        },
+        "1783192": {
+            "manifests": {
+                "public": {
+                    "gid": "1319579823245611264",
+                    "size": "6413448293",
+                    "download": "6083210848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1783193": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3611484863176996456",
+                    "size": "6413359907",
+                    "download": "6084418176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "8603246",
+                "timeupdated": "1650611507"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
