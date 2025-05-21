@@ -1,0 +1,42 @@
+{
+    "appid": "2740280",
+    "type": "Game",
+    "name": "Tactic Boxing",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28700605",
+    "update_time": "2025-04-28 14:51:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2740281": {
+            "manifests": {
+                "public": {
+                    "gid": "8874295039043957897",
+                    "size": "6855519043",
+                    "download": "1849362496"
+                }
+            },
+            "decryptionkey": "ef29f751a9739d8085a82f083d762667ec556ed33dcdd3f5beda492efe955c55"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18138985",
+                "timeupdated": "1744866567"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
