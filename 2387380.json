@@ -1,0 +1,31 @@
+{
+    "appid": "2387380",
+    "type": "Game",
+    "name": "Bare Witness",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098664",
+    "update_time": "2025-05-21 19:30:21",
+    "depot": {
+        "2387381": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4464630656950927773",
+                    "size": "8244684276",
+                    "download": "8102385568"
+                }
+            },
+            "decryptionkey": "600c6a947be26a555b0c44bc4ef509ea2e63d69884bf1b6bbf75aab77836c446"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18080394",
+                "timeupdated": "1744424803"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
