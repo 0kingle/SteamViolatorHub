@@ -1,0 +1,41 @@
+{
+    "appid": "1595000",
+    "type": "Game",
+    "name": "Firelight Fantasy: Phoenix Crew",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29099014",
+    "update_time": "2025-05-21 19:30:54",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1595001": {
+            "manifests": {
+                "public": {
+                    "gid": "2294691735998315566",
+                    "size": "2109555065",
+                    "download": "1988065696"
+                }
+            },
+            "decryptionkey": "055fc639d09b1f137bcfccec5a8fec3c44581c401ecaa16ccc9d4602270e9f3d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18339641",
+                "timeupdated": "1746390762"
+            }
+        }
+    }
+}
