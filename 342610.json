@@ -1,0 +1,194 @@
+{
+    "appid": "342610",
+    "type": "Game",
+    "name": "HyperRogue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28972112",
+    "update_time": "2025-05-14 10:37:43",
+    "depot": {
+        "baselanguages": "english,german,russian,polish,czech,turkish",
+        "hasdepotsindlc": "1",
+        "342611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6053315626245458667",
+                    "size": "32334008",
+                    "download": "9851536"
+                },
+                "develop": {
+                    "gid": "6053315626245458667",
+                    "size": "32334008",
+                    "download": "9851536"
+                },
+                "previous": {
+                    "gid": "5096285286280096387",
+                    "size": "32261088",
+                    "download": "9818080"
+                }
+            }
+        },
+        "342612": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2214232975922268669",
+                    "size": "12372172",
+                    "download": "3814672"
+                },
+                "develop": {
+                    "gid": "2214232975922268669",
+                    "size": "12372172",
+                    "download": "3814672"
+                },
+                "previous": {
+                    "gid": "2214232975922268669",
+                    "size": "12372172",
+                    "download": "3814672"
+                }
+            }
+        },
+        "342613": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1956455893902063668",
+                    "size": "19693659",
+                    "download": "5638288"
+                },
+                "develop": {
+                    "gid": "1956455893902063668",
+                    "size": "19693659",
+                    "download": "5638288"
+                },
+                "previous": {
+                    "gid": "6468529069293904123",
+                    "size": "17428622",
+                    "download": "4932624"
+                }
+            }
+        },
+        "342614": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "553509741143238247",
+                    "size": "19578036",
+                    "download": "5846464"
+                },
+                "develop": {
+                    "gid": "553509741143238247",
+                    "size": "19578036",
+                    "download": "5846464"
+                },
+                "previous": {
+                    "gid": "5490169480821641410",
+                    "size": "19438908",
+                    "download": "5833184"
+                }
+            }
+        },
+        "342615": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1696590095517378776",
+                    "size": "106402560",
+                    "download": "84738160"
+                },
+                "develop": {
+                    "gid": "1696590095517378776",
+                    "size": "106402560",
+                    "download": "84738160"
+                },
+                "previous": {
+                    "gid": "4581057948047373012",
+                    "size": "106410196",
+                    "download": "84737968"
+                }
+            },
+            "decryptionkey": "df185ce25cb989072caa85c01cf1d8daab2f70b244404ba24a8cee436bc0b155"
+        },
+        "342616": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8092552841204423253",
+                    "size": "0",
+                    "download": "0"
+                },
+                "develop": {
+                    "gid": "8092552841204423253",
+                    "size": "0",
+                    "download": "0"
+                },
+                "previous": {
+                    "gid": "8092552841204423253",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "50b6ffa021ed6e308fd6d22cd9ab9ef00b497dc7c8728d0b2f23cf59378bd83f"
+        },
+        "342617": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4378093607400934015",
+                    "size": "33566557",
+                    "download": "10462080"
+                },
+                "develop": {
+                    "gid": "4378093607400934015",
+                    "size": "33566557",
+                    "download": "10462080"
+                },
+                "previous": {
+                    "gid": "99646860676949300",
+                    "size": "33057009",
+                    "download": "10305472"
+                }
+            },
+            "decryptionkey": "bc54489fa1002ed7125ba3e128f10c131872bcc6e53701685127d87cb75bc644"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18422766",
+                "timeupdated": "1747004486"
+            },
+            "develop": {
+                "buildid": "18422766",
+                "timeupdated": "1747003899"
+            },
+            "previous": {
+                "buildid": "17481965",
+                "timeupdated": "1747002275"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
