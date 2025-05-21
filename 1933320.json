@@ -1,0 +1,31 @@
+{
+    "appid": "1933320",
+    "type": "Game",
+    "name": "Black Hole Pool",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28464276",
+    "update_time": "2025-04-14 18:07:50",
+    "depot": {
+        "1933321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8866947048568857331",
+                    "size": "2431400201",
+                    "download": "616250848"
+                }
+            },
+            "decryptionkey": "0bcadbcc3837f8a33206a39ca769bd59c29e99c8c973b6a15db88765686dc2eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18097154",
+                "timeupdated": "1744625255"
+            }
+        }
+    }
+}
