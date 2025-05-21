@@ -1,0 +1,41 @@
+{
+    "appid": "3279130",
+    "type": "Demo",
+    "name": "Crypto Mining Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101438",
+    "update_time": "2025-05-21 19:36:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3279131": {
+            "manifests": {
+                "public": {
+                    "gid": "7871106544825086349",
+                    "size": "1349210905",
+                    "download": "347835408"
+                }
+            },
+            "decryptionkey": "a73d1350f82652d3cc1828cbc282e637e533b77dee4981e6670076141daa8afa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17558785",
+                "timeupdated": "1740831713"
+            }
+        }
+    }
+}
