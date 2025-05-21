@@ -1,0 +1,42 @@
+{
+    "appid": "2390260",
+    "type": "Game",
+    "name": "Topple Tactics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011482",
+    "update_time": "2025-05-16 05:00:47",
+    "depot": {
+        "2390261": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6640840367159326394",
+                    "size": "1314215924",
+                    "download": "361238496"
+                },
+                "public-beta": {
+                    "gid": "6640840367159326394",
+                    "size": "1314215924",
+                    "download": "361238496"
+                }
+            },
+            "decryptionkey": "d12c7b5145bc66f42e88b4ade00c808564eee83d8d795d76ca1afa31e547eb97"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18121651",
+                "timeupdated": "1745115345"
+            },
+            "public-beta": {
+                "buildid": "18121651",
+                "description": "The public beta for the next Topple Tactics update!",
+                "timeupdated": "1744765671"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
