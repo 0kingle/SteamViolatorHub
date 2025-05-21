@@ -1,0 +1,42 @@
+{
+    "appid": "2458560",
+    "type": "Game",
+    "name": "Zoochosis",
+    "schinese_name": "癫狂动物园 Zoochosis",
+    "isfreeapp": "0",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2458561": {
+            "manifests": {
+                "public": {
+                    "gid": "4840631542554093933",
+                    "size": "6777220630",
+                    "download": "6279266624"
+                }
+            },
+            "decryptionkey": "d0ea71d310e5aea1e7a51ffc602de7221b630660cdcf955af6d5558221804634"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18419145",
+                "timeupdated": "1746957272"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
