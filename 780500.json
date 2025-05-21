@@ -1,0 +1,47 @@
+{
+    "appid": "780500",
+    "type": "Game",
+    "name": "Suzy Cube",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978621",
+    "update_time": "2025-05-14 22:45:12",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "780501": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6023915178773195121",
+                    "size": "813373937",
+                    "download": "142118912"
+                }
+            }
+        },
+        "780502": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4205078932636608774",
+                    "size": "794760081",
+                    "download": "138171744"
+                }
+            },
+            "decryptionkey": "6f6c485613449b4dc4a0ac317a7aa15e817165d77b64ceb840c9a713fbd22dfa"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "3286843",
+                "timeupdated": "1541718790"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
