@@ -1,0 +1,60 @@
+{
+    "appid": "2378910",
+    "type": "Game",
+    "name": "Settlements Rising",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28660217",
+    "update_time": "2025-04-25 20:55:30",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2378911": {
+            "manifests": {
+                "public": {
+                    "gid": "4957333779543049405",
+                    "size": "954863384",
+                    "download": "773585552"
+                },
+                "bridge_update_beta": {
+                    "gid": "4957333779543049405",
+                    "size": "954863384",
+                    "download": "773585552"
+                }
+            },
+            "decryptionkey": "e200731f8afd2f8137351361a3c2d1b87138c52e0a42435c6a7555eab7a78be6"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17742124",
+                "timeupdated": "1745564134"
+            },
+            "bridge_update_beta": {
+                "buildid": "17742124",
+                "description": "Bridges update preview.",
+                "timeupdated": "1742118555"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
