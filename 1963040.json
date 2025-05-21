@@ -1,0 +1,99 @@
+{
+    "appid": "1963040",
+    "type": "Game",
+    "name": "山门与幻境（The Lost Village）",
+    "schinese_name": "山门与幻境",
+    "isfreeapp": "0",
+    "change_number": "29091797",
+    "update_time": "2025-05-21 06:37:55",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1963041": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamglobal"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3036330452574176109",
+                    "size": "14334009589",
+                    "download": "4822606512"
+                },
+                "beta": {
+                    "gid": "192786529035647285",
+                    "size": "14153350889",
+                    "download": "4769695104"
+                }
+            },
+            "decryptionkey": "0960237e0bdfa0375c4556be4c342956e5f6d446657bc4d0a9644f32316b9c76"
+        },
+        "1963042": {
+            "config": {
+                "oslist": "windows",
+                "realm": "steamchina"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4289539592855146038",
+                    "size": "13935813875",
+                    "download": "4731341552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18253480",
+                "timeupdated": "1745723531"
+            },
+            "beta": {
+                "buildid": "17060916",
+                "description": "测试",
+                "timeupdated": "1737351839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
