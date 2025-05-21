@@ -1,0 +1,37 @@
+{
+    "appid": "760560",
+    "type": "Game",
+    "name": "Happy New Year Clicker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28978274",
+    "update_time": "2025-05-14 22:44:28",
+    "depot": {
+        "760561": {
+            "manifests": {
+                "public": {
+                    "gid": "3589115905005425722",
+                    "size": "64244741",
+                    "download": "21170432"
+                }
+            },
+            "decryptionkey": "c8981fe9aeb24645f6f9800e0e175816cddb7289efc29962a64c8dc654efed9e"
+        },
+        "767510": {
+            "manifests": {
+                "public": {
+                    "gid": "8205852382280512230",
+                    "size": "669933",
+                    "download": "586272"
+                }
+            },
+            "dlcappid": "767510"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2365436",
+                "timeupdated": "1513191550"
+            }
+        }
+    }
+}
