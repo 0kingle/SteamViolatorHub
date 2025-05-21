@@ -1,0 +1,103 @@
+{
+    "appid": "1037190",
+    "type": "Game",
+    "name": "Shipped",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983048",
+    "update_time": "2025-05-14 22:52:17",
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1037191": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1590472612707805559",
+                    "size": "227529679",
+                    "download": "121341488"
+                },
+                "old_v1": {
+                    "gid": "1499893624359884708",
+                    "size": "188857873",
+                    "download": "85461360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1037194": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6594656389358311663",
+                    "size": "235265239",
+                    "download": "123773600"
+                },
+                "old_v1": {
+                    "gid": "4003963860943226533",
+                    "size": "186036405",
+                    "download": "87235136"
+                }
+            },
+            "decryptionkey": "ff4bae13f600c05e526f79cb256223189c42c99877b9dfb6f699c31becc34f31"
+        },
+        "1037192": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8451281204217705140",
+                    "size": "277084871",
+                    "download": "124607824"
+                },
+                "old_v1": {
+                    "gid": "8724317351961722941",
+                    "size": "237812742",
+                    "download": "101201408"
+                }
+            }
+        },
+        "1037193": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5987841956646206835",
+                    "size": "230476574",
+                    "download": "122383216"
+                },
+                "old_v1": {
+                    "gid": "3115059292002498614",
+                    "size": "203011062",
+                    "download": "88833328"
+                }
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "9995874",
+                "timeupdated": "1669165035"
+            },
+            "old_v1": {
+                "buildid": "6736654",
+                "description": "v1.1.5, before the big update",
+                "timeupdated": "1663584140"
+            }
+        }
+    }
+}
