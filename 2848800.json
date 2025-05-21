@@ -1,0 +1,43 @@
+{
+    "appid": "2848800",
+    "type": "Game",
+    "name": "Pup Champs",
+    "schinese_name": "狗狗冠军 - Pup Champs",
+    "isfreeapp": "0",
+    "change_number": "29100544",
+    "update_time": "2025-05-21 19:33:50",
+    "depot": {
+        "2848801": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4483282332980315080",
+                    "size": "323370300",
+                    "download": "160514096"
+                }
+            },
+            "decryptionkey": "ab7af0ad044e10a112c22e0d0a8a8531c00840ffd9e724e2b061b9c313084a34"
+        },
+        "2848802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1941559739373844350",
+                    "size": "404907985",
+                    "download": "181254112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18516958",
+                "timeupdated": "1747658437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
