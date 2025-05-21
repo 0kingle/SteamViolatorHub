@@ -1,0 +1,28 @@
+{
+    "appid": "2704230",
+    "type": "Game",
+    "name": "Twizzle Puzzle: Cats",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014083",
+    "update_time": "2025-05-16 08:36:47",
+    "depot": {
+        "2704231": {
+            "manifests": {
+                "public": {
+                    "gid": "7433360456863615795",
+                    "size": "727070434",
+                    "download": "726255248"
+                }
+            },
+            "decryptionkey": "e69a2b9e5e2b4c8008f92014ae8514d9ce5557ea8d8a09c51d3bf613d84e0280"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "13489423",
+                "timeupdated": "1708247331"
+            }
+        }
+    }
+}
