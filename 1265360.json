@@ -1,0 +1,31 @@
+{
+    "appid": "1265360",
+    "type": "Game",
+    "name": "3D Hentai Blackjack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991973",
+    "update_time": "2025-05-15 08:14:21",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1265361": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4948541401333311627",
+                    "size": "249912846",
+                    "download": "179416368"
+                }
+            },
+            "decryptionkey": "35a121a98b83f248673d1d7ebb1f3de69003a7ec7246be19286951155b5d5430"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13851157",
+                "timeupdated": "1711414901"
+            }
+        }
+    }
+}
