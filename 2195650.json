@@ -1,0 +1,44 @@
+{
+    "appid": "2195650",
+    "type": "Game",
+    "name": "Lucky Island",
+    "schinese_name": "幸运岛",
+    "isfreeapp": "0",
+    "change_number": "29009666",
+    "update_time": "2025-05-16 02:54:51",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese",
+        "2195651": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4797566607654471895",
+                    "size": "340111528",
+                    "download": "99076304"
+                }
+            }
+        },
+        "2195652": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "837063566341609539",
+                    "size": "316645217",
+                    "download": "92225840"
+                }
+            },
+            "decryptionkey": "d59dac22271afaf4b5aad74fb1a2bd2d02b280d4946fa21895c1cb1344b0bc1f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16519714",
+                "timeupdated": "1732763020"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
