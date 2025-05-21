@@ -1,0 +1,74 @@
+{
+    "appid": "279420",
+    "type": "Game",
+    "name": "Gardens Inc. – From Rakes to Riches",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009930",
+    "update_time": "2025-05-16 03:13:42",
+    "depot": {
+        "overridescddb": "1",
+        "279422": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "882135626866507803",
+                    "size": "335763602",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "279423": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4115121142456359469",
+                    "size": "335710737",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "279424": {
+            "config": {
+                "language": "dutch",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3210573811952855495",
+                    "size": "335744350",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "279421": {
+            "systemdefined": "1",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7987617369287696400",
+                    "size": "335680874",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "b45437354e6394ecb96655976eecc82e924950de19cfebc3da9107777fbcb392"
+        },
+        "branches": {
+            "public": {
+                "buildid": "226254"
+            }
+        }
+    }
+}
