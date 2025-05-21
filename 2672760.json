@@ -1,0 +1,78 @@
+{
+    "appid": "2672760",
+    "type": "Game",
+    "name": "Maza",
+    "schinese_name": "马扎",
+    "isfreeapp": "0",
+    "change_number": "28928022",
+    "update_time": "2025-05-12 02:34:18",
+    "depot": {
+        "baselanguages": "english,spanish,schinese,russian",
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2672761": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5626978852690631877",
+                    "size": "162090886",
+                    "download": "152632032"
+                }
+            }
+        },
+        "2672762": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3529253250930854297",
+                    "size": "192884982",
+                    "download": "103110512"
+                }
+            },
+            "decryptionkey": "5cde1fd8dccf0c765d8d50fc0ed801dd606bf7618bc28abce03cc5a01c1e6f89"
+        },
+        "2672763": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8425094165774274152",
+                    "size": "166372663",
+                    "download": "156743840"
+                }
+            }
+        },
+        "2672764": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9155994992623663171",
+                    "size": "162936946",
+                    "download": "153357248"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18015290",
+                "timeupdated": "1744050270"
+            }
+        }
+    }
+}
