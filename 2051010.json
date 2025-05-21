@@ -1,0 +1,2515 @@
+{
+    "appid": "2051010",
+    "type": "Game",
+    "name": "プロ野球スピリッツ2024-2025",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091333",
+    "update_time": "2025-05-21 05:48:36",
+    "depot": {
+        "baselanguages": "japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2051011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6744075272576400544",
+                    "size": "45855684609",
+                    "download": "42544894992"
+                }
+            },
+            "decryptionkey": "11c7b8b636e2de7713ab47075ea3c370c7292b2851dcd0781e01c99350eac2f9"
+        },
+        "2227980": {
+            "dlcappid": "2227980",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7947962353932489087",
+                    "size": "21552640",
+                    "download": "21605856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228990": {
+            "dlcappid": "2228990",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1765332116897761615",
+                    "size": "17725562",
+                    "download": "17750624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228991": {
+            "dlcappid": "2228991",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "809936320241486692",
+                    "size": "20501112",
+                    "download": "20543504"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228995": {
+            "dlcappid": "2228995",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1739208522274900580",
+                    "size": "24348990",
+                    "download": "24390736"
+                }
+            },
+            "decryptionkey": "f1e304ac6886da261136f3b233aa3840e21d3e28740f154c5ed2a56880239e53"
+        },
+        "2228993": {
+            "dlcappid": "2228993",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "473891921055411670",
+                    "size": "28708280",
+                    "download": "28760736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228992": {
+            "dlcappid": "2228992",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3575548313367853951",
+                    "size": "36033748",
+                    "download": "36099536"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228994": {
+            "dlcappid": "2228994",
+            "config": {
+                "oslist": "windows",
+                "language": "japanese",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "221597739977578579",
+                    "size": "24854573",
+                    "download": "24797328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228997": {
+            "dlcappid": "2228997",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1655612537926374677",
+                    "size": "27430447",
+                    "download": "27465328"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2228996": {
+            "dlcappid": "2228996",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3994387912096652892",
+                    "size": "10127020",
+                    "download": "10137808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2229390": {
+            "dlcappid": "2229390",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "72523183053401197",
+                    "size": "22795817",
+                    "download": "22849824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442540": {
+            "dlcappid": "2442540",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5318620334822997260",
+                    "size": "7457996",
+                    "download": "7522592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2302550": {
+            "dlcappid": "2302550",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1234832430473393483",
+                    "size": "10556003",
+                    "download": "10499856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2302551": {
+            "dlcappid": "2302551",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4240968533093552836",
+                    "size": "4586909",
+                    "download": "4604240"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299411": {
+            "dlcappid": "2299411",
+            "config": {
+                "language": "japanese",
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "774118155503703645",
+                    "size": "1626858",
+                    "download": "1632560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299412": {
+            "dlcappid": "2299412",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "554701820761940031",
+                    "size": "2244298",
+                    "download": "2246880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299413": {
+            "dlcappid": "2299413",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6388532741013882584",
+                    "size": "1338133",
+                    "download": "1338816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299414": {
+            "dlcappid": "2299414",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5147101234243268203",
+                    "size": "1858192",
+                    "download": "1861088"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299415": {
+            "dlcappid": "2299415",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1994863010190248298",
+                    "size": "1458363",
+                    "download": "1463072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299416": {
+            "dlcappid": "2299416",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8280823747914036422",
+                    "size": "1808653",
+                    "download": "1807840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299417": {
+            "dlcappid": "2299417",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1358417698561035973",
+                    "size": "1096575",
+                    "download": "1096080"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299418": {
+            "dlcappid": "2299418",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4837281183587067859",
+                    "size": "1462723",
+                    "download": "1467232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299419": {
+            "dlcappid": "2299419",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "640704282339620550",
+                    "size": "1468908",
+                    "download": "1473616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299420": {
+            "dlcappid": "2299420",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "27112792499236044",
+                    "size": "1735449",
+                    "download": "1736832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299421": {
+            "dlcappid": "2299421",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6328115209362916735",
+                    "size": "1274202",
+                    "download": "1273456"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299422": {
+            "dlcappid": "2299422",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4308185665894234788",
+                    "size": "1501645",
+                    "download": "1503584"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299440": {
+            "dlcappid": "2299440",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8344429494075516149",
+                    "size": "33925144",
+                    "download": "34026624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299441": {
+            "dlcappid": "2299441",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1462908992245815882",
+                    "size": "58902754",
+                    "download": "59078208"
+                }
+            },
+            "decryptionkey": "d0f3be6b1aabcc407ec618a087aa79019b9be3733c61eefdbe81798d4eb1bd96"
+        },
+        "2299442": {
+            "dlcappid": "2299442",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "586066966069575570",
+                    "size": "61843592",
+                    "download": "62042016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299443": {
+            "dlcappid": "2299443",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "323231974123793073",
+                    "size": "60322661",
+                    "download": "60475808"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299444": {
+            "dlcappid": "2299444",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4889618480469254484",
+                    "size": "62068081",
+                    "download": "62241984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299445": {
+            "dlcappid": "2299445",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3149702151877142254",
+                    "size": "43580010",
+                    "download": "43695696"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299446": {
+            "dlcappid": "2299446",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4492176776575597554",
+                    "size": "38344664",
+                    "download": "38446960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299447": {
+            "dlcappid": "2299447",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "226536885090451123",
+                    "size": "44166594",
+                    "download": "44282752"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299448": {
+            "dlcappid": "2299448",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "902003240375269349",
+                    "size": "403140913",
+                    "download": "404276912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299360": {
+            "dlcappid": "2299360",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4985450591909001378",
+                    "size": "3047624",
+                    "download": "3056448"
+                }
+            },
+            "decryptionkey": "da97e2d501f8966e9d634c5067a3bd72479a4a6c41649b4c6e26e5518e3242af"
+        },
+        "2299361": {
+            "dlcappid": "2299361",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "651016469469854346",
+                    "size": "2613801",
+                    "download": "2619024"
+                }
+            },
+            "decryptionkey": "9b58605f913f8716fd4b3939480c79dfc2573819f4ed49f5f064534275fb963d"
+        },
+        "2299362": {
+            "dlcappid": "2299362",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8542691928231686339",
+                    "size": "2067815",
+                    "download": "2073936"
+                }
+            },
+            "decryptionkey": "1a5173da4c43def7bd88571765d4b55a7b61160822a3eeda4ec0728849920a47"
+        },
+        "2299363": {
+            "dlcappid": "2299363",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5785803512440120869",
+                    "size": "2053700",
+                    "download": "2059248"
+                }
+            },
+            "decryptionkey": "fd97c51b06665440e23b4b791d0adf45d48aa43e7717021814da28f6c74bc341"
+        },
+        "2299364": {
+            "dlcappid": "2299364",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2333765362994217855",
+                    "size": "2934232",
+                    "download": "2863744"
+                }
+            },
+            "decryptionkey": "8c0d638cf4597fd55241a65921e945d1233cb9e7088f413fd70cff959f0e2d1d"
+        },
+        "2299365": {
+            "dlcappid": "2299365",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7232635139445201593",
+                    "size": "2232078",
+                    "download": "2238288"
+                }
+            },
+            "decryptionkey": "211150717c6b861a40ceb87180cef7a23134ea2f60a12c53d803a0dbb1095124"
+        },
+        "2299366": {
+            "dlcappid": "2299366",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4295038895547631730",
+                    "size": "1122496",
+                    "download": "1124784"
+                }
+            },
+            "decryptionkey": "9cea6562aef86d325e119b5de22050445c52672a4820b3e12ca8cf4167ea06c5"
+        },
+        "2299367": {
+            "dlcappid": "2299367",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2857163580605035630",
+                    "size": "2029989",
+                    "download": "2035536"
+                }
+            },
+            "decryptionkey": "fcb4cdfd51fadc7fe0637eae56c30c849cd84d1786fe311ac012a2a93af4dbbe"
+        },
+        "2299368": {
+            "dlcappid": "2299368",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1384128945838671144",
+                    "size": "2652179",
+                    "download": "2658256"
+                }
+            },
+            "decryptionkey": "8d6e9ee78a8b05971b74f8423029e48391e9cde0cfef67ce3bb512b281412ab3"
+        },
+        "2299369": {
+            "dlcappid": "2299369",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7405910542518204591",
+                    "size": "1129128",
+                    "download": "1130352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299371": {
+            "dlcappid": "2299371",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5914809790230031054",
+                    "size": "1514528",
+                    "download": "1518416"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299373": {
+            "dlcappid": "2299373",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5472103097737931021",
+                    "size": "1382036",
+                    "download": "1387536"
+                }
+            },
+            "decryptionkey": "5e94d1af76e7413fb9af473d9f9117408fdfe1214fd58b57f520a5e790f58fb5"
+        },
+        "2299374": {
+            "dlcappid": "2299374",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2841905718316926889",
+                    "size": "1117435",
+                    "download": "1120624"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299375": {
+            "dlcappid": "2299375",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7187294351561508616",
+                    "size": "1136018",
+                    "download": "1138128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299376": {
+            "dlcappid": "2299376",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "554390819479664161",
+                    "size": "1618798",
+                    "download": "1623792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299377": {
+            "dlcappid": "2299377",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5174197149185290316",
+                    "size": "2109668",
+                    "download": "2119392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299378": {
+            "dlcappid": "2299378",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5236563392596084756",
+                    "size": "1089103",
+                    "download": "1091200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299379": {
+            "dlcappid": "2299379",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1028495402449044298",
+                    "size": "1127406",
+                    "download": "1130720"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299380": {
+            "dlcappid": "2299380",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1382807023485233239",
+                    "size": "1151440",
+                    "download": "1153792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299381": {
+            "dlcappid": "2299381",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6926203558005443214",
+                    "size": "1301880",
+                    "download": "1305888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299382": {
+            "dlcappid": "2299382",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3196158363802056320",
+                    "size": "1421419",
+                    "download": "1427056"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299383": {
+            "dlcappid": "2299383",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3549064728867997055",
+                    "size": "1452748",
+                    "download": "1457520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299384": {
+            "dlcappid": "2299384",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8017966344429015713",
+                    "size": "1784510",
+                    "download": "1787184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299385": {
+            "dlcappid": "2299385",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "920167145688741077",
+                    "size": "2700143",
+                    "download": "2699440"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299386": {
+            "dlcappid": "2299386",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2830550331693749812",
+                    "size": "1137756",
+                    "download": "1139792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299387": {
+            "dlcappid": "2299387",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3297048319548673716",
+                    "size": "1172347",
+                    "download": "1174800"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299388": {
+            "dlcappid": "2299388",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9160619561778197671",
+                    "size": "1108584",
+                    "download": "1109984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299389": {
+            "dlcappid": "2299389",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3919781551699828162",
+                    "size": "1436372",
+                    "download": "1440960"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299390": {
+            "dlcappid": "2299390",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1345941141309199629",
+                    "size": "5707159",
+                    "download": "5718928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299391": {
+            "dlcappid": "2299391",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4087714119081351725",
+                    "size": "3025733",
+                    "download": "3025824"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299392": {
+            "dlcappid": "2299392",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3937591416373754069",
+                    "size": "2552226",
+                    "download": "2557040"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299393": {
+            "dlcappid": "2299393",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6316921663767916866",
+                    "size": "2545975",
+                    "download": "2551392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299394": {
+            "dlcappid": "2299394",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6289077811674170739",
+                    "size": "2568052",
+                    "download": "2576576"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299396": {
+            "dlcappid": "2299396",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "206239309425282153",
+                    "size": "2552655",
+                    "download": "2559344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299397": {
+            "dlcappid": "2299397",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3271123473706053599",
+                    "size": "2585927",
+                    "download": "2591392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299398": {
+            "dlcappid": "2299398",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8727045342930540953",
+                    "size": "1439304",
+                    "download": "1444480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299399": {
+            "dlcappid": "2299399",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1901907587330653130",
+                    "size": "1501125",
+                    "download": "1507104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2299410": {
+            "dlcappid": "2299410",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "634713124795992051",
+                    "size": "1453837",
+                    "download": "1459008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2293890": {
+            "dlcappid": "2293890",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6475523480853988479",
+                    "size": "249202017",
+                    "download": "249212640"
+                }
+            },
+            "decryptionkey": "9dc5afceba040003cf494a45e067f137761f2060ebc2f21df8653bc012b24226"
+        },
+        "2442541": {
+            "dlcappid": "2442541",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6782146554218027275",
+                    "size": "5898744",
+                    "download": "5925248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442542": {
+            "dlcappid": "2442542",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1562227611427555747",
+                    "size": "7716495",
+                    "download": "7764192"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442570": {
+            "dlcappid": "2442570",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3881193902127500794",
+                    "size": "5210643",
+                    "download": "5222512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442571": {
+            "dlcappid": "2442571",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "467492984258013689",
+                    "size": "7012201",
+                    "download": "7050608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442572": {
+            "dlcappid": "2442572",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6615694201502319504",
+                    "size": "6901202",
+                    "download": "6939600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442573": {
+            "dlcappid": "2442573",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4849245341753530940",
+                    "size": "6279960",
+                    "download": "6312560"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442574": {
+            "dlcappid": "2442574",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6239571563313627172",
+                    "size": "8126020",
+                    "download": "8173888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442575": {
+            "dlcappid": "2442575",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3018133089481462794",
+                    "size": "6723991",
+                    "download": "6775072"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442576": {
+            "dlcappid": "2442576",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4033164643464122247",
+                    "size": "5890744",
+                    "download": "5924608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442577": {
+            "dlcappid": "2442577",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6772370290528908693",
+                    "size": "8257583",
+                    "download": "8324160"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442578": {
+            "dlcappid": "2442578",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1571066629617707177",
+                    "size": "3163289",
+                    "download": "3180608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442579": {
+            "dlcappid": "2442579",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "724234241482968484",
+                    "size": "6628079",
+                    "download": "6673360"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442580": {
+            "dlcappid": "2442580",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "929232336824100189",
+                    "size": "8309438",
+                    "download": "8359728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442581": {
+            "dlcappid": "2442581",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9111751697217497337",
+                    "size": "6231822",
+                    "download": "6281200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442582": {
+            "dlcappid": "2442582",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2326447737233398592",
+                    "size": "2305591",
+                    "download": "2307104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442583": {
+            "dlcappid": "2442583",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2300439978971885150",
+                    "size": "8411179",
+                    "download": "8459840"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442584": {
+            "dlcappid": "2442584",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7553593896913352632",
+                    "size": "6519888",
+                    "download": "6562992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442585": {
+            "dlcappid": "2442585",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2632460086197031379",
+                    "size": "7092004",
+                    "download": "7089184"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2442587": {
+            "dlcappid": "2442587",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1931357359325330567",
+                    "size": "7684461",
+                    "download": "7706016"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2392350": {
+            "dlcappid": "2392350",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4956370363389257661",
+                    "size": "2147252",
+                    "download": "2145760"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2392360": {
+            "dlcappid": "2392360",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6153419761546313868",
+                    "size": "2325317",
+                    "download": "2323888"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2392370": {
+            "dlcappid": "2392370",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "624018951475559120",
+                    "size": "1540173",
+                    "download": "1542912"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2490974": {
+            "dlcappid": "2490974",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3541177273369296177",
+                    "size": "6213814",
+                    "download": "6242272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2490972": {
+            "dlcappid": "2490972",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5484514620650090006",
+                    "size": "7104878",
+                    "download": "7139024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2490973": {
+            "dlcappid": "2490973",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1125457744533957345",
+                    "size": "7228726",
+                    "download": "7272592"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2490971": {
+            "dlcappid": "2490971",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5673146425274652322",
+                    "size": "6534140",
+                    "download": "6582464"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2490976": {
+            "dlcappid": "2490976",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1318615768499632050",
+                    "size": "8051779",
+                    "download": "8081728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2490975": {
+            "dlcappid": "2490975",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4653162335791957330",
+                    "size": "6478780",
+                    "download": "6519568"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2617370": {
+            "dlcappid": "2617370",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4573176897896614970",
+                    "size": "7697591",
+                    "download": "7746256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2617380": {
+            "dlcappid": "2617380",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7003801766440114468",
+                    "size": "8104009",
+                    "download": "8136304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2617390": {
+            "dlcappid": "2617390",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3854168545243410895",
+                    "size": "6745523",
+                    "download": "6778112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2460790": {
+            "dlcappid": "2460790",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "593165844061704034",
+                    "size": "311",
+                    "download": "272"
+                }
+            },
+            "decryptionkey": "71c28eb9bc823b7d848501ed18571ca092942266af74007c9bdde0be42aa760c"
+        },
+        "2460791": {
+            "dlcappid": "2460791",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "96699971043927235",
+                    "size": "311",
+                    "download": "272"
+                }
+            },
+            "decryptionkey": "9e39cd9f43f1798e47c3217b7e9dae004a4340c61ce496f9e1885a60e2145fa9"
+        },
+        "2460792": {
+            "dlcappid": "2460792",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4728024680093767595",
+                    "size": "328",
+                    "download": "272"
+                }
+            },
+            "decryptionkey": "247e3662b7cdc97ea77ffc43791b91d70166710fb43d9103f09cbfc31e4af499"
+        },
+        "2460794": {
+            "dlcappid": "2460794",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1465363001378043904",
+                    "size": "336",
+                    "download": "304"
+                }
+            },
+            "decryptionkey": "ad702e2bfe01aab2c7619c5fd83f5952c90233d02e60fc0d7dea90166d743008"
+        },
+        "2522750": {
+            "dlcappid": "2522750",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7302467640212309023",
+                    "size": "359",
+                    "download": "320"
+                }
+            },
+            "decryptionkey": "176e2959990bbe9ca628d59f5d77b0adf86eb6650c219c429ebaefa0425ebd06"
+        },
+        "2299370": {
+            "dlcappid": "2299370",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8028817800571165392",
+                    "size": "1251219",
+                    "download": "1252736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2225440": {
+            "dlcappid": "2225440",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3775457449532375389",
+                    "size": "321",
+                    "download": "272"
+                }
+            },
+            "decryptionkey": "f2775dc277d956bd67e6f77606ede20af2fdd431b3ef5485c913fc63435a4280"
+        },
+        "3467430": {
+            "dlcappid": "3467430",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3069463605296096216",
+                    "size": "5208516",
+                    "download": "5228992"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467450": {
+            "dlcappid": "3467450",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2248512052471111726",
+                    "size": "6464808",
+                    "download": "6486544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467460": {
+            "dlcappid": "3467460",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3950948887328107252",
+                    "size": "3346480",
+                    "download": "3353552"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467470": {
+            "dlcappid": "3467470",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8911715918148229466",
+                    "size": "7231879",
+                    "download": "7261424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467480": {
+            "dlcappid": "3467480",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5015411101142794801",
+                    "size": "5480973",
+                    "download": "5494128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467500": {
+            "dlcappid": "3467500",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3467510": {
+            "dlcappid": "3467510",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5692075804403490560",
+                    "size": "1479427",
+                    "download": "1477712"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467520": {
+            "dlcappid": "3467520",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1424585092721196605",
+                    "size": "3448003",
+                    "download": "3451312"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467530": {
+            "dlcappid": "3467530",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8595391977601010056",
+                    "size": "3416495",
+                    "download": "3419936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466790": {
+            "dlcappid": "3466790",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8761061683228959780",
+                    "size": "6768589",
+                    "download": "6801920"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466800": {
+            "dlcappid": "3466800",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4087048875013179950",
+                    "size": "6829503",
+                    "download": "6854816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466810": {
+            "dlcappid": "3466810",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "886447894540663943",
+                    "size": "3484104",
+                    "download": "3487136"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466830": {
+            "dlcappid": "3466830",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "759209164152627160",
+                    "size": "8003243",
+                    "download": "8049264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466840": {
+            "dlcappid": "3466840",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4097144517607237480",
+                    "size": "5019368",
+                    "download": "5032928"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466850": {
+            "dlcappid": "3466850",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9148847535843425495",
+                    "size": "3200573",
+                    "download": "3206496"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466860": {
+            "dlcappid": "3466860",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3160444997325426240",
+                    "size": "3923984",
+                    "download": "3941904"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466870": {
+            "dlcappid": "3466870",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2703033433021540000",
+                    "size": "5017376",
+                    "download": "5034704"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466880": {
+            "dlcappid": "3466880",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6257481880654872749",
+                    "size": "9111411",
+                    "download": "9155216"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466930": {
+            "dlcappid": "3466930",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6977176183876990130",
+                    "size": "5193899",
+                    "download": "5206048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466940": {
+            "dlcappid": "3466940",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1851997000454126027",
+                    "size": "6078826",
+                    "download": "6104816"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466950": {
+            "dlcappid": "3466950",
+            "config": {
+                "language": "japanese",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1354309125836512470",
+                    "size": "6765426",
+                    "download": "6779280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466960": {
+            "dlcappid": "3466960",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4394711163499190625",
+                    "size": "7509656",
+                    "download": "7541296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466970": {
+            "dlcappid": "3466970",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1907349055437188772",
+                    "size": "3292106",
+                    "download": "3294144"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466980": {
+            "dlcappid": "3466980",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8108282033437385238",
+                    "size": "6601016",
+                    "download": "6626480"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466990": {
+            "dlcappid": "3466990",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1559761504613660854",
+                    "size": "6093659",
+                    "download": "6113232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467000": {
+            "dlcappid": "3467000",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "421404797316055593",
+                    "size": "10020265",
+                    "download": "10068608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467010": {
+            "dlcappid": "3467010",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7089312337816645347",
+                    "size": "1387548",
+                    "download": "1389728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467020": {
+            "dlcappid": "3467020",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9163799071829934346",
+                    "size": "6718495",
+                    "download": "6739008"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467070": {
+            "dlcappid": "3467070",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7566407621705718826",
+                    "size": "2034584",
+                    "download": "2036528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467050": {
+            "dlcappid": "3467050",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2021773868582089736",
+                    "size": "1657206",
+                    "download": "1658848"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467060": {
+            "dlcappid": "3467060",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4966988127384582916",
+                    "size": "1133542",
+                    "download": "1135200"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467080": {
+            "dlcappid": "3467080",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4257830425232104609",
+                    "size": "1150718",
+                    "download": "1151600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467100": {
+            "dlcappid": "3467100",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3016354841556336088",
+                    "size": "2050745",
+                    "download": "2058048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467110": {
+            "dlcappid": "3467110",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2329804372642848459",
+                    "size": "1152142",
+                    "download": "1153728"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467120": {
+            "dlcappid": "3467120",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1526140530210741800",
+                    "size": "1112022",
+                    "download": "1115520"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467130": {
+            "dlcappid": "3467130",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "714790464690612207",
+                    "size": "1157831",
+                    "download": "1159152"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467140": {
+            "dlcappid": "3467140",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5469289965763521185",
+                    "size": "1151875",
+                    "download": "1153648"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467150": {
+            "dlcappid": "3467150",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5754028298965920387",
+                    "size": "1513981",
+                    "download": "1516656"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467180": {
+            "dlcappid": "3467180",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5205888947564119079",
+                    "size": "1139136",
+                    "download": "1140528"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467190": {
+            "dlcappid": "3467190",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "341130736369014368",
+                    "size": "1651823",
+                    "download": "1655984"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467200": {
+            "dlcappid": "3467200",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3097270750358872545",
+                    "size": "1511703",
+                    "download": "1513616"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467210": {
+            "dlcappid": "3467210",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5129176666580248048",
+                    "size": "1524711",
+                    "download": "1528128"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3467220": {
+            "dlcappid": "3467220",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8053292512085229413",
+                    "size": "1482734",
+                    "download": "1487344"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3466820": {
+            "dlcappid": "3466820",
+            "config": {
+                "language": "japanese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8766350599995684117",
+                    "size": "3680011",
+                    "download": "3691264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18234389",
+                "timeupdated": "1745813317"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
