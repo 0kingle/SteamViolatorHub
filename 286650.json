@@ -1,0 +1,42 @@
+{
+    "appid": "286650",
+    "type": "Demo",
+    "name": "MXGP - The Official Motocross Videogame Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 11:59:19",
+    "depot": {
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "286651": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3865718657126675045",
+                    "size": "2187762158",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "25cb8cbfb0c9e03c61d039b1e8dc09cb2f4c7669f3a0941833045fb70eb211b1"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "207846"
+            }
+        }
+    }
+}
