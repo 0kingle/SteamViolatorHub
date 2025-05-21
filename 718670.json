@@ -1,0 +1,122 @@
+{
+    "appid": "718670",
+    "type": "Game",
+    "name": "Cultist Simulator",
+    "schinese_name": "《密教模拟器 (Cultist Simulator)》",
+    "isfreeapp": "0",
+    "change_number": "29099911",
+    "update_time": "2025-05-21 19:33:26",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "718671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8649275431077857488",
+                    "size": "752787845",
+                    "download": "241733984"
+                },
+                "cultist_classic_original_ui": {
+                    "gid": "7173530014025165043",
+                    "size": "551139272",
+                    "download": "182125136"
+                },
+                "gateofhorn": {
+                    "gid": "8649275431077857488",
+                    "size": "752787845",
+                    "download": "241733984"
+                },
+                "legacy_unsupported_2023.12.s.6": {
+                    "gid": "3126456634373454651",
+                    "size": "700117185",
+                    "download": "230348464"
+                }
+            },
+            "decryptionkey": "dc20d4bf29f7456c029b2098de8aa019810ec20323584afbc2cf84842b23d713"
+        },
+        "718672": {
+            "sharedinstall": "",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2259018986379475875",
+                    "size": "781914490",
+                    "download": "252924912"
+                },
+                "cultist_classic_original_ui": {
+                    "gid": "846689903550834864",
+                    "size": "640300769",
+                    "download": "188252096"
+                },
+                "gateofhorn": {
+                    "gid": "2259018986379475875",
+                    "size": "781914490",
+                    "download": "252924912"
+                },
+                "legacy_unsupported_2023.12.s.6": {
+                    "gid": "1491213042050392666",
+                    "size": "728642010",
+                    "download": "241243632"
+                }
+            },
+            "decryptionkey": "0ddf8de1d062d0810016e415702ec9a6fc816fa73a2c42a99a899eec3761a818"
+        },
+        "718673": {
+            "sharedinstall": "",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5097788116835936952",
+                    "size": "777282880",
+                    "download": "241189952"
+                },
+                "cultist_classic_original_ui": {
+                    "gid": "319406596568884481",
+                    "size": "545164099",
+                    "download": "182976352"
+                },
+                "gateofhorn": {
+                    "gid": "5097788116835936952",
+                    "size": "777282880",
+                    "download": "241189952"
+                },
+                "legacy_unsupported_2023.12.s.6": {
+                    "gid": "2965200299345187373",
+                    "size": "723436941",
+                    "download": "229243136"
+                }
+            },
+            "decryptionkey": "b5ded5c8975e4140177ea43127c6b0c54259631f1eb7c81905d581851c0e7fb8"
+        },
+        "workshopdepot": "718670",
+        "branches": {
+            "public": {
+                "buildid": "18532705",
+                "timeupdated": "1747817263"
+            },
+            "cultist_classic_original_ui": {
+                "buildid": "6169043",
+                "description": "2021 version of the game. BEWARE: UNSUPPORTED",
+                "timeupdated": "1646920085"
+            },
+            "gateofhorn": {
+                "buildid": "18532705",
+                "description": "Beta branch, reasonably stable",
+                "timeupdated": "1747740387"
+            },
+            "legacy_unsupported_2023.12.s.6": {
+                "buildid": "13977825",
+                "description": "Previous major version",
+                "timeupdated": "1720098404"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "330e56718beb0870998bd42ad67b000888f9623075f7493a163f2a8671e3a159"
+    }
+}
