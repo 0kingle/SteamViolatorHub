@@ -1,0 +1,37 @@
+{
+    "appid": "2399160",
+    "type": "Game",
+    "name": "Soulash 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091061",
+    "update_time": "2025-05-21 05:26:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2399161": {
+            "manifests": {
+                "public": {
+                    "gid": "5733028516089648089",
+                    "size": "392580416",
+                    "download": "367108336"
+                }
+            },
+            "decryptionkey": "6d0b2f3c7b505241661c6baa80d5a35e2bd2b6fc975df6cad7c4fb581ab6ed1e"
+        },
+        "workshopdepot": "2399160",
+        "branches": {
+            "public": {
+                "buildid": "18539675",
+                "timeupdated": "1747776405"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0e94c16e2603283cd8ef4881f9f10778b515079f4ae7546d8897aa570aa87863"
+    }
+}
