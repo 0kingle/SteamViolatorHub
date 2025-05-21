@@ -1,0 +1,61 @@
+{
+    "appid": "1259420",
+    "type": "Game",
+    "name": "Days Gone",
+    "schinese_name": "往日不再",
+    "isfreeapp": "0",
+    "change_number": "29090509",
+    "update_time": "2025-05-21 04:47:26",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,arabic,brazilian,greek,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1259422": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3724277051785280814",
+                    "size": "50756952621",
+                    "download": "44864170640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1259421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3341519663870409373",
+                    "size": "67370915141",
+                    "download": "59858155744"
+                }
+            },
+            "decryptionkey": "3a92a76d80b16038abe5b2831f554a22120535ab039dbde663a70c8b52afe11b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18403805",
+                "timeupdated": "1746831726"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
