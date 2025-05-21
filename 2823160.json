@@ -1,0 +1,30 @@
+{
+    "appid": "2823160",
+    "type": "Game",
+    "name": "Gung Beetle",
+    "schinese_name": "枪螂",
+    "isfreeapp": "0",
+    "change_number": "29017020",
+    "update_time": "2025-05-16 13:18:47",
+    "depot": {
+        "baselanguages": "english",
+        "2823161": {
+            "manifests": {
+                "public": {
+                    "gid": "1141991469506646453",
+                    "size": "593996531",
+                    "download": "100411248"
+                }
+            },
+            "decryptionkey": "cadb468e2f214f4ee360c905d8ee0e282706b6be4e4a4da670d613a4bf8cd030"
+        },
+        "2823163": {},
+        "branches": {
+            "public": {
+                "buildid": "18486221",
+                "timeupdated": "1747372723"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
