@@ -1,0 +1,66 @@
+{
+    "appid": "1645820",
+    "type": "Game",
+    "name": "SurrounDead",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29070283",
+    "update_time": "2025-05-20 05:49:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1645821": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6813550679417293058",
+                    "size": "1543308058",
+                    "download": "1209437664"
+                },
+                "experimental": {
+                    "gid": "6813550679417293058",
+                    "size": "1543308058",
+                    "download": "1209437664"
+                },
+                "previous": {
+                    "gid": "7601567640382144206",
+                    "size": "1165338403",
+                    "download": "979213232"
+                }
+            },
+            "decryptionkey": "4365eaac1ea48f79aeec8b027dbea51e9a22b5e2c841e8f60a6d18151fcb4573"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18521474",
+                "timeupdated": "1747691367"
+            },
+            "experimental": {
+                "buildid": "18521474",
+                "description": "Testing",
+                "timeupdated": "1747676251"
+            },
+            "previous": {
+                "buildid": "16071215",
+                "description": "Previous update",
+                "timeupdated": "1744160074"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
