@@ -1,0 +1,47 @@
+{
+    "appid": "2780980",
+    "type": "Game",
+    "name": "LOCKDOWN Protocol",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29065047",
+    "update_time": "2025-05-20 04:29:53",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2780981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "774685032636251523",
+                    "size": "2244629173",
+                    "download": "2064090768"
+                }
+            },
+            "decryptionkey": "b810b1ec8feac6ecba5f581a91d6cc4f32d3e7e37668fa911a7890c98941b508"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18388527",
+                "timeupdated": "1746706969"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
