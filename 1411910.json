@@ -1,0 +1,30 @@
+{
+    "appid": "1411910",
+    "type": "Game",
+    "name": "Fallen Aces",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29047920",
+    "update_time": "2025-05-18 18:28:48",
+    "depot": {
+        "1411911": {
+            "manifests": {
+                "public": {
+                    "gid": "8017568092065203368",
+                    "size": "7126500565",
+                    "download": "3179409808"
+                }
+            },
+            "decryptionkey": "8f3ebc25fc2fca88d99ee0a0983db4feed1e6174072e46f94bc59aae57d1445f"
+        },
+        "workshopdepot": "1411910",
+        "branches": {
+            "public": {
+                "buildid": "18201691",
+                "timeupdated": "1745606368"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
