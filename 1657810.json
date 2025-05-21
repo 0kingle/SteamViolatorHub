@@ -1,0 +1,53 @@
+{
+    "appid": "1657810",
+    "type": "Game",
+    "name": "Combots",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29081375",
+    "update_time": "2025-05-20 20:10:38",
+    "depot": {
+        "baselanguages": "",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1657811": {
+            "manifests": {
+                "public": {
+                    "gid": "8007818484659158810",
+                    "size": "750097328",
+                    "download": "548617952"
+                },
+                "v200": {
+                    "gid": "1964486143334044273",
+                    "size": "313456990",
+                    "download": "152636304"
+                }
+            },
+            "decryptionkey": "56c42973947d07e3a262694383392cca9d3a66a24503628fccb05f06714ea955"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18210727",
+                "timeupdated": "1745426616"
+            },
+            "v200": {
+                "buildid": "8203422",
+                "description": "Combots v2.0.0",
+                "timeupdated": "1644886943"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
