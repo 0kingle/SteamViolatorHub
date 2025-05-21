@@ -1,0 +1,122 @@
+{
+    "appid": "1529570",
+    "type": "Application",
+    "name": "MorphVOX Pro 5 - Voice Changer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987895",
+    "update_time": "2025-05-15 03:06:34",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1529571": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4666825533218592651",
+                    "size": "17706895",
+                    "download": "8013888"
+                }
+            },
+            "decryptionkey": "7644dd8db3fe3d54a8c304c530d7c0bbdd9437c01a87406bf156cd6f5cc95093"
+        },
+        "1529572": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5558281329965431025",
+                    "size": "6629315",
+                    "download": "5092288"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1529573": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2293469717341625164",
+                    "size": "6949890",
+                    "download": "5318832"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1529574": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6852698504315321881",
+                    "size": "6765821",
+                    "download": "5191232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1529575": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "809024487169788205",
+                    "size": "6147735",
+                    "download": "4694176"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1529576": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5726947796747121369",
+                    "size": "7043092",
+                    "download": "5401264"
+                }
+            },
+            "decryptionkey": "21ffaf16aeb8bfa25ea5b3560718cb8dd88d5eaad6e4c4c8515445e45ca2252e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18193675",
+                "timeupdated": "1745328293"
+            }
+        }
+    }
+}
