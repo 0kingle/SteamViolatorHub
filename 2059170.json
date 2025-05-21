@@ -1,0 +1,41 @@
+{
+    "appid": "2059170",
+    "type": "Game",
+    "name": "Quasimorph",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052431",
+    "update_time": "2025-05-19 05:15:56",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2059171": {
+            "manifests": {
+                "public": {
+                    "gid": "496384443395428138",
+                    "size": "1133579913",
+                    "download": "303893840"
+                },
+                "beta": {
+                    "gid": "8640996796625666766",
+                    "size": "1150678441",
+                    "download": "319964256"
+                }
+            },
+            "decryptionkey": "25e2854f4569dfc0b7ed84a0c42b6726d69fa1b7c2157806c0827925d741eede"
+        },
+        "workshopdepot": "2059170",
+        "branches": {
+            "public": {
+                "buildid": "18229753",
+                "timeupdated": "1745530528"
+            },
+            "beta": {
+                "buildid": "18508108",
+                "description": "0.9.1 beta",
+                "timeupdated": "1747564795"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b52ce58be6df3f50efe69c16e35d857e4f1c4e3abe3b61a9471a357d4054e2a7"
+    }
+}
