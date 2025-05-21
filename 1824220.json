@@ -1,0 +1,57 @@
+{
+    "appid": "1824220",
+    "type": "Game",
+    "name": "Chivalry 2",
+    "schinese_name": "骑士精神2",
+    "isfreeapp": "0",
+    "change_number": "29083388",
+    "update_time": "2025-05-20 21:59:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "1824221": {
+            "manifests": {
+                "public": {
+                    "gid": "8944024960974787451",
+                    "size": "28583797522",
+                    "download": "25389992464"
+                }
+            },
+            "decryptionkey": "70ac4fdbb000d0a3f6ff5a9c3756662da90ff180752fb9bf87cc1f7cfc50e49d"
+        },
+        "1915500": {
+            "dlcappid": "1915500",
+            "manifests": {
+                "public": {
+                    "gid": "1874191594332316441",
+                    "size": "211007488",
+                    "download": "52982512"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1998240": {
+            "dlcappid": "1998240"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18409471",
+                "timeupdated": "1747749578"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
