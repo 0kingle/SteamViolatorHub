@@ -1,0 +1,46 @@
+{
+    "appid": "2835530",
+    "type": "Game",
+    "name": "Backrooms: Extractions",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29104092",
+    "update_time": "2025-05-21 20:50:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2835533": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7100162330644793867",
+                    "size": "5834374711",
+                    "download": "5429900560"
+                }
+            },
+            "decryptionkey": "60ff950675278d2d9588f534359afce7b62e02cb4db091bba6083d617cb7f5af"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,portuguese,polish,danish,dutch,finnish,norwegian,swedish,brazilian,bulgarian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18539446",
+                "timeupdated": "1747773189"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
