@@ -1,0 +1,64 @@
+{
+    "appid": "1157390",
+    "type": "Game",
+    "name": "King Arthur: Knight's Tale",
+    "schinese_name": "亚瑟王：骑士传说",
+    "isfreeapp": "0",
+    "change_number": "29080514",
+    "update_time": "2025-05-20 19:18:17",
+    "depot": {
+        "baselanguages": "english",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1157391": {
+            "manifests": {
+                "public": {
+                    "gid": "7658106638882779512",
+                    "size": "45469807637",
+                    "download": "37256073920"
+                }
+            },
+            "decryptionkey": "440e25a18d8a04ae7387ea9dab463d5431a037752dfc7a462eb711c2c30c142f"
+        },
+        "1157392": {
+            "manifests": {
+                "public": {
+                    "gid": "1449944730645775508",
+                    "size": "298889095",
+                    "download": "61242352"
+                }
+            },
+            "decryptionkey": "e759c77e1eb84437a8d49baf98f20425253345b9fda21f133919828686bbffc3"
+        },
+        "2222070": {
+            "dlcappid": "2222070",
+            "manifests": {
+                "public": {
+                    "gid": "2801948845905974831",
+                    "size": "345379126",
+                    "download": "324825968"
+                }
+            },
+            "decryptionkey": "55dc4955e35b4602844c8878f830b0b7fa6ab07b58961e0f71fdf17f6927d591"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18532639",
+                "timeupdated": "1747739892"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
