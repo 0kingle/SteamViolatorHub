@@ -1,0 +1,33 @@
+{
+    "appid": "2897560",
+    "type": "Game",
+    "name": "刷啊刷",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102467",
+    "update_time": "2025-05-21 19:26:48",
+    "depot": {
+        "baselanguages": "schinese",
+        "2897561": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4549103508574251457",
+                    "size": "1310211503",
+                    "download": "1046006384"
+                }
+            },
+            "decryptionkey": "4f6800e63cab91f63f375f7981ae5a70f796eb3f3ca4a624a41d7b15279d000a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548422",
+                "timeupdated": "1747826396"
+            }
+        }
+    }
+}
