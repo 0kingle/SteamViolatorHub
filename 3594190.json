@@ -1,0 +1,51 @@
+{
+    "appid": "3594190",
+    "type": "Game",
+    "name": "Her Place VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29086382",
+    "update_time": "2025-05-21 00:30:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3594191": {
+            "manifests": {
+                "public": {
+                    "gid": "6794069963289659438",
+                    "size": "3056558095",
+                    "download": "2673843152"
+                },
+                "experimental": {
+                    "gid": "6794069963289659438",
+                    "size": "3056558095",
+                    "download": "2673843152"
+                }
+            },
+            "decryptionkey": "0549442421a2aa7f183fe947c50d418a070ebc91e62af83bcdfda2977b9cb81d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18528369",
+                "timeupdated": "1747718089"
+            },
+            "experimental": {
+                "buildid": "18528369",
+                "description": "experimental",
+                "timeupdated": "1747716772"
+            }
+        }
+    }
+}
