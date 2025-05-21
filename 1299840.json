@@ -1,0 +1,54 @@
+{
+    "appid": "1299840",
+    "type": "Game",
+    "name": "The Legend of Zuri",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985976",
+    "update_time": "2025-05-15 01:06:43",
+    "depot": {
+        "baselanguages": "english",
+        "1299841": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4583875768120682205",
+                    "size": "310386241",
+                    "download": "191300992"
+                }
+            },
+            "decryptionkey": "d4573d93701987883a4967374582585bb8bd29571964807cd99a45ee5ee180a0"
+        },
+        "1299842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "392434096799814289",
+                    "size": "655060041",
+                    "download": "197645392"
+                }
+            }
+        },
+        "1571630": {
+            "dlcappid": "1571630",
+            "manifests": {
+                "public": {
+                    "gid": "5841509794358346909",
+                    "size": "90738480",
+                    "download": "90147024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "6338222",
+                "timeupdated": "1614975102"
+            }
+        }
+    }
+}
