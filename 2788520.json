@@ -1,0 +1,39 @@
+{
+    "appid": "2788520",
+    "type": "Game",
+    "name": "Cozy Caravan",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102778",
+    "update_time": "2025-05-21 19:40:11",
+    "depot": {
+        "2788521": {
+            "manifests": {
+                "public": {
+                    "gid": "5490171244833972466",
+                    "size": "1771151972",
+                    "download": "1120701712"
+                },
+                "local": {
+                    "gid": "7715642812626209069",
+                    "size": "2538520105",
+                    "download": "1604030864"
+                }
+            },
+            "decryptionkey": "d1abc794622a6959ea21d5f615e3d55fc44df6fd3a5495307aa97188d9ad0f96"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18426308",
+                "timeupdated": "1747124098"
+            },
+            "local": {
+                "buildid": "13748903",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1710485914"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
