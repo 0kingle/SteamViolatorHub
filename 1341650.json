@@ -1,0 +1,27 @@
+{
+    "appid": "1341650",
+    "type": "Game",
+    "name": "Hard Driver 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:01:30",
+    "depot": {
+        "1341651": {
+            "manifests": {
+                "public": {
+                    "gid": "1381635009933957039",
+                    "size": "8396288",
+                    "download": "8448528"
+                }
+            },
+            "decryptionkey": "8618ba25cf0759fe75b027f8ff60b7b9e649adfc782f826145b82cad0ab97646"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5113224",
+                "timeupdated": "1591161477"
+            }
+        }
+    }
+}
