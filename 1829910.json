@@ -1,0 +1,38 @@
+{
+    "appid": "1829910",
+    "type": "Game",
+    "name": "Cute Cats 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28964985",
+    "update_time": "2025-05-14 00:58:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1829911": {
+            "manifests": {
+                "public": {
+                    "gid": "4939790989260814857",
+                    "size": "151174010",
+                    "download": "114058320"
+                }
+            },
+            "decryptionkey": "dd4d22a0a3b6b7d8529f7818f1d45273c159416f3891d12258151fc08571a5cc"
+        },
+        "1891220": {
+            "dlcappid": "1891220",
+            "manifests": {
+                "public": {
+                    "gid": "8207296536369029321",
+                    "size": "163016604",
+                    "download": "149678176"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13779622",
+                "timeupdated": "1710804531"
+            }
+        }
+    }
+}
