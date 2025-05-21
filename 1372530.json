@@ -1,0 +1,44 @@
+{
+    "appid": "1372530",
+    "type": "Game",
+    "name": "Fly Corp",
+    "schinese_name": "飞飞公司 Fly Corp",
+    "isfreeapp": "0",
+    "change_number": "29059391",
+    "update_time": "2025-05-19 18:06:33",
+    "depot": {
+        "1372531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3311000446779652852",
+                    "size": "416574715",
+                    "download": "125328848"
+                }
+            },
+            "decryptionkey": "ee71175e851e7655569c31bd02fd798ca6b30a59be0777ba513464d1e0828575"
+        },
+        "1372532": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9056812894511987396",
+                    "size": "516769329",
+                    "download": "146846992"
+                }
+            },
+            "decryptionkey": "cc336298fc4ffed6b7cc53c20707714dff3d2db523d70a0783a691968bd62607"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18311713",
+                "timeupdated": "1746123810"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
