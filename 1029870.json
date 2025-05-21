@@ -1,0 +1,44 @@
+{
+    "appid": "1029870",
+    "type": "Game",
+    "name": "Unsung Heroes: The Golden Mask",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 12:54:16",
+    "depot": {
+        "1029871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8167263345341469660",
+                    "size": "327419525",
+                    "download": "140760224"
+                }
+            },
+            "decryptionkey": "931a1500612e40c6b4336e893a936e4670cad61d2a21dc83b0354075b02c093b"
+        },
+        "1029872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7292429001309269878",
+                    "size": "346291006",
+                    "download": "135248608"
+                }
+            }
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "4836992",
+                "timeupdated": "1586861755"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
