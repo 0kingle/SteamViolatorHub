@@ -1,0 +1,66 @@
+{
+    "appid": "2058570",
+    "type": "Game",
+    "name": "Rift Wizard 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098176",
+    "update_time": "2025-05-21 19:28:42",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2058571": {
+            "manifests": {
+                "public": {
+                    "gid": "1133217785931322403",
+                    "size": "947599223",
+                    "download": "710766176"
+                },
+                "beta": {
+                    "gid": "3079922151912211235",
+                    "size": "947758554",
+                    "download": "710842112"
+                },
+                "prev_beta": {
+                    "gid": "997328115311829031",
+                    "size": "947754671",
+                    "download": "710837504"
+                },
+                "prev_main": {
+                    "gid": "6885780311568527314",
+                    "size": "947471931",
+                    "download": "710692304"
+                }
+            },
+            "decryptionkey": "21bd211a1cb4704be16350381cf96407c28ea02f4af0e78fa1f3bb3b65727c79"
+        },
+        "workshopdepot": "2058570",
+        "branches": {
+            "public": {
+                "buildid": "17877053",
+                "timeupdated": "1743047390"
+            },
+            "beta": {
+                "buildid": "18544258",
+                "description": "beta branch",
+                "timeupdated": "1747811165"
+            },
+            "prev_beta": {
+                "buildid": "18454766",
+                "description": "previous beta build for save compat",
+                "timeupdated": "1747811175"
+            },
+            "prev_main": {
+                "buildid": "17140776",
+                "description": "previous main build for save compat",
+                "timeupdated": "1742965268"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
