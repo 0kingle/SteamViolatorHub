@@ -1,0 +1,43 @@
+{
+    "appid": "3404470",
+    "type": "Game",
+    "name": "Animal Spa",
+    "schinese_name": "线条小狗：动物温泉",
+    "isfreeapp": "0",
+    "change_number": "29097887",
+    "update_time": "2025-05-21 19:28:00",
+    "depot": {
+        "3404471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1366813580901786717",
+                    "size": "288551999",
+                    "download": "229258320"
+                }
+            },
+            "decryptionkey": "95548a5bfa59f05842b0af039e6b443ac8f005edb78e4875f2cbb62c7001407c"
+        },
+        "3404472": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1721606664343791829",
+                    "size": "313366451",
+                    "download": "235668592"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18545058",
+                "timeupdated": "1747810053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
