@@ -1,0 +1,27 @@
+{
+    "appid": "3555150",
+    "type": "Game",
+    "name": "我被女神盯上了!Beauty`s Target",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093587",
+    "update_time": "2025-05-21 09:18:05",
+    "depot": {
+        "3555151": {
+            "manifests": {
+                "public": {
+                    "gid": "7218189062650406295",
+                    "size": "13031620954",
+                    "download": "12497571152"
+                }
+            },
+            "decryptionkey": "e73a06546f1212f66fc9a7c60442cb95d40b575c5714008aa6587bd440827f29"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18514773",
+                "timeupdated": "1747642673"
+            }
+        }
+    }
+}
