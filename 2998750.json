@@ -1,0 +1,29 @@
+{
+    "appid": "2998750",
+    "type": "Game",
+    "name": "Vending Machine Business Simulator",
+    "schinese_name": "自动售货机商业模拟器",
+    "isfreeapp": "0",
+    "change_number": "29072633",
+    "update_time": "2025-05-20 09:30:51",
+    "depot": {
+        "2998751": {
+            "manifests": {
+                "public": {
+                    "gid": "8587361379529469947",
+                    "size": "4598724272",
+                    "download": "1542091584"
+                }
+            },
+            "decryptionkey": "da8ce2c4542a33eb0d7c8cf3efeabe0cd2434e951d4b5932ffe4a7fca347bfab"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18506043",
+                "timeupdated": "1747665360"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
