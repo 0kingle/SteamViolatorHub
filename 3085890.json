@@ -1,0 +1,31 @@
+{
+    "appid": "3085890",
+    "type": "Game",
+    "name": "世外桃源 Land Of Idyllic Beauty",
+    "schinese_name": "世外桃源",
+    "isfreeapp": "0",
+    "change_number": "29082572",
+    "update_time": "2025-05-20 21:17:24",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "3085891": {
+            "manifests": {
+                "public": {
+                    "gid": "137152719166119100",
+                    "size": "4571310209",
+                    "download": "610883136"
+                }
+            },
+            "decryptionkey": "5cf3c9208314cbde9de4b11acf051ea93779fddaece9022375cbf8f54ba14d84"
+        },
+        "workshopdepot": "3085890",
+        "branches": {
+            "public": {
+                "buildid": "18534135",
+                "timeupdated": "1747747036"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "512ac459e727124325b2a8d645ea6560f6331c177ce17f0e6c8cccbadf6e11d1"
+    }
+}
