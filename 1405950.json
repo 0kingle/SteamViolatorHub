@@ -1,0 +1,31 @@
+{
+    "appid": "1405950",
+    "type": "Game",
+    "name": "pear potion🍐",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:23:02",
+    "depot": {
+        "1405951": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2889667232252154297",
+                    "size": "98832803",
+                    "download": "36547696"
+                }
+            },
+            "decryptionkey": "89cd62c25484c1f7b63b16f09a6581e5a99f848321040bc7d9cd859cc9bf9be6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6378736",
+                "timeupdated": "1615723442"
+            }
+        }
+    }
+}
