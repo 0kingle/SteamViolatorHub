@@ -1,0 +1,40 @@
+{
+    "appid": "2951580",
+    "type": "Game",
+    "name": "Rhythm Witch: Beat Death",
+    "schinese_name": "节奏魔女 舞动的骷髅",
+    "isfreeapp": "0",
+    "change_number": "29101230",
+    "update_time": "2025-05-21 19:35:35",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "2951581": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7712994068437602390",
+                    "size": "823734721",
+                    "download": "265194688"
+                }
+            },
+            "decryptionkey": "0eb91817f38b08e589a0c5a2cc41747e56ec3804b017b5337079a93380ab6872"
+        },
+        "2951585": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18506816",
+                "timeupdated": "1747546287"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
