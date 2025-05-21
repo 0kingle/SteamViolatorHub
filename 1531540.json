@@ -1,0 +1,159 @@
+{
+    "appid": "1531540",
+    "type": "Game",
+    "name": "Distant Worlds 2",
+    "schinese_name": "遥远的世界2",
+    "isfreeapp": "0",
+    "change_number": "29104251",
+    "update_time": "2025-05-21 20:57:46",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "workshopdepot": "1531540",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1531541": {
+            "manifests": {
+                "public": {
+                    "gid": "2085427606893578764",
+                    "size": "16519568369",
+                    "download": "5541243568"
+                },
+                "beta": {
+                    "gid": "1532520746263616329",
+                    "size": "16519573989",
+                    "download": "5541246160"
+                },
+                "legacy2": {
+                    "gid": "181954932414256637",
+                    "size": "12770394786",
+                    "download": "4518957776"
+                }
+            },
+            "decryptionkey": "9b9fa09921729c938191534f1f6e81de525e236fc054ac17d94d244e17325066"
+        },
+        "1531542": {
+            "manifests": {
+                "public": {
+                    "gid": "1434596366861147812",
+                    "size": "173057589",
+                    "download": "161701584"
+                },
+                "beta": {
+                    "gid": "3544248940648950461",
+                    "size": "173080827",
+                    "download": "161715360"
+                },
+                "legacy2": {
+                    "gid": "5242573990637645344",
+                    "size": "171766360",
+                    "download": "160808400"
+                }
+            },
+            "decryptionkey": "d3ad118ab7b59fa205beffca68585bc8c56dc8067fe634d8fffa302ac704fc2b"
+        },
+        "2140010": {
+            "dlcappid": "2140010",
+            "manifests": {
+                "public": {
+                    "gid": "4882813539776254274",
+                    "size": "1519810785",
+                    "download": "638656912"
+                },
+                "beta": {
+                    "gid": "4882813539776254274",
+                    "size": "1519810785",
+                    "download": "638656912"
+                },
+                "legacy2": {
+                    "gid": "910524104914354938",
+                    "size": "1508927234",
+                    "download": "631553088"
+                }
+            },
+            "decryptionkey": "9816b2e90deea55cab853826a6be8d3cdbe88dbc77fc7fd4a36b0eec139a8407"
+        },
+        "2409480": {
+            "dlcappid": "2409480",
+            "manifests": {
+                "public": {
+                    "gid": "7340136369534942697",
+                    "size": "3722830517",
+                    "download": "1062323456"
+                },
+                "beta": {
+                    "gid": "7340136369534942697",
+                    "size": "3722830517",
+                    "download": "1062323456"
+                },
+                "legacy2": {
+                    "gid": "3602403864374547525",
+                    "size": "1879949815",
+                    "download": "704511328"
+                }
+            },
+            "decryptionkey": "6ad516f28fe48285424f2de097c3132bb5b8610db316d7ff542aebbe200c9b6c"
+        },
+        "2926560": {
+            "dlcappid": "2926560",
+            "manifests": {
+                "public": {
+                    "gid": "3399234514731466019",
+                    "size": "5077653180",
+                    "download": "1932949712"
+                },
+                "beta": {
+                    "gid": "3399234514731466019",
+                    "size": "5077653180",
+                    "download": "1932949712"
+                }
+            },
+            "decryptionkey": "feb295904155c907424456a59ee15bedd5586368f9067c88ab1fa8ea45fc3415"
+        },
+        "3350550": {
+            "dlcappid": "3350550",
+            "manifests": {
+                "public": {
+                    "gid": "2588012933649850670",
+                    "size": "1686361417",
+                    "download": "653644320"
+                },
+                "beta": {
+                    "gid": "2588012933649850670",
+                    "size": "1686361417",
+                    "download": "653644320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18114195",
+                "timeupdated": "1744898435"
+            },
+            "beta": {
+                "buildid": "18429956",
+                "description": "v1.3.0.4",
+                "timeupdated": "1747060358"
+            },
+            "legacy2": {
+                "buildid": "11891036",
+                "description": "v1.1.4.4",
+                "timeupdated": "1699893977"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "4272e2bd6fe60eb571b0ab109fd10ed85d99e69761b0fdc465270dbb04859c94"
+    }
+}
