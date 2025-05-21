@@ -1,0 +1,42 @@
+{
+    "appid": "2215410",
+    "type": "Game",
+    "name": "Anime City",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009830",
+    "update_time": "2025-05-16 03:06:41",
+    "depot": {
+        "2215411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4718906204223221782",
+                    "size": "2728762134",
+                    "download": "1550818096"
+                }
+            },
+            "decryptionkey": "b090727fcb6bb092c00b7bc369fb46591475f68e015203840045f0838429c1e8"
+        },
+        "2215412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7685442938127238109",
+                    "size": "2763516387",
+                    "download": "1563215232"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18445992",
+                "timeupdated": "1747145683"
+            }
+        }
+    }
+}
