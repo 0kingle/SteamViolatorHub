@@ -1,0 +1,28 @@
+{
+    "appid": "1839820",
+    "type": "Game",
+    "name": "Never Mourn",
+    "schinese_name": "不朽之心",
+    "isfreeapp": "0",
+    "change_number": "29068701",
+    "update_time": "2025-05-20 04:38:03",
+    "depot": {
+        "1839821": {
+            "manifests": {
+                "public": {
+                    "gid": "7247554284971917926",
+                    "size": "6245684435",
+                    "download": "3152290064"
+                }
+            },
+            "decryptionkey": "e99280bc664279995e281a12b0b14e1fa01a23379e63214cbacb4dc98a900381"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18267973",
+                "timeupdated": "1745858872"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
