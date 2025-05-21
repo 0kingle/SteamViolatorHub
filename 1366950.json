@@ -1,0 +1,101 @@
+{
+    "appid": "1366950",
+    "type": "Application",
+    "name": "Driver4VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986551",
+    "update_time": "2025-05-15 01:39:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1366951": {
+            "manifests": {
+                "public": {
+                    "gid": "7599685688028114672",
+                    "size": "283503518",
+                    "download": "110846448"
+                },
+                "beta": {
+                    "gid": "1219592145500190172",
+                    "size": "283525111",
+                    "download": "110842832"
+                },
+                "prev_version": {
+                    "gid": "746115563139306735",
+                    "size": "271815943",
+                    "download": "107263296"
+                },
+                "test": {
+                    "gid": "9210023100533376745",
+                    "size": "283479407",
+                    "download": "110869936"
+                }
+            },
+            "decryptionkey": "80d8ed60372562417003680d8dead18e48da889f884e42df6a048b6aeb6baf56"
+        },
+        "1529611": {
+            "dlcappid": "1529611"
+        },
+        "2928420": {
+            "dlcappid": "2928420",
+            "manifests": {
+                "public": {
+                    "gid": "6686137503080866835",
+                    "size": "89243131",
+                    "download": "27777216"
+                },
+                "beta": {
+                    "gid": "5921000188397993016",
+                    "size": "89242827",
+                    "download": "27777088"
+                },
+                "prev_version": {
+                    "gid": "8340746259454358626",
+                    "size": "89218009",
+                    "download": "27776800"
+                },
+                "test": {
+                    "gid": "7282598974732523181",
+                    "size": "89218009",
+                    "download": "27776944"
+                }
+            },
+            "decryptionkey": "a9a3a29e85e0e9ab9adc64c7e1f9f298f485b992c0359d5e56393c084c4b0452"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16744734",
+                "timeupdated": "1734337037"
+            },
+            "beta": {
+                "buildid": "18355742",
+                "description": "Beta version",
+                "timeupdated": "1746514502"
+            },
+            "prev_version": {
+                "buildid": "14595273",
+                "description": "Previous version",
+                "timeupdated": "1728847075"
+            },
+            "test": {
+                "buildid": "15109257",
+                "description": "Test version",
+                "timeupdated": "1745335425"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
