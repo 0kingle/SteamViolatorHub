@@ -1,0 +1,38 @@
+{
+    "appid": "2412200",
+    "type": "Game",
+    "name": "Cthulhu's Reach: Devil Reef",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102774",
+    "update_time": "2025-05-21 19:40:09",
+    "depot": {
+        "2412201": {
+            "manifests": {
+                "public": {
+                    "gid": "2614198069533793482",
+                    "size": "484077585",
+                    "download": "223964400"
+                },
+                "beta": {
+                    "gid": "2614198069533793482",
+                    "size": "484077585",
+                    "download": "223964400"
+                }
+            },
+            "decryptionkey": "60304c9bcaeab9c0669267c89f7f1933d97577cf72de36bae17e0489a7acac7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548594",
+                "timeupdated": "1747827509"
+            },
+            "beta": {
+                "buildid": "18548594",
+                "description": "Beta branch",
+                "timeupdated": "1747827206"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
