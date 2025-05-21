@@ -1,0 +1,56 @@
+{
+    "appid": "3407070",
+    "type": "Game",
+    "name": "Sex With Friends",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052760",
+    "update_time": "2025-05-19 06:12:09",
+    "depot": {
+        "3407071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6197933218746377624",
+                    "size": "1376389417",
+                    "download": "454823936"
+                }
+            },
+            "decryptionkey": "624ef68205bc8a50f5b7008d4478abb7a56723ece293adc96f4760e6a59915ce"
+        },
+        "3407072": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138612365780189682",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "3407073": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "504281314116172387",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18343942",
+                "timeupdated": "1746434111"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
