@@ -1,0 +1,28 @@
+{
+    "appid": "1719670",
+    "type": "Game",
+    "name": "Hentai BDSM",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28613587",
+    "update_time": "2025-04-23 11:17:16",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1719671": {
+            "manifests": {
+                "public": {
+                    "gid": "5258430108615674329",
+                    "size": "162776449",
+                    "download": "159629536"
+                }
+            },
+            "decryptionkey": "94673553d3248a111cca6aa3ee1a127a6c18f0bcbf945318e1012bb3ab79a35f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17924955",
+                "timeupdated": "1743425893"
+            }
+        }
+    }
+}
