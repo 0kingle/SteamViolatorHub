@@ -1,0 +1,27 @@
+{
+    "appid": "1462600",
+    "type": "Game",
+    "name": "ONNANOKO KEEPER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 09:51:28",
+    "depot": {
+        "1462601": {
+            "manifests": {
+                "public": {
+                    "gid": "7965359623592398589",
+                    "size": "535134461",
+                    "download": "153329200"
+                }
+            },
+            "decryptionkey": "814655b98a503857e86302959f64012f0adb5812525ccbb6046d120f1a316957"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7806882",
+                "timeupdated": "1638343829"
+            }
+        }
+    }
+}
