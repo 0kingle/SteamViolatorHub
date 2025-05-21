@@ -1,0 +1,27 @@
+{
+    "appid": "857480",
+    "type": "Game",
+    "name": "Seirei",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 23:05:58",
+    "depot": {
+        "857481": {
+            "manifests": {
+                "public": {
+                    "gid": "3400180905753804050",
+                    "size": "574964159",
+                    "download": "191076208"
+                }
+            },
+            "decryptionkey": "bc38efcb7761fa470f05f516baa50498c69d1add29c78cfd727361369911bd3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5435429",
+                "timeupdated": "1597899846"
+            }
+        }
+    }
+}
