@@ -1,0 +1,46 @@
+{
+    "appid": "3244740",
+    "type": "DLC",
+    "name": "Tavern Talk: Tempest Tantrum",
+    "schinese_name": "魔饮心语：风暴骤起",
+    "isfreeapp": "0",
+    "change_number": "29066196",
+    "update_time": "2025-05-20 04:30:03",
+    "depot": {
+        "3244740": {
+            "dlcappid": "3244740",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4599476456169315269",
+                    "size": "15576441",
+                    "download": "11852896"
+                }
+            },
+            "decryptionkey": "f1f8d84e3c203ccf6d26a4ad3b95870c004ed595c7851b196b1cdcd51f11915f"
+        },
+        "3244741": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2382249926923125157",
+                    "size": "15574476",
+                    "download": "11851200"
+                }
+            },
+            "dlcappid": "3244740",
+            "decryptionkey": "a036b98c641aee4f8b530cf170fddb3e109c81aae2967db9208461ceabe42af2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17013953",
+                "timeupdated": "1740557618"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
