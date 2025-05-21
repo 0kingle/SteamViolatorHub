@@ -1,0 +1,29 @@
+{
+    "appid": "2865440",
+    "type": "Game",
+    "name": "FRONT MISSION 2: Remake",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977320",
+    "update_time": "2025-05-14 22:42:50",
+    "depot": {
+        "2865441": {
+            "manifests": {
+                "public": {
+                    "gid": "4373971948075386066",
+                    "size": "9725479234",
+                    "download": "8494443184"
+                }
+            },
+            "decryptionkey": "482559fb2638bef793aaaf13ad2d9a3e97e41b6f6b9541970ce0dfa0e59e8f56"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17804495",
+                "timeupdated": "1744354734"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
