@@ -1,0 +1,36 @@
+{
+    "appid": "3328910",
+    "type": "Game",
+    "name": "MySims™ Kingdom",
+    "schinese_name": "MySims™ Kingdom",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3328911": {
+            "manifests": {
+                "public": {
+                    "gid": "8688423900600720893",
+                    "size": "4144506307",
+                    "download": "1380042032"
+                }
+            },
+            "decryptionkey": "f743d18d5456e4dadb18fba78a9cdbc4120f9b44b3397bf58405ce4d59ae05c1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,japanese,portuguese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18030320",
+                "timeupdated": "1744649838"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
