@@ -1,0 +1,38 @@
+{
+    "appid": "1461910",
+    "type": "Game",
+    "name": "Rogue Command",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29081338",
+    "update_time": "2025-05-20 20:08:13",
+    "depot": {
+        "1461911": {
+            "manifests": {
+                "public": {
+                    "gid": "5273534662579612538",
+                    "size": "4724842589",
+                    "download": "579408928"
+                },
+                "beta": {
+                    "gid": "3267050469996411731",
+                    "size": "4852932417",
+                    "download": "582857584"
+                }
+            },
+            "decryptionkey": "5b635c96f61959d88cc4b8ae99f6c35834a8948fe2528ea1974756c863d7b882"
+        },
+        "baselanguages": "english,german,french,koreana,schinese,tchinese,russian,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18143202",
+                "timeupdated": "1745579171"
+            },
+            "beta": {
+                "buildid": "18533257",
+                "description": "latest unstable version",
+                "timeupdated": "1747742887"
+            }
+        }
+    }
+}
