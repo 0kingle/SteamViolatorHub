@@ -1,0 +1,38 @@
+{
+    "appid": "1715590",
+    "type": "Game",
+    "name": "Wizordum",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29061795",
+    "update_time": "2025-05-20 04:20:44",
+    "depot": {
+        "1715591": {
+            "manifests": {
+                "public": {
+                    "gid": "4824395342541119502",
+                    "size": "857806266",
+                    "download": "285726048"
+                },
+                "previous": {
+                    "gid": "939624733719022001",
+                    "size": "881731570",
+                    "download": "285485024"
+                }
+            },
+            "decryptionkey": "8568263432c963194015f895f9a5eea7abea645f6c010f408eff7f063af3a312"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18517927",
+                "timeupdated": "1747658928"
+            },
+            "previous": {
+                "buildid": "18313424",
+                "description": "Previous game version (backup)",
+                "timeupdated": "1746574347"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
