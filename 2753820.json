@@ -1,0 +1,27 @@
+{
+    "appid": "2753820",
+    "type": "Game",
+    "name": "My step family",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067535",
+    "update_time": "2025-05-20 04:35:26",
+    "depot": {
+        "2753821": {
+            "manifests": {
+                "public": {
+                    "gid": "610326013077937767",
+                    "size": "164460764",
+                    "download": "48838528"
+                }
+            },
+            "decryptionkey": "ab3ca5c4c26ab14774ef4554018f27913b578c92218b4b8a420bac5b650533c3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18469366",
+                "timeupdated": "1747275655"
+            }
+        }
+    }
+}
