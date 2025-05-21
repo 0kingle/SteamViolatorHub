@@ -1,0 +1,42 @@
+{
+    "appid": "2895350",
+    "type": "Game",
+    "name": "Tactical Mission: Target Rush",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078295",
+    "update_time": "2025-05-20 17:12:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2895351": {
+            "manifests": {
+                "public": {
+                    "gid": "1499901312852190379",
+                    "size": "6577056718",
+                    "download": "6095408848"
+                }
+            },
+            "decryptionkey": "843b4aab25219e7abc5ebd2efecff62ebf7d825aa24e97d23986498394329b21"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18362615",
+                "timeupdated": "1746551526"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
