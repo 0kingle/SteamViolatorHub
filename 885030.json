@@ -1,0 +1,31 @@
+{
+    "appid": "885030",
+    "type": "Application",
+    "name": "Platform Builder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28929330",
+    "update_time": "2025-05-12 05:44:03",
+    "depot": {
+        "baselanguages": "english",
+        "885031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1580083390832529845",
+                    "size": "158003209",
+                    "download": "85129712"
+                }
+            },
+            "decryptionkey": "cbd06e08081cefe3fda86f4b36d9d4e079c26e863ea405c1f8623a3ef96a13bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18422443",
+                "timeupdated": "1746999837"
+            }
+        }
+    }
+}
