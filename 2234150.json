@@ -1,0 +1,41 @@
+{
+    "appid": "2234150",
+    "type": "Game",
+    "name": "BACKROOMS: APPREHENSION",
+    "schinese_name": "BACKROOMS: 恐惧",
+    "isfreeapp": "0",
+    "change_number": "29048948",
+    "update_time": "2025-05-18 21:15:20",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2234151": {
+            "manifests": {
+                "public": {
+                    "gid": "3100500619629701339",
+                    "size": "2138838236",
+                    "download": "1997026848"
+                }
+            },
+            "decryptionkey": "b7d3cfbe2d7ab09a4e80d1083ae7b7ce90e9e11c3d33c29cf6677ae379ce23ce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18378829",
+                "timeupdated": "1746645549"
+            }
+        }
+    }
+}
