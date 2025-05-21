@@ -1,0 +1,42 @@
+{
+    "appid": "3272530",
+    "type": "Demo",
+    "name": "BrokenLore: DON'T WATCH Demo",
+    "schinese_name": "破碎怪谈：切勿直视 试玩版",
+    "isfreeapp": "0",
+    "change_number": "28934551",
+    "update_time": "2025-05-12 16:13:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3272531": {
+            "manifests": {
+                "public": {
+                    "gid": "4557130345606931490",
+                    "size": "2657192533",
+                    "download": "2333222080"
+                }
+            },
+            "decryptionkey": "07cfe6ffe16bcc0caaad67dbf05c9d9e074b011bbb3ef0ab84b5f7dab2f2e813"
+        },
+        "baselanguages": "english,french,italian,spanish,schinese,tchinese,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18038372",
+                "timeupdated": "1744189452"
+            }
+        }
+    }
+}
