@@ -1,0 +1,43 @@
+{
+    "appid": "1653240",
+    "type": "Game",
+    "name": "Polus.gg",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988909",
+    "update_time": "2025-05-15 04:13:10",
+    "depot": {
+        "1653242": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1642566528546614618",
+                    "size": "118106458",
+                    "download": "38200256"
+                }
+            },
+            "decryptionkey": "b8600a82de42957e39295daac9bfd40e60788312f745d9145882dcd744e46c88"
+        },
+        "1653243": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4905065166331359498",
+                    "size": "115272707",
+                    "download": "36620112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7341828",
+                "timeupdated": "1631337077"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
