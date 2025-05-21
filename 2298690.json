@@ -1,0 +1,66 @@
+{
+    "appid": "2298690",
+    "type": "Game",
+    "name": "Realpolitiks 3: Earth and Beyond",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29077285",
+    "update_time": "2025-05-20 16:12:13",
+    "depot": {
+        "2298691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2733638762847242705",
+                    "size": "3225796666",
+                    "download": "2388114368"
+                }
+            },
+            "decryptionkey": "f0159ee367af9d4cb58b76b6ab2a9c0851f390e5808445054bdaaac507c7b13a"
+        },
+        "2298692": {
+            "manifests": {
+                "public": {
+                    "gid": "8654571107702144060",
+                    "size": "70060847",
+                    "download": "70990032"
+                }
+            },
+            "decryptionkey": "e1e82ee5481299a0b1db7ad4c379798020669a521f5a1d2a3c288387eb031765"
+        },
+        "2298693": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6271271402383095983",
+                    "size": "3188763100",
+                    "download": "2382474784"
+                }
+            }
+        },
+        "2298694": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4826464871312109586",
+                    "size": "3282389347",
+                    "download": "2395227728"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18401809",
+                "timeupdated": "1746795486"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
