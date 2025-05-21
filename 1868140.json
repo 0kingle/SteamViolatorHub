@@ -1,0 +1,142 @@
+{
+    "appid": "1868140",
+    "type": "Game",
+    "name": "DAVE THE DIVER",
+    "schinese_name": "潜水员戴夫 DAVE THE DIVER",
+    "isfreeapp": "0",
+    "change_number": "29104329",
+    "update_time": "2025-05-21 21:01:00",
+    "depot": {
+        "baselanguages": "english",
+        "1868141": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2807524592343863970",
+                    "size": "3317898095",
+                    "download": "2433139536"
+                }
+            },
+            "decryptionkey": "dec1482ee88e2a62d7fddedf0e75c6abdef55d2884440de6508bef83044198d8"
+        },
+        "1868142": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5632421557340808486",
+                    "size": "3453191042",
+                    "download": "2356247248"
+                }
+            },
+            "decryptionkey": "f55cec1c353af17ba294e0bc3c1af6766a91b76e97d59d44425873918058d6c5"
+        },
+        "2463870": {
+            "dlcappid": "2463870"
+        },
+        "2492320": {
+            "dlcappid": "2492320",
+            "manifests": {
+                "public": {
+                    "gid": "7190702059871256453",
+                    "size": "489645490",
+                    "download": "394016640"
+                }
+            },
+            "decryptionkey": "80467121a86d6b38971889737a91b309bb3aa329fee8e93ac63f2748f43fa063"
+        },
+        "2677020": {
+            "dlcappid": "2677020",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7642279457042793130",
+                    "size": "28719909",
+                    "download": "21044976"
+                }
+            },
+            "decryptionkey": "0f12757b1a8cc78265828ba98e12b673ff97e942bbfd3ae07eca6d10f6b8dfcf"
+        },
+        "2677021": {
+            "dlcappid": "2677020",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7093100958390271678",
+                    "size": "28718640",
+                    "download": "21052928"
+                }
+            },
+            "decryptionkey": "794d4476c6913ad8568af8bf1303f216b1f16b3d6041f62834536fe460d661dd"
+        },
+        "2841140": {
+            "dlcappid": "2841140",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6914487845343094735",
+                    "size": "76942459",
+                    "download": "68416288"
+                }
+            },
+            "decryptionkey": "a5e4472216eb53c5abc48c617b42bc740a1fac4adf25659c183015a27f8849fb"
+        },
+        "2841141": {
+            "dlcappid": "2841140",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4594674084458115449",
+                    "size": "76944344",
+                    "download": "68428672"
+                }
+            },
+            "decryptionkey": "a6863e71aca974796ecc6423cb6d8b9820fd11e9df7f06bcbaa7a1926227f77d"
+        },
+        "3543180": {
+            "dlcappid": "3543180",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8855389284671366804",
+                    "size": "189430279",
+                    "download": "174086480"
+                }
+            },
+            "decryptionkey": "5dbf7b425cf6ac47d95a2abe30926e2c845f6b9fbf05903c27837624a56b6b66"
+        },
+        "3543181": {
+            "dlcappid": "3543180",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1358395009878917411",
+                    "size": "188880340",
+                    "download": "173613184"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18473306",
+                "timeupdated": "1747300772"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
