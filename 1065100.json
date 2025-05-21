@@ -1,0 +1,70 @@
+{
+    "appid": "1065100",
+    "type": "Game",
+    "name": "Golden Treasure: The Great Green",
+    "schinese_name": "龙族至宝：广茂之绿 (Golden Treasure: The Great Green)",
+    "isfreeapp": "0",
+    "change_number": "28981293",
+    "update_time": "2025-05-14 22:50:02",
+    "depot": {
+        "workshopdepot": "1065100",
+        "1065101": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7392888683507184227",
+                    "size": "1558519566",
+                    "download": "988285616"
+                }
+            },
+            "decryptionkey": "a1c5b0a512a02842c121d5046ecbe638c69185c05076d013ee2c097af144b30f"
+        },
+        "1065102": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3959097070547084025",
+                    "size": "1564028220",
+                    "download": "986996640"
+                }
+            }
+        },
+        "1105880": {
+            "dlcappid": "1105880",
+            "manifests": {
+                "public": {
+                    "gid": "1162258913956942975",
+                    "size": "176979749",
+                    "download": "175500544"
+                }
+            },
+            "decryptionkey": "afd29b7dc24613c9b9e0f57f0ccffd90fe9bc1cede26bf0b8b3f2690574ec1d1"
+        },
+        "1065104": {
+            "dlcappid": "1221760",
+            "config": {
+                "oslist": "windows,linux"
+            }
+        },
+        "1065105": {
+            "dlcappid": "1221760",
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18460670",
+                "timeupdated": "1747228455"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
