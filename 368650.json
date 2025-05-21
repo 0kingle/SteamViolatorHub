@@ -1,0 +1,54 @@
+{
+    "appid": "368650",
+    "type": "Game",
+    "name": "Dark Echo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28911544",
+    "update_time": "2025-05-10 07:31:24",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,brazilian",
+        "368651": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2094242094813114602",
+                    "size": "84872092",
+                    "download": "29674624"
+                }
+            },
+            "decryptionkey": "e5cbc89acc7aeccb4b7f28ada24f43c323712ef6894daaef49b8c8d00c92f2d2"
+        },
+        "368652": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "761185713518082257",
+                    "size": "128863662",
+                    "download": "39938544"
+                }
+            }
+        },
+        "368653": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2862545182545673119",
+                    "size": "116369948",
+                    "download": "39565888"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "633612"
+            }
+        }
+    }
+}
