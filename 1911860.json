@@ -1,0 +1,50 @@
+{
+    "appid": "1911860",
+    "type": "Game",
+    "name": "Grit and Valor - 1949",
+    "schinese_name": "铁锈风云",
+    "isfreeapp": "0",
+    "change_number": "29092677",
+    "update_time": "2025-05-21 08:01:50",
+    "depot": {
+        "1911861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1981901213546201320",
+                    "size": "8637332220",
+                    "download": "2427811088"
+                }
+            },
+            "decryptionkey": "c924b130e02468d91c44bbd60d41ae87def8e9a7d9eb42d622281b7da9d04819"
+        },
+        "1911862": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "3570560": {
+            "dlcappid": "3570560",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8162914077175488571",
+                    "size": "165762497",
+                    "download": "167435024"
+                }
+            },
+            "decryptionkey": "0f4d2c6b372f3c291b2ddffb17f50fe515be94a2a5ec6cd0154bc7151995cf4b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18296917",
+                "timeupdated": "1746021879"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
