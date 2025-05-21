@@ -1,0 +1,101 @@
+{
+    "appid": "1367550",
+    "type": "Game",
+    "name": "Kingdom Rush Vengeance",
+    "schinese_name": "王国保卫战：复仇",
+    "isfreeapp": "0",
+    "change_number": "28986551",
+    "update_time": "2025-05-15 01:39:54",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1367551": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4241670942432370517",
+                    "size": "1420990426",
+                    "download": "1022654064"
+                },
+                "open_beta": {
+                    "gid": "7713240704703125093",
+                    "size": "1116868677",
+                    "download": "809529120"
+                }
+            },
+            "decryptionkey": "d1e9471104a4ea2d07be67a6352166d046779197b4b9b8f4f1a13073a2d23f54"
+        },
+        "1367552": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6990443660423986918",
+                    "size": "1425323994",
+                    "download": "1012674160"
+                },
+                "open_beta": {
+                    "gid": "72931253918898789",
+                    "size": "1120883781",
+                    "download": "799479840"
+                }
+            },
+            "decryptionkey": "6dd002ff1dbc19423c66d76b1bcf01fa35234ab22f5e041322d8ede40b5de471"
+        },
+        "1367553": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "322320552110294668",
+                    "size": "1462009024",
+                    "download": "1024570544"
+                },
+                "open_beta": {
+                    "gid": "8358521575762635216",
+                    "size": "1148334369",
+                    "download": "794809168"
+                }
+            },
+            "decryptionkey": "7fd101ebe069b9b6318073235bf4fcfa6c307bb5546e15009096bb28b5af5ad8"
+        },
+        "1367554": {},
+        "branches": {
+            "public": {
+                "buildid": "18285135",
+                "timeupdated": "1746010638"
+            },
+            "open_beta": {
+                "buildid": "9651219",
+                "description": "Public beta testing branch",
+                "timeupdated": "1702578003"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
