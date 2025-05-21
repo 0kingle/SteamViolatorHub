@@ -1,0 +1,28 @@
+{
+    "appid": "1979410",
+    "type": "Game",
+    "name": "TOP DOG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28804430",
+    "update_time": "2025-05-04 06:29:48",
+    "depot": {
+        "1979411": {
+            "manifests": {
+                "public": {
+                    "gid": "1621360407310503541",
+                    "size": "138083716",
+                    "download": "26181952"
+                }
+            },
+            "decryptionkey": "935d4d15ad021babaf2a0de59c0f1c8f715386e778adb0364410c256350c473f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18311648",
+                "timeupdated": "1746120275"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
