@@ -1,0 +1,52 @@
+{
+    "appid": "1843730",
+    "type": "Game",
+    "name": "Last Group Out",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29097926",
+    "update_time": "2025-05-21 19:21:47",
+    "depot": {
+        "1843731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4885825581444423922",
+                    "size": "448845223",
+                    "download": "101531360"
+                },
+                "beta": {
+                    "gid": "4885825581444423922",
+                    "size": "448845223",
+                    "download": "101531360"
+                },
+                "classicmode": {
+                    "gid": "5806447311636740743",
+                    "size": "160674326",
+                    "download": "95429920"
+                }
+            },
+            "decryptionkey": "edace4e80a96403ed87e2391a6f48c9e68b908913aa40a820be8cdda93d0c3ba"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18545078",
+                "timeupdated": "1747810220"
+            },
+            "beta": {
+                "buildid": "18545078",
+                "description": "Testing Extract Timer Toggle",
+                "timeupdated": "1747810194"
+            },
+            "classicmode": {
+                "buildid": "15310745",
+                "description": "Classic Mode",
+                "timeupdated": "1723155677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
