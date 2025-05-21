@@ -1,0 +1,47 @@
+{
+    "appid": "3659980",
+    "type": "Game",
+    "name": "Tease and Please: Charlotte Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29049176",
+    "update_time": "2025-05-18 21:52:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3659984": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1403735193934844417",
+                    "size": "444181085",
+                    "download": "354242816"
+                }
+            },
+            "decryptionkey": "44bfd8e032ed2352f09a46da777decb0f30cc3e93450757d57d7fa282d20b04d"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18508827",
+                "timeupdated": "1747576345"
+            }
+        }
+    }
+}
