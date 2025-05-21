@@ -1,0 +1,32 @@
+{
+    "appid": "1933490",
+    "type": "Game",
+    "name": "Let's Play! Oink Games",
+    "schinese_name": "一起来玩吧！Oink Games",
+    "isfreeapp": "0",
+    "change_number": "28991051",
+    "update_time": "2025-05-15 06:53:09",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese",
+        "1933491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5246412682371346190",
+                    "size": "427677689",
+                    "download": "355393056"
+                }
+            },
+            "decryptionkey": "c9585fd63e83c035e240df83f62e282c4568b4770802932f7fceec83c4d632c8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17818959",
+                "timeupdated": "1745449633"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
