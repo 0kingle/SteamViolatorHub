@@ -1,0 +1,50 @@
+{
+    "appid": "2993780",
+    "type": "Game",
+    "name": "FANTASY LIFE i: The Girl Who Steals Time",
+    "schinese_name": "幻想生活ｉ 转圈圈的龙和偷取时间的少女",
+    "isfreeapp": "0",
+    "change_number": "29089982",
+    "update_time": "2025-05-21 04:13:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2993781": {
+            "manifests": {
+                "public": {
+                    "gid": "3003261969565940233",
+                    "size": "13316748177",
+                    "download": "10862454624"
+                }
+            },
+            "decryptionkey": "ad98d2baa7c277a9a3d59599e17cb30eb75781386d8c475317d4570b8dc72aaf"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18537768",
+                "timeupdated": "1747767109"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
