@@ -1,0 +1,44 @@
+{
+    "appid": "2665680",
+    "type": "Game",
+    "name": "Tower of Babel: Survivors of Chaos",
+    "schinese_name": "巴别塔 ：混乱的幸存者",
+    "isfreeapp": "0",
+    "change_number": "29098305",
+    "update_time": "2025-05-21 19:26:51",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish",
+        "2665681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "83021697591464240",
+                    "size": "400412168",
+                    "download": "119361760"
+                }
+            },
+            "decryptionkey": "507320342541c2a82b102d5de31fca41214742d1f8b4f3f3add139d5572fb709"
+        },
+        "2665682": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8278603085257855581",
+                    "size": "394393627",
+                    "download": "119212704"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18534187",
+                "timeupdated": "1747748494"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
