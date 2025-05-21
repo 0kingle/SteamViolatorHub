@@ -1,0 +1,29 @@
+{
+    "appid": "2156300",
+    "type": "Game",
+    "name": "Unscripted",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009242",
+    "update_time": "2025-05-16 02:30:40",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2156301": {
+            "manifests": {
+                "public": {
+                    "gid": "3419361155715041721",
+                    "size": "8175818528",
+                    "download": "4725216032"
+                }
+            },
+            "decryptionkey": "470ee9439ffb601da5fb9377ebca4798ec2b3172e7ab64a9f3f3e9c93d00b564"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11436824",
+                "timeupdated": "1686351147"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
