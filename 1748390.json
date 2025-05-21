@@ -1,0 +1,65 @@
+{
+    "appid": "1748390",
+    "type": "Game",
+    "name": "Rocket Bot Royale",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989612",
+    "update_time": "2025-05-15 05:06:31",
+    "depot": {
+        "1748391": {
+            "manifests": {
+                "public": {
+                    "gid": "8835268404542250565",
+                    "size": "60",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": "584daa2a12961d9e4c190ee5f59596e20ece2b52e55fbb6c0e828fc6d435e413"
+        },
+        "1748392": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3932467372778321292",
+                    "size": "69040968",
+                    "download": "31125328"
+                }
+            },
+            "decryptionkey": "52d7226294898dfff7be38d80856f239d24a241c338dd3c0534845adeb3ed943"
+        },
+        "1748393": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4441645598058165238",
+                    "size": "80130932",
+                    "download": "33544864"
+                }
+            }
+        },
+        "1748394": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1134260091823777459",
+                    "size": "78431336",
+                    "download": "33539824"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18405948",
+                "timeupdated": "1746808268"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
