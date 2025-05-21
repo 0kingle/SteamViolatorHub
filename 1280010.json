@@ -1,0 +1,45 @@
+{
+    "appid": "1280010",
+    "type": "Game",
+    "name": "Welcome to Pussy Paradise",
+    "schinese_name": " 欢迎来到小穴乐园",
+    "isfreeapp": "0",
+    "change_number": "28713651",
+    "update_time": "2025-04-29 03:53:34",
+    "depot": {
+        "1280011": {
+            "config": {
+                "oslist": "windows,linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2723944470207242724",
+                    "size": "580815470",
+                    "download": "471994096"
+                }
+            },
+            "decryptionkey": "d5ef1a938fcf4ced0bfef35883a2985666650760646dba0d589a693e41b87dde"
+        },
+        "1280012": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6329509038703298181",
+                    "size": "577610366",
+                    "download": "472245136"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18229139",
+                "timeupdated": "1745525800"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
