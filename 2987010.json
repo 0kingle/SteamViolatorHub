@@ -1,0 +1,27 @@
+{
+    "appid": "2987010",
+    "type": "Game",
+    "name": "清明",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28677029",
+    "update_time": "2025-04-26 07:54:27",
+    "depot": {
+        "2987011": {
+            "manifests": {
+                "public": {
+                    "gid": "8540814366749258788",
+                    "size": "650492228",
+                    "download": "93484368"
+                }
+            },
+            "decryptionkey": "14f5b36677a60565a0355674ffcca0e1edbc572a021cfeb9fdaebedee46a8f2a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14915800",
+                "timeupdated": "1719992242"
+            }
+        }
+    }
+}
