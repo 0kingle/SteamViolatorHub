@@ -1,0 +1,35 @@
+{
+    "appid": "2901520",
+    "type": "Game",
+    "name": "Альтушка для скуфа",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015231",
+    "update_time": "2025-05-16 10:24:52",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "2901521": {
+            "manifests": {
+                "public": {
+                    "gid": "3916135435796503194",
+                    "size": "806408486",
+                    "download": "653860880"
+                }
+            },
+            "decryptionkey": "b64fd4299573b07dd83ba1acf4fd83b90c27372919b8fd1d8038b98ae79df954"
+        },
+        "3058410": {
+            "dlcappid": "3058410"
+        },
+        "workshopdepot": "2901520",
+        "branches": {
+            "public": {
+                "buildid": "18248966",
+                "timeupdated": "1745743398"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "3426e28f85ca04a3ad324f222bc14d30bbbf2bab04ee35c953f1ad8caac040ba"
+    }
+}
