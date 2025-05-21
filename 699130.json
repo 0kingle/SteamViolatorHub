@@ -1,0 +1,43 @@
+{
+    "appid": "699130",
+    "type": "Game",
+    "name": "World War Z",
+    "schinese_name": "僵尸世界大战：劫后余生",
+    "isfreeapp": "0",
+    "change_number": "29099009",
+    "update_time": "2025-05-21 19:31:06",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,russian",
+        "699131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4637816073556083019",
+                    "size": "71640616364",
+                    "download": "45370930080"
+                }
+            },
+            "decryptionkey": "8e1c37df6ec32e30f09ea256f8732eb98b7955ec82c51c49960f0d078d057fbb"
+        },
+        "699132": {
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18111265",
+                "timeupdated": "1745928141"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
