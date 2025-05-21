@@ -1,0 +1,49 @@
+{
+    "appid": "2009350",
+    "type": "Game",
+    "name": "Out of Ore",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29085676",
+    "update_time": "2025-05-20 23:55:38",
+    "depot": {
+        "2009351": {
+            "manifests": {
+                "public": {
+                    "gid": "3647081245893012270",
+                    "size": "15939982195",
+                    "download": "15344168288"
+                },
+                "beforemultiplayer": {
+                    "gid": "79947598564800301",
+                    "size": "12479748164",
+                    "download": "12068250864"
+                },
+                "beta": {
+                    "gid": "2709528951683245381",
+                    "size": "15949211895",
+                    "download": "15353517424"
+                }
+            },
+            "decryptionkey": "41a1bb5707b6d179fc15f341ee3f4481b7d28f3a571eec865f526783430a26a8"
+        },
+        "2009352": {},
+        "branches": {
+            "public": {
+                "buildid": "18241196",
+                "timeupdated": "1745741040"
+            },
+            "beforemultiplayer": {
+                "buildid": "13880188",
+                "description": "Game Version 0.21.1627",
+                "timeupdated": "1730188854"
+            },
+            "beta": {
+                "buildid": "18345944",
+                "description": "Latest beta for players",
+                "timeupdated": "1746465769"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
