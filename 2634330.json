@@ -1,0 +1,30 @@
+{
+    "appid": "2634330",
+    "type": "Game",
+    "name": "gunmaker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29006801",
+    "update_time": "2025-05-16 00:21:59",
+    "depot": {
+        "2634331": {
+            "manifests": {
+                "public": {
+                    "gid": "8950041992458917124",
+                    "size": "151991108",
+                    "download": "101215136"
+                }
+            },
+            "decryptionkey": "f19f89a7a05d6a4479fe088c64e9ae3a35ce0ff7f0a1822eaf33b9acce562766"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,japanese,portuguese,brazilian,latam",
+        "workshopdepot": "2634330",
+        "branches": {
+            "public": {
+                "buildid": "18478999",
+                "timeupdated": "1747326117"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
