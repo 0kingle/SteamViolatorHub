@@ -1,0 +1,45 @@
+{
+    "appid": "2975460",
+    "type": "Game",
+    "name": "Farmer's Shop Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015559",
+    "update_time": "2025-05-16 10:54:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2975461": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5779513826290389959",
+                    "size": "4168947513",
+                    "download": "3964529552"
+                }
+            },
+            "decryptionkey": "99aff9d633c7019337275977beacbd9a6e78f3f02e8b34d664b36142a606c9d2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17730766",
+                "timeupdated": "1741983181"
+            }
+        }
+    }
+}
