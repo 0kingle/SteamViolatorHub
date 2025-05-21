@@ -1,0 +1,27 @@
+{
+    "appid": "1502890",
+    "type": "Game",
+    "name": "DNA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989729",
+    "update_time": "2025-05-15 05:14:14",
+    "depot": {
+        "1502891": {
+            "manifests": {
+                "public": {
+                    "gid": "987380967519856036",
+                    "size": "1795282712",
+                    "download": "1607788448"
+                }
+            },
+            "decryptionkey": "ef9e52f90f1d89cfe5555e0e021807b29bcbefbd1f43724f4d566800abd72b74"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12864304",
+                "timeupdated": "1701671157"
+            }
+        }
+    }
+}
