@@ -1,0 +1,59 @@
+{
+    "appid": "2275940",
+    "type": "Game",
+    "name": "Rogue Hex",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28838805",
+    "update_time": "2025-05-06 18:00:23",
+    "depot": {
+        "baselanguages": "english",
+        "2275941": {
+            "manifests": {
+                "public": {
+                    "gid": "4189971251360310838",
+                    "size": "3498035767",
+                    "download": "904150256"
+                },
+                "preview": {
+                    "gid": "4189971251360310838",
+                    "size": "3498035767",
+                    "download": "904150256"
+                }
+            },
+            "decryptionkey": "493a9b9bd149fbff512d290f8730b75c9821ea5e71fdb8022926b4a6456ac8ad"
+        },
+        "2275942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "287274395670171704",
+                    "size": "3519792109",
+                    "download": "909496976"
+                },
+                "preview": {
+                    "gid": "287274395670171704",
+                    "size": "3519792109",
+                    "download": "909496976"
+                }
+            }
+        },
+        "3405240": {
+            "dlcappid": "3405240"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18357588",
+                "timeupdated": "1746525618"
+            },
+            "preview": {
+                "buildid": "18357588",
+                "description": "Preview branch with the newest public build. May be unstable.",
+                "timeupdated": "1746525602"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
