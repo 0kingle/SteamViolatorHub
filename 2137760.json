@@ -1,0 +1,44 @@
+{
+    "appid": "2137760",
+    "type": "Game",
+    "name": "Crafty Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100379",
+    "update_time": "2025-05-21 19:34:27",
+    "depot": {
+        "baselanguages": "english",
+        "2137761": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7544243789722342867",
+                    "size": "2585568374",
+                    "download": "162370592"
+                }
+            },
+            "decryptionkey": "573e82875fce23d4f27f3e5d1b4e125b9520114551a9b17d930b43ae297b25d4"
+        },
+        "2137762": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5847916095071495506",
+                    "size": "2611490258",
+                    "download": "170066288"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18503752",
+                "timeupdated": "1747499732"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
