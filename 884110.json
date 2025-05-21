@@ -1,0 +1,85 @@
+{
+    "appid": "884110",
+    "type": "Tool",
+    "name": "SCP: 5K - Community Dedicated Server",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095133",
+    "update_time": "2025-05-21 19:21:23",
+    "depot": {
+        "1004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7747775778018907449",
+                    "size": "46727128",
+                    "download": "14307024"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "f21faa4f29ecee9d192fc1784d1701376eb87e13521824ceaf0116b10c558a81"
+        },
+        "1005": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2135359612286175146",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "ffa980484d510ce8d7bfcdfde8545a438acc894accb6750711fdb75c0ee92ad9"
+        },
+        "1006": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7138471031118904166",
+                    "size": "78382436",
+                    "download": "21254752"
+                }
+            },
+            "depotfromapp": "1007",
+            "decryptionkey": "0a6d85ecbae0b6b89cf23244f6b4a69fe14e3e64b128473e93f9a2ed3d835b1c"
+        },
+        "884111": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2301422062943583324",
+                    "size": "3622903528",
+                    "download": "1283842720"
+                }
+            },
+            "decryptionkey": "9c36294a3a94161aa9c8614f01bd5d03c256c546c607531ca1a877b71e753b52"
+        },
+        "884112": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1928915288273072723",
+                    "size": "4589465688",
+                    "download": "1350014160"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18181464",
+                "timeupdated": "1745542884"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
