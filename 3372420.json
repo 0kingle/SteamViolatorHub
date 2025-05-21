@@ -1,0 +1,43 @@
+{
+    "appid": "3372420",
+    "type": "Game",
+    "name": "Libritopia: Librarian Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982042",
+    "update_time": "2025-05-14 22:50:53",
+    "depot": {
+        "3372421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6525295494959737471",
+                    "size": "532979784",
+                    "download": "233932032"
+                }
+            },
+            "decryptionkey": "91e80ef6816786129900aef7915ab66da7913c958ed6bbf675e904127d57583b"
+        },
+        "3372422": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7195161169138651984",
+                    "size": "540675896",
+                    "download": "235064848"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18158950",
+                "timeupdated": "1745002426"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
