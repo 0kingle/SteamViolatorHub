@@ -1,0 +1,153 @@
+{
+    "appid": "1285430",
+    "type": "Application",
+    "name": "The Link",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095989",
+    "update_time": "2025-05-21 19:24:36",
+    "depot": {
+        "baselanguages": "english",
+        "1285431": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1011138224449574331",
+                    "size": "472291968",
+                    "download": "218503312"
+                },
+                "beta": {
+                    "gid": "1011138224449574331",
+                    "size": "472291968",
+                    "download": "218503312"
+                },
+                "legacy": {
+                    "gid": "1011138224449574331",
+                    "size": "472291968",
+                    "download": "218503312"
+                }
+            },
+            "decryptionkey": "8a6d0713bb8234964e910075832d88c6121e6c504e0fe677b21a623575cb0cc0"
+        },
+        "1285432": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2847725291259842744",
+                    "size": "6",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "2847725291259842744",
+                    "size": "6",
+                    "download": "64"
+                },
+                "legacy": {
+                    "gid": "2847725291259842744",
+                    "size": "6",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1285433": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4122563655474726063",
+                    "size": "5",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "4122563655474726063",
+                    "size": "5",
+                    "download": "64"
+                },
+                "legacy": {
+                    "gid": "4122563655474726063",
+                    "size": "5",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "05a3477ba09bea0109b964c6e39c4fdcbaf2ee9053ea1aa26eee34a4380358fc"
+        },
+        "1285434": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7150176746376381304",
+                    "size": "4861085",
+                    "download": "4876304"
+                },
+                "beta": {
+                    "gid": "7150176746376381304",
+                    "size": "4861085",
+                    "download": "4876304"
+                },
+                "legacy": {
+                    "gid": "7150176746376381304",
+                    "size": "4861085",
+                    "download": "4876304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1285435": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4105233478091218126",
+                    "size": "6054372",
+                    "download": "6077088"
+                },
+                "beta": {
+                    "gid": "4105233478091218126",
+                    "size": "6054372",
+                    "download": "6077088"
+                },
+                "legacy": {
+                    "gid": "4105233478091218126",
+                    "size": "6054372",
+                    "download": "6077088"
+                }
+            },
+            "decryptionkey": "5e88bfbd28c1b988346cc75a600c098fd5d23d613fdaa3014e0675191fe38bd6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18435993",
+                "timeupdated": "1747089317"
+            },
+            "beta": {
+                "buildid": "18435993",
+                "description": "Public Test",
+                "timeupdated": "1747089288"
+            },
+            "legacy": {
+                "buildid": "18435993",
+                "description": "Old version",
+                "timeupdated": "1747803848"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
