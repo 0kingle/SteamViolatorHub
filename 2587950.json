@@ -1,0 +1,28 @@
+{
+    "appid": "2587950",
+    "type": "Game",
+    "name": "Isekai Hero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29068107",
+    "update_time": "2025-05-20 04:31:30",
+    "depot": {
+        "2587951": {
+            "manifests": {
+                "public": {
+                    "gid": "3096791063223294971",
+                    "size": "923323604",
+                    "download": "660386112"
+                }
+            },
+            "decryptionkey": "9cb3a0bba649f614883e6d9c67d6da6199bd69e5e4329addb3306b84b65e4242"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456554",
+                "timeupdated": "1747672252"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
