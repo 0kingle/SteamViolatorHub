@@ -1,0 +1,76 @@
+{
+    "appid": "2207440",
+    "type": "Game",
+    "name": "LOK Digital",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089029",
+    "update_time": "2025-05-21 03:08:23",
+    "depot": {
+        "baselanguages": "",
+        "2207441": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9080578407628663005",
+                    "size": "566120718",
+                    "download": "190189744"
+                },
+                "bugfix-test": {
+                    "gid": "4596650394374602410",
+                    "size": "566091934",
+                    "download": "190181216"
+                }
+            },
+            "decryptionkey": "e171b3127fe1a0ed8eb58a70c0009d464410f14da0a923de00b339455bd5b2dd"
+        },
+        "2207442": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "813501489451799238",
+                    "size": "597214271",
+                    "download": "199366400"
+                },
+                "bugfix-test": {
+                    "gid": "5393055560768804765",
+                    "size": "597185488",
+                    "download": "199356848"
+                }
+            }
+        },
+        "2207443": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7910436629328552459",
+                    "size": "566199395",
+                    "download": "187660192"
+                },
+                "bugfix-test": {
+                    "gid": "3634801073588476594",
+                    "size": "566170611",
+                    "download": "187649744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18196391",
+                "timeupdated": "1745939490"
+            },
+            "bugfix-test": {
+                "buildid": "17364839",
+                "description": "To publicly test potential bugfixes",
+                "timeupdated": "1743772733"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
