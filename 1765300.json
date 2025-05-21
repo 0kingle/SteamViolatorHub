@@ -1,0 +1,55 @@
+{
+    "appid": "1765300",
+    "type": "Game",
+    "name": "Ultimate Zombie Defense 2",
+    "schinese_name": "终极僵尸防御2",
+    "isfreeapp": "0",
+    "change_number": "29049250",
+    "update_time": "2025-05-18 22:05:37",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,dutch,turkish,brazilian,ukrainian,latam",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1765301": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "535856120658095204",
+                    "size": "17901429529",
+                    "download": "15466276624"
+                }
+            },
+            "decryptionkey": "91d5ee6c2df3c69ec5ee6adb1ccd74bf45f8a311ffccfad5bdaa35aa0907bf5d"
+        },
+        "1765302": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5061186673464035684",
+                    "size": "18119025610",
+                    "download": "15580630928"
+                }
+            }
+        },
+        "workshopdepot": "1765300",
+        "branches": {
+            "public": {
+                "buildid": "18492096",
+                "timeupdated": "1747404455"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
