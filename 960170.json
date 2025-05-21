@@ -1,0 +1,56 @@
+{
+    "appid": "960170",
+    "type": "Game",
+    "name": "DJMAX RESPECT V",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28981363",
+    "update_time": "2025-05-14 22:50:06",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "baselanguages": "",
+        "960171": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9062097020703719617",
+                    "size": "76285348075",
+                    "download": "75317951792"
+                }
+            },
+            "decryptionkey": "3c5ce74d30cabd2719f1c02a20785834585116b6af6b6c8ca442bcbf2188c3dc"
+        },
+        "960172": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3079754110045534190",
+                    "size": "24981786616",
+                    "download": "24037870496"
+                }
+            },
+            "decryptionkey": "7dd37697da6de8f7366d7c8e5027d96576ff62c6857aceec24df52c34a2121b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18204379",
+                "timeupdated": "1745463728"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
