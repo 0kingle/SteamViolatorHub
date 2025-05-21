@@ -1,0 +1,27 @@
+{
+    "appid": "2250080",
+    "type": "Game",
+    "name": "The Last Man Survivor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29083603",
+    "update_time": "2025-05-20 22:11:54",
+    "depot": {
+        "2250081": {
+            "manifests": {
+                "public": {
+                    "gid": "6973747554419497183",
+                    "size": "5624903941",
+                    "download": "1388263984"
+                }
+            },
+            "decryptionkey": "33a51e40db645494995e7ae1b6c3e7e1891053746cb0e27fa1dc6e60052659af"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18220933",
+                "timeupdated": "1745484920"
+            }
+        }
+    }
+}
