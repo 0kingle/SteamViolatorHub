@@ -1,0 +1,55 @@
+{
+    "appid": "1213300",
+    "type": "Game",
+    "name": "叛逆神魂 GODSOUL🔥",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29082132",
+    "update_time": "2025-05-20 20:56:08",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1213302": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6401243946974252765",
+                    "size": "5925686842",
+                    "download": "5655345536"
+                }
+            },
+            "decryptionkey": "a237589c759350160f6eaa4255cfbb51b778235d41e60ca9b6b5ce7936dcca04"
+        },
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18533846",
+                "timeupdated": "1747745763"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
