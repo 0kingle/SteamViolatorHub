@@ -1,0 +1,31 @@
+{
+    "appid": "1063860",
+    "type": "Game",
+    "name": "HENTAI SAVES AUSTRALIA",
+    "schinese_name": "HENTAI 帮助澳大利亚",
+    "isfreeapp": "0",
+    "change_number": "28983678",
+    "update_time": "2025-05-14 23:07:39",
+    "depot": {
+        "1063861": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "905118337736054236",
+                    "size": "323475053",
+                    "download": "148849200"
+                }
+            },
+            "decryptionkey": "aed0ae84a9a598ffe0d0cf9d7791608aec037ebccddd7c43c56e37ff3dd4bb38"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian,latam,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "4596661",
+                "timeupdated": "1579707899"
+            }
+        }
+    }
+}
