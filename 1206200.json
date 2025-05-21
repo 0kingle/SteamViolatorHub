@@ -1,0 +1,32 @@
+{
+    "appid": "1206200",
+    "type": "DLC",
+    "name": "Conan Exiles: Isle of Siptah",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094564",
+    "update_time": "2025-05-21 10:47:01",
+    "depot": {
+        "1206200": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6983408822480690094",
+                    "size": "4373826428",
+                    "download": "3511259024"
+                }
+            },
+            "dlcappid": "1206200",
+            "decryptionkey": "634db241a3f4000ce8cde76f15b56686f7dcd983aacae9869864dbdbc9afa4a0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18047220",
+                "timeupdated": "1745323197"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
