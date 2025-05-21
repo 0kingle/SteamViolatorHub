@@ -1,0 +1,30 @@
+{
+    "appid": "810720",
+    "type": "Game",
+    "name": "Zombie Murder Hell Arrives",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28680763",
+    "update_time": "2025-04-26 16:53:08",
+    "depot": {
+        "810721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4330709156165606892",
+                    "size": "66766389",
+                    "download": "66413680"
+                }
+            },
+            "decryptionkey": "5df51aec23aeb3ea93cbe0ec5e9debb7d8c4b312c6b1c4417f9e3d2c927d458e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "2571885",
+                "timeupdated": "1520024255"
+            }
+        }
+    }
+}
