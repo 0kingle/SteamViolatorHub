@@ -1,0 +1,30 @@
+{
+    "appid": "3399950",
+    "type": "Game",
+    "name": "你的老母",
+    "schinese_name": "你的老母",
+    "isfreeapp": "0",
+    "change_number": "29094822",
+    "update_time": "2025-05-21 11:10:57",
+    "depot": {
+        "3399951": {
+            "manifests": {
+                "public": {
+                    "gid": "2423379053680529240",
+                    "size": "408989834",
+                    "download": "102684848"
+                }
+            },
+            "decryptionkey": "2c92e94b99f89d1f72a0f462f61ad2e1b36e4b8d28c4f660ba501a4bd37276c2"
+        },
+        "workshopdepot": "3399950",
+        "branches": {
+            "public": {
+                "buildid": "18354060",
+                "timeupdated": "1746501046"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a5af4422a55dd971b6d556e8e854a9886096966ccdc69b63348d91658cf669f9"
+    }
+}
