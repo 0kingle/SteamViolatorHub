@@ -1,0 +1,45 @@
+{
+    "appid": "1823950",
+    "type": "Game",
+    "name": "Laysara: Summit Kingdom",
+    "schinese_name": "肋萨拉：顶峰王国 | Laysara: Summit Kingdom",
+    "isfreeapp": "0",
+    "change_number": "29103640",
+    "update_time": "2025-05-21 20:27:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1823951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7805782902272662929",
+                    "size": "3916887109",
+                    "download": "3744196800"
+                }
+            },
+            "decryptionkey": "3416cb65c4840209c65ad9ba8f329819b3f5dfef7fac10cdfa40f94e4676c68b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18488725",
+                "timeupdated": "1747387376"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
