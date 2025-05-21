@@ -1,0 +1,45 @@
+{
+    "appid": "3381010",
+    "type": "Game",
+    "name": "Catch Me",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093587",
+    "update_time": "2025-05-21 09:18:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3381011": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8908977914105312785",
+                    "size": "3701179621",
+                    "download": "3389735184"
+                }
+            },
+            "decryptionkey": "9bdb3fd142fc4d57953e1f401e6749e7d3e694e0347c6d41dca9086b59af6bbd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18537079",
+                "timeupdated": "1747763148"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
