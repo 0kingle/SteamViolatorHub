@@ -1,0 +1,48 @@
+{
+    "appid": "2636890",
+    "type": "Game",
+    "name": "COLD VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29001728",
+    "update_time": "2025-05-15 20:10:22",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2636891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8503982274097281634",
+                    "size": "7821530522",
+                    "download": "7591755392"
+                }
+            },
+            "decryptionkey": "9638c7af330bd285d5b22cb64f441e2b3d6d91b2918cb1e7a970c67e01c707c3"
+        },
+        "2636892": {},
+        "branches": {
+            "public": {
+                "buildid": "17394239",
+                "timeupdated": "1739807349"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
