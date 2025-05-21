@@ -1,0 +1,50 @@
+{
+    "appid": "1134700",
+    "type": "Game",
+    "name": "Wild Terra 2: New Lands",
+    "schinese_name": "荒野之地2: 新大陆 / Wild Terra 2: New Lands",
+    "isfreeapp": "0",
+    "change_number": "28996196",
+    "update_time": "2025-05-15 14:43:24",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1134701": {
+            "manifests": {
+                "public": {
+                    "gid": "5616239145931184406",
+                    "size": "6689931601",
+                    "download": "3194558112"
+                }
+            },
+            "decryptionkey": "4760fc3eb52b780e294b15f3c907e77081c0e04233d5495645c3ac1ff3b6dfc8"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian,ukrainian",
+        "branches": {
+            "public": {
+                "buildid": "18471022",
+                "timeupdated": "1747291401"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
