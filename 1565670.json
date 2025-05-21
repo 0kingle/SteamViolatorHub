@@ -1,0 +1,43 @@
+{
+    "appid": "1565670",
+    "type": "Game",
+    "name": "Five Nations",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988182",
+    "update_time": "2025-05-15 03:26:33",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1565671": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5369945198148212647",
+                    "size": "955184723",
+                    "download": "755110672"
+                },
+                "beta": {
+                    "gid": "6553529746877216584",
+                    "size": "955185013",
+                    "download": "755110064"
+                }
+            },
+            "decryptionkey": "9de29ff07cbb643417f95c1c5d0016ec3de69b66022e0ccb3c9e6ebf07fe5415"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18305721",
+                "timeupdated": "1746075941"
+            },
+            "beta": {
+                "buildid": "17785946",
+                "description": "Beta branch for early testing features",
+                "timeupdated": "1742418277"
+            }
+        }
+    }
+}
