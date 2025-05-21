@@ -1,0 +1,43 @@
+{
+    "appid": "3528490",
+    "type": "Game",
+    "name": "Swipe Right for Sugar Mama Sensei",
+    "schinese_name": "妈妈活巨乳肉便器",
+    "isfreeapp": "0",
+    "change_number": "29053850",
+    "update_time": "2025-05-19 09:13:10",
+    "depot": {
+        "3528491": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2086045687845933000",
+                    "size": "723513411",
+                    "download": "598909776"
+                }
+            },
+            "decryptionkey": "8c677c9138fdc8975b87b443690800448c2c012e7f7045d4491f01a4b7bf0f5d"
+        },
+        "3528492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4314530651064925355",
+                    "size": "718864872",
+                    "download": "602408112"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18209914",
+                "timeupdated": "1745438796"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
