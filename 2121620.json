@@ -1,0 +1,27 @@
+{
+    "appid": "2121620",
+    "type": "Game",
+    "name": "Memory Puzzle - Futanari Massage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013473",
+    "update_time": "2025-05-16 07:50:20",
+    "depot": {
+        "2121621": {
+            "manifests": {
+                "public": {
+                    "gid": "7871303454412626684",
+                    "size": "154616112",
+                    "download": "35959376"
+                }
+            },
+            "decryptionkey": "7a65a9cae5c742c536760f779e4b58b9aba6f9641397dfbc79dbb97ee03944dc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9313283",
+                "timeupdated": "1660506940"
+            }
+        }
+    }
+}
