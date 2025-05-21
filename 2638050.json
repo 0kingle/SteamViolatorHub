@@ -1,0 +1,45 @@
+{
+    "appid": "2638050",
+    "type": "Game",
+    "name": "Lost For Swords",
+    "schinese_name": "寻剑迷途 Lost For Swords",
+    "isfreeapp": "0",
+    "change_number": "29101709",
+    "update_time": "2025-05-21 19:37:11",
+    "depot": {
+        "2638051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1647680207870060748",
+                    "size": "96801813",
+                    "download": "37633344"
+                }
+            },
+            "decryptionkey": "eaf5f284f6f9615d6b40cbb37733dbaccd7c373c8814ea4fce4e2f50c41df4f5"
+        },
+        "2638052": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1401468589417592023",
+                    "size": "114684768",
+                    "download": "42612624"
+                }
+            }
+        },
+        "workshopdepot": "2638050",
+        "branches": {
+            "public": {
+                "buildid": "18442604",
+                "timeupdated": "1747721914"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d653789c7ebcd94cbbc4ea8308d6ee969cbba7e9637880c3b32252b63f1f8486"
+    }
+}
