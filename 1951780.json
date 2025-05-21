@@ -1,0 +1,58 @@
+{
+    "appid": "1951780",
+    "type": "Game",
+    "name": "Jumping Jazz Cats",
+    "schinese_name": "奇喵派对",
+    "isfreeapp": "0",
+    "change_number": "29085968",
+    "update_time": "2025-05-21 00:09:02",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1951781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3967857811879165383",
+                    "size": "2308032019",
+                    "download": "1864829632"
+                }
+            },
+            "decryptionkey": "1a2665d2ccc26b6fc849acae18c8932f9d802794a174a7eeaa8addb988e0c1f7"
+        },
+        "3558441": {
+            "dlcappid": "3558440",
+            "manifests": {
+                "public": {
+                    "gid": "6986745160634033049",
+                    "size": "109367771",
+                    "download": "101764208"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18446688",
+                "timeupdated": "1747217667"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
