@@ -1,0 +1,64 @@
+{
+    "appid": "858810",
+    "type": "Game",
+    "name": "Dawn of Man",
+    "schinese_name": "人类黎明",
+    "isfreeapp": "0",
+    "change_number": "29006671",
+    "update_time": "2025-05-16 00:16:05",
+    "depot": {
+        "baselanguages": "english,german,french,spanish",
+        "workshopdepot": "858810",
+        "858811": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2663283874666786259",
+                    "size": "1957207298",
+                    "download": "1093905152"
+                },
+                "experimental": {
+                    "gid": "2663283874666786259",
+                    "size": "1957207298",
+                    "download": "1093905152"
+                }
+            },
+            "decryptionkey": "4d48f5ab34027a5f10f343fe3bc5534b0d98e11096526cdfd5ba1343f242ec56"
+        },
+        "858812": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6387283693940592409",
+                    "size": "1950434107",
+                    "download": "1092960736"
+                },
+                "experimental": {
+                    "gid": "6387283693940592409",
+                    "size": "1950434107",
+                    "download": "1092960736"
+                }
+            },
+            "decryptionkey": "0236c27bb148aea7260528d2e2eb2dfd1b0a5e80db2956b7495e802be6806ec5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18109879",
+                "timeupdated": "1744709732"
+            },
+            "experimental": {
+                "buildid": "18109879",
+                "description": "Experimental versions",
+                "timeupdated": "1744709711"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "cab80d4065b0fb0eb10b3003c0f495f81f99b6e7dc75e880a72f0789137ce47c"
+    }
+}
