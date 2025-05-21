@@ -1,0 +1,66 @@
+{
+    "appid": "1275890",
+    "type": "Game",
+    "name": "Baldi's Basics Plus",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985659",
+    "update_time": "2025-05-15 00:53:27",
+    "depot": {
+        "1275891": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1050603145620671600",
+                    "size": "870906324",
+                    "download": "65515600"
+                }
+            },
+            "decryptionkey": "311496f62a59013629f9698b66e74dc8432a2fd9d30b1182891b7a37a9f2113f"
+        },
+        "1275892": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6540965538152088893",
+                    "size": "913580978",
+                    "download": "66421648"
+                }
+            },
+            "decryptionkey": "1e23c689edc58019b16cb8dbd4a58a337349ea18d0a52dc77b2882ad0c4dd3e4"
+        },
+        "1275893": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1526598070914935001",
+                    "size": "893125879",
+                    "download": "71973104"
+                }
+            }
+        },
+        "1275899": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18326188",
+                "timeupdated": "1746219538"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
