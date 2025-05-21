@@ -1,0 +1,27 @@
+{
+    "appid": "3317350",
+    "type": "Game",
+    "name": "Capacity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:44",
+    "depot": {
+        "3317351": {
+            "manifests": {
+                "public": {
+                    "gid": "6515439278020626231",
+                    "size": "87553202",
+                    "download": "28710048"
+                }
+            },
+            "decryptionkey": "d98db9d401347bd7c36c869a82eaf34bece33a968d5f31607054fb25d597abf0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16188802",
+                "timeupdated": "1729915349"
+            }
+        }
+    }
+}
