@@ -1,0 +1,41 @@
+{
+    "appid": "3020510",
+    "type": "Game",
+    "name": "Legend of Heroes: Three Kingdoms",
+    "schinese_name": "英雄立志传：三国志",
+    "isfreeapp": "0",
+    "change_number": "29054461",
+    "update_time": "2025-05-19 10:29:45",
+    "depot": {
+        "baselanguages": "schinese",
+        "workshopdepot": "3020510",
+        "3020511": {
+            "manifests": {
+                "public": {
+                    "gid": "5447261381150632205",
+                    "size": "7115732743",
+                    "download": "3513559936"
+                },
+                "v0.59.08": {
+                    "gid": "1428191264358548867",
+                    "size": "7108852634",
+                    "download": "3468564736"
+                }
+            },
+            "decryptionkey": "139eea24aed3d56dc572b215fc4ea1845c3238d246a98ccef727f3eec863f528"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18508331",
+                "timeupdated": "1747570907"
+            },
+            "v0.59.08": {
+                "buildid": "18360562",
+                "description": "无法更新的玩家请用此版本",
+                "timeupdated": "1747621780"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "532f81ac5c609577203b243849af2a39d38c00f6a29344ee31dea0fcc812beb0"
+    }
+}
