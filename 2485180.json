@@ -1,0 +1,37 @@
+{
+    "appid": "2485180",
+    "type": "Game",
+    "name": "Cats Hidden in Georgia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103615",
+    "update_time": "2025-05-21 20:25:58",
+    "depot": {
+        "2485181": {
+            "manifests": {
+                "public": {
+                    "gid": "864743407029962201",
+                    "size": "116415344",
+                    "download": "89095744"
+                },
+                "test": {
+                    "gid": "6508715632503596901",
+                    "size": "94254810",
+                    "download": "63097856"
+                }
+            },
+            "decryptionkey": "666c7d74962d7e2b2652d6bcf8e14aadf6a833c47dbed050d33a715d81d64d88"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18398977",
+                "timeupdated": "1746771771"
+            },
+            "test": {
+                "buildid": "13739693",
+                "description": "testing",
+                "timeupdated": "1710423428"
+            }
+        }
+    }
+}
