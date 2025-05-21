@@ -1,0 +1,43 @@
+{
+    "appid": "1601410",
+    "type": "Game",
+    "name": "最涯（さいはて）の列車",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29092792",
+    "update_time": "2025-05-21 08:12:15",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1601411": {
+            "manifests": {
+                "public": {
+                    "gid": "6447922858905798890",
+                    "size": "2009617548",
+                    "download": "888389280"
+                }
+            },
+            "decryptionkey": "a2e12983d56d61b564114c9be621e0b117c653f658d3c9cba05e7914d149f5e7"
+        },
+        "baselanguages": "english,german,french,italian,koreana,schinese,tchinese,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "6929320",
+                "timeupdated": "1624567804"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
