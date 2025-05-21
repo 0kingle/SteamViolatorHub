@@ -1,0 +1,32 @@
+{
+    "appid": "1421290",
+    "type": "Game",
+    "name": "Battle Shapers",
+    "schinese_name": "塑战核心",
+    "isfreeapp": "0",
+    "change_number": "29087755",
+    "update_time": "2025-05-21 01:48:44",
+    "depot": {
+        "1421291": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4722091335345253185",
+                    "size": "13120392095",
+                    "download": "10697131200"
+                }
+            },
+            "decryptionkey": "d6fd93b33b555a19ed595dd17d6870d3d9766384a03610931c27b6c85609a6e4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447075",
+                "timeupdated": "1747237540"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
