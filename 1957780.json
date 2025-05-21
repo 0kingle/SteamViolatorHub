@@ -1,0 +1,47 @@
+{
+    "appid": "1957780",
+    "type": "Game",
+    "name": "Ghosts Of Tabor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089278",
+    "update_time": "2025-05-21 03:25:55",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1957781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5913469996902069123",
+                    "size": "22493458296",
+                    "download": "10302716048"
+                }
+            },
+            "decryptionkey": "80f7fd489853661f0fa88a271db140773c0766a9b9d8cd99f16fea9b00aa8898"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18484728",
+                "timeupdated": "1747402978"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
