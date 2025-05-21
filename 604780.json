@@ -1,0 +1,30 @@
+{
+    "appid": "604780",
+    "type": "Game",
+    "name": "aMAZE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29079531",
+    "update_time": "2025-05-20 18:21:53",
+    "depot": {
+        "604781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6538376125619879232",
+                    "size": "158862810",
+                    "download": "156086304"
+                }
+            },
+            "decryptionkey": "a744d8be6fa5f4b65f2595a63a3f69a5a40471051a20becc4ec46b699e38e4e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18531927",
+                "timeupdated": "1747736508"
+            }
+        }
+    }
+}
