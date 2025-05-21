@@ -1,0 +1,29 @@
+{
+    "appid": "2525380",
+    "type": "Game",
+    "name": "Tomb Raider IV-VI Remastered",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093952",
+    "update_time": "2025-05-21 09:52:53",
+    "depot": {
+        "2525381": {
+            "manifests": {
+                "public": {
+                    "gid": "1165426595934114300",
+                    "size": "12418638344",
+                    "download": "6781574496"
+                }
+            },
+            "decryptionkey": "8349c35cc7c661ae125165df281e9fb6f1eb7b22d82ecb59a948fcef1a70a01c"
+        },
+        "2525382": {},
+        "branches": {
+            "public": {
+                "buildid": "17983102",
+                "timeupdated": "1744992370"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
