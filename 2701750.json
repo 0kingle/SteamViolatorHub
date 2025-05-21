@@ -1,0 +1,67 @@
+{
+    "appid": "2701750",
+    "type": "Game",
+    "name": "Corrupted Paradise",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29050655",
+    "update_time": "2025-05-19 01:13:06",
+    "depot": {
+        "baselanguages": "english,french,russian",
+        "2701751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2571586628287637668",
+                    "size": "2961719085",
+                    "download": "2770247792"
+                }
+            },
+            "decryptionkey": "0b49d809733f3c29c345861dd3655bc56b5e680b74285b1e596506dfb1f50b5f"
+        },
+        "2701752": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4894200224731330259",
+                    "size": "2961719085",
+                    "download": "2770247792"
+                }
+            }
+        },
+        "2701753": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3090898705640831866",
+                    "size": "2961719085",
+                    "download": "2770247792"
+                }
+            }
+        },
+        "3327130": {
+            "dlcappid": "3327130",
+            "manifests": {
+                "public": {
+                    "gid": "384778323192874807",
+                    "size": "5503069",
+                    "download": "5405440"
+                }
+            },
+            "decryptionkey": "a6e2835c19958f4d1990533627b9dedbd85433dc8f0ffbc7b722f29c9a294cf1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18459998",
+                "timeupdated": "1747227286"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
