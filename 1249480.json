@@ -1,0 +1,78 @@
+{
+    "appid": "1249480",
+    "type": "Game",
+    "name": "Ex-Zodiac",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985441",
+    "update_time": "2025-05-15 00:40:03",
+    "depot": {
+        "1249481": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8332613864212316332",
+                    "size": "327845136",
+                    "download": "190109712"
+                },
+                "beta": {
+                    "gid": "8332613864212316332",
+                    "size": "327845136",
+                    "download": "190109712"
+                }
+            },
+            "decryptionkey": "7cb7c3493874a956662d8f3acde4a894cc25e0fbaf8f3f2b82c8de08ef9a6d43"
+        },
+        "1249482": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5392526232224517051",
+                    "size": "413918400",
+                    "download": "207267360"
+                },
+                "beta": {
+                    "gid": "5392526232224517051",
+                    "size": "413918400",
+                    "download": "207267360"
+                }
+            }
+        },
+        "1249483": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8739831426100889024",
+                    "size": "330401736",
+                    "download": "191707936"
+                },
+                "beta": {
+                    "gid": "8739831426100889024",
+                    "size": "330401736",
+                    "download": "191707936"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18382752",
+                "timeupdated": "1746670307"
+            },
+            "beta": {
+                "buildid": "18382752",
+                "description": "Beta test branch",
+                "timeupdated": "1746670241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
