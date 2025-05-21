@@ -1,0 +1,42 @@
+{
+    "appid": "2854350",
+    "type": "Game",
+    "name": "魔星兄弟",
+    "schinese_name": "魔星兄弟",
+    "isfreeapp": "0",
+    "change_number": "29057553",
+    "update_time": "2025-05-19 16:11:15",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2854351": {
+            "manifests": {
+                "public": {
+                    "gid": "8526726593013916362",
+                    "size": "4223098981",
+                    "download": "4053837040"
+                }
+            },
+            "decryptionkey": "b864c137cd56a7cfd4656061cb32327df1e012224e8cb868273cb38d060af1a9"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18514678",
+                "timeupdated": "1747642269"
+            }
+        }
+    }
+}
