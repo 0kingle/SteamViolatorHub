@@ -1,0 +1,70 @@
+{
+    "appid": "2050310",
+    "type": "Game",
+    "name": "OutWave: Retro Chase",
+    "schinese_name": "OutWave: 复古追逐",
+    "isfreeapp": "0",
+    "change_number": "28932121",
+    "update_time": "2025-05-12 12:33:20",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2050311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2062106818505202536",
+                    "size": "450396267",
+                    "download": "347633632"
+                }
+            },
+            "decryptionkey": "6efa8c3141b4110313cc6ec892f3bb23fa8b516224cd29a3c8758bc4b2fc9d78"
+        },
+        "2050312": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5970215009754232940",
+                    "size": "442794339",
+                    "download": "345224544"
+                }
+            }
+        },
+        "2050313": {
+            "config": {
+                "osarch": "64",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5952711066790643608",
+                    "size": "497297799",
+                    "download": "351086544"
+                }
+            }
+        },
+        "2050314": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9038057401155868844",
+                    "size": "474353178",
+                    "download": "355525200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "10469287",
+                "timeupdated": "1675415569"
+            }
+        }
+    }
+}
