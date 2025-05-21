@@ -1,0 +1,82 @@
+{
+    "appid": "1286580",
+    "type": "Game",
+    "name": "Ship of Fools",
+    "schinese_name": "同舟共济",
+    "isfreeapp": "0",
+    "change_number": "29094362",
+    "update_time": "2025-05-21 10:28:09",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1286583": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3772349829949341768",
+                    "size": "2953398901",
+                    "download": "1365462000"
+                }
+            },
+            "decryptionkey": "883b29255b4c97d3e7840bebc536032840afa67a523fe14b16462d25f394f3e9"
+        },
+        "1286582": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1951466549378458260",
+                    "size": "3410934684",
+                    "download": "1389783984"
+                }
+            }
+        },
+        "1286581": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4226269568781581173",
+                    "size": "3225838222",
+                    "download": "1322415200"
+                }
+            }
+        },
+        "1286584": {
+            "manifests": {
+                "public": {
+                    "gid": "1132894612518943174",
+                    "size": "169283377",
+                    "download": "170373520"
+                }
+            },
+            "decryptionkey": "8918ab551ce156f011f80abf247f2d05353c76d198cbdb1a81e5284b111a411d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18227196",
+                "timeupdated": "1745514675"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
