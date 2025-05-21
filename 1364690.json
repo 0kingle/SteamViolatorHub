@@ -1,0 +1,42 @@
+{
+    "appid": "1364690",
+    "type": "Game",
+    "name": "First Racer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28800953",
+    "update_time": "2025-05-03 22:29:55",
+    "depot": {
+        "1364691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6596218244342286633",
+                    "size": "696156484",
+                    "download": "460369824"
+                },
+                "playtest": {
+                    "gid": "6596218244342286633",
+                    "size": "696156484",
+                    "download": "460369824"
+                }
+            },
+            "decryptionkey": "d6d005f41a24916cdc11d243189902616c54a7adf65ff52138b2d0c35617215f"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17737725",
+                "timeupdated": "1742056438"
+            },
+            "playtest": {
+                "buildid": "17737725",
+                "description": "playtest",
+                "timeupdated": "1742053627"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
