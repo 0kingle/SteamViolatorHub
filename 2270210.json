@@ -1,0 +1,58 @@
+{
+    "appid": "2270210",
+    "type": "Game",
+    "name": "DunHero: Roguelike RPG",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067056",
+    "update_time": "2025-05-20 04:34:25",
+    "depot": {
+        "2270211": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6001392489516770883",
+                    "size": "255355479",
+                    "download": "78933456"
+                },
+                "beta": {
+                    "gid": "6001392489516770883",
+                    "size": "255355479",
+                    "download": "78933456"
+                }
+            },
+            "decryptionkey": "4b348a196e018fa4551e46350301b1962fcf013d1d52312c905a163fa92c949e"
+        },
+        "2270212": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5932471750886635827",
+                    "size": "257873194",
+                    "download": "77890272"
+                },
+                "beta": {
+                    "gid": "5932471750886635827",
+                    "size": "257873194",
+                    "download": "77890272"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18069579",
+                "timeupdated": "1744368262"
+            },
+            "beta": {
+                "buildid": "18069579",
+                "description": "Beta Version (Might be unstable)",
+                "timeupdated": "1744368241"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
