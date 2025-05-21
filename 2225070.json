@@ -1,0 +1,43 @@
+{
+    "appid": "2225070",
+    "type": "Game",
+    "name": "Trackmania",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29069279",
+    "update_time": "2025-05-20 04:39:27",
+    "depot": {
+        "2225071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2484886501455387871",
+                    "size": "7022393535",
+                    "download": "3088387872"
+                }
+            }
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,czech,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16760171",
+                "timeupdated": "1734451220"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
