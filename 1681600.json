@@ -1,0 +1,27 @@
+{
+    "appid": "1681600",
+    "type": "Game",
+    "name": "Cornucopia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29096385",
+    "update_time": "2025-05-21 19:24:00",
+    "depot": {
+        "1681601": {
+            "manifests": {
+                "public": {
+                    "gid": "2092826829323685048",
+                    "size": "2054365191",
+                    "download": "772122832"
+                }
+            },
+            "decryptionkey": "0fd2b2d8c6d548e6c89b84ff4fd4f5c6fc3110cd87d474828920e93ee662cb3f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18511659",
+                "timeupdated": "1747612256"
+            }
+        }
+    }
+}
