@@ -1,0 +1,105 @@
+{
+    "appid": "1634870",
+    "type": "Game",
+    "name": "Open Brush",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29083713",
+    "update_time": "2025-05-20 22:17:48",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1634871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8810587627804826145",
+                    "size": "843394428",
+                    "download": "233054016"
+                },
+                "previous": {
+                    "gid": "2057730924779657023",
+                    "size": "512037163",
+                    "download": "127620272"
+                },
+                "beta": {
+                    "gid": "2942147120285657736",
+                    "size": "844659057",
+                    "download": "234020320"
+                }
+            },
+            "decryptionkey": "95056ac1f7768c1b835f3df160a994e48263a083e2cfb07453f2937b6f015b0f"
+        },
+        "1634872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1929767395100713031",
+                    "size": "875962966",
+                    "download": "242426848"
+                },
+                "beta": {
+                    "gid": "3146827781094714693",
+                    "size": "878361233",
+                    "download": "243504848"
+                }
+            }
+        },
+        "1634873": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2016983321192133095",
+                    "size": "850553681",
+                    "download": "231288912"
+                },
+                "beta": {
+                    "gid": "3143955671312504470",
+                    "size": "885429128",
+                    "download": "244875216"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18255837",
+                "timeupdated": "1745762394"
+            },
+            "previous": {
+                "buildid": "8090994",
+                "description": "The previous official release. Use this if you need to check for a regression in the latest official build",
+                "timeupdated": "1675978906"
+            },
+            "beta": {
+                "buildid": "18534894",
+                "description": "Pre-release build which contains features coming soon, but may also contain bugs!",
+                "timeupdated": "1747750658"
+            }
+        }
+    }
+}
