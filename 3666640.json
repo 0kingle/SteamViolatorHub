@@ -1,0 +1,41 @@
+{
+    "appid": "3666640",
+    "type": "Game",
+    "name": "أنتم السابقون",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089047",
+    "update_time": "2025-05-21 03:10:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3666641": {
+            "manifests": {
+                "public": {
+                    "gid": "7444744010390163695",
+                    "size": "3909053042",
+                    "download": "3566034048"
+                }
+            },
+            "decryptionkey": "69d1b349084afa00fdcbb6308a914d3fd15d58f72ebee39c47144e032e923a69"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18538603",
+                "timeupdated": "1747768195"
+            }
+        }
+    }
+}
