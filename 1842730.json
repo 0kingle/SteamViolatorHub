@@ -1,0 +1,28 @@
+{
+    "appid": "1842730",
+    "type": "Game",
+    "name": "Nightmare: The Lunatic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990394",
+    "update_time": "2025-05-15 05:59:51",
+    "depot": {
+        "1842731": {
+            "manifests": {
+                "public": {
+                    "gid": "1877878628103786141",
+                    "size": "2454454803",
+                    "download": "215335616"
+                }
+            },
+            "decryptionkey": "2b5312ac42632fa61eddd3477e78096e265524b833b770c98ec1a0b77e6664e8"
+        },
+        "baselanguages": "english,koreana",
+        "branches": {
+            "public": {
+                "buildid": "18316900",
+                "timeupdated": "1746157214"
+            }
+        }
+    }
+}
