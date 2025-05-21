@@ -1,0 +1,50 @@
+{
+    "appid": "3185590",
+    "type": "Demo",
+    "name": "Shin Megami Tensei V: Vengeance Demo",
+    "schinese_name": "真·女神转生Ⅴ Vengeance Demo",
+    "isfreeapp": "0",
+    "change_number": "28790690",
+    "update_time": "2025-05-03 02:30:11",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3185591": {
+            "manifests": {
+                "public": {
+                    "gid": "8390494757777367200",
+                    "size": "25941462634",
+                    "download": "23625598464"
+                }
+            },
+            "decryptionkey": "678d81fd4ccba55d0ab3da5dd526b31f2753814a7f44e08f2343228e92f43e20"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "16794863",
+                "timeupdated": "1734631650"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
