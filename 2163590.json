@@ -1,0 +1,27 @@
+{
+    "appid": "2163590",
+    "type": "Game",
+    "name": "Hot Pussy College 🍓🔞",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009242",
+    "update_time": "2025-05-16 02:30:47",
+    "depot": {
+        "2163591": {
+            "manifests": {
+                "public": {
+                    "gid": "2780460932701930195",
+                    "size": "834120383",
+                    "download": "478673328"
+                }
+            },
+            "decryptionkey": "7d9684eb46c8fa40062d8c484fc8b5e749bd541cf147e77d670a33e5ff38c4f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9743831",
+                "timeupdated": "1666079299"
+            }
+        }
+    }
+}
