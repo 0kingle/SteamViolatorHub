@@ -1,0 +1,58 @@
+{
+    "appid": "1561040",
+    "type": "Game",
+    "name": "Diluvian Winds",
+    "schinese_name": "洪流之风 Diluvian Winds",
+    "isfreeapp": "0",
+    "change_number": "28988089",
+    "update_time": "2025-05-15 03:20:01",
+    "depot": {
+        "1561041": {
+            "manifests": {
+                "public": {
+                    "gid": "8884754169313851753",
+                    "size": "1911417672",
+                    "download": "518635728"
+                },
+                "open-beta": {
+                    "gid": "8884754169313851753",
+                    "size": "1911417672",
+                    "download": "518635728"
+                }
+            },
+            "decryptionkey": "dd1a6519a91061b883989ef6d88b667a4966ef435d747182227dd712c0bfec97"
+        },
+        "2421930": {
+            "dlcappid": "2421930",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3640651296811219790",
+                    "size": "1309556409",
+                    "download": "1258173856"
+                },
+                "open-beta": {
+                    "gid": "3640651296811219790",
+                    "size": "1309556409",
+                    "download": "1258173856"
+                }
+            },
+            "decryptionkey": "886d544a8687f78aacfe3f7979317fcefc9ee6d1cbd5dfdc5ed47ef99a53f96d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14257468",
+                "timeupdated": "1714751816"
+            },
+            "open-beta": {
+                "buildid": "14256284",
+                "description": "Open beta branch",
+                "timeupdated": "1714744774"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
