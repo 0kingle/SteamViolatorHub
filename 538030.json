@@ -1,0 +1,69 @@
+{
+    "appid": "538030",
+    "type": "Game",
+    "name": "Xenonauts 2",
+    "schinese_name": "异种航员2 Xenonauts 2",
+    "isfreeapp": "0",
+    "change_number": "29092247",
+    "update_time": "2025-05-21 07:19:14",
+    "depot": {
+        "538031": {
+            "manifests": {
+                "public": {
+                    "gid": "1565011495989993994",
+                    "size": "6161652296",
+                    "download": "4562508096"
+                },
+                "experimental": {
+                    "gid": "4916709751470494029",
+                    "size": "6018505388",
+                    "download": "4460787808"
+                },
+                "experimental_legacy": {
+                    "gid": "1965635032256023167",
+                    "size": "5904481991",
+                    "download": "4407648320"
+                },
+                "legacy": {
+                    "gid": "4053105713047871941",
+                    "size": "5840014932",
+                    "download": "4331332272"
+                },
+                "legacy_milestone3": {
+                    "gid": "5343799075260696281",
+                    "size": "5508500143",
+                    "download": "4123854720"
+                }
+            },
+            "decryptionkey": "abd9295b438de55315009b4ca303c5f54b32b21d98b8cb090ff2434392e583b9"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18495621",
+                "timeupdated": "1747783127"
+            },
+            "experimental": {
+                "buildid": "18494184",
+                "description": "Experimental / unstable builds",
+                "timeupdated": "1747431067"
+            },
+            "experimental_legacy": {
+                "buildid": "17625042",
+                "description": "Previous experimental build",
+                "timeupdated": "1741791927"
+            },
+            "legacy": {
+                "buildid": "16099189",
+                "description": "Contains the last Stable build",
+                "timeupdated": "1741877983"
+            },
+            "legacy_milestone3": {
+                "buildid": "14007555",
+                "description": "\tContains the old Milestone 3 Stable build",
+                "timeupdated": "1721119647"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
