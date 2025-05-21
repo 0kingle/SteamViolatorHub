@@ -1,0 +1,88 @@
+{
+    "appid": "2440380",
+    "type": "Game",
+    "name": "Megaloot",
+    "schinese_name": "无尽劫掠",
+    "isfreeapp": "0",
+    "change_number": "29097340",
+    "update_time": "2025-05-21 19:21:55",
+    "depot": {
+        "2440381": {
+            "manifests": {
+                "public": {
+                    "gid": "8963197088607296048",
+                    "size": "521364736",
+                    "download": "410817744"
+                },
+                "1.18": {
+                    "gid": "516320392275133027",
+                    "size": "521246080",
+                    "download": "410771616"
+                },
+                "public_testing_branch": {
+                    "gid": "8963197088607296048",
+                    "size": "521364736",
+                    "download": "410817744"
+                },
+                "1.00": {
+                    "gid": "4397531889582496842",
+                    "size": "507782600",
+                    "download": "408394064"
+                },
+                "1.09": {
+                    "gid": "8872059946255088735",
+                    "size": "508388408",
+                    "download": "408775808"
+                },
+                "1.14": {
+                    "gid": "1316081310740320524",
+                    "size": "509327240",
+                    "download": "409055488"
+                },
+                "1.17": {
+                    "gid": "77444360710703345",
+                    "size": "520927568",
+                    "download": "410611968"
+                }
+            },
+            "decryptionkey": "def2da358b14cdc00d139af62c7d7275bb0a1eab0c9409d162edcac2ad5842ea"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18544655",
+                "timeupdated": "1747807667"
+            },
+            "1.18": {
+                "buildid": "18355267",
+                "description": "1.18 version",
+                "timeupdated": "1747760134"
+            },
+            "public_testing_branch": {
+                "buildid": "18544655",
+                "description": "Experimental",
+                "timeupdated": "1747807654"
+            },
+            "1.00": {
+                "buildid": "15571145",
+                "description": "Launch version",
+                "timeupdated": "1745316890"
+            },
+            "1.09": {
+                "buildid": "15950069",
+                "description": "First Major Update",
+                "timeupdated": "1745316561"
+            },
+            "1.14": {
+                "buildid": "16812491",
+                "description": "Older Version",
+                "timeupdated": "1740206780"
+            },
+            "1.17": {
+                "buildid": "18128715",
+                "description": "1.17 version",
+                "timeupdated": "1746442719"
+            }
+        }
+    }
+}
