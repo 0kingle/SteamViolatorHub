@@ -1,0 +1,100 @@
+{
+    "appid": "832360",
+    "type": "Game",
+    "name": "Hotel Magnate",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29092570",
+    "update_time": "2025-05-21 07:49:51",
+    "depot": {
+        "baselanguages": "english",
+        "832361": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4680762419385400974",
+                    "size": "3622483472",
+                    "download": "838288784"
+                },
+                "previous-version": {
+                    "gid": "8615989807770132532",
+                    "size": "1882585352",
+                    "download": "257134352"
+                },
+                "experimental": {
+                    "gid": "4680762419385400974",
+                    "size": "3622483472",
+                    "download": "838288784"
+                }
+            },
+            "decryptionkey": "2af7df4c274be9ac7bdec33394dd6206800f6c16b3e17a82cceef72c51ddcef0"
+        },
+        "832363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3062855943185550578",
+                    "size": "3693209464",
+                    "download": "861652320"
+                },
+                "previous-version": {
+                    "gid": "8454522797322337941",
+                    "size": "1925113576",
+                    "download": "273393152"
+                },
+                "experimental": {
+                    "gid": "3062855943185550578",
+                    "size": "3693209464",
+                    "download": "861652320"
+                }
+            },
+            "decryptionkey": "a6e22519c823972fe160199e99a282d714f025779b09c8e224b3187b67a1f4ea"
+        },
+        "832362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5881919325204850934",
+                    "size": "3663577550",
+                    "download": "847679424"
+                },
+                "previous-version": {
+                    "gid": "2561932292386547636",
+                    "size": "1903713686",
+                    "download": "263681536"
+                },
+                "experimental": {
+                    "gid": "5881919325204850934",
+                    "size": "3663577550",
+                    "download": "847679424"
+                }
+            },
+            "decryptionkey": "482b026166021ba1db4fb543ff4c314b7e321381b5b078ed040adb8d54c3ae17"
+        },
+        "workshopdepot": "832360",
+        "branches": {
+            "public": {
+                "buildid": "18541373",
+                "timeupdated": "1747784986"
+            },
+            "previous-version": {
+                "buildid": "10150362",
+                "description": "older version of game than current",
+                "timeupdated": "1686651818"
+            },
+            "experimental": {
+                "buildid": "18541373",
+                "description": "public testing",
+                "timeupdated": "1747784962"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d966062d0b1291980db70cfa61e7c6b0b3fcce6a4c5b45b8c7c4c67aa9a6a479"
+    }
+}
