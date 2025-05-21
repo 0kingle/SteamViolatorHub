@@ -1,0 +1,28 @@
+{
+    "appid": "3123800",
+    "type": "Game",
+    "name": "Tempest Tower",
+    "schinese_name": "风暴要塞",
+    "isfreeapp": "0",
+    "change_number": "29098979",
+    "update_time": "2025-05-21 19:31:02",
+    "depot": {
+        "3123801": {
+            "manifests": {
+                "public": {
+                    "gid": "9153217731859544916",
+                    "size": "756259274",
+                    "download": "501471360"
+                }
+            },
+            "decryptionkey": "d4d07961d30d611a21bbf1f251a1a767510bf612179f9babf07d25da543f4c46"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18535198",
+                "timeupdated": "1747814044"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
