@@ -1,0 +1,28 @@
+{
+    "appid": "2713690",
+    "type": "Game",
+    "name": "Shattered Minds",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29064573",
+    "update_time": "2025-05-20 04:28:59",
+    "depot": {
+        "2713692": {
+            "manifests": {
+                "public": {
+                    "gid": "2784982407687121688",
+                    "size": "4272369941",
+                    "download": "3952400832"
+                }
+            },
+            "decryptionkey": "b78eff7b11ce3c5061e4fc8f455c25d1d7ea57fbfe0889f1d1268a6ff56b66df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18519945",
+                "timeupdated": "1747668495"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
