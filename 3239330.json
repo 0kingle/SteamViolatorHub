@@ -1,0 +1,49 @@
+{
+    "appid": "3239330",
+    "type": "Game",
+    "name": "Tutien Path",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098427",
+    "update_time": "2025-05-21 19:29:50",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3239331": {
+            "manifests": {
+                "public": {
+                    "gid": "4714499241580450089",
+                    "size": "4651244837",
+                    "download": "4320085472"
+                }
+            },
+            "decryptionkey": "f7f8364cdfcd1140d266a5216d5044bb8fe77c08a9962bc36385290ee6026f7f"
+        },
+        "3239332": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18545403",
+                "timeupdated": "1747812107"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
