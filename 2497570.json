@@ -1,0 +1,38 @@
+{
+    "appid": "2497570",
+    "type": "Game",
+    "name": "AfterWar",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28776421",
+    "update_time": "2025-05-02 06:29:27",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2497571": {
+            "manifests": {
+                "public": {
+                    "gid": "5878758388997580551",
+                    "size": "876018136",
+                    "download": "191467680"
+                },
+                "alpha0.1": {
+                    "gid": "2973933358033800686",
+                    "size": "478713237",
+                    "download": "89999648"
+                }
+            },
+            "decryptionkey": "5754df0048d7ab02d2a712e5e380f7bf503a350ab673cfe80b713a1b863cd69c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18302641",
+                "timeupdated": "1746052655"
+            },
+            "alpha0.1": {
+                "buildid": "12286867",
+                "description": "Old Version",
+                "timeupdated": "1731361821"
+            }
+        }
+    }
+}
