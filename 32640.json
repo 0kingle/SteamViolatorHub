@@ -1,0 +1,28 @@
+{
+    "appid": "32640",
+    "type": "Game",
+    "name": "Delta Force: Land Warrior",
+    "schinese_name": "三角洲特种部队：大地勇士",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 23:06:30",
+    "depot": {
+        "32641": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "4375371442284915881",
+                    "size": "656816099",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "16dd5186b5162d1898032670fa83929bcf6bfef8672ddbe2caad7699291b7609"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "19313"
+            }
+        }
+    }
+}
