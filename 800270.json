@@ -1,0 +1,45 @@
+{
+    "appid": "800270",
+    "type": "Game",
+    "name": "Terraforming Mars",
+    "schinese_name": "改造火星",
+    "isfreeapp": "0",
+    "change_number": "29057548",
+    "update_time": "2025-05-19 16:11:00",
+    "depot": {
+        "800271": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3402457220967950636",
+                    "size": "308565970",
+                    "download": "151810224"
+                }
+            },
+            "decryptionkey": "ce2ca0ea9d981da32cc3cb7e8804e230219f22a6abd38bc0ee73572d3cab96ac"
+        },
+        "800272": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2580245019370274353",
+                    "size": "691620052",
+                    "download": "158952672"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,spanish,swedish",
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18281565",
+                "timeupdated": "1746021616"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
