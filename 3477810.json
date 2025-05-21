@@ -1,0 +1,27 @@
+{
+    "appid": "3477810",
+    "type": "Game",
+    "name": "Room Service",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098748",
+    "update_time": "2025-05-21 19:29:30",
+    "depot": {
+        "3477811": {
+            "manifests": {
+                "public": {
+                    "gid": "232613718031218001",
+                    "size": "1885690570",
+                    "download": "664565616"
+                }
+            },
+            "decryptionkey": "29d5da5450793f4a8e4e6a0bd2ca72afa5ce05fe4dd1ce62c7e43d77298c0155"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18545632",
+                "timeupdated": "1747813175"
+            }
+        }
+    }
+}
