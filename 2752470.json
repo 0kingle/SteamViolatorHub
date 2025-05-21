@@ -1,0 +1,32 @@
+{
+    "appid": "2752470",
+    "type": "Game",
+    "name": "バトルスピリッツ クロスオーバー",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29086519",
+    "update_time": "2025-05-21 00:38:53",
+    "depot": {
+        "baselanguages": "japanese",
+        "2752471": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6422811334177894366",
+                    "size": "16279244390",
+                    "download": "12245964528"
+                }
+            },
+            "decryptionkey": "e188e6b9bf65bc6f2a64d06488b240d1351cfb7a96b295d1ad01bd979ac7c8ff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18132570",
+                "timeupdated": "1745542657"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
