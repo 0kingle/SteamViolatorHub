@@ -1,0 +1,47 @@
+{
+    "appid": "965580",
+    "type": "Game",
+    "name": "Root",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101318",
+    "update_time": "2025-05-21 19:36:18",
+    "depot": {
+        "965581": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3741645405176843644",
+                    "size": "498754587",
+                    "download": "315590096"
+                }
+            },
+            "decryptionkey": "3369a4492dbd5b23bb12fb1ffddfcadaae9719b6dcf01026327b2321f308ca00"
+        },
+        "965582": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6097617652468424223",
+                    "size": "670595491",
+                    "download": "330018272"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18182248",
+                "timeupdated": "1745256201"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
