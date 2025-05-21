@@ -1,0 +1,28 @@
+{
+    "appid": "2312380",
+    "type": "Game",
+    "name": "Steel Racer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010693",
+    "update_time": "2025-05-16 04:06:41",
+    "depot": {
+        "2312381": {
+            "manifests": {
+                "public": {
+                    "gid": "7683576012376524633",
+                    "size": "27512703",
+                    "download": "14048304"
+                }
+            },
+            "decryptionkey": "80f602492499fe5ff0e558c3af8d27e73bf094d3a7ea7a664fcbf968cc1fb7a6"
+        },
+        "baselanguages": "english,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "15653331",
+                "timeupdated": "1725983348"
+            }
+        }
+    }
+}
