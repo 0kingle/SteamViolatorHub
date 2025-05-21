@@ -1,0 +1,56 @@
+{
+    "appid": "2994240",
+    "type": "Game",
+    "name": "Gods vs Horrors",
+    "schinese_name": "诸神之劫：自走棋",
+    "isfreeapp": "0",
+    "change_number": "29079377",
+    "update_time": "2025-05-20 18:12:42",
+    "depot": {
+        "baselanguages": "english",
+        "2994241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2503605061450355246",
+                    "size": "634634593",
+                    "download": "80008144"
+                }
+            },
+            "decryptionkey": "92f5f649f24970c0ccda65596884c173ef289cc05131497508acda608c709060"
+        },
+        "2994242": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2491132971613423318",
+                    "size": "633515325",
+                    "download": "78382112"
+                }
+            }
+        },
+        "2994243": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2127498677206627325",
+                    "size": "658808083",
+                    "download": "87692352"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18514462",
+                "timeupdated": "1747641069"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
