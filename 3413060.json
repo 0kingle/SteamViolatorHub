@@ -1,0 +1,27 @@
+{
+    "appid": "3413060",
+    "type": "Game",
+    "name": "The Anomaly Experiment",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29051560",
+    "update_time": "2025-05-19 03:16:24",
+    "depot": {
+        "3413061": {
+            "manifests": {
+                "public": {
+                    "gid": "6651111727641027245",
+                    "size": "7182685285",
+                    "download": "2883979200"
+                }
+            },
+            "decryptionkey": "6565c1af9751c977d6a2ea073717ff6ce810851e6b3654caf7afa5f9c6993518"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18416962",
+                "timeupdated": "1746919368"
+            }
+        }
+    }
+}
