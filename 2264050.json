@@ -1,0 +1,27 @@
+{
+    "appid": "2264050",
+    "type": "Game",
+    "name": "海伦的神迹",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 18:28:38",
+    "depot": {
+        "2264051": {
+            "manifests": {
+                "public": {
+                    "gid": "5191524273402292555",
+                    "size": "344459919",
+                    "download": "258778240"
+                }
+            },
+            "decryptionkey": "7e0c9dc49d4f27bf7acc60fd3661ac47ac9e78f7331ba32e91593c2e6250c296"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10469160",
+                "timeupdated": "1675414234"
+            }
+        }
+    }
+}
