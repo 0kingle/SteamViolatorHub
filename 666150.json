@@ -1,0 +1,52 @@
+{
+    "appid": "666150",
+    "type": "Game",
+    "name": "Prehistoric Kingdom",
+    "schinese_name": "史前王国",
+    "isfreeapp": "0",
+    "change_number": "28976607",
+    "update_time": "2025-05-14 22:41:37",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,russian,portuguese",
+        "workshopdepot": "666150",
+        "hasdepotsindlc": "1",
+        "666151": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "987341744948744605",
+                    "size": "14798201868",
+                    "download": "8594030144"
+                },
+                "ptb_public_testing": {
+                    "gid": "7533860719628575582",
+                    "size": "14708095856",
+                    "download": "8519283216"
+                }
+            },
+            "decryptionkey": "e4ed477c5cebc990e21bdc1f3f728043303a3c34a55b2a732e6652b28cbd689d"
+        },
+        "2562771": {
+            "dlcappid": "2562770",
+            "config": {
+                "language": "english"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18426605",
+                "timeupdated": "1747043260"
+            },
+            "ptb_public_testing": {
+                "buildid": "18136043",
+                "description": "Public Testing Branch for upcoming releases",
+                "timeupdated": "1744845925"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "bdaa033c251a4a3e760e868fcb8c1c8642673bb42e5197b6572731f85e76eb81"
+    }
+}
