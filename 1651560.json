@@ -1,0 +1,38 @@
+{
+    "appid": "1651560",
+    "type": "Game",
+    "name": "Fabledom",
+    "schinese_name": "寓言之地 (Fabledom)",
+    "isfreeapp": "0",
+    "change_number": "29091797",
+    "update_time": "2025-05-21 06:37:49",
+    "depot": {
+        "1651561": {
+            "manifests": {
+                "public": {
+                    "gid": "2922201590293598515",
+                    "size": "4030914299",
+                    "download": "1450680912"
+                },
+                "fabledom_1.07_update": {
+                    "gid": "2661599579044441318",
+                    "size": "4029864651",
+                    "download": "1450702752"
+                }
+            },
+            "decryptionkey": "dbaf69374e2fa99d18be9c0ee9b803630ac5fdb318fff5a83637397db2576b99"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18457870",
+                "timeupdated": "1747316016"
+            },
+            "fabledom_1.07_update": {
+                "buildid": "18069119",
+                "description": "Beta branch for 1.07 update of Fabledom",
+                "timeupdated": "1744362967"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
