@@ -1,0 +1,49 @@
+{
+    "appid": "2302670",
+    "type": "Game",
+    "name": "Back to Vietnam",
+    "schinese_name": "重返越南",
+    "isfreeapp": "0",
+    "change_number": "29089001",
+    "update_time": "2025-05-21 03:06:24",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2302671": {
+            "manifests": {
+                "public": {
+                    "gid": "4002386136626574711",
+                    "size": "5319649683",
+                    "download": "3847105008"
+                }
+            },
+            "decryptionkey": "43cd5065e5cd157ce5400ea4c54f98eb92631ff3a9146515f810232cbaa8952a"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18412118",
+                "timeupdated": "1746854823"
+            }
+        }
+    }
+}
