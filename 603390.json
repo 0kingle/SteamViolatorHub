@@ -1,0 +1,95 @@
+{
+    "appid": "603390",
+    "type": "Game",
+    "name": "Stone Story RPG",
+    "schinese_name": "石头记",
+    "isfreeapp": "0",
+    "change_number": "28975549",
+    "update_time": "2025-05-14 22:39:14",
+    "depot": {
+        "603391": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2608073708238378022",
+                    "size": "346884397",
+                    "download": "250040768"
+                },
+                "ssrpg-beta": {
+                    "gid": "2608073708238378022",
+                    "size": "346884397",
+                    "download": "250040768"
+                }
+            }
+        },
+        "603392": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3203897054781737253",
+                    "size": "323010316",
+                    "download": "243083120"
+                },
+                "ssrpg-beta": {
+                    "gid": "3203897054781737253",
+                    "size": "323010316",
+                    "download": "243083120"
+                }
+            },
+            "decryptionkey": "ff379050d5c8b734daf2792433e292569359c1dfae97471db8403ee5735433e2"
+        },
+        "603393": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4350936110252471883",
+                    "size": "361889129",
+                    "download": "242702176"
+                },
+                "ssrpg-beta": {
+                    "gid": "4350936110252471883",
+                    "size": "361889129",
+                    "download": "242702176"
+                }
+            }
+        },
+        "1122790": {
+            "dlcappid": "1122790",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8854528722155138371",
+                    "size": "0",
+                    "download": "0"
+                },
+                "ssrpg-beta": {
+                    "gid": "8854528722155138371",
+                    "size": "0",
+                    "download": "0"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18384863",
+                "timeupdated": "1746686563"
+            },
+            "ssrpg-beta": {
+                "buildid": "18384863",
+                "description": "Beta",
+                "timeupdated": "1746686537"
+            }
+        }
+    }
+}
