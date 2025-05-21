@@ -1,0 +1,79 @@
+{
+    "appid": "1398070",
+    "type": "Game",
+    "name": "The Book of Bondmaids",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986814",
+    "update_time": "2025-05-15 01:53:22",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,schinese,russian,portuguese",
+        "1398071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3689011184860058238",
+                    "size": "3909978106",
+                    "download": "3164839056"
+                },
+                "oldone": {
+                    "gid": "6221396772391882481",
+                    "size": "3149007966",
+                    "download": "2585338880"
+                }
+            },
+            "decryptionkey": "d107d7b9a11670a339d2600e66607132f67ef8db5a3c09ab2640e5fcd809b4d3"
+        },
+        "1398072": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "177970671170152577",
+                    "size": "3930738558",
+                    "download": "3170095504"
+                },
+                "oldone": {
+                    "gid": "2520607338193415483",
+                    "size": "3049521522",
+                    "download": "2557050736"
+                }
+            },
+            "decryptionkey": "d5a1b149449858f63acac131a25788e26842bd978e8a1615e6fd87e5d12b0e27"
+        },
+        "1398073": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4705797256021008515",
+                    "size": "3898935886",
+                    "download": "3161101360"
+                },
+                "oldone": {
+                    "gid": "2736411109078706652",
+                    "size": "3079021119",
+                    "download": "2564676672"
+                }
+            },
+            "decryptionkey": "fcc5fc8f56f215df0fbfdf727f2ce31a8e947f519d58b7113ff9f6e051910820"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18042732",
+                "timeupdated": "1744210371"
+            },
+            "oldone": {
+                "buildid": "10155559",
+                "description": "old version",
+                "timeupdated": "1677479988"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
