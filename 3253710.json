@@ -1,0 +1,42 @@
+{
+    "appid": "3253710",
+    "type": "Game",
+    "name": "Landlady Seduction Simulator",
+    "schinese_name": "房东诱惑模拟器",
+    "isfreeapp": "0",
+    "change_number": "29083617",
+    "update_time": "2025-05-20 22:12:25",
+    "depot": {
+        "3253711": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2786689233579213323",
+                    "size": "963408350",
+                    "download": "881157520"
+                }
+            },
+            "decryptionkey": "36a69d30b091ada9f1a3f8ef0f6782b3b509519d86eb253bb6d1c1c93e3bd27f"
+        },
+        "3253712": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1065036621747165620",
+                    "size": "951012008",
+                    "download": "879769648"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18007659",
+                "timeupdated": "1744009168"
+            }
+        }
+    }
+}
