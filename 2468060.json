@@ -1,0 +1,43 @@
+{
+    "appid": "2468060",
+    "type": "Game",
+    "name": "Breaking Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012286",
+    "update_time": "2025-05-16 06:00:45",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,latam",
+        "2468061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3633451258080524495",
+                    "size": "147488015",
+                    "download": "59142496"
+                }
+            },
+            "decryptionkey": "e5df1bfa140bf32e2fc97547145ac3341a868d1bb69f13eb0b68806fc25e112d"
+        },
+        "2468062": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "503379846333269393",
+                    "size": "141339257",
+                    "download": "57156272"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16556143",
+                "timeupdated": "1732730455"
+            }
+        }
+    }
+}
