@@ -1,0 +1,56 @@
+{
+    "appid": "2103130",
+    "type": "Game",
+    "name": "Matchmaking Inc.",
+    "schinese_name": "中国式相亲",
+    "isfreeapp": "0",
+    "change_number": "29076474",
+    "update_time": "2025-05-20 15:25:40",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "2103131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5788472203083716717",
+                    "size": "7927529268",
+                    "download": "1936171568"
+                }
+            },
+            "decryptionkey": "dc5fff8db171d37fd68a34ac05d9d32f8f64ebe21a86fb659f3e09ccb09bd2d0"
+        },
+        "2103132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7743875726470855609",
+                    "size": "7949887487",
+                    "download": "1942903120"
+                }
+            }
+        },
+        "2103133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "298128899343016373",
+                    "size": "7925516569",
+                    "download": "1934038704"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18456376",
+                "timeupdated": "1747214227"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
