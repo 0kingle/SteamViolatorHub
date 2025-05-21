@@ -1,0 +1,45 @@
+{
+    "appid": "1057780",
+    "type": "Game",
+    "name": "Jump Off The Bridge",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983489",
+    "update_time": "2025-05-14 22:57:48",
+    "depot": {
+        "baselanguages": "english",
+        "1057781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8776552435276268013",
+                    "size": "370603825",
+                    "download": "224689760"
+                }
+            },
+            "decryptionkey": "554e34846a8f348a3aed104d5022257a543a878629caf9906ea39b7601a5d30a"
+        },
+        "1057782": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1724207945180885460",
+                    "size": "370603825",
+                    "download": "224680544"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18305682",
+                "timeupdated": "1746075516"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
