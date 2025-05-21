@@ -1,0 +1,31 @@
+{
+    "appid": "2132690",
+    "type": "Game",
+    "name": "Vivat Slovakia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101255",
+    "update_time": "2025-05-21 19:36:00",
+    "depot": {
+        "2132691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1559686886878230041",
+                    "size": "68469403342",
+                    "download": "16721870128"
+                }
+            },
+            "decryptionkey": "65089430108460a99f1873b6dd45308d6f6363e72b61179582cb7562e11af745"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18547434",
+                "timeupdated": "1747822067"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
