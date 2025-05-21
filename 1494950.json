@@ -1,0 +1,36 @@
+{
+    "appid": "1494950",
+    "type": "Game",
+    "name": "Space Cats Tactics: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:40",
+    "depot": {
+        "1494951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6286967562534111860",
+                    "size": "2758809516",
+                    "download": "791731552"
+                }
+            },
+            "decryptionkey": "33d02dfe128296aaaf44bec955b9cc6260affffd91e86cce791a8ca16bec365d"
+        },
+        "1494952": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11775121",
+                "timeupdated": "1690216649"
+            }
+        }
+    }
+}
