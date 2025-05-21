@@ -1,0 +1,44 @@
+{
+    "appid": "2312520",
+    "type": "Game",
+    "name": "Everholm",
+    "schinese_name": "永恒岛梦旅",
+    "isfreeapp": "0",
+    "change_number": "29053847",
+    "update_time": "2025-05-19 09:12:58",
+    "depot": {
+        "2312521": {
+            "manifests": {
+                "public": {
+                    "gid": "3369787973545634112",
+                    "size": "1561677516",
+                    "download": "185449440"
+                },
+                "public-beta": {
+                    "gid": "6610800627145129560",
+                    "size": "1561548476",
+                    "download": "185408912"
+                }
+            },
+            "decryptionkey": "2a14f67a943e532e9b9823337407ef6bc13e31d557f095c70b8b84e2b414658e"
+        },
+        "2312522": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18223833",
+                "timeupdated": "1745505910"
+            },
+            "public-beta": {
+                "buildid": "18490109",
+                "description": "For public",
+                "timeupdated": "1747393450"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
