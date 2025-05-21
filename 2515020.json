@@ -1,0 +1,53 @@
+{
+    "appid": "2515020",
+    "type": "Game",
+    "name": "FINAL FANTASY XVI",
+    "schinese_name": "最终幻想16",
+    "isfreeapp": "0",
+    "change_number": "29012695",
+    "update_time": "2025-05-16 06:36:47",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "2515021": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8473560965998297727",
+                    "size": "136016506529",
+                    "download": "121860338640"
+                }
+            },
+            "decryptionkey": "a1bc4011c581932ab613727be50494068bd3d57d59fa0f60bef081401902a046"
+        },
+        "2515023": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {}
+        },
+        "2515022": {
+            "config": {
+                "oslist": "windows",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8458672795933688766",
+                    "size": "8498226189",
+                    "download": "8450858048"
+                }
+            },
+            "decryptionkey": "3bf28fa5738f1732e7e31ca3de269b6690be6a325d2ce76da6f924ddf812b90b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17373708",
+                "timeupdated": "1741057749"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
