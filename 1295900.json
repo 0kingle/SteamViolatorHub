@@ -1,0 +1,89 @@
+{
+    "appid": "1295900",
+    "type": "Game",
+    "name": "Draconia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29085237",
+    "update_time": "2025-05-20 23:32:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1295901": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "544036201883056587",
+                    "size": "5774644481",
+                    "download": "5091128848"
+                },
+                "legacy": {
+                    "gid": "6787191241507819406",
+                    "size": "3085112960",
+                    "download": "2375999488"
+                },
+                "buildtest": {
+                    "gid": "544036201883056587",
+                    "size": "5774644481",
+                    "download": "5091128848"
+                }
+            },
+            "decryptionkey": "c0d279495752c84a0904db347b03b01004415fc4e31a7664f0f9f4755102b56a"
+        },
+        "1295902": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6324871114189945567",
+                    "size": "6069209060",
+                    "download": "3971136656"
+                },
+                "legacy": {
+                    "gid": "8855412788177870780",
+                    "size": "3619144287",
+                    "download": "2385261744"
+                },
+                "buildtest": {
+                    "gid": "6324871114189945567",
+                    "size": "6069209060",
+                    "download": "3971136656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18535796",
+                "timeupdated": "1747755161"
+            },
+            "legacy": {
+                "buildid": "8503300",
+                "timeupdated": "1650185500"
+            },
+            "buildtest": {
+                "buildid": "18535796",
+                "description": "public developer build branch",
+                "timeupdated": "1747754626"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
