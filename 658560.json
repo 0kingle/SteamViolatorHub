@@ -1,0 +1,41 @@
+{
+    "appid": "658560",
+    "type": "Game",
+    "name": "Zup! 7",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 03:07:12",
+    "depot": {
+        "658561": {
+            "manifests": {
+                "public": {
+                    "gid": "4132065524411767993",
+                    "size": "20157258",
+                    "download": "17468848"
+                }
+            },
+            "decryptionkey": "5983143651112761711e8979b972f4c2b0e325926753a09bcdfa129c2449d81e"
+        },
+        "769610": {
+            "manifests": {
+                "public": {
+                    "gid": "8162670900552809482",
+                    "size": "19359278",
+                    "download": "16656976"
+                }
+            },
+            "dlcappid": "769610",
+            "config": {
+                "optionaldlc": "769610"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2427179",
+                "timeupdated": "1515614738"
+            }
+        },
+        "appmanagesdlc": "1"
+    }
+}
