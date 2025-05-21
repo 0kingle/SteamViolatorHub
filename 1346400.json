@@ -1,0 +1,34 @@
+{
+    "appid": "1346400",
+    "type": "Game",
+    "name": "Battle Engine Aquila",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986316",
+    "update_time": "2025-05-15 01:26:44",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1346401": {
+            "manifests": {
+                "public": {
+                    "gid": "8789687949808424520",
+                    "size": "700037807",
+                    "download": "648925760"
+                }
+            },
+            "decryptionkey": "e6d482fcef2265b5284f8165aead15ed422404955eafcf6724fa3fb5334a5495"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5154207",
+                "timeupdated": "1591944665"
+            }
+        }
+    }
+}
