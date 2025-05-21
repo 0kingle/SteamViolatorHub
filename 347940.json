@@ -1,0 +1,85 @@
+{
+    "appid": "347940",
+    "type": "Game",
+    "name": "Forsaken Isle",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29084653",
+    "update_time": "2025-05-20 23:04:39",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "347941": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2601860500629811752",
+                    "size": "138014746",
+                    "download": "68597984"
+                },
+                "classic": {
+                    "gid": "8896834204980531752",
+                    "size": "59539773",
+                    "download": "24654560"
+                },
+                "unstable": {
+                    "gid": "8980386837085613814",
+                    "size": "138213989",
+                    "download": "68710816"
+                }
+            },
+            "decryptionkey": "a57687ac7f499c08f3a909dc5fe7b3c135251895de800aba09cd451c8a2f11a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18084653",
+                "timeupdated": "1744817606"
+            },
+            "classic": {
+                "buildid": "1576724",
+                "description": "Original Version",
+                "timeupdated": "1743266030"
+            },
+            "unstable": {
+                "buildid": "18535526",
+                "timeupdated": "1747753475"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
