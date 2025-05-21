@@ -1,0 +1,38 @@
+{
+    "appid": "638130",
+    "type": "Game",
+    "name": "Sweet Surrender",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29096541",
+    "update_time": "2025-05-21 19:25:10",
+    "depot": {
+        "638131": {
+            "manifests": {
+                "public": {
+                    "gid": "6940174798076303475",
+                    "size": "795698021",
+                    "download": "311477408"
+                },
+                "beta": {
+                    "gid": "6940174798076303475",
+                    "size": "795698021",
+                    "download": "311477408"
+                }
+            },
+            "decryptionkey": "5615ea884347bde14995453ad1306768beaf4db9839003c70dc5e3df7505f99f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18264842",
+                "timeupdated": "1745931725"
+            },
+            "beta": {
+                "buildid": "18264842",
+                "description": "Beta Branch",
+                "timeupdated": "1745931669"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
