@@ -1,0 +1,72 @@
+{
+    "appid": "1250760",
+    "type": "Game",
+    "name": "海沙风云 Far Away",
+    "schinese_name": "海沙风云",
+    "isfreeapp": "0",
+    "change_number": "28985441",
+    "update_time": "2025-05-15 00:40:02",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "hasdepotsindlc": "1",
+        "1250761": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4471394214727609948",
+                    "size": "1633759419",
+                    "download": "1506447968"
+                }
+            },
+            "decryptionkey": "f216603c5d84982048016924a19b799179191613717423730f10418c0a175ecc"
+        },
+        "1250764": {
+            "config": {
+                "language": "tchinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3968678621904039810",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1250763": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2935093496725596312",
+                    "size": "1568535942",
+                    "download": "1435254912"
+                }
+            },
+            "decryptionkey": "25777b6f69450fb2cc3c0eb2f6ff905eefef523ac05794a2d76835e3d3f977a9"
+        },
+        "1250762": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8152282682620051038",
+                    "size": "1567020529",
+                    "download": "1435669952"
+                }
+            },
+            "decryptionkey": "5f7f9d373f70518956ccda6dac00784448885f57542faf2ddd79d9be0fa067f6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18021627",
+                "timeupdated": "1744179618"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
