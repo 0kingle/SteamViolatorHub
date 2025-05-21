@@ -1,0 +1,60 @@
+{
+    "appid": "2094070",
+    "type": "Game",
+    "name": "Quest Master",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29092464",
+    "update_time": "2025-05-21 07:40:28",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "2094070",
+        "hasdepotsindlc": "0",
+        "2094071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8365755403174478226",
+                    "size": "994535042",
+                    "download": "699140096"
+                }
+            },
+            "decryptionkey": "28f0f033ad58f7df23358c2e3a2d77a0844a5e984a3742f3339f2cf3989559a5"
+        },
+        "2094073": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5063857011037657266",
+                    "size": "1002458409",
+                    "download": "702295952"
+                }
+            }
+        },
+        "2094074": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7348058672016546287",
+                    "size": "976494741",
+                    "download": "693109792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18195868",
+                "timeupdated": "1746126370"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
