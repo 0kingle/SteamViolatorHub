@@ -1,0 +1,78 @@
+{
+    "appid": "1794680",
+    "type": "Game",
+    "name": "Vampire Survivors",
+    "schinese_name": "Vampire Survivors - 吸血鬼幸存者",
+    "isfreeapp": "0",
+    "change_number": "29076036",
+    "update_time": "2025-05-20 14:47:27",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1794681": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "115709003201692458",
+                    "size": "560177337",
+                    "download": "236606864"
+                },
+                "public-beta": {
+                    "gid": "115709003201692458",
+                    "size": "560177337",
+                    "download": "236606864"
+                }
+            },
+            "decryptionkey": "a2ae9bd3450da7127b7298a3e66264d71b8413bd7bacd674788ca98df20ee262"
+        },
+        "1794684": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2961531161165767261",
+                    "size": "526270719",
+                    "download": "236232224"
+                },
+                "public-beta": {
+                    "gid": "2961531161165767261",
+                    "size": "526270719",
+                    "download": "236232224"
+                }
+            },
+            "decryptionkey": "a9134bad97d12f2af38c1f3fda9df5c1441e987c3931aed6bcbc8a28d76f2ec9"
+        },
+        "1794685": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5763841379058131775",
+                    "size": "508830869",
+                    "download": "234919808"
+                },
+                "public-beta": {
+                    "gid": "5763841379058131775",
+                    "size": "508830869",
+                    "download": "234919808"
+                }
+            },
+            "decryptionkey": "b84475f8ff35397bf450e3fd9e2b62d63058277871f676dcb7fb506c9b89a599"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18193954",
+                "timeupdated": "1745576840"
+            },
+            "public-beta": {
+                "buildid": "18193954",
+                "description": "Public Beta",
+                "timeupdated": "1745492946"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
