@@ -1,0 +1,58 @@
+{
+    "appid": "1620290",
+    "type": "Game",
+    "name": "Zombie Cure Lab",
+    "schinese_name": "僵尸治愈实验室",
+    "isfreeapp": "0",
+    "change_number": "29100410",
+    "update_time": "2025-05-21 19:34:41",
+    "depot": {
+        "1620291": {
+            "manifests": {
+                "public": {
+                    "gid": "3936771834547274733",
+                    "size": "1218748894",
+                    "download": "475739232"
+                },
+                "hotfix": {
+                    "gid": "1913975449201735636",
+                    "size": "697574219",
+                    "download": "506362240"
+                },
+                "previous_version": {
+                    "gid": "3767957013112305524",
+                    "size": "1468521680",
+                    "download": "688263344"
+                },
+                "experimental": {
+                    "gid": "7785353260915423137",
+                    "size": "1212874348",
+                    "download": "464270992"
+                }
+            },
+            "decryptionkey": "e695370de91e380b55b97bfa3200cf50460c83ff53830ce89c160bdc75513f45"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14440496",
+                "timeupdated": "1716294919"
+            },
+            "hotfix": {
+                "buildid": "12001387",
+                "description": "Test out Hotfixes before they are officially released.",
+                "timeupdated": "1692695417"
+            },
+            "previous_version": {
+                "buildid": "12022615",
+                "description": "Here you can play the previous version 0.19.4",
+                "timeupdated": "1698658819"
+            },
+            "experimental": {
+                "buildid": "18319828",
+                "description": "Here we test out stuff like new features or unstable fixes to discover problems or test new things.",
+                "timeupdated": "1746194112"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
