@@ -1,0 +1,45 @@
+{
+    "appid": "3001070",
+    "type": "Game",
+    "name": "逐鹿问鼎：君王成长计划/Strive for power:King Growth Program",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098847",
+    "update_time": "2025-05-21 19:30:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3001071": {
+            "manifests": {
+                "public": {
+                    "gid": "8564101564372849598",
+                    "size": "2093797504",
+                    "download": "702959552"
+                }
+            },
+            "decryptionkey": "976e061cedadc0d0fa4bc826b43ded3561540a126530dee5eb06d2b82f08dc8c"
+        },
+        "3149920": {
+            "dlcappid": "3149920",
+            "manifests": {
+                "public": {
+                    "gid": "3893833498224165762",
+                    "size": "215525697",
+                    "download": "41672768"
+                }
+            },
+            "config": {
+                "optionaldlc": "3149920"
+            },
+            "decryptionkey": "5269fcffd03514f7effef2f1812afb8aee84a93b5139fb064494d369dce88e3e"
+        },
+        "workshopdepot": "3001070",
+        "branches": {
+            "public": {
+                "buildid": "18545699",
+                "timeupdated": "1747813528"
+            }
+        },
+        "appmanagesdlc": "1",
+        "workshopdepotdecryptionkey": "737ad3f510e2bf22439414a0de5c9fcac3662269261eca3a656c432855e41e15"
+    }
+}
