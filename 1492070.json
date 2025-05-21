@@ -1,0 +1,62 @@
+{
+    "appid": "1492070",
+    "type": "Game",
+    "name": "Sker Ritual",
+    "schinese_name": "斯盖尔仪式",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:39",
+    "depot": {
+        "1492071": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4031207410429134789",
+                    "size": "20367729922",
+                    "download": "9678175408"
+                },
+                "publictest": {
+                    "gid": "4031207410429134789",
+                    "size": "20367729922",
+                    "download": "9678175408"
+                }
+            },
+            "decryptionkey": "89d465584a0a654f8213c804ff69c907155ed9ba69bbe5084776845eea29f048"
+        },
+        "1492072": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "steamdeck": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8663944328433585521",
+                    "size": "305637503",
+                    "download": "306609632"
+                },
+                "publictest": {
+                    "gid": "8663944328433585521",
+                    "size": "305637503",
+                    "download": "306609632"
+                }
+            },
+            "decryptionkey": "8c2b060c707e577e5e85f7abc85ee02e0c79c268e7daab9adcb32041b17b5641"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493709",
+                "timeupdated": "1747412079"
+            },
+            "publictest": {
+                "buildid": "18493709",
+                "description": "Public Test",
+                "timeupdated": "1747410883"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
