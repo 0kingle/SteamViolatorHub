@@ -1,0 +1,42 @@
+{
+    "appid": "2240080",
+    "type": "Game",
+    "name": "Spilled!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010099",
+    "update_time": "2025-05-16 03:24:40",
+    "depot": {
+        "2240081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8803807768713204657",
+                    "size": "495799515",
+                    "download": "223298960"
+                }
+            },
+            "decryptionkey": "2aab4b5ac975aee6d53611059181406432a724fe809e34d51c765ba70ad343d7"
+        },
+        "2240082": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5884744610053160718",
+                    "size": "479013147",
+                    "download": "214979200"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18083629",
+                "timeupdated": "1744463666"
+            }
+        }
+    }
+}
