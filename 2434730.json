@@ -1,0 +1,32 @@
+{
+    "appid": "2434730",
+    "type": "Application",
+    "name": "EZ-Crosshair",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29101048",
+    "update_time": "2025-05-21 19:35:53",
+    "depot": {
+        "2434731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5729035832020586671",
+                    "size": "368966879",
+                    "download": "171777456"
+                }
+            },
+            "decryptionkey": "bd3da6521f6d06467aaf9a06cd67482719cd2d9b55d786bab061744a3354d7a8"
+        },
+        "workshopdepot": "2434730",
+        "branches": {
+            "public": {
+                "buildid": "18547380",
+                "timeupdated": "1747821230"
+            }
+        },
+        "workshopdepotdecryptionkey": "f48ee34adc7f5f2fda8d39c95b03b6531f1bf13b1ee3fdaf28ecc114b728b38d"
+    }
+}
