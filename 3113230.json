@@ -1,0 +1,39 @@
+{
+    "appid": "3113230",
+    "type": "Game",
+    "name": "Immortal IDLE",
+    "schinese_name": "放置仙途",
+    "isfreeapp": "0",
+    "change_number": "28918215",
+    "update_time": "2025-05-10 23:33:41",
+    "depot": {
+        "baselanguages": "schinese",
+        "3113231": {
+            "manifests": {
+                "public": {
+                    "gid": "1576998904519199712",
+                    "size": "211298235",
+                    "download": "52637648"
+                },
+                "test": {
+                    "gid": "1576998904519199712",
+                    "size": "211298235",
+                    "download": "52637648"
+                }
+            },
+            "decryptionkey": "3d1b2cb1bdee2c677fb346065266ad7a4dc5522f101793d371747c0a3cf76984"
+        },
+        "3113232": {},
+        "branches": {
+            "public": {
+                "buildid": "18413390",
+                "timeupdated": "1746870098"
+            },
+            "test": {
+                "buildid": "18413390",
+                "description": "For Test",
+                "timeupdated": "1746870049"
+            }
+        }
+    }
+}
