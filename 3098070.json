@@ -1,0 +1,28 @@
+{
+    "appid": "3098070",
+    "type": "Game",
+    "name": "Cinema Simulator 2025",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090567",
+    "update_time": "2025-05-21 04:51:58",
+    "depot": {
+        "3098071": {
+            "manifests": {
+                "public": {
+                    "gid": "5015670956527549848",
+                    "size": "2346958250",
+                    "download": "1349812560"
+                }
+            },
+            "decryptionkey": "07ba85ee90a70214863d849777e787e059ee14495e6ba118cbf0e1feeacd3e75"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18476807",
+                "timeupdated": "1747316843"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
