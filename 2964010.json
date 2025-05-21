@@ -1,0 +1,42 @@
+{
+    "appid": "2964010",
+    "type": "Demo",
+    "name": "Private Military Manager: Tactical Auto Battler Demo",
+    "schinese_name": "私人军事经理：战术自动战斗 [体验版]",
+    "isfreeapp": "0",
+    "change_number": "29022427",
+    "update_time": "2025-05-16 18:57:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2964011": {
+            "manifests": {
+                "public": {
+                    "gid": "7011710112076328820",
+                    "size": "1910937515",
+                    "download": "1288669728"
+                }
+            },
+            "decryptionkey": "d9b1b217b81e16721451142ae8adbfbeab62c99b50065a9420426ab0118fba6c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18328458",
+                "timeupdated": "1746234505"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
