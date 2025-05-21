@@ -1,0 +1,54 @@
+{
+    "appid": "1721060",
+    "type": "Game",
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "schinese_name": "秘影曼德拉",
+    "isfreeapp": "0",
+    "change_number": "29103044",
+    "update_time": "2025-05-21 19:54:56",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1721061": {
+            "manifests": {
+                "public": {
+                    "gid": "5272355556540269838",
+                    "size": "16939521802",
+                    "download": "16422480928"
+                }
+            },
+            "decryptionkey": "306438da4a61fac40cb7311f983967fcfca6258b8bd766b48605199f1c19c37c"
+        },
+        "3352660": {
+            "dlcappid": "3352660",
+            "manifests": {
+                "public": {
+                    "gid": "3835863109329503306",
+                    "size": "192406279",
+                    "download": "167476864"
+                }
+            },
+            "decryptionkey": "45bdc1425936ffac9f364dbfe269a725fe18985b08b48927638227e157786a39"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548867",
+                "timeupdated": "1747828490"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
