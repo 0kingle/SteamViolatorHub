@@ -1,0 +1,75 @@
+{
+    "appid": "1274570",
+    "type": "Game",
+    "name": "DEVOUR",
+    "schinese_name": "吞噬",
+    "isfreeapp": "0",
+    "change_number": "28985659",
+    "update_time": "2025-05-15 00:53:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1274571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6429368298083549179",
+                    "size": "12914669887",
+                    "download": "6635754352"
+                }
+            },
+            "decryptionkey": "b56991abb013052ba7ef6d1e0982f0ca99bbeeb631057347267102c6967c1537"
+        },
+        "1274572": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1968418041522818203",
+                    "size": "12914669887",
+                    "download": "6626198736"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1274573": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7439830362653470777",
+                    "size": "13024859287",
+                    "download": "6658191824"
+                }
+            },
+            "decryptionkey": "b67b5c5c44139818a0d7ddb9d1103a724ca404a87bde4d78fe257fc352f0f36d"
+        },
+        "1966630": {
+            "dlcappid": "1966630",
+            "manifests": {
+                "public": {
+                    "gid": "3546735088053658697",
+                    "size": "90675163",
+                    "download": "87397456"
+                }
+            },
+            "decryptionkey": "9b579f914a2ba495ad1e0b1e1a1fc21c8e578ee933fb6bfabd9f138124244587"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18339105",
+                "timeupdated": "1746392780"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
