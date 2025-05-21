@@ -1,0 +1,39 @@
+{
+    "appid": "2119850",
+    "type": "Game",
+    "name": "Maki: Paw of Fury",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28402047",
+    "update_time": "2025-04-10 15:34:03",
+    "depot": {
+        "2119851": {
+            "manifests": {
+                "public": {
+                    "gid": "7701905915627885444",
+                    "size": "2210567078",
+                    "download": "659810432"
+                },
+                "local": {
+                    "gid": "285471756149233021",
+                    "size": "1088032177",
+                    "download": "188433376"
+                }
+            },
+            "decryptionkey": "a862c2c05358671c92ba2ba2815244c184eafaf2ecac8a1a885d228279c0630e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17693342",
+                "timeupdated": "1744270438"
+            },
+            "local": {
+                "buildid": "9590504",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1664182598"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
