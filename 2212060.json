@@ -1,0 +1,28 @@
+{
+    "appid": "2212060",
+    "type": "Game",
+    "name": "Ortharion : The Last Battle Prologue",
+    "schinese_name": "奥萨里奥：最后一战序幕",
+    "isfreeapp": "0",
+    "change_number": "29009741",
+    "update_time": "2025-05-16 03:00:49",
+    "depot": {
+        "2212061": {
+            "manifests": {
+                "public": {
+                    "gid": "8540367796023620209",
+                    "size": "19135112735",
+                    "download": "7269848832"
+                }
+            },
+            "decryptionkey": "2280bf8b50b4bd2490b06bc440ff5d914d160e2892afff22a4b31ceeb6b94fe6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11720333",
+                "timeupdated": "1689604776"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
