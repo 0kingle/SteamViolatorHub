@@ -1,0 +1,42 @@
+{
+    "appid": "2063890",
+    "type": "Game",
+    "name": "Toggle Cube",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28495769",
+    "update_time": "2025-04-16 05:26:16",
+    "depot": {
+        "2063891": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1754620656059896485",
+                    "size": "747299328",
+                    "download": "118058960"
+                }
+            },
+            "decryptionkey": "a7091c021ff13a4c86a9795a36cd89d821cf3a580251c5f7cfeb49f44728daf4"
+        },
+        "2063892": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3251899998531213576",
+                    "size": "750055866",
+                    "download": "117706240"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9149094",
+                "timeupdated": "1658237996"
+            }
+        }
+    }
+}
