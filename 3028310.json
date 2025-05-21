@@ -1,0 +1,67 @@
+{
+    "appid": "3028310",
+    "type": "Game",
+    "name": "Nordhold",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015847",
+    "update_time": "2025-05-16 11:19:24",
+    "depot": {
+        "baselanguages": "english",
+        "3028311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1302140078595509051",
+                    "size": "2064935864",
+                    "download": "404520656"
+                }
+            },
+            "decryptionkey": "553fc1b6d6075185f02a8eba5821d274d56536e35f297a4733b779552e9b07e7"
+        },
+        "3028312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5927685249792041335",
+                    "size": "2157201364",
+                    "download": "442173184"
+                }
+            }
+        },
+        "3028313": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8488006223424062743",
+                    "size": "2131653748",
+                    "download": "440621040"
+                }
+            }
+        },
+        "3453990": {
+            "dlcappid": "3453990",
+            "manifests": {
+                "public": {
+                    "gid": "3517757317403910077",
+                    "size": "90451558",
+                    "download": "84648048"
+                }
+            },
+            "decryptionkey": "6b5ee20b58e6268ecbdc302b151f75c70818bac9adeac5b600680781c73afed6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18417397",
+                "timeupdated": "1746925974"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
