@@ -1,0 +1,48 @@
+{
+    "appid": "1579880",
+    "type": "Game",
+    "name": "The Light Brigade",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988298",
+    "update_time": "2025-05-15 03:33:14",
+    "depot": {
+        "1579881": {
+            "manifests": {
+                "public": {
+                    "gid": "2734817524059339352",
+                    "size": "2832322500",
+                    "download": "2098333904"
+                },
+                "stableprevious": {
+                    "gid": "7304072729984582844",
+                    "size": "5265619759",
+                    "download": "2800596448"
+                },
+                "public_beta": {
+                    "gid": "2734817524059339352",
+                    "size": "2832322500",
+                    "download": "2098333904"
+                }
+            },
+            "decryptionkey": "a814880fd9143fa3d8cca2b9adfc9abf607385b172ca28019931277fed04d287"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18230777",
+                "timeupdated": "1745606363"
+            },
+            "stableprevious": {
+                "buildid": "13035255",
+                "description": "previous",
+                "timeupdated": "1713461312"
+            },
+            "public_beta": {
+                "buildid": "18230777",
+                "description": "it's fresh",
+                "timeupdated": "1745536938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
