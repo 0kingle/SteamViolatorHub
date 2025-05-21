@@ -1,0 +1,28 @@
+{
+    "appid": "2939640",
+    "type": "Game",
+    "name": "Broventure: The Wild Co-op",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100383",
+    "update_time": "2025-05-21 19:34:28",
+    "depot": {
+        "2939641": {
+            "manifests": {
+                "public": {
+                    "gid": "874991487285843077",
+                    "size": "1210892384",
+                    "download": "801640144"
+                }
+            },
+            "decryptionkey": "fb12a8572313352d2270fb3e4c782dee030510eb3d9a4ce061748ff01934b577"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18531818",
+                "timeupdated": "1747740677"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
