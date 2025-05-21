@@ -1,0 +1,42 @@
+{
+    "appid": "3107080",
+    "type": "Demo",
+    "name": "Five Laps at Freddy's Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094270",
+    "update_time": "2025-05-21 10:19:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3107081": {
+            "manifests": {
+                "public": {
+                    "gid": "2401279634658415286",
+                    "size": "977003238",
+                    "download": "880937696"
+                }
+            },
+            "decryptionkey": "c5a7bf1257e8521762cde5a3e8113c417a6548ccf55f23f921080545d4ac08a4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15369919",
+                "timeupdated": "1723825468"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
