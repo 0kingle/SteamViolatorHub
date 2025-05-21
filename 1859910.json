@@ -1,0 +1,33 @@
+{
+    "appid": "1859910",
+    "type": "Game",
+    "name": "活俠傳",
+    "schinese_name": "活侠传",
+    "isfreeapp": "0",
+    "change_number": "29049428",
+    "update_time": "2025-05-18 22:30:52",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "tchinese",
+        "1859911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2772355619964001970",
+                    "size": "1855695884",
+                    "download": "769052528"
+                }
+            },
+            "decryptionkey": "015b5360486d0725e48b73d3393cd31c90b11b916f093b088bd1e64b6b59d262"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509021",
+                "timeupdated": "1747578648"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
