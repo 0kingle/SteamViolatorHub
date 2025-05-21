@@ -1,0 +1,45 @@
+{
+    "appid": "2823080",
+    "type": "Game",
+    "name": "Sketchy's Contract",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28883984",
+    "update_time": "2025-05-08 22:35:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2823081": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1259777996036642895",
+                    "size": "11169381522",
+                    "download": "4808510320"
+                }
+            },
+            "decryptionkey": "480fdb2c63d5aacc170025a90063437791a1cf181afafc2bc6ff5c13f7792983"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18390108",
+                "timeupdated": "1746714917"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
