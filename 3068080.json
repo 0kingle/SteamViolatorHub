@@ -1,0 +1,27 @@
+{
+    "appid": "3068080",
+    "type": "Game",
+    "name": "Hentai Senpai: Thicc Fairies of Forest Lake",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28827478",
+    "update_time": "2025-05-06 02:08:27",
+    "depot": {
+        "3068081": {
+            "manifests": {
+                "public": {
+                    "gid": "7339240895338256069",
+                    "size": "302210594",
+                    "download": "188530048"
+                }
+            },
+            "decryptionkey": "56d623b5006778e464bc1960aea25a969d4daabb38a78c319404f7a449952499"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14790336",
+                "timeupdated": "1718948577"
+            }
+        }
+    }
+}
