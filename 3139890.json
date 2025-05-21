@@ -1,0 +1,28 @@
+{
+    "appid": "3139890",
+    "type": "Game",
+    "name": "恐龙岛",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100915",
+    "update_time": "2025-05-21 19:35:39",
+    "depot": {
+        "3139891": {
+            "manifests": {
+                "public": {
+                    "gid": "5492985951841350298",
+                    "size": "22171786347",
+                    "download": "18770278240"
+                }
+            },
+            "decryptionkey": "0d6a1dd1b167221ae493fcfd7d637899ead4a54a8381f2603ba1c21c870541f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18547106",
+                "timeupdated": "1747820779"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
