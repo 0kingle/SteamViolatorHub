@@ -1,0 +1,86 @@
+{
+    "appid": "2201940",
+    "type": "Game",
+    "name": "Ship Graveyard Simulator 2",
+    "schinese_name": "船舶墓地模拟器2",
+    "isfreeapp": "0",
+    "change_number": "29102265",
+    "update_time": "2025-05-21 19:36:03",
+    "depot": {
+        "228981": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2201941": {
+            "manifests": {
+                "public": {
+                    "gid": "1556849090050811681",
+                    "size": "13181533783",
+                    "download": "12877697600"
+                }
+            },
+            "decryptionkey": "786baefb7662e006fd710680e9ad8ad20bfc6b6ec4ce089d528438f1ae7b480a"
+        },
+        "2201942": {},
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18280209",
+                "timeupdated": "1745932445"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
