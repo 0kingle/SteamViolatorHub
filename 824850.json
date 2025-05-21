@@ -1,0 +1,59 @@
+{
+    "appid": "824850",
+    "type": "Game",
+    "name": "Some Distant Memory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 07:31:38",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "824851": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5535241656233029883",
+                    "size": "2600035385",
+                    "download": "284596272"
+                }
+            },
+            "decryptionkey": "b76f20033ee81c5bf229c59cad56f91d5d586955578586877f6e9dc2af228ebd"
+        },
+        "824852": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7623551954548054634",
+                    "size": "2589937942",
+                    "download": "282505520"
+                }
+            }
+        },
+        "1159140": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6863809065395485576",
+                    "size": "315186447",
+                    "download": "317444528"
+                }
+            },
+            "dlcappid": "1159140"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4728706",
+                "timeupdated": "1590714646"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
