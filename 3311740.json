@@ -1,0 +1,43 @@
+{
+    "appid": "3311740",
+    "type": "Game",
+    "name": "The Cabin Factory",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067281",
+    "update_time": "2025-05-20 04:34:49",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3311741": {
+            "manifests": {
+                "public": {
+                    "gid": "5832913850010952",
+                    "size": "3706664362",
+                    "download": "3456237888"
+                }
+            },
+            "decryptionkey": "787c16686bf240711ceb9d86f6c1c936bface7c82f473cf41154365c4e5c9448"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18283829",
+                "timeupdated": "1745949304"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
