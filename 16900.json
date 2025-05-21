@@ -1,0 +1,90 @@
+{
+    "appid": "16900",
+    "type": "Game",
+    "name": "GROUND BRANCH",
+    "schinese_name": "地面部队",
+    "isfreeapp": "0",
+    "change_number": "29084054",
+    "update_time": "2025-05-20 22:35:00",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "16900",
+        "16901": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5816844413996427028",
+                    "size": "53017845300",
+                    "download": "30279974800"
+                }
+            },
+            "decryptionkey": "bc24c78c8079e2c7c422f606ee6dad18998c54f4a129afdfc3e31e6a333be255"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18434256",
+                "timeupdated": "1747086183"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "b133634870bbb0847fa481e40f3499e7a507f0d24f518c2a05b313ca414e38b4"
+    }
+}
