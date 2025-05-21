@@ -1,0 +1,63 @@
+{
+    "appid": "1140270",
+    "type": "Game",
+    "name": "Monster Prom 2: Monster Camp",
+    "schinese_name": "魔物学园2：怪物营地",
+    "isfreeapp": "0",
+    "change_number": "28984394",
+    "update_time": "2025-05-14 23:46:43",
+    "depot": {
+        "1140271": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2065310108405074700",
+                    "size": "998117382",
+                    "download": "693140144"
+                }
+            },
+            "decryptionkey": "9727eefb776387eb2d9f1c1e1e3e739be5e66a06707a2564aaaa346d199f0d70"
+        },
+        "1140272": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9216455575499927725",
+                    "size": "1011068415",
+                    "download": "693901696"
+                }
+            },
+            "decryptionkey": "cb023c9bf6cd80deadf40f85b3587965b0a39d3ee9410d9764177ddc927d8d69"
+        },
+        "1140273": {
+            "config": {
+                "oslist": "linux",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2909092514560416035",
+                    "size": "985374835",
+                    "download": "688880112"
+                }
+            },
+            "decryptionkey": "9b2b6a04d2c6b328e784ed0bb76ccaf9941cd2d7e4762d51b524327e30715a4f"
+        },
+        "baselanguages": "english",
+        "workshopdepot": "1140270",
+        "branches": {
+            "public": {
+                "buildid": "18220101",
+                "timeupdated": "1745515882"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "df4bab94d15a235bb3ba603a21cc67e9e6f79a6bf3fbf9ea72ec9cf875901edc"
+    }
+}
