@@ -1,0 +1,45 @@
+{
+    "appid": "2552310",
+    "type": "Game",
+    "name": "Dungeon Inn",
+    "schinese_name": "莎拉的黑店",
+    "isfreeapp": "0",
+    "change_number": "28932123",
+    "update_time": "2025-05-12 12:33:40",
+    "depot": {
+        "2552311": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1004052973598927664",
+                    "size": "1098155199",
+                    "download": "187880160"
+                }
+            },
+            "decryptionkey": "a48d53d95522fbe56c2435f9f17d6b85e7280d997aaeda7da4de01790c56e4ad"
+        },
+        "2552312": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "493319222769296480",
+                    "size": "334897335",
+                    "download": "226179504"
+                }
+            }
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18096986",
+                "timeupdated": "1744942047"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
