@@ -1,0 +1,44 @@
+{
+    "appid": "2124490",
+    "type": "Game",
+    "name": "SILENT HILL 2",
+    "schinese_name": "寂静岭2",
+    "isfreeapp": "0",
+    "change_number": "29008930",
+    "update_time": "2025-05-16 02:12:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2124491": {
+            "manifests": {
+                "public": {
+                    "gid": "4138456104249046245",
+                    "size": "36320370348",
+                    "download": "35299455152"
+                }
+            },
+            "decryptionkey": "1a14569bdc22983489a37bb81ed420c6230f43e84548d0ec0d4a3e9687861955"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,ukrainian,latam",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "17080069",
+                "timeupdated": "1738227645"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
