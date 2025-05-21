@@ -1,0 +1,46 @@
+{
+    "appid": "844610",
+    "type": "Game",
+    "name": "Hentai PuZZles",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29060420",
+    "update_time": "2025-05-19 19:12:34",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "844611": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6249859968477494391",
+                    "size": "259860786",
+                    "download": "81866544"
+                }
+            },
+            "decryptionkey": "1aafc447e9d009b23f4092bcee2250e0d95a02343296a203ba7233433553fb05"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "2724893",
+                "timeupdated": "1524767632"
+            }
+        }
+    }
+}
