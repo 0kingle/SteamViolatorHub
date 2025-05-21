@@ -1,0 +1,86 @@
+{
+    "appid": "1695260",
+    "type": "Game",
+    "name": "Timothy and the Tower of Mu",
+    "schinese_name": "第莫西和姆之塔",
+    "isfreeapp": "0",
+    "change_number": "28989187",
+    "update_time": "2025-05-15 04:33:15",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1695261": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8203536786153275266",
+                    "size": "320590703",
+                    "download": "267562272"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1695262": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5345751041928131546",
+                    "size": "320802731",
+                    "download": "267773296"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1695263": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2045055114571966740",
+                    "size": "389682358",
+                    "download": "300838480"
+                }
+            },
+            "decryptionkey": "5c0ca7c7186c6b4332a56a666bc999323718a5b107a56b716469af2c2ec61e6a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10251497",
+                "timeupdated": "1672798690"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
