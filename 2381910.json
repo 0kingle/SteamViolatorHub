@@ -1,0 +1,41 @@
+{
+    "appid": "2381910",
+    "type": "Demo",
+    "name": "车辆对战僵尸 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29049875",
+    "update_time": "2025-05-18 23:34:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2381911": {
+            "manifests": {
+                "public": {
+                    "gid": "7100320770522284145",
+                    "size": "2304414659",
+                    "download": "2117466880"
+                }
+            },
+            "decryptionkey": "95c2b084e8fdb8455771ed260105a3d9dde61ed05adda7fcb86400f499d608f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509199",
+                "timeupdated": "1747582462"
+            }
+        }
+    }
+}
