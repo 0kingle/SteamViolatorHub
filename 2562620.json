@@ -1,0 +1,43 @@
+{
+    "appid": "2562620",
+    "type": "Game",
+    "name": "The Palace on the Hill",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28747751",
+    "update_time": "2025-04-30 19:30:23",
+    "depot": {
+        "2562621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "994530736505140801",
+                    "size": "1053546455",
+                    "download": "301480480"
+                }
+            },
+            "decryptionkey": "d82520e73aff6538a7d859c9a805a5635b13ad866ef17cec87312827b4f38c65"
+        },
+        "2562622": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4279917651718370421",
+                    "size": "1189500983",
+                    "download": "409457504"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18294886",
+                "timeupdated": "1746012614"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
