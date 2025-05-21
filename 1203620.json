@@ -1,0 +1,36 @@
+{
+    "appid": "1203620",
+    "type": "Game",
+    "name": "Enshrouded",
+    "schinese_name": "雾锁王国 (Enshrouded)",
+    "isfreeapp": "0",
+    "change_number": "29103677",
+    "update_time": "2025-05-21 20:28:56",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,turkish,brazilian,ukrainian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1203621": {
+            "manifests": {
+                "public": {
+                    "gid": "4369455460968405121",
+                    "size": "37795461544",
+                    "download": "18465886352"
+                }
+            },
+            "decryptionkey": "7f96699c353588876112960fa1128ff856383861b188907320369a798ecb07bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18475194",
+                "timeupdated": "1747311805"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
