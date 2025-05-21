@@ -1,0 +1,41 @@
+{
+    "appid": "3541480",
+    "type": "Game",
+    "name": "MIRROR MIRROR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090217",
+    "update_time": "2025-05-21 04:28:11",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3541481": {
+            "manifests": {
+                "public": {
+                    "gid": "3850656274838013076",
+                    "size": "1729397060",
+                    "download": "1424512816"
+                }
+            },
+            "decryptionkey": "3c19cbae470f0dbcfe52285502eff136245f5c336eb6324ae64386b1e3fe04a3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18539494",
+                "timeupdated": "1747772886"
+            }
+        }
+    }
+}
