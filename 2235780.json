@@ -1,0 +1,27 @@
+{
+    "appid": "2235780",
+    "type": "Game",
+    "name": "Hidden  Post-Apocalyptic 3  Top-Down 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013473",
+    "update_time": "2025-05-16 07:50:21",
+    "depot": {
+        "2235781": {
+            "manifests": {
+                "public": {
+                    "gid": "6366514512069855083",
+                    "size": "1321722853",
+                    "download": "108437792"
+                }
+            },
+            "decryptionkey": "06956617434f4eb12de9e58bd0a58b62b22ba44886d226d2bf1019ec7e3db92d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10062601",
+                "timeupdated": "1670107667"
+            }
+        }
+    }
+}
