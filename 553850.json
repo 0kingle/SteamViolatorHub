@@ -1,0 +1,199 @@
+{
+    "appid": "553850",
+    "type": "Game",
+    "name": "HELLDIVERS™ 2",
+    "schinese_name": "绝地潜兵2",
+    "isfreeapp": "0",
+    "change_number": "29102263",
+    "update_time": "2025-05-21 19:24:07",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,portuguese,polish,dutch,brazilian,latam",
+        "hasdepotsindlc": "0",
+        "553851": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "869660762880447473",
+                    "size": "88508447",
+                    "download": "73376992"
+                }
+            },
+            "decryptionkey": "6b40282b237b0cafc4d89014b5ec5f925f9aaa02f2d37f4d956acffdde2e0219"
+        },
+        "553852": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "dlcappid": "1999180",
+            "manifests": {
+                "public": {
+                    "gid": "4974142690284661071",
+                    "size": "1923954942",
+                    "download": "641797664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "553853": {
+            "manifests": {
+                "public": {
+                    "gid": "1999227380590496649",
+                    "size": "115852008732",
+                    "download": "29205530400"
+                }
+            },
+            "decryptionkey": "5422d63966f1d6febad8f7e2d1bc3a1640844ae17bae7fc242dc6c1f97b99f3a"
+        },
+        "553854": {
+            "manifests": {
+                "public": {
+                    "gid": "4435978112657871960",
+                    "size": "438953979",
+                    "download": "404523392"
+                }
+            },
+            "decryptionkey": "43e8d494c23afa2317d5826d1ee2d87cf5657f1ce353df53190884b375a35ddd"
+        },
+        "2506220": {
+            "dlcappid": "2506220",
+            "manifests": {
+                "public": {
+                    "gid": "8278493012317888343",
+                    "size": "445790578",
+                    "download": "410648000"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506220"
+            },
+            "decryptionkey": "7ad81ca560ac5347639df776f2ac89be13e39105f7413a162fc1fd87ba07daf7"
+        },
+        "2506210": {
+            "dlcappid": "2506210",
+            "manifests": {
+                "public": {
+                    "gid": "690766039042664500",
+                    "size": "440672531",
+                    "download": "405918144"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506210"
+            },
+            "decryptionkey": "05abf775a5f6aa84691b609ba4f72b7145a525d3ad96f40a370fedb0ca56e18e"
+        },
+        "2506280": {
+            "dlcappid": "2506280",
+            "manifests": {
+                "public": {
+                    "gid": "696230320604246144",
+                    "size": "439453937",
+                    "download": "404672592"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506280"
+            },
+            "decryptionkey": "15458a3b5a528df081b8c9c7702c90c4ccdcad2901e001c4adf7dae4c7229c4d"
+        },
+        "2506270": {
+            "dlcappid": "2506270",
+            "manifests": {
+                "public": {
+                    "gid": "1007516636046203266",
+                    "size": "431549558",
+                    "download": "397125024"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506270"
+            },
+            "decryptionkey": "f80e19955c82b4f235d52f44da578439b0f93d36f489db81e9fcc8b88dd56fab"
+        },
+        "2506250": {
+            "dlcappid": "2506250",
+            "manifests": {
+                "public": {
+                    "gid": "9140998648585799630",
+                    "size": "438496573",
+                    "download": "404480352"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506250"
+            },
+            "decryptionkey": "cdea2884539afaec7b221d45ee7692d076b02fd50763c20a094d58c05cba9574"
+        },
+        "2506260": {
+            "dlcappid": "2506260",
+            "manifests": {
+                "public": {
+                    "gid": "4934573862458910197",
+                    "size": "441453827",
+                    "download": "406350608"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506260"
+            },
+            "decryptionkey": "85c9cfc1c96f01987c5bbf0b9be3cb58b760e512494cd167600197309d544526"
+        },
+        "2506240": {
+            "dlcappid": "2506240",
+            "manifests": {
+                "public": {
+                    "gid": "149177114872034413",
+                    "size": "453592163",
+                    "download": "418185120"
+                }
+            },
+            "config": {
+                "optionaldlc": "2506240"
+            },
+            "decryptionkey": "55e8d00f742f81908503ca513f319ee3232b0d879972ea6c37106b59d72e9228"
+        },
+        "1999180": {
+            "dlcappid": "1999180"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18495759",
+                "timeupdated": "1747731610"
+            }
+        },
+        "privatebranches": "1",
+        "appmanagesdlc": "1"
+    }
+}
