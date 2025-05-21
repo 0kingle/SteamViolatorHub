@@ -1,0 +1,73 @@
+{
+    "appid": "1419850",
+    "type": "Game",
+    "name": "Saleblazers",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29104109",
+    "update_time": "2025-05-21 20:51:25",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1419851": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8133659446332323464",
+                    "size": "6264278066",
+                    "download": "2045739568"
+                },
+                "experimental": {
+                    "gid": "8133659446332323464",
+                    "size": "6264278066",
+                    "download": "2045739568"
+                }
+            },
+            "decryptionkey": "0a55957bc94d9449b32b00478cc33206b02bea57467d367badd10e05b4108a44"
+        },
+        "1419852": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9128327274797177749",
+                    "size": "6440020329",
+                    "download": "2070865008"
+                },
+                "experimental": {
+                    "gid": "9128327274797177749",
+                    "size": "6440020329",
+                    "download": "2070865008"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,turkish,brazilian,greek,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "18500780",
+                "timeupdated": "1747678698"
+            },
+            "experimental": {
+                "buildid": "18500780",
+                "description": "Access an experimental build for testing.",
+                "timeupdated": "1747672123"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
