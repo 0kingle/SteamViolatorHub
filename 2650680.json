@@ -1,0 +1,27 @@
+{
+    "appid": "2650680",
+    "type": "Game",
+    "name": "Dense forest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013706",
+    "update_time": "2025-05-16 08:06:46",
+    "depot": {
+        "2650681": {
+            "manifests": {
+                "public": {
+                    "gid": "6223552975356746331",
+                    "size": "86957573",
+                    "download": "45811568"
+                }
+            },
+            "decryptionkey": "970cc51783aa0c26aa0b2d90cb851f22738130f61ff7cf72b98bed1c1c4b86a9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12984176",
+                "timeupdated": "1702826190"
+            }
+        }
+    }
+}
