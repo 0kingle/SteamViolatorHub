@@ -1,0 +1,41 @@
+{
+    "appid": "2884190",
+    "type": "Game",
+    "name": "Fight School Simulator",
+    "schinese_name": "武馆模拟器",
+    "isfreeapp": "0",
+    "change_number": "29006610",
+    "update_time": "2025-05-16 00:12:34",
+    "depot": {
+        "2884191": {
+            "manifests": {
+                "public": {
+                    "gid": "2707793698378326670",
+                    "size": "4813910732",
+                    "download": "4148773056"
+                }
+            },
+            "decryptionkey": "8e1f1e373e6f08062fe37eec26ef0bf7ce25b0adfb9e0c7b8ad023698b6aabe7"
+        },
+        "2884192": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6447706703040492159",
+                    "size": "10367766768",
+                    "download": "3308210368"
+                }
+            }
+        },
+        "baselanguages": "english,german,italian,spanish,schinese,russian,japanese,portuguese,turkish",
+        "branches": {
+            "public": {
+                "buildid": "18478880",
+                "timeupdated": "1747325476"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
