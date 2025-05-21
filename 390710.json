@@ -1,0 +1,41 @@
+{
+    "appid": "390710",
+    "type": "Game",
+    "name": "Acceleration of SUGURI 2",
+    "schinese_name": "疾旋战姬 极速对决2",
+    "isfreeapp": "0",
+    "change_number": "28972765",
+    "update_time": "2025-05-14 11:37:53",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "390711": {
+            "manifests": {
+                "public": {
+                    "gid": "7951167515775033191",
+                    "size": "1162025264",
+                    "download": "1096327392"
+                }
+            },
+            "decryptionkey": "719119317690283c0722310941f213e99de10833bf0dedbe0ebb0880d36b474c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18114299",
+                "timeupdated": "1744724729"
+            }
+        }
+    }
+}
