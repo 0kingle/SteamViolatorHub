@@ -1,0 +1,28 @@
+{
+    "appid": "1418680",
+    "type": "Game",
+    "name": "Pretty Girls Mahjong Solitaire [BLUE]",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:33",
+    "depot": {
+        "1418681": {
+            "manifests": {
+                "public": {
+                    "gid": "1531233228967017569",
+                    "size": "222469133",
+                    "download": "75898432"
+                }
+            },
+            "decryptionkey": "7113e18737f49ed8bae044a7f35224043f5ab6234b651e658e0b799435d96eb9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5641690",
+                "timeupdated": "1601961493"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
