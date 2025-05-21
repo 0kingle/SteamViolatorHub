@@ -1,0 +1,46 @@
+{
+    "appid": "653060",
+    "type": "Game",
+    "name": "The Siege and the Sandfox",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103436",
+    "update_time": "2025-05-21 20:17:09",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "653061": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1363473688406424558",
+                    "size": "743795266",
+                    "download": "477692928"
+                }
+            },
+            "decryptionkey": "8e54ddf08593903724a043d6ee647ce0ca2a908f1fdfc969aa943260dcae0e66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18526304",
+                "timeupdated": "1747752410"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
