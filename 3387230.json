@@ -1,0 +1,41 @@
+{
+    "appid": "3387230",
+    "type": "Game",
+    "name": "MyPawnShop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29058968",
+    "update_time": "2025-05-19 17:42:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3387231": {
+            "manifests": {
+                "public": {
+                    "gid": "1414352571288504959",
+                    "size": "7593436482",
+                    "download": "7156048592"
+                }
+            },
+            "decryptionkey": "f5ce838deb061eda3627d796f26c5ed03e7a8dca0b821865eb51006c55e29321"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18515292",
+                "timeupdated": "1747645275"
+            }
+        }
+    }
+}
