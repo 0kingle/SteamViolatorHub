@@ -1,0 +1,44 @@
+{
+    "appid": "1309000",
+    "type": "Game",
+    "name": "Escape Dungeon 2",
+    "schinese_name": "地牢脱出2-银月苍狼 苏拉尔",
+    "isfreeapp": "0",
+    "change_number": "28986082",
+    "update_time": "2025-05-15 01:13:16",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1309002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "275560931328835726",
+                    "size": "1741273889",
+                    "download": "403880752"
+                }
+            },
+            "decryptionkey": "9ab5101386d9b48f2408837481455885a9d1ec8c7fd240350f34ac3f4b3e8c8f"
+        },
+        "1309003": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8099833355429071568",
+                    "size": "1765620218",
+                    "download": "411993712"
+                }
+            },
+            "decryptionkey": "75d63b755096ea98d0d4322ec4797bbe6da142b52fcb713de69b0199efb03f43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18369285",
+                "timeupdated": "1746596529"
+            }
+        }
+    }
+}
