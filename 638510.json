@@ -1,0 +1,97 @@
+{
+    "appid": "638510",
+    "type": "Game",
+    "name": "dotAGE",
+    "schinese_name": "点老救世记 - dotAGE",
+    "isfreeapp": "0",
+    "change_number": "29102754",
+    "update_time": "2025-05-21 19:40:04",
+    "depot": {
+        "baselanguages": "english,italian",
+        "638511": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2841280664207174612",
+                    "size": "568942697",
+                    "download": "269542192"
+                },
+                "experimental": {
+                    "gid": "7712068291259788922",
+                    "size": "516283390",
+                    "download": "272229936"
+                },
+                "v_1_5_0": {
+                    "gid": "6213256611522864034",
+                    "size": "416721780",
+                    "download": "144187568"
+                }
+            },
+            "decryptionkey": "43a0d933728c94f2a389e62a5437babad1243459004f122547c8531220af92b9"
+        },
+        "638512": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4338068972211522806",
+                    "size": "645411271",
+                    "download": "286727872"
+                },
+                "experimental": {
+                    "gid": "2798956610912012409",
+                    "size": "592767705",
+                    "download": "289434160"
+                },
+                "v_1_5_0": {
+                    "gid": "1304934017528750980",
+                    "size": "493198681",
+                    "download": "161330912"
+                }
+            }
+        },
+        "638513": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8635019693160294620",
+                    "size": "635154550",
+                    "download": "276561728"
+                },
+                "experimental": {
+                    "gid": "7738479463369087664",
+                    "size": "582494275",
+                    "download": "279275632"
+                },
+                "v_1_5_0": {
+                    "gid": "2400925152527107543",
+                    "size": "482796981",
+                    "download": "151092640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18196061",
+                "timeupdated": "1745340218"
+            },
+            "experimental": {
+                "buildid": "18536536",
+                "description": "Updated faster, but may be more unstable",
+                "timeupdated": "1747757931"
+            },
+            "v_1_5_0": {
+                "buildid": "17056040",
+                "description": "Fallback version 1.5.0",
+                "timeupdated": "1742540236"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
