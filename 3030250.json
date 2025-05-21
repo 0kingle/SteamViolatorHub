@@ -1,0 +1,42 @@
+{
+    "appid": "3030250",
+    "type": "Game",
+    "name": "Aunt Fatima - خالة فاطمة",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29087285",
+    "update_time": "2025-05-21 01:21:06",
+    "depot": {
+        "baselanguages": "english,arabic",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3030251": {
+            "manifests": {
+                "public": {
+                    "gid": "7422848620598989437",
+                    "size": "4699627864",
+                    "download": "4385863440"
+                }
+            },
+            "decryptionkey": "205f918c809a1f6cc90d2dfb900cb9b495ed6f486244cadfbf2d2ff4b62d9de9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18537100",
+                "timeupdated": "1747761661"
+            }
+        }
+    }
+}
