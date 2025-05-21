@@ -1,0 +1,44 @@
+{
+    "appid": "2254890",
+    "type": "Game",
+    "name": "The Killing Antidote",
+    "schinese_name": "致命解药",
+    "isfreeapp": "0",
+    "change_number": "29102309",
+    "update_time": "2025-05-21 19:38:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2254891": {
+            "manifests": {
+                "public": {
+                    "gid": "7910580738070250088",
+                    "size": "4484420724",
+                    "download": "4319859424"
+                }
+            },
+            "decryptionkey": "729988b69fdd52990bafdf7bb4272df39dd5d2421cacb3e3ed9fe2d82354288f"
+        },
+        "baselanguages": "english,koreana,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "workshopdepot": "2254890",
+        "branches": {
+            "public": {
+                "buildid": "18346893",
+                "timeupdated": "1746453078"
+            }
+        },
+        "workshopdepotdecryptionkey": "2b61b633ed06c177f6c8ddff8eb747ace8180cbf013f81c0d854add7bcceb50b"
+    }
+}
