@@ -1,0 +1,42 @@
+{
+    "appid": "3232970",
+    "type": "Demo",
+    "name": "Deadzone Rogue Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28768256",
+    "update_time": "2025-05-01 20:19:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3232971": {
+            "manifests": {
+                "public": {
+                    "gid": "7258296180177263188",
+                    "size": "6697098012",
+                    "download": "6299931376"
+                }
+            },
+            "decryptionkey": "fed37be9c33e1057be43a1028c1166a19be9606bfbe17731525b040dd636960c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18259615",
+                "timeupdated": "1745863965"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
