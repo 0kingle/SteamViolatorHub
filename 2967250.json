@@ -1,0 +1,42 @@
+{
+    "appid": "2967250",
+    "type": "Demo",
+    "name": "Parasomnia Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28551413",
+    "update_time": "2025-04-18 23:05:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2967251": {
+            "manifests": {
+                "public": {
+                    "gid": "3714833864128780867",
+                    "size": "9608761844",
+                    "download": "9208991680"
+                }
+            },
+            "decryptionkey": "a5317c114b6518f9b55de1abdef337503b2869ab25e665e55c1a187c55ff01d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18138031",
+                "timeupdated": "1744988708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
