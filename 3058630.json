@@ -1,0 +1,42 @@
+{
+    "appid": "3058630",
+    "type": "Game",
+    "name": "Assetto Corsa EVO",
+    "schinese_name": "《神力科莎EVO》  Assetto Corsa EVO",
+    "isfreeapp": "0",
+    "change_number": "29084171",
+    "update_time": "2025-05-20 22:40:45",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3058631": {
+            "manifests": {
+                "public": {
+                    "gid": "9101071881421078827",
+                    "size": "48870350782",
+                    "download": "17077390320"
+                }
+            },
+            "decryptionkey": "a1cad1917f05e96692b066b5817fe026027823640d231576885a1f0dfe554a6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18514867",
+                "timeupdated": "1747746772"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
