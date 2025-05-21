@@ -1,0 +1,43 @@
+{
+    "appid": "2566900",
+    "type": "Demo",
+    "name": "灵拳 Spirit X Strike Demo",
+    "schinese_name": "灵拳 Spirit X Strike Demo",
+    "isfreeapp": "0",
+    "change_number": "28684583",
+    "update_time": "2025-04-27 00:54:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2566901": {
+            "manifests": {
+                "public": {
+                    "gid": "3283200769714714048",
+                    "size": "2718356331",
+                    "download": "2518646704"
+                }
+            },
+            "decryptionkey": "bf52cdeb5cb5806caa2ca34942767f7cf5bdcb001018e75a3f5009626c35825a"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "16415196",
+                "timeupdated": "1731664726"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
