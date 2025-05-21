@@ -1,0 +1,126 @@
+{
+    "appid": "977950",
+    "type": "Game",
+    "name": "A Dance of Fire and Ice",
+    "schinese_name": "冰与火之舞 A Dance of Fire and Ice",
+    "isfreeapp": "0",
+    "change_number": "29089398",
+    "update_time": "2025-05-21 03:33:03",
+    "depot": {
+        "baselanguages": "english",
+        "workshopdepot": "977950",
+        "hasdepotsindlc": "1",
+        "977951": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6859266271102102820",
+                    "size": "1961957818",
+                    "download": "444759872"
+                },
+                "beta": {
+                    "gid": "435622529628720582",
+                    "size": "1961960842",
+                    "download": "444761136"
+                },
+                "older": {
+                    "gid": "7584056881578179118",
+                    "size": "1529712690",
+                    "download": "416126256"
+                }
+            },
+            "decryptionkey": "5e954d77ef1866e557c00b742437d480a7c03c2303b6a96268fbd1a55014839e"
+        },
+        "977953": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4477163158395276796",
+                    "size": "1975096876",
+                    "download": "447719040"
+                },
+                "beta": {
+                    "gid": "8744605413612828887",
+                    "size": "1975099900",
+                    "download": "447719536"
+                },
+                "older": {
+                    "gid": "6940354367313058113",
+                    "size": "1542851748",
+                    "download": "419085232"
+                }
+            },
+            "decryptionkey": "cff06fc131de80d2131b228a0ec443303aa7b4fa8bf9b71b02ce9faa59f005c2"
+        },
+        "977952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1673557748231453356",
+                    "size": "1958400277",
+                    "download": "442419728"
+                },
+                "beta": {
+                    "gid": "4366271645878660738",
+                    "size": "1958403301",
+                    "download": "442421712"
+                },
+                "older": {
+                    "gid": "9180250269545158340",
+                    "size": "1526155153",
+                    "download": "413777440"
+                }
+            },
+            "decryptionkey": "7161eb622ca30debeb61bc87ecc80dd9a4cf78b7ef999fbc676710acd080565e"
+        },
+        "977954": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "376399736570655445",
+                    "size": "1979798210",
+                    "download": "436401184"
+                },
+                "beta": {
+                    "gid": "7012783009277833044",
+                    "size": "1979800134",
+                    "download": "436403152"
+                },
+                "older": {
+                    "gid": "5361295792305082488",
+                    "size": "1574829541",
+                    "download": "416644016"
+                }
+            },
+            "decryptionkey": "85480edfffe7849f3714592a16a8fb97e94bb7fdc0773a9d9db0f80a40890bce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18538856",
+                "timeupdated": "1747769577"
+            },
+            "beta": {
+                "buildid": "18538806",
+                "description": "Public beta",
+                "timeupdated": "1747769348"
+            },
+            "older": {
+                "buildid": "17372902",
+                "description": "archive of previous default build",
+                "timeupdated": "1743431683"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "900c284c78f11289033d308ddc33fcb65659b670bd2f3684b07c15180e02e971"
+    }
+}
