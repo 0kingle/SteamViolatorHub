@@ -1,0 +1,97 @@
+{
+    "appid": "1604030",
+    "type": "Game",
+    "name": "V Rising",
+    "schinese_name": "夜族崛起",
+    "isfreeapp": "0",
+    "change_number": "29097489",
+    "update_time": "2025-05-21 19:26:59",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,polish,hungarian,turkish,brazilian,ukrainian,vietnamese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1604031": {
+            "manifests": {
+                "public": {
+                    "gid": "1076633557271444122",
+                    "size": "9879052871",
+                    "download": "4717803344"
+                },
+                "0.5.43954_hotfix13": {
+                    "gid": "6194439063265605533",
+                    "size": "6727320665",
+                    "download": "2926222448"
+                },
+                "0.6.5.57575_hotfix6": {
+                    "gid": "6891775664759788354",
+                    "size": "8868388824",
+                    "download": "3948758016"
+                },
+                "legacy-0.5.x": {
+                    "gid": "8014165627894424827",
+                    "size": "6755176961",
+                    "download": "2945828704"
+                },
+                "legacy-0.6.x": {
+                    "gid": "1645242801883488504",
+                    "size": "8764065139",
+                    "download": "3839407408"
+                },
+                "legacy-1.0.x": {
+                    "gid": "5697875840152111543",
+                    "size": "8852295269",
+                    "download": "4312268992"
+                }
+            },
+            "decryptionkey": "e51d4f407e118a5477cab33cf9cd3340057f5aa111772951f47d76b05b594606"
+        },
+        "1604032": {
+            "manifests": {
+                "public": {
+                    "gid": "1496685958615597028",
+                    "size": "8855686465",
+                    "download": "4320413904"
+                }
+            },
+            "decryptionkey": "05dc87d45e23f53bfdc06512480bf3a8d84941a929034772fba892bf252d9587"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18492291",
+                "timeupdated": "1747404606"
+            },
+            "0.5.43954_hotfix13": {
+                "buildid": "9606444",
+                "description": "Client version: 0.5.43954",
+                "timeupdated": "1666712744"
+            },
+            "0.6.5.57575_hotfix6": {
+                "buildid": "11360518",
+                "description": "Client version: 0.6.5.57575",
+                "timeupdated": "1686742694"
+            },
+            "legacy-0.5.x": {
+                "buildid": "11162616",
+                "description": "Initial Early Access version. Originally released: 2022-05-17",
+                "timeupdated": "1684232262"
+            },
+            "legacy-0.6.x": {
+                "buildid": "14277210",
+                "description": "Gloomrot version - Originally released: 2023-05-17",
+                "timeupdated": "1714995880"
+            },
+            "legacy-1.0.x": {
+                "buildid": "16549266",
+                "description": "Release (1.0) version - Originally released: 2024-05-08",
+                "timeupdated": "1745835905"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
