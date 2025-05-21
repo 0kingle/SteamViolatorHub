@@ -1,0 +1,46 @@
+{
+    "appid": "3363020",
+    "type": "Demo",
+    "name": "Hotel 188 Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:23:58",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,spanish,schinese,russian,japanese,latam",
+        "3363021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8037003053684061673",
+                    "size": "1279189963",
+                    "download": "1008856576"
+                }
+            },
+            "decryptionkey": "e5e4ebed45f90789d726b7feeb0fa5d0c812ec15788e71d01508f12a2e8b3444"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18527983",
+                "timeupdated": "1747713796"
+            }
+        }
+    }
+}
