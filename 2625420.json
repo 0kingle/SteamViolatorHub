@@ -1,0 +1,46 @@
+{
+    "appid": "2625420",
+    "type": "Game",
+    "name": "Drive Beyond Horizons",
+    "schinese_name": "驾驶地平线",
+    "isfreeapp": "0",
+    "change_number": "29102309",
+    "update_time": "2025-05-21 19:35:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2625421": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1511074590332933669",
+                    "size": "8998163224",
+                    "download": "8747492448"
+                }
+            },
+            "decryptionkey": "e6632a8ac0813239fe1784858878c1dc48c48075d55d2b4045f529ba7ba3a01c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18447039",
+                "timeupdated": "1747425903"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
