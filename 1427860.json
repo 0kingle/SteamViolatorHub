@@ -1,0 +1,102 @@
+{
+    "appid": "1427860",
+    "type": "Game",
+    "name": "Paradise Lust",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103364",
+    "update_time": "2025-05-21 20:13:16",
+    "depot": {
+        "1427861": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3599546115078111179",
+                    "size": "2627759648",
+                    "download": "1883296688"
+                },
+                "beta": {
+                    "gid": "1914323157540856102",
+                    "size": "2670116113",
+                    "download": "1915947536"
+                }
+            },
+            "decryptionkey": "ab15aa044941148b4c543afffb280c5e5c41a971f14a4c3408800acf60ef3794"
+        },
+        "1427862": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6926706242128337894",
+                    "size": "2619224565",
+                    "download": "1880674384"
+                },
+                "beta": {
+                    "gid": "241487155885498129",
+                    "size": "2661579519",
+                    "download": "1913327264"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1427863": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8519430221499459084",
+                    "size": "2651412788",
+                    "download": "1890230320"
+                },
+                "beta": {
+                    "gid": "5440922891902779430",
+                    "size": "2693769075",
+                    "download": "1922886608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1427864": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2290354953317250666",
+                    "size": "2628240727",
+                    "download": "1881587744"
+                },
+                "beta": {
+                    "gid": "4506503950454135877",
+                    "size": "2670596991",
+                    "download": "1914246608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "17982888",
+                "timeupdated": "1743761797"
+            },
+            "beta": {
+                "buildid": "18549097",
+                "timeupdated": "1747829586"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
