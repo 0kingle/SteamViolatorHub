@@ -1,0 +1,67 @@
+{
+    "appid": "1196470",
+    "type": "Game",
+    "name": "WE ARE FOOTBALL",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984968",
+    "update_time": "2025-05-15 00:13:28",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,polish",
+        "workshopdepot": "1196470",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1196471": {
+            "manifests": {
+                "public": {
+                    "gid": "1378042105128078839",
+                    "size": "1756708370",
+                    "download": "1653931152"
+                }
+            },
+            "decryptionkey": "9e91c98c4df72e68c627ed6ae528c92d1ae4dc6ec581610e984508c09e29c304"
+        },
+        "1491330": {
+            "dlcappid": "1491330",
+            "manifests": {
+                "public": {
+                    "gid": "5369765742052125078",
+                    "size": "922498772",
+                    "download": "817395024"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2081690": {
+            "dlcappid": "2081690",
+            "manifests": {
+                "public": {
+                    "gid": "735564660650644504",
+                    "size": "1762574680",
+                    "download": "1728935520"
+                }
+            },
+            "decryptionkey": "49fb2b4d5d8ca9d763370d1740dbb0fa7e1906e2c735a02731eb91808af61efd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11630059",
+                "timeupdated": "1688984669"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "9359b1f78f40a9fe2b885c8e738ea55a0f9850e6580055c75ab6019ea47cc2bf"
+    }
+}
