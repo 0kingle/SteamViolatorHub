@@ -1,0 +1,67 @@
+{
+    "appid": "573090",
+    "type": "Game",
+    "name": "Stormworks: Build and Rescue",
+    "schinese_name": "风暴工程：建造和救援中文版",
+    "isfreeapp": "0",
+    "change_number": "29065581",
+    "update_time": "2025-05-20 04:31:08",
+    "depot": {
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "573090",
+        "573091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "231280455355437700",
+                    "size": "2264269362",
+                    "download": "391666832"
+                }
+            },
+            "decryptionkey": "49f609573f8fc3923ec4eab2ba459bdea77b7a906e9054549c102e4659fcfff7"
+        },
+        "573092": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6123300803460864554",
+                    "size": "1330229022",
+                    "download": "279221952"
+                }
+            },
+            "decryptionkey": "871725b4b4314590b50465afe4c8ebd3cea63a704afce1ae1f369edecb0be7f5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18373635",
+                "timeupdated": "1746631957"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "1385435ae44e48ac0fbea684d525581b864dd6e984b1469e68e029f37e820052"
+    }
+}
