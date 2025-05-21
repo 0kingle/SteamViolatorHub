@@ -1,0 +1,30 @@
+{
+    "appid": "1671480",
+    "type": "Game",
+    "name": "ABRISS",
+    "schinese_name": "一触即发",
+    "isfreeapp": "0",
+    "change_number": "28918208",
+    "update_time": "2025-05-10 23:33:08",
+    "depot": {
+        "1671481": {
+            "manifests": {
+                "public": {
+                    "gid": "2829148869055917374",
+                    "size": "2015674851",
+                    "download": "1679979568"
+                }
+            },
+            "decryptionkey": "671a737996ab5fae24142fb3ef2f91ce2c41926f43aeb6baf6899b434274f86b"
+        },
+        "workshopdepot": "1671480",
+        "branches": {
+            "public": {
+                "buildid": "12106621",
+                "timeupdated": "1694693644"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "578b658a2cdaf7944d4948ae311b1ad613f02ac866991c0361635d9db6e731b6"
+    }
+}
