@@ -1,0 +1,47 @@
+{
+    "appid": "2297650",
+    "type": "Game",
+    "name": "Re:Fresh",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010510",
+    "update_time": "2025-05-16 03:54:47",
+    "depot": {
+        "baselanguages": "english",
+        "2297651": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "267511735296823618",
+                    "size": "2247766201",
+                    "download": "661175504"
+                }
+            },
+            "decryptionkey": "233403bcb6cc9aa588bf9ddacf065a6ca45691925bc63bfae448709d5f9e0376"
+        },
+        "2297652": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2459685378143270399",
+                    "size": "2247766201",
+                    "download": "661289056"
+                }
+            },
+            "decryptionkey": "9d79019a23ad49822e088b6c222711245ada856252f60f16f2c243c28354af79"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11257301",
+                "timeupdated": "1700628485"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
