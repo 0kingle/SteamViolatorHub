@@ -1,0 +1,31 @@
+{
+    "appid": "1837750",
+    "type": "Game",
+    "name": "Demeo - PC Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:17",
+    "depot": {
+        "1837751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6004730128525944284",
+                    "size": "5545201875",
+                    "download": "3327120272"
+                }
+            },
+            "decryptionkey": "05c1e15754e2b9466d8fb4b37078ce4c1a8585297862ae36585baf5a40ac24cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18441841",
+                "timeupdated": "1747207659"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
