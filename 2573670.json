@@ -1,0 +1,29 @@
+{
+    "appid": "2573670",
+    "type": "Game",
+    "name": "Fragment: A Story in Growing",
+    "schinese_name": "片语：蔚然生长",
+    "isfreeapp": "0",
+    "change_number": "28406778",
+    "update_time": "2025-04-10 20:10:54",
+    "depot": {
+        "2573671": {
+            "manifests": {
+                "public": {
+                    "gid": "3064925160037695882",
+                    "size": "1012240441",
+                    "download": "846663152"
+                }
+            },
+            "decryptionkey": "2fbcb4d7755abf264fc38940404a22496aca025fccc5a653252342717998a771"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "17749434",
+                "timeupdated": "1742222532"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
