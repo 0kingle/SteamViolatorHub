@@ -1,0 +1,179 @@
+{
+    "appid": "953690",
+    "type": "Game",
+    "name": "Doom & Destiny Worlds",
+    "schinese_name": "天命与厄运：世界",
+    "isfreeapp": "0",
+    "change_number": "28981182",
+    "update_time": "2025-05-14 22:49:50",
+    "depot": {
+        "workshopdepot": "953690",
+        "953691": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8932596536969859753",
+                    "size": "1235635604",
+                    "download": "257429488"
+                },
+                "16183": {
+                    "gid": "2994680138465990095",
+                    "size": "1098370963",
+                    "download": "214829312"
+                },
+                "16336": {
+                    "gid": "2629515110756670611",
+                    "size": "1124597497",
+                    "download": "216830688"
+                },
+                "16782": {
+                    "gid": "6940654027862987839",
+                    "size": "1145814193",
+                    "download": "220383168"
+                },
+                "develop": {
+                    "gid": "8932596536969859753",
+                    "size": "1235635604",
+                    "download": "257429488"
+                },
+                "oldiest": {
+                    "gid": "6786562474658997442",
+                    "size": "697157106",
+                    "download": "185137728"
+                },
+                "previous_stable": {
+                    "gid": "2341617257087095213",
+                    "size": "1235648829",
+                    "download": "257447152"
+                }
+            },
+            "decryptionkey": "ac6da62b9748eb6cf1bddaf06c0986c44a4f9cfc529c8d3b6a3a018b26746254"
+        },
+        "1370280": {
+            "dlcappid": "1370280",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "208206031239815537",
+                    "size": "36",
+                    "download": "80"
+                },
+                "16183": {
+                    "gid": "208206031239815537",
+                    "size": "36",
+                    "download": "80"
+                },
+                "16336": {
+                    "gid": "208206031239815537",
+                    "size": "36",
+                    "download": "80"
+                },
+                "16782": {
+                    "gid": "208206031239815537",
+                    "size": "36",
+                    "download": "80"
+                },
+                "develop": {
+                    "gid": "208206031239815537",
+                    "size": "36",
+                    "download": "80"
+                },
+                "oldiest": {
+                    "gid": "6959354748108655695",
+                    "size": "6",
+                    "download": "64"
+                },
+                "previous_stable": {
+                    "gid": "208206031239815537",
+                    "size": "36",
+                    "download": "80"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1422060": {
+            "dlcappid": "1422060",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6933492728155114390",
+                    "size": "52468848",
+                    "download": "52137472"
+                },
+                "16183": {
+                    "gid": "6933492728155114390",
+                    "size": "52468848",
+                    "download": "52137472"
+                },
+                "16336": {
+                    "gid": "6933492728155114390",
+                    "size": "52468848",
+                    "download": "52137472"
+                },
+                "16782": {
+                    "gid": "6933492728155114390",
+                    "size": "52468848",
+                    "download": "52137472"
+                },
+                "develop": {
+                    "gid": "6933492728155114390",
+                    "size": "52468848",
+                    "download": "52137472"
+                },
+                "oldiest": {
+                    "gid": "6829150181256563406",
+                    "size": "70032886",
+                    "download": "70078512"
+                },
+                "previous_stable": {
+                    "gid": "6933492728155114390",
+                    "size": "52468848",
+                    "download": "52137472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "12057642",
+                "timeupdated": "1693311065"
+            },
+            "16183": {
+                "buildid": "9305127",
+                "description": "V 16183",
+                "timeupdated": "1666807401"
+            },
+            "16336": {
+                "buildid": "9460715",
+                "description": "V 16336",
+                "timeupdated": "1666807429"
+            },
+            "16782": {
+                "buildid": "9804853",
+                "description": "V 16782",
+                "timeupdated": "1667550466"
+            },
+            "develop": {
+                "buildid": "12057642",
+                "description": "This is the Main Developer Channel Use for Beta Releases",
+                "timeupdated": "1693302769"
+            },
+            "oldiest": {
+                "buildid": "5558080",
+                "timeupdated": "1600469690"
+            },
+            "previous_stable": {
+                "buildid": "11578592",
+                "description": "Roll back to this version if you have new problems on the default branch",
+                "timeupdated": "1693311054"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
