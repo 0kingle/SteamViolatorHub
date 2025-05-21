@@ -1,0 +1,31 @@
+{
+    "appid": "451340",
+    "type": "Game",
+    "name": "Gold Mining Simulator",
+    "schinese_name": "淘金热",
+    "isfreeapp": "0",
+    "change_number": "29099148",
+    "update_time": "2025-05-21 19:31:28",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "451341": {
+            "manifests": {
+                "public": {
+                    "gid": "670045377969141671",
+                    "size": "11252519374",
+                    "download": "6974502624"
+                }
+            },
+            "decryptionkey": "b066f0d640f9c9fbf1bc5f75f7299e5f826fa03a7c67c1f83a2779884af57c16"
+        },
+        "workshopdepot": "451340",
+        "branches": {
+            "public": {
+                "buildid": "18476013",
+                "timeupdated": "1747342266"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a38043d551ff85c15c9536b0c5dce2259467767e7ecf7a73181f04af7472fd02"
+    }
+}
