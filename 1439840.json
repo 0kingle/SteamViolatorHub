@@ -1,0 +1,52 @@
+{
+    "appid": "1439840",
+    "type": "Game",
+    "name": "Fright Night Sex Fest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:18",
+    "depot": {
+        "1439841": {
+            "manifests": {
+                "public": {
+                    "gid": "7769835262280309974",
+                    "size": "3161152801",
+                    "download": "925663184"
+                },
+                "beta": {
+                    "gid": "1399093755176224003",
+                    "size": "3188044607",
+                    "download": "933266544"
+                }
+            },
+            "decryptionkey": "48883d4f8e6b64339b6ea984154b08c37ea76808da0d303246c8d38f3414c9ce"
+        },
+        "1439842": {
+            "manifests": {
+                "public": {
+                    "gid": "8301520571528610227",
+                    "size": "3635668134",
+                    "download": "3419677328"
+                },
+                "beta": {
+                    "gid": "8567217531736883833",
+                    "size": "3624817960",
+                    "download": "3272927168"
+                }
+            },
+            "decryptionkey": "cae7efaba054699e7fa2e5d19a6358330582f7bcfc60799fad0125ddf5b9e098"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13178687",
+                "timeupdated": "1705423185"
+            },
+            "beta": {
+                "buildid": "14105210",
+                "description": "beta - in development",
+                "timeupdated": "1713504459"
+            }
+        }
+    }
+}
