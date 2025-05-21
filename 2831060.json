@@ -1,0 +1,41 @@
+{
+    "appid": "2831060",
+    "type": "Game",
+    "name": "Moving Houses",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014776",
+    "update_time": "2025-05-16 09:42:47",
+    "depot": {
+        "2831061": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3931953092526228550",
+                    "size": "939759454",
+                    "download": "395699296"
+                },
+                "beta": {
+                    "gid": "8463562958899146415",
+                    "size": "1949664522",
+                    "download": "566671488"
+                }
+            },
+            "decryptionkey": "382e35fff8fa2b38503adc017848e7414e77dcf49d1a7ebf68ecf6b05ec86021"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16128401",
+                "timeupdated": "1729549111"
+            },
+            "beta": {
+                "buildid": "18378240",
+                "description": "Beta testing branch",
+                "timeupdated": "1746790021"
+            }
+        }
+    }
+}
