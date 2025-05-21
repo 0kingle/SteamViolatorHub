@@ -1,0 +1,43 @@
+{
+    "appid": "1426210",
+    "type": "Game",
+    "name": "It Takes Two",
+    "schinese_name": "双人成行",
+    "isfreeapp": "0",
+    "change_number": "29079103",
+    "update_time": "2025-05-20 17:58:14",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1426211": {
+            "manifests": {
+                "public": {
+                    "gid": "5290425664756095500",
+                    "size": "48103037798",
+                    "download": "47190674656"
+                }
+            },
+            "decryptionkey": "c450c44e032e27d0308cf864259fb2af91bcfc58401a0caf33bb8efba85bb323"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18385016",
+                "timeupdated": "1747735086"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
