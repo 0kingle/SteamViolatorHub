@@ -1,0 +1,38 @@
+{
+    "appid": "1779960",
+    "type": "Game",
+    "name": "Salome's Kiss",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:55",
+    "depot": {
+        "1779961": {
+            "manifests": {
+                "public": {
+                    "gid": "1857687608638580606",
+                    "size": "611380557",
+                    "download": "475404544"
+                }
+            },
+            "decryptionkey": "23e8e92ce614e3b38d83f1e32e65d7ec0647b424343d25dcbea0a46f51d48d9b"
+        },
+        "1870500": {
+            "dlcappid": "1870500",
+            "manifests": {
+                "public": {
+                    "gid": "5391527524249174115",
+                    "size": "19247291",
+                    "download": "18931088"
+                }
+            },
+            "decryptionkey": "d75a2ca65ad0c5b8db8266e180eecc0dafa1bc44155e619c493c360111782858"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11043527",
+                "timeupdated": "1681933070"
+            }
+        }
+    }
+}
