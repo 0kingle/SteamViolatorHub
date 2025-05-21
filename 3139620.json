@@ -1,0 +1,60 @@
+{
+    "appid": "3139620",
+    "type": "Game",
+    "name": "Frontline Crisis",
+    "schinese_name": "战线危机",
+    "isfreeapp": "0",
+    "change_number": "29098305",
+    "update_time": "2025-05-21 19:29:25",
+    "depot": {
+        "3139621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7012507996051302141",
+                    "size": "112055295",
+                    "download": "87381920"
+                },
+                "v246_1118": {
+                    "gid": "588391544040929705",
+                    "size": "111976858",
+                    "download": "87355808"
+                },
+                "v249_1216": {
+                    "gid": "7012507996051302141",
+                    "size": "112055295",
+                    "download": "87381920"
+                },
+                "v249b_250414": {
+                    "gid": "7012507996051302141",
+                    "size": "112055295",
+                    "download": "87381920"
+                }
+            },
+            "decryptionkey": "46d86bf656eb76bd5604ede6bf0862749ba3450e8b42b1204457f512257bc826"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18098579",
+                "timeupdated": "1744695194"
+            },
+            "v246_1118": {
+                "buildid": "16446050",
+                "description": "v246_1118",
+                "timeupdated": "1731944237"
+            },
+            "v249_1216": {
+                "buildid": "16756116",
+                "description": "v249_1216",
+                "timeupdated": "1734335163"
+            },
+            "v249b_250414": {
+                "buildid": "18098579",
+                "description": "v249b_250414",
+                "timeupdated": "1744631878"
+            }
+        }
+    }
+}
