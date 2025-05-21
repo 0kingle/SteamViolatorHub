@@ -1,0 +1,28 @@
+{
+    "appid": "822470",
+    "type": "Game",
+    "name": "属性与生活",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28372760",
+    "update_time": "2025-04-09 03:42:54",
+    "depot": {
+        "baselanguages": "schinese",
+        "822472": {
+            "manifests": {
+                "public": {
+                    "gid": "8424375931266899087",
+                    "size": "69093575",
+                    "download": "19661024"
+                }
+            },
+            "decryptionkey": "88bc2f11bf06f874ca415627b7c7bddaf9e5ad4f1b031c8ec014ab7b8b5d3a4e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3160054",
+                "timeupdated": "1538011086"
+            }
+        }
+    }
+}
