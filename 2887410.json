@@ -1,0 +1,28 @@
+{
+    "appid": "2887410",
+    "type": "Game",
+    "name": "Garden of the Sea",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015158",
+    "update_time": "2025-05-16 10:18:47",
+    "depot": {
+        "2887411": {
+            "manifests": {
+                "public": {
+                    "gid": "8809922898727974644",
+                    "size": "1173097595",
+                    "download": "548033728"
+                }
+            },
+            "decryptionkey": "23a4abfa564f0df17503fad689ec793537080d5b2e7db7f90037c4040d272e43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16524129",
+                "timeupdated": "1732547267"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
