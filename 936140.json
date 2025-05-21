@@ -1,0 +1,203 @@
+{
+    "appid": "936140",
+    "type": "Game",
+    "name": "Pro Cycling Manager 2019",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980806",
+    "update_time": "2025-05-14 22:49:12",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese,danish,dutch,norwegian",
+        "workshopdepot": "936140",
+        "228987": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "936141": {
+            "manifests": {
+                "public": {
+                    "gid": "6913305020024589867",
+                    "size": "12555338689",
+                    "download": "6675869840"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "5729982728014444417",
+                    "size": "12617376423",
+                    "download": "6734240720"
+                }
+            },
+            "decryptionkey": "b39e0943c212610f076d4b0563aa93f87d65e062172b3db0dd0e372b4cf54c99"
+        },
+        "936142": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6524522395465207515",
+                    "size": "81",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "6524522395465207515",
+                    "size": "81",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": "a322be9d2ba0dc7bfc9e938567cbefd256e686cfd3660a8cb23becdf1a5f6d0a"
+        },
+        "936143": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1209226808897242016",
+                    "size": "81",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "1209226808897242016",
+                    "size": "81",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "936144": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6377430835830162450",
+                    "size": "82",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "6377430835830162450",
+                    "size": "82",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "936145": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7397585584088951756",
+                    "size": "80",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "7397585584088951756",
+                    "size": "80",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "936146": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6826172473436195645",
+                    "size": "82",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "6826172473436195645",
+                    "size": "82",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": "15cec3b4337fbf8b86256db69fa93e7d5fa393fa3b45e39180e44daf4d459c22"
+        },
+        "936147": {
+            "config": {
+                "language": "dutch"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6444645637163232497",
+                    "size": "80",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "6444645637163232497",
+                    "size": "80",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "936148": {
+            "config": {
+                "language": "danish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2886729137177030076",
+                    "size": "80",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "2886729137177030076",
+                    "size": "80",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": "78a72f04a374fa046e233573d19268fe5e6ccb1f37139c1c02e2bf5c5b3052f1"
+        },
+        "936149": {
+            "config": {
+                "language": "norwegian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5889950052311243324",
+                    "size": "84",
+                    "download": "112"
+                },
+                "pcm19_version_1.0.5.1": {
+                    "gid": "5889950052311243324",
+                    "size": "84",
+                    "download": "112"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1112770": {
+            "config": {
+                "language": "portuguese"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "4272030",
+                "timeupdated": "1572339840"
+            },
+            "pcm19_version_1.0.5.1": {
+                "buildid": "4075395",
+                "timeupdated": "1566383226"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "c0e046932424b67cfd4bdfe4709c9957baba575301c60124f051211a18fe1b35"
+    }
+}
