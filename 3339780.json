@@ -1,0 +1,28 @@
+{
+    "appid": "3339780",
+    "type": "Game",
+    "name": "Desktop Survivors 98",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103304",
+    "update_time": "2025-05-21 20:09:59",
+    "depot": {
+        "3339781": {
+            "manifests": {
+                "public": {
+                    "gid": "6922561304518200366",
+                    "size": "591026822",
+                    "download": "198017280"
+                }
+            },
+            "decryptionkey": "0a9c417e76754ed4ff6bcde27c0c80b66c47f1b1b0ec8f5708707628e6d642bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18549043",
+                "timeupdated": "1747829393"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
