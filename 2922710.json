@@ -1,0 +1,117 @@
+{
+    "appid": "2922710",
+    "type": "Game",
+    "name": "Beneath the Cardboard: Be Happy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28788594",
+    "update_time": "2025-05-03 00:04:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2922711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "956172299109148513",
+                    "size": "521562162",
+                    "download": "367473408"
+                },
+                "nightly_branch": {
+                    "gid": "624655479022340995",
+                    "size": "521555090",
+                    "download": "367492368"
+                },
+                "0.3.0-snowteraction": {
+                    "gid": "8198789223322154999",
+                    "size": "454002521",
+                    "download": "320379312"
+                },
+                "0.1.5-perpetuum-cardboard": {
+                    "gid": "5160177783910893455",
+                    "size": "417837662",
+                    "download": "286963168"
+                },
+                "0.1.0-homeless": {
+                    "gid": "3554873051395110435",
+                    "size": "812237423",
+                    "download": "689234048"
+                }
+            },
+            "decryptionkey": "8e0ff6b5b05bf6bf0f092b9b832732d368a2e7ea02db9f0e033b13969a245ceb"
+        },
+        "2922712": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6590554438865693472",
+                    "size": "599810200",
+                    "download": "381272272"
+                },
+                "nightly_branch": {
+                    "gid": "533956075403073077",
+                    "size": "599810226",
+                    "download": "381275664"
+                },
+                "0.3.0-snowteraction": {
+                    "gid": "3306086883161923237",
+                    "size": "467810326",
+                    "download": "296934896"
+                },
+                "0.1.5-perpetuum-cardboard": {
+                    "gid": "4806051399330532698",
+                    "size": "429726621",
+                    "download": "263304384"
+                },
+                "0.1.0-homeless": {
+                    "gid": "2370310258494593566",
+                    "size": "828782060",
+                    "download": "663165728"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18321757",
+                "timeupdated": "1746191030"
+            },
+            "nightly_branch": {
+                "buildid": "18309823",
+                "description": "Changes that we want to test before release",
+                "timeupdated": "1746106954"
+            },
+            "0.3.0-snowteraction": {
+                "buildid": "15547868",
+                "description": "This was a Triumph.",
+                "timeupdated": "1725178451"
+            },
+            "0.1.5-perpetuum-cardboard": {
+                "buildid": "15161121",
+                "description": "Not the best, but playable",
+                "timeupdated": "1721989198"
+            },
+            "0.1.0-homeless": {
+                "buildid": "14585637",
+                "description": "Where it all started (Very outdated)",
+                "timeupdated": "1720209157"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
