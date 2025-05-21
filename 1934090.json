@@ -1,0 +1,27 @@
+{
+    "appid": "1934090",
+    "type": "Game",
+    "name": "Jigsaw Novel - The Job Promotion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013470",
+    "update_time": "2025-05-16 07:50:00",
+    "depot": {
+        "1934091": {
+            "manifests": {
+                "public": {
+                    "gid": "6669038846665270427",
+                    "size": "117770051",
+                    "download": "28795952"
+                }
+            },
+            "decryptionkey": "bdb7157466ddf05c28325d7b433f83e3616ea3c67cf34d808ab8afe82813f31f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8350416",
+                "timeupdated": "1646951550"
+            }
+        }
+    }
+}
