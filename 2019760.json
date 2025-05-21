@@ -1,0 +1,41 @@
+{
+    "appid": "2019760",
+    "type": "Game",
+    "name": "Necrophosis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29092851",
+    "update_time": "2025-05-21 08:17:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2019761": {
+            "manifests": {
+                "public": {
+                    "gid": "3677432268820241317",
+                    "size": "11594290246",
+                    "download": "11156324864"
+                }
+            },
+            "decryptionkey": "8f8acee5e26a3229f755f338c1a3268e923929e686b8c7b4f7d243d76f99b19a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18533178",
+                "timeupdated": "1747742595"
+            }
+        }
+    }
+}
