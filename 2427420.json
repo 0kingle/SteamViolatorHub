@@ -1,0 +1,51 @@
+{
+    "appid": "2427420",
+    "type": "Game",
+    "name": "S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition",
+    "schinese_name": "《潜行者：晴空》增强版",
+    "isfreeapp": "0",
+    "change_number": "29100383",
+    "update_time": "2025-05-21 19:29:23",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2427421": {
+            "manifests": {
+                "public": {
+                    "gid": "9193778561610195887",
+                    "size": "8480741377",
+                    "download": "4361157136"
+                }
+            },
+            "decryptionkey": "827f45298696740de1e0a738ea404041c826aeb40dd6eccb1b6957cc711a4fc6"
+        },
+        "workshopdepot": "2427420",
+        "branches": {
+            "public": {
+                "buildid": "18465670",
+                "timeupdated": "1747679071"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "40c9ecabf7caea9d68794150b7dfb2110067efbd9a122a2742862c6d6a0ffe3f"
+    }
+}
