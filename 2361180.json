@@ -1,0 +1,28 @@
+{
+    "appid": "2361180",
+    "type": "Game",
+    "name": "Three Kingdoms Origin",
+    "schinese_name": "三国之奇谋天下",
+    "isfreeapp": "0",
+    "change_number": "29011216",
+    "update_time": "2025-05-16 04:42:43",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,thai",
+        "2361181": {
+            "manifests": {
+                "public": {
+                    "gid": "2745045718683222074",
+                    "size": "2741984595",
+                    "download": "2298190768"
+                }
+            },
+            "decryptionkey": "c941632e2c94c954cb8ec7c0cba2bbe1b974b50c4820a22f97b36c632cd06afd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11846196",
+                "timeupdated": "1690967352"
+            }
+        }
+    }
+}
