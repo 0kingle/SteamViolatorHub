@@ -1,0 +1,80 @@
+{
+    "appid": "1361210",
+    "type": "Game",
+    "name": "Warhammer 40,000: Darktide",
+    "schinese_name": "战锤40K：暗潮",
+    "isfreeapp": "0",
+    "change_number": "29082536",
+    "update_time": "2025-05-20 21:16:00",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1361211": {
+            "manifests": {
+                "public": {
+                    "gid": "7385769186065281305",
+                    "size": "77470393879",
+                    "download": "63722631424"
+                }
+            },
+            "decryptionkey": "91a13a5dcfb61da0b70e706684905b0c2aa90d8287d89e17507c0b94bc0f6e62"
+        },
+        "1361212": {
+            "manifests": {
+                "public": {
+                    "gid": "2639934707954061880",
+                    "size": "624607121",
+                    "download": "242599520"
+                }
+            },
+            "decryptionkey": "4d49f54fcf910bba344e8488b85616043a21cf7d6d486b8ad37085ffc6bf9401"
+        },
+        "1361213": {
+            "manifests": {
+                "public": {
+                    "gid": "8697987404270007960",
+                    "size": "216830405",
+                    "download": "105432736"
+                }
+            },
+            "decryptionkey": "5b665c11f3ab71ed186993ab184691c52af53a8d86ffd0c2fd8fbc8ec33b757d"
+        },
+        "1361214": {
+            "manifests": {
+                "public": {
+                    "gid": "2633086535271499162",
+                    "size": "433312002",
+                    "download": "143855856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18405838",
+                "timeupdated": "1747736237"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
