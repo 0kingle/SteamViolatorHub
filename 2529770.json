@@ -1,0 +1,28 @@
+{
+    "appid": "2529770",
+    "type": "Game",
+    "name": "Chromosome Evil 2",
+    "schinese_name": "蚀变之因 2",
+    "isfreeapp": "0",
+    "change_number": "29012818",
+    "update_time": "2025-05-16 06:48:46",
+    "depot": {
+        "2529771": {
+            "manifests": {
+                "public": {
+                    "gid": "8015329454665664850",
+                    "size": "960676649",
+                    "download": "740003504"
+                }
+            },
+            "decryptionkey": "25012291d5fb4fe2a95cbed73e33d38de25953963b3f0ce897c8f4722c6a5a74"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "18237366",
+                "timeupdated": "1745579432"
+            }
+        }
+    }
+}
