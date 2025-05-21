@@ -1,0 +1,44 @@
+{
+    "appid": "2676840",
+    "type": "Game",
+    "name": "No Case Should Remain Unsolved",
+    "schinese_name": "尘埃终须落定",
+    "isfreeapp": "0",
+    "change_number": "29013863",
+    "update_time": "2025-05-16 08:18:48",
+    "depot": {
+        "2676841": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6562754651955742353",
+                    "size": "313860689",
+                    "download": "180402528"
+                }
+            },
+            "decryptionkey": "97b84c5f82b494285118250502a354bcd1e8f0cad335066633ba9519c54a9986"
+        },
+        "2676842": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4654985444385985641",
+                    "size": "306017835",
+                    "download": "177791936"
+                }
+            },
+            "decryptionkey": "8b38d8a9fa03d190e955322514956946efe6d5d0e09e4952abec6585304bd9cb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18473039",
+                "timeupdated": "1747299710"
+            }
+        }
+    }
+}
