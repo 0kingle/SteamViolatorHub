@@ -1,0 +1,59 @@
+{
+    "appid": "2631250",
+    "type": "Game",
+    "name": "Slitterhead",
+    "schinese_name": "野狗子: Slitterhead",
+    "isfreeapp": "0",
+    "change_number": "29013507",
+    "update_time": "2025-05-16 07:54:48",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2631251": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "150359154658006113",
+                    "size": "27842485425",
+                    "download": "27811675344"
+                }
+            },
+            "decryptionkey": "35b65353c889458eccf51a3307b040e48e83aff12bddd5bfeb96a787392be005"
+        },
+        "2631252": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "431009321496640377",
+                    "size": "27842493369",
+                    "download": "27818260848"
+                }
+            },
+            "decryptionkey": "bb6e2fdcea1188e89b4fbbc62a18fad23a4580ab83074a3bee8bb5fee9c8eadf"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18177227",
+                "timeupdated": "1746668861"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
