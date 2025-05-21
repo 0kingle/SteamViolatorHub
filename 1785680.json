@@ -1,0 +1,28 @@
+{
+    "appid": "1785680",
+    "type": "Game",
+    "name": "SPECWAR Tactics",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989950",
+    "update_time": "2025-05-15 05:26:32",
+    "depot": {
+        "baselanguages": "english",
+        "1785681": {
+            "manifests": {
+                "public": {
+                    "gid": "4350349087642822575",
+                    "size": "8118998478",
+                    "download": "3163389824"
+                }
+            },
+            "decryptionkey": "b97b12bedcd8c86ee6b9dd6ed9714fc69d1514883028a8aad3e66d8fa35b1b38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9213317",
+                "timeupdated": "1659074234"
+            }
+        }
+    }
+}
