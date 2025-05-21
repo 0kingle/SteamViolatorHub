@@ -1,0 +1,62 @@
+{
+    "appid": "1455900",
+    "type": "Game",
+    "name": "Plunder Panic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013470",
+    "update_time": "2025-05-16 07:49:58",
+    "depot": {
+        "1455901": {
+            "manifests": {
+                "public": {
+                    "gid": "7364118361866218853",
+                    "size": "378122724",
+                    "download": "259432208"
+                },
+                "publicbeta": {
+                    "gid": "776331037511897259",
+                    "size": "292046227",
+                    "download": "189903248"
+                }
+            },
+            "decryptionkey": "f3c0c21d776b9f28598e9d8c1975809e68036cea86e045cbe51be9e36076ad1f"
+        },
+        "1455902": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6466484910462298429",
+                    "size": "2590077259",
+                    "download": "255070656"
+                },
+                "publicbeta": {
+                    "gid": "4714712309431755052",
+                    "size": "1684697611",
+                    "download": "173443296"
+                }
+            },
+            "decryptionkey": "6a3b993017967de20c07546d1f782cf5b225a30c182682860175c3721fc437fd"
+        },
+        "1455903": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18453779",
+                "timeupdated": "1747222415"
+            },
+            "publicbeta": {
+                "buildid": "10499707",
+                "description": "Public Beta Branch",
+                "timeupdated": "1675811321"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
