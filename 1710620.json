@@ -1,0 +1,27 @@
+{
+    "appid": "1710620",
+    "type": "Game",
+    "name": "Winter Games 2023",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989326",
+    "update_time": "2025-05-15 04:46:31",
+    "depot": {
+        "1710621": {
+            "manifests": {
+                "public": {
+                    "gid": "2436858189296349933",
+                    "size": "4611508606",
+                    "download": "1738037600"
+                }
+            },
+            "decryptionkey": "0b7a921fba8ff2d5ec4904653e6c3fd42797a3c33892bb9b73fc6b760bfff06e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8978082",
+                "timeupdated": "1655810968"
+            }
+        }
+    }
+}
