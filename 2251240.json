@@ -1,0 +1,30 @@
+{
+    "appid": "2251240",
+    "type": "Game",
+    "name": "Police Car Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29083603",
+    "update_time": "2025-05-20 22:11:53",
+    "depot": {
+        "2251241": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1087462893102271797",
+                    "size": "1043253458",
+                    "download": "868131040"
+                }
+            },
+            "decryptionkey": "8f103d5797d84f6c12df00ac519c7f379d14b700ddd22c88886c10c927fae910"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18073302",
+                "timeupdated": "1744381799"
+            }
+        }
+    }
+}
