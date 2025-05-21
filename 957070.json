@@ -1,0 +1,56 @@
+{
+    "appid": "957070",
+    "type": "Game",
+    "name": "iB Cricket",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28981182",
+    "update_time": "2025-05-14 22:49:53",
+    "depot": {
+        "baselanguages": "english",
+        "957071": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2330179687879328238",
+                    "size": "26533923236",
+                    "download": "6891329424"
+                },
+                "beta": {
+                    "gid": "2330179687879328238",
+                    "size": "26533923236",
+                    "download": "6891329424"
+                }
+            },
+            "decryptionkey": "59d482c8d1adc83bee7527d518714675814f97e341d361f62cab8be33a0da726"
+        },
+        "1312180": {
+            "dlcappid": "1312180",
+            "config": {
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "1350770": {
+            "dlcappid": "1350770",
+            "config": {
+                "language": ""
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18160416",
+                "timeupdated": "1745051290"
+            },
+            "beta": {
+                "buildid": "18160416",
+                "description": "Public beta",
+                "timeupdated": "1745051219"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
