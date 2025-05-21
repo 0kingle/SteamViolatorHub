@@ -1,0 +1,45 @@
+{
+    "appid": "3452530",
+    "type": "Game",
+    "name": "Run-Sprint-Parkour!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29086420",
+    "update_time": "2025-05-21 00:32:41",
+    "depot": {
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,dutch,turkish,brazilian,ukrainian,vietnamese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3452531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "319082739418052154",
+                    "size": "24703905462",
+                    "download": "23857422864"
+                }
+            },
+            "decryptionkey": "43f2c92eca8e99aab0f2af65884a66b021d9efd35b4e484f1ca48b48379000c1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18536688",
+                "timeupdated": "1747758757"
+            }
+        }
+    }
+}
