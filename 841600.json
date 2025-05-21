@@ -1,0 +1,49 @@
+{
+    "appid": "841600",
+    "type": "Game",
+    "name": "Aura of Worlds",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29076460",
+    "update_time": "2025-05-20 15:24:20",
+    "depot": {
+        "baselanguages": "english",
+        "841601": {
+            "manifests": {
+                "public": {
+                    "gid": "6526937944787142310",
+                    "size": "1402704072",
+                    "download": "310874528"
+                },
+                "alpha": {
+                    "gid": "6526937944787142310",
+                    "size": "1402704072",
+                    "download": "310874528"
+                },
+                "pleaseuselinuxbuildforsteamdeck": {
+                    "gid": "6526937944787142310",
+                    "size": "1402704072",
+                    "download": "310874528"
+                }
+            },
+            "decryptionkey": "b2dbc1073897f493eec0eb069c95c5d5065d3d6297f5057122a2b07cb20e1735"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18529481",
+                "timeupdated": "1747725856"
+            },
+            "alpha": {
+                "buildid": "18529481",
+                "timeupdated": "1747725778"
+            },
+            "pleaseuselinuxbuildforsteamdeck": {
+                "buildid": "18529481",
+                "description": "Updated Build for Steam Deck Verification",
+                "timeupdated": "1747725816"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
