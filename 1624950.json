@@ -1,0 +1,73 @@
+{
+    "appid": "1624950",
+    "type": "Game",
+    "name": "1001 Jigsaw. Earth Chronicles 9",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988679",
+    "update_time": "2025-05-15 03:59:53",
+    "depot": {
+        "1624951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5950604362309221227",
+                    "size": "150215415",
+                    "download": "147317216"
+                }
+            },
+            "decryptionkey": "a99143c2e91f89d24decaf951b7a4482948fcb150cae3804230f5208ef0260a5"
+        },
+        "1624952": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3661009750490064194",
+                    "size": "150217067",
+                    "download": "147318672"
+                }
+            },
+            "decryptionkey": "0e79a4e75cf66bad45f5fbc76285d18af72441d8f901e14cfdb605cf8442854f"
+        },
+        "1624953": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4400103767385485896",
+                    "size": "150218192",
+                    "download": "147319904"
+                }
+            },
+            "decryptionkey": "c25d9d2114cb75dff3d6a18222404f88be6e09c1fe2846c0ec127dc99f5e7af6"
+        },
+        "1624954": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6180034231035857846",
+                    "size": "150215442",
+                    "download": "147315856"
+                }
+            },
+            "decryptionkey": "31daa6a27f8d5c487bc50da2b625bea711942f5d84e642777157f64dd1f07868"
+        },
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "8105753",
+                "timeupdated": "1643382217"
+            }
+        }
+    }
+}
