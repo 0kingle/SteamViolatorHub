@@ -1,0 +1,156 @@
+{
+    "appid": "1763430",
+    "type": "Demo",
+    "name": "Karryn's Prison Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28920464",
+    "update_time": "2025-05-11 05:01:51",
+    "depot": {
+        "1619752": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4997875274116425789",
+                    "size": "1375172235",
+                    "download": "1230780032"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "51a9594bb602b836dba090ff8e0e99a21c8d3345474a0e26bfacf271f4cb2966"
+        },
+        "1619753": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5716523422614102276",
+                    "size": "275749275",
+                    "download": "80014816"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "1e6ddade0562bb11804af7b6307eea41644e9466e8d9603529dec6cc47b3fe51"
+        },
+        "1619754": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5899146070419485440",
+                    "size": "101568",
+                    "download": "19824"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "f8863c6a4ed37f046b185bed8aa4c4cae6a3e66390cacff45e0cdf46065a6dfb"
+        },
+        "1619755": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4484297356271746195",
+                    "size": "2207",
+                    "download": "768"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "fdf0381a3693d8301c5fc698d4423b7806ce2302db6f420c11913ba7392a53e9"
+        },
+        "1619756": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4602231266233598285",
+                    "size": "14716",
+                    "download": "4448"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "85524f7ed3bfc6ce4057136573b1a6359538ced7743617ac06f23bfdd8f42d23"
+        },
+        "1619757": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8392102115635510628",
+                    "size": "14716",
+                    "download": "4448"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "fde4448324673c433b8761d0e9f02ea1cc22cf3ca82ed0a3a8c7df425b2fee02"
+        },
+        "1619758": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1629074308654404024",
+                    "size": "526",
+                    "download": "288"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "3146ff5678cd489e9f3496f31936d8170e95c7f489679e0d0017dbc51065e26b"
+        },
+        "1619759": {
+            "config": {
+                "language": "japanese",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4617760608433164639",
+                    "size": "526",
+                    "download": "288"
+                }
+            },
+            "depotfromapp": "1619750",
+            "decryptionkey": "68dc310160d89d0d920104d8dfca545a152f910e50bacd2a4d5ce73b0556eebd"
+        },
+        "1763431": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3016638957307703321",
+                    "size": "2154",
+                    "download": "768"
+                }
+            },
+            "decryptionkey": "ff18be6e7600b3d0605f3e4de3a11fc667d6d05aef71178449fa83453c2d43cb"
+        },
+        "1763432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4365829633855998880",
+                    "size": "2154",
+                    "download": "768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7374155",
+                "timeupdated": "1631840634"
+            }
+        }
+    }
+}
