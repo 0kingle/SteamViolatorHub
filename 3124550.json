@@ -1,0 +1,43 @@
+{
+    "appid": "3124550",
+    "type": "Game",
+    "name": "Liquor Store Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29075854",
+    "update_time": "2025-05-20 14:33:01",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3124551": {
+            "manifests": {
+                "public": {
+                    "gid": "8295965236914636810",
+                    "size": "3481267279",
+                    "download": "1313094736"
+                }
+            },
+            "decryptionkey": "bf645b5292497a17f5384bceec7196595e86a537fe89e23229bf6c759c32c75b"
+        },
+        "baselanguages": "english,russian",
+        "branches": {
+            "public": {
+                "buildid": "18514265",
+                "timeupdated": "1747641137"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
