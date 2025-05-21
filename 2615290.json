@@ -1,0 +1,44 @@
+{
+    "appid": "2615290",
+    "type": "Game",
+    "name": "Mostroscopy",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013400",
+    "update_time": "2025-05-16 07:42:47",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "2615291": {
+            "manifests": {
+                "public": {
+                    "gid": "9096319443712561926",
+                    "size": "2129897625",
+                    "download": "724292192"
+                }
+            },
+            "decryptionkey": "bafe9d30820f3c94004ef82a1b50d5117a24e07d9e0fb438a4624a53f1fd8235"
+        },
+        "3340320": {
+            "dlcappid": "3340320",
+            "manifests": {
+                "public": {
+                    "gid": "7714147980424247856",
+                    "size": "21397972",
+                    "download": "20513232"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3529890": {
+            "dlcappid": "3529890"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18469311",
+                "timeupdated": "1747274880"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
