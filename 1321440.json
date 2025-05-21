@@ -1,0 +1,146 @@
+{
+    "appid": "1321440",
+    "type": "Game",
+    "name": "Cassette Beasts",
+    "schinese_name": "Cassette Beasts 磁带妖怪",
+    "isfreeapp": "0",
+    "change_number": "29007362",
+    "update_time": "2025-05-16 00:51:59",
+    "depot": {
+        "workshopdepot": "1321440",
+        "hasdepotsindlc": "1",
+        "1321441": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1838230538577435727",
+                    "size": "1098867500",
+                    "download": "745151968"
+                },
+                "daily": {
+                    "gid": "4852048093790092035",
+                    "size": "1099089212",
+                    "download": "744777696"
+                }
+            },
+            "decryptionkey": "4b2b7af55dd2d0d762362f7ae3a6a79e067d55d69bbe9a18fb25f6490502e984"
+        },
+        "1321442": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7443861510092402852",
+                    "size": "1119866132",
+                    "download": "747085152"
+                },
+                "daily": {
+                    "gid": "2278372002271669702",
+                    "size": "1119866148",
+                    "download": "747083680"
+                }
+            },
+            "decryptionkey": "968237b5b7d038a2e4d2f13e4f6fcb1df8540b27c202ab7266bfe2fd394fb7c8"
+        },
+        "1321443": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6714490447364267984",
+                    "size": "1101729957",
+                    "download": "754968656"
+                },
+                "daily": {
+                    "gid": "4106284797569950799",
+                    "size": "1101729973",
+                    "download": "754967872"
+                }
+            }
+        },
+        "2202290": {
+            "dlcappid": "2202290",
+            "manifests": {
+                "public": {
+                    "gid": "3915450263768930893",
+                    "size": "553",
+                    "download": "352"
+                },
+                "daily": {
+                    "gid": "3915450263768930893",
+                    "size": "553",
+                    "download": "352"
+                }
+            },
+            "decryptionkey": "1564d02046599c4f28717654d546e8f43e97104029f6934be4bd99108f38c8df"
+        },
+        "2202291": {
+            "dlcappid": "2202291",
+            "manifests": {
+                "public": {
+                    "gid": "6313417612476374068",
+                    "size": "29673404",
+                    "download": "25276096"
+                },
+                "daily": {
+                    "gid": "6596293116040353949",
+                    "size": "29673404",
+                    "download": "25276320"
+                }
+            },
+            "decryptionkey": "e85bf84ad42978d8976eb07c3bf373d9c92bb406d8a4120120590281287ec143"
+        },
+        "2856510": {
+            "dlcappid": "2856510",
+            "manifests": {
+                "public": {
+                    "gid": "9146588006035516486",
+                    "size": "573",
+                    "download": "368"
+                },
+                "daily": {
+                    "gid": "9146588006035516486",
+                    "size": "573",
+                    "download": "368"
+                }
+            },
+            "decryptionkey": "2d28891b81f24e20693d0de9515eed68c11d4439e6ffc397d649eb4cd043af90"
+        },
+        "2958230": {
+            "dlcappid": "2958230",
+            "manifests": {
+                "public": {
+                    "gid": "9162636190842781086",
+                    "size": "603",
+                    "download": "384"
+                },
+                "daily": {
+                    "gid": "153718646588100652",
+                    "size": "603",
+                    "download": "384"
+                }
+            },
+            "decryptionkey": "bb9a6c7f060379f62d307b0afc459b116b2d81324d348941e115f8207e2ac887"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18089858",
+                "timeupdated": "1747223828"
+            },
+            "daily": {
+                "buildid": "18479390",
+                "description": "Public beta, for testing fixes. Updates most days",
+                "timeupdated": "1747327835"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "dec6c96656680e7c2e5b78f3c33bb1d04fc9299ab462347702643924acb7463a"
+    }
+}
