@@ -1,0 +1,28 @@
+{
+    "appid": "3206200",
+    "type": "Game",
+    "name": "Magic Rune Stone",
+    "schinese_name": "魔法符石",
+    "isfreeapp": "0",
+    "change_number": "29080391",
+    "update_time": "2025-05-20 19:11:05",
+    "depot": {
+        "3206201": {
+            "manifests": {
+                "public": {
+                    "gid": "4101930855699136500",
+                    "size": "402016936",
+                    "download": "159597904"
+                }
+            },
+            "decryptionkey": "481e3c72ac2a28662516e387d1f758c8d44ec0f5b6d23a4d0c707989e7d60cd3"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18532554",
+                "timeupdated": "1747739459"
+            }
+        }
+    }
+}
