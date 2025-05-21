@@ -1,0 +1,44 @@
+{
+    "appid": "3178350",
+    "type": "Game",
+    "name": "WARRIORS: Abyss",
+    "schinese_name": "无双深渊",
+    "isfreeapp": "0",
+    "change_number": "29093632",
+    "update_time": "2025-05-21 09:21:54",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3178351": {
+            "manifests": {
+                "public": {
+                    "gid": "4944510526985260465",
+                    "size": "3420276315",
+                    "download": "3307985056"
+                }
+            },
+            "decryptionkey": "50d5b19878cdd566dccd7b3f0042e13d42e13d32f5be8c88e71ea45a4d38323d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18093291",
+                "timeupdated": "1745549595"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
