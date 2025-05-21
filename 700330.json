@@ -1,0 +1,80 @@
+{
+    "appid": "700330",
+    "type": "Game",
+    "name": "SCP: Secret Laboratory",
+    "schinese_name": "SCP秘密实验室 / SCP: Secret Laboratory",
+    "isfreeapp": "1",
+    "change_number": "29103911",
+    "update_time": "2025-05-21 20:41:10",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,polish",
+        "hasdepotsindlc": "1",
+        "700331": {
+            "config": {
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2375449375458203658",
+                    "size": "6819657310",
+                    "download": "2639009136"
+                },
+                "labapi-beta": {
+                    "gid": "2824591362947966171",
+                    "size": "6783085648",
+                    "download": "2632551760"
+                },
+                "first_version_of_sl_published_on_steam": {
+                    "gid": "7722467700346241918",
+                    "size": "809784354",
+                    "download": "351900304"
+                }
+            },
+            "decryptionkey": "3d5c02fae29037cd244fb3cd9fc0c41a75f3a6c62bcb306fb39e79d0d5f6f2bd"
+        },
+        "700332": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "32"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18504892",
+                "timeupdated": "1747591813"
+            },
+            "labapi-beta": {
+                "buildid": "18449569",
+                "description": "Early testing for the LabAPI modding framework.",
+                "timeupdated": "1747170103"
+            },
+            "first_version_of_sl_published_on_steam": {
+                "buildid": "2404120",
+                "description": "First public version SCP:SL (official release)",
+                "timeupdated": "1610443215"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
