@@ -1,0 +1,45 @@
+{
+    "appid": "2488370",
+    "type": "Game",
+    "name": "Cash Cleaner Simulator",
+    "schinese_name": "浣币模拟器",
+    "isfreeapp": "0",
+    "change_number": "29104096",
+    "update_time": "2025-05-21 20:50:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2488372": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3405157620225939108",
+                    "size": "5135586561",
+                    "download": "1891730688"
+                }
+            },
+            "decryptionkey": "977e890c85c823ca9de5001068b30e038ade55c019c6e777e357cea4c148f33b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18461849",
+                "timeupdated": "1747236252"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
