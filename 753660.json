@@ -1,0 +1,29 @@
+{
+    "appid": "753660",
+    "type": "Game",
+    "name": "AtmaSphere",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010760",
+    "update_time": "2025-05-16 04:11:52",
+    "depot": {
+        "baselanguages": "english",
+        "753661": {
+            "manifests": {
+                "public": {
+                    "gid": "5618981567580277501",
+                    "size": "1517365018",
+                    "download": "615037344"
+                }
+            },
+            "decryptionkey": "371dbb7981fdf8a538232857630a24b482c5d4651588b7b1d363264253a5955a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18224234",
+                "timeupdated": "1745500477"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
