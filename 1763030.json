@@ -1,0 +1,55 @@
+{
+    "appid": "1763030",
+    "type": "Game",
+    "name": "Master Key",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989707",
+    "update_time": "2025-05-15 05:13:12",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1763031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6934799557102217589",
+                    "size": "528680999",
+                    "download": "269649920"
+                }
+            },
+            "decryptionkey": "f8ba34dea2ca4cb65c6a6f52131ed7f233cc1a5ef8f88ca3a572cafbcf164695"
+        },
+        "1763032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2007286004501430996",
+                    "size": "610586030",
+                    "download": "282302160"
+                }
+            }
+        },
+        "1763033": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1454835188972092404",
+                    "size": "547933439",
+                    "download": "263834640"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17991216",
+                "timeupdated": "1743804382"
+            }
+        }
+    }
+}
