@@ -1,0 +1,53 @@
+{
+    "appid": "1576560",
+    "type": "Game",
+    "name": "DownhillVR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29048522",
+    "update_time": "2025-05-18 20:13:08",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1576561": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "388984975931513922",
+                    "size": "22088651515",
+                    "download": "9460858768"
+                }
+            },
+            "decryptionkey": "32db52124570890a8d14456bceeca7e9f4d6a6fabc6b2cc042d9365e35211161"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18448181",
+                "timeupdated": "1747159746"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
