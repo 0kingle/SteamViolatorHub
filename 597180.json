@@ -1,0 +1,90 @@
+{
+    "appid": "597180",
+    "type": "Game",
+    "name": "Old World",
+    "schinese_name": "旧世界 Old World",
+    "isfreeapp": "0",
+    "change_number": "29076206",
+    "update_time": "2025-05-20 15:04:35",
+    "depot": {
+        "baselanguages": "english,german,french,spanish,schinese,tchinese,russian,japanese,brazilian",
+        "workshopdepot": "597180",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "597181": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1075010134583265038",
+                    "size": "7615991501",
+                    "download": "3620179664"
+                },
+                "test": {
+                    "gid": "4493261517739426814",
+                    "size": "7641939739",
+                    "download": "3616935520"
+                }
+            },
+            "decryptionkey": "44832d82ba73423f7ad8811dab24c4890d02a444b7c94d2d4c73e7e66360a704"
+        },
+        "597182": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6556219255368469246",
+                    "size": "7282770557",
+                    "download": "3407141200"
+                },
+                "test": {
+                    "gid": "587389870953538203",
+                    "size": "7406184814",
+                    "download": "3415012528"
+                }
+            },
+            "decryptionkey": "b200a4ee00d34fae0bfef67e80e555f5b500422d66c711c0b2e293f6cbff36e1"
+        },
+        "597183": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3206569709306566290",
+                    "size": "7262146836",
+                    "download": "3391440496"
+                },
+                "test": {
+                    "gid": "36124539285353033",
+                    "size": "7317362122",
+                    "download": "3389264336"
+                }
+            },
+            "decryptionkey": "b055bb1a3d8bec6c1b563fc28e9aa1e1844426e2af6897a7f8aa325444213e24"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18296391",
+                "timeupdated": "1746044566"
+            },
+            "test": {
+                "buildid": "18465666",
+                "description": "Testing Branch for the next version",
+                "timeupdated": "1747254615"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "ab078c37955f78c8c435b763a746aebb4922a879e20606dbbb7635067a4ce2cb"
+    }
+}
