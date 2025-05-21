@@ -1,0 +1,61 @@
+{
+    "appid": "1860510",
+    "type": "Game",
+    "name": "Total Conflict: Resistance",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29099350",
+    "update_time": "2025-05-21 19:31:59",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229003": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1860511": {
+            "manifests": {
+                "public": {
+                    "gid": "1444339405984836074",
+                    "size": "33780860050",
+                    "download": "32610129024"
+                },
+                "beta_test": {
+                    "gid": "265183277009076689",
+                    "size": "34038571854",
+                    "download": "32865616816"
+                }
+            },
+            "decryptionkey": "6da400d94115d37c6474b287e5f8e41e78ec2083d54ff7dffd6d1b3b2dc8dc0d"
+        },
+        "workshopdepot": "1860510",
+        "branches": {
+            "public": {
+                "buildid": "18251514",
+                "timeupdated": "1745694629"
+            },
+            "beta_test": {
+                "buildid": "18545466",
+                "description": "Dev. beta brach",
+                "timeupdated": "1747815433"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "a815a935bf6125fec3ff1d1609f551efc617a90f2176a90beac941e21f432469"
+    }
+}
