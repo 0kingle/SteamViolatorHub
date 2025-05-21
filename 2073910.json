@@ -1,0 +1,57 @@
+{
+    "appid": "2073910",
+    "type": "Game",
+    "name": "A Webbing Journey",
+    "schinese_name": "蛛友之家",
+    "isfreeapp": "0",
+    "change_number": "29103446",
+    "update_time": "2025-05-21 20:17:44",
+    "depot": {
+        "baselanguages": "english",
+        "2073911": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6689170811605875969",
+                    "size": "1193357762",
+                    "download": "292361360"
+                }
+            },
+            "decryptionkey": "b3ae7461810864e27c36bd149241b1306ad3ec5010f6b8dc0468ffb6f4a4f84e"
+        },
+        "2073912": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5647274694029355314",
+                    "size": "1186803517",
+                    "download": "290762208"
+                }
+            }
+        },
+        "2073913": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6162341141289174230",
+                    "size": "1195718010",
+                    "download": "293694064"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18539607",
+                "timeupdated": "1747773490"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
