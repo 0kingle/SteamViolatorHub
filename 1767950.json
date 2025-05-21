@@ -1,0 +1,27 @@
+{
+    "appid": "1767950",
+    "type": "Game",
+    "name": "Slime Dice",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 09:13:27",
+    "depot": {
+        "1767951": {
+            "manifests": {
+                "public": {
+                    "gid": "8403290327102760953",
+                    "size": "297177994",
+                    "download": "192902208"
+                }
+            },
+            "decryptionkey": "ab862922fbb6a630b284884d61357e084f8b37188418a4ac7d2c34a5eea9e9bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15802632",
+                "timeupdated": "1727143450"
+            }
+        }
+    }
+}
