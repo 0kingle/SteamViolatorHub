@@ -1,0 +1,77 @@
+{
+    "appid": "2637990",
+    "type": "Game",
+    "name": "Duck Detective: The Secret Salami",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29087173",
+    "update_time": "2025-05-21 01:16:23",
+    "depot": {
+        "2637991": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2033902418653600695",
+                    "size": "340765255",
+                    "download": "195225616"
+                },
+                "experimental": {
+                    "gid": "2751148781327581575",
+                    "size": "284037601",
+                    "download": "198672144"
+                }
+            },
+            "decryptionkey": "4d63488abb36eb570989aaf5440185dbddf43c2832f70134924261f83b9e8901"
+        },
+        "2637992": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6338965240417668301",
+                    "size": "361930241",
+                    "download": "202890304"
+                },
+                "experimental": {
+                    "gid": "2965020407816239662",
+                    "size": "300540268",
+                    "download": "205837600"
+                }
+            }
+        },
+        "2637993": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5451468118191216474",
+                    "size": "337320983",
+                    "download": "194126752"
+                },
+                "experimental": {
+                    "gid": "6565061416242414943",
+                    "size": "279557179",
+                    "download": "196851488"
+                }
+            }
+        },
+        "workshopdepot": "2637990",
+        "branches": {
+            "public": {
+                "buildid": "18344649",
+                "timeupdated": "1746438838"
+            },
+            "experimental": {
+                "buildid": "16396921",
+                "description": "unstable fixes",
+                "timeupdated": "1731528694"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "97d6da8ba34f49610eae42e68a72aaa65fb3577b631782de4a138a781782da18"
+    }
+}
