@@ -1,0 +1,45 @@
+{
+    "appid": "3491320",
+    "type": "Demo",
+    "name": "Mecha Legends Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28380896",
+    "update_time": "2025-04-09 15:33:12",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3491321": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4337740310459510941",
+                    "size": "1171379881",
+                    "download": "1018838544"
+                }
+            },
+            "decryptionkey": "f8f4dfaf3ee0235cd8087e98cd232269fca8efbbe18e34edb420cb7fb87a76eb"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17960608",
+                "timeupdated": "1743627638"
+            }
+        }
+    }
+}
