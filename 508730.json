@@ -1,0 +1,42 @@
+{
+    "appid": "508730",
+    "type": "Game",
+    "name": "Painted Legend",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 12:20:46",
+    "depot": {
+        "baselanguages": "english,russian",
+        "508731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5395476574805957506",
+                    "size": "434186622",
+                    "download": "168884032"
+                }
+            },
+            "decryptionkey": "d10644f1e499053a6c13f7954d620c68efe6ede8e19f80dfdac15a387bd89ab0"
+        },
+        "508732": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "508733": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17557279",
+                "timeupdated": "1740814072"
+            }
+        }
+    }
+}
