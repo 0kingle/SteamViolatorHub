@@ -1,0 +1,54 @@
+{
+    "appid": "1653430",
+    "type": "Demo",
+    "name": "Tales And Tactics Demo",
+    "schinese_name": "传说与战术自走棋 Demo",
+    "isfreeapp": "0",
+    "change_number": "29095744",
+    "update_time": "2025-05-21 19:23:59",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1652251": {
+            "manifests": {
+                "public": {
+                    "gid": "6719999115797065165",
+                    "size": "3962339635",
+                    "download": "3231876928"
+                }
+            },
+            "depotfromapp": "1652250",
+            "decryptionkey": "b33bc6731d4f57b8cbd8877c58b0f35fca6516ce330c14048fb59aadaf364a36"
+        },
+        "1653431": {
+            "manifests": {
+                "public": {
+                    "gid": "2942871638659164624",
+                    "size": "2837190795",
+                    "download": "2501016480"
+                }
+            },
+            "decryptionkey": "f0b2c2ed803a21c4b22fa0802903dde86a319e4b72e7536be43e61be340b9ad0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12566668",
+                "timeupdated": "1703612672"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
