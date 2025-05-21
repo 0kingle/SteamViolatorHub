@@ -1,0 +1,35 @@
+{
+    "appid": "1906020",
+    "type": "Game",
+    "name": "Drums Rock",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990907",
+    "update_time": "2025-05-15 06:39:46",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
+        "1906021": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "349546685870181251",
+                    "size": "6371550963",
+                    "download": "2450037984"
+                }
+            },
+            "decryptionkey": "71625ccc26c54523aca402bba21808bb3473b5fe3428f415a43052c54335af7a"
+        },
+        "workshopdepot": "1906020",
+        "branches": {
+            "public": {
+                "buildid": "17265466",
+                "timeupdated": "1740073196"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "af4ad82640a12b5bee71e189ea8bdfc99d9866645f14b50a47ba236aea26fc2f"
+    }
+}
