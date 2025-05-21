@@ -1,0 +1,47 @@
+{
+    "appid": "2208570",
+    "type": "Game",
+    "name": "Dark Hours",
+    "schinese_name": "劫盗惊魂夜",
+    "isfreeapp": "0",
+    "change_number": "29086213",
+    "update_time": "2025-05-21 00:21:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2208571": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3745782650638243908",
+                    "size": "4157149584",
+                    "download": "3993503328"
+                }
+            },
+            "decryptionkey": "0712fda8075e570ec33f25a8e1d2f12b0027b76e2d415ee0433e2099eafe4c03"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18535853",
+                "timeupdated": "1747758073"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
