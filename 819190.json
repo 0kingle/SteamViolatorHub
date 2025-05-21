@@ -1,0 +1,52 @@
+{
+    "appid": "819190",
+    "type": "Game",
+    "name": "Undead Citadel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28860803",
+    "update_time": "2025-05-07 19:52:28",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese",
+        "819192": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4360312623345245457",
+                    "size": "9802564688",
+                    "download": "5155743552"
+                },
+                "beta": {
+                    "gid": "4360312623345245457",
+                    "size": "9802564688",
+                    "download": "5155743552"
+                },
+                "previousversion": {
+                    "gid": "497100593179009247",
+                    "size": "10675487274",
+                    "download": "4330557568"
+                }
+            },
+            "decryptionkey": "9caddfe84d8b4810c7583fd02b788ee2ebb53f56da1b6d665cc6d2ddf6c747bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17866858",
+                "timeupdated": "1743181847"
+            },
+            "beta": {
+                "buildid": "17866858",
+                "description": "Public Beta channel for testing new features",
+                "timeupdated": "1742996066"
+            },
+            "previousversion": {
+                "buildid": "12362834",
+                "description": "Previous version",
+                "timeupdated": "1719833633"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
