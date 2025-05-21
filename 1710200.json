@@ -1,0 +1,40 @@
+{
+    "appid": "1710200",
+    "type": "Game",
+    "name": "DRK-Story - Black Book -",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 06:59:38",
+    "depot": {
+        "1710201": {
+            "manifests": {
+                "public": {
+                    "gid": "6318859442326382364",
+                    "size": "280574568",
+                    "download": "231294512"
+                }
+            },
+            "decryptionkey": "c2de8c936ddc20e23ea154c72c49d84d0cdf1bfb0f51d72467273bfef4e11fb9"
+        },
+        "1710202": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4448787695898720896",
+                    "size": "308886371",
+                    "download": "231326800"
+                }
+            }
+        },
+        "baselanguages": "english,japanese",
+        "branches": {
+            "public": {
+                "buildid": "7105119",
+                "timeupdated": "1627535337"
+            }
+        }
+    }
+}
