@@ -1,0 +1,45 @@
+{
+    "appid": "2222540",
+    "type": "Game",
+    "name": "BIT.TRIP RERUNNER",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009830",
+    "update_time": "2025-05-16 03:06:48",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2222542": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7995473082396680767",
+                    "size": "1101576682",
+                    "download": "952885664"
+                }
+            },
+            "decryptionkey": "110c5b89375f9bcd0f3c4ba3ceda115100df150e4f182cdc71cd572d3ab1e8bb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13672880",
+                "timeupdated": "1709922359"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
