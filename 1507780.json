@@ -1,0 +1,35 @@
+{
+    "appid": "1507780",
+    "type": "Game",
+    "name": "Space Warlord Organ Trading Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987731",
+    "update_time": "2025-05-15 02:53:15",
+    "depot": {
+        "baselanguages": "english",
+        "1507781": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2896982325774322385",
+                    "size": "1248542467",
+                    "download": "1028475376"
+                }
+            },
+            "decryptionkey": "909e0a2c54aac35c31ecc9f14c4d6fe92de53c8625ea47b6345bfb3d37ba6840"
+        },
+        "workshopdepot": "1507780",
+        "branches": {
+            "public": {
+                "buildid": "12152273",
+                "timeupdated": "1694325820"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "09abc0065719ec89b2024016c9167f1122e73320c2639102457eab550e1c5891"
+    }
+}
