@@ -1,0 +1,32 @@
+{
+    "appid": "2410170",
+    "type": "Game",
+    "name": "The Nameless: Slay Dragon",
+    "schinese_name": "无名者：屠龙",
+    "isfreeapp": "0",
+    "change_number": "29095075",
+    "update_time": "2025-05-21 19:21:03",
+    "depot": {
+        "2410171": {
+            "manifests": {
+                "public": {
+                    "gid": "2239464300073215579",
+                    "size": "8912549837",
+                    "download": "2118544832"
+                }
+            },
+            "decryptionkey": "b2c348c79213cb3f8a467a50b3d2df85044ce7c7fd532c4d28c99ab68de446ef"
+        },
+        "baselanguages": "",
+        "hasdepotsindlc": "0",
+        "workshopdepot": "2410170",
+        "branches": {
+            "public": {
+                "buildid": "18253213",
+                "timeupdated": "1745849876"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "268a26ed37e256a24c09cd405f6a5c5dadca322a47f6693af9dbde752459364e"
+    }
+}
