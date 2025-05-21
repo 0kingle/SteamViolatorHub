@@ -1,0 +1,29 @@
+{
+    "appid": "3078920",
+    "type": "Game",
+    "name": "Too Tired To Die",
+    "schinese_name": "极累冥途",
+    "isfreeapp": "0",
+    "change_number": "28661621",
+    "update_time": "2025-04-25 20:57:45",
+    "depot": {
+        "3078921": {
+            "manifests": {
+                "public": {
+                    "gid": "5627011232075549216",
+                    "size": "2978861780",
+                    "download": "1843899616"
+                }
+            },
+            "decryptionkey": "7d79c56c8fb5bccb260a2307e96f1eb6b2f65f1402c53a83b95f9c05b095ceb1"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18122630",
+                "timeupdated": "1744801839"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
