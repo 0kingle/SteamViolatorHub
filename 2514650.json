@@ -1,0 +1,29 @@
+{
+    "appid": "2514650",
+    "type": "Game",
+    "name": "Greed and Fear and the Rest",
+    "schinese_name": "贪婪与恐惧及其他",
+    "isfreeapp": "0",
+    "change_number": "28984535",
+    "update_time": "2025-05-14 23:53:41",
+    "depot": {
+        "2514651": {
+            "manifests": {
+                "public": {
+                    "gid": "4410090664854972253",
+                    "size": "486081918",
+                    "download": "341304576"
+                }
+            },
+            "decryptionkey": "ef163f80f881ee1bac20558dd6d7a5f91a55464f5b7a6b0d6b3d1183c39ce29f"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18462866",
+                "timeupdated": "1747238016"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
