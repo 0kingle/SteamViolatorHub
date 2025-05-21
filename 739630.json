@@ -1,0 +1,35 @@
+{
+    "appid": "739630",
+    "type": "Game",
+    "name": "Phasmophobia",
+    "schinese_name": "恐鬼症",
+    "isfreeapp": "0",
+    "change_number": "29099719",
+    "update_time": "2025-05-21 19:33:00",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "739631": {
+            "manifests": {
+                "public": {
+                    "gid": "5175881086456704659",
+                    "size": "32822127834",
+                    "download": "11832916464"
+                }
+            },
+            "decryptionkey": "a0af61717bae449e5db4a1cc6eb68d7604ac3a8e05ff5226faa14b5be67d640c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18392128",
+                "timeupdated": "1746807644"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
