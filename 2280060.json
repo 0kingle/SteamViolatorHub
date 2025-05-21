@@ -1,0 +1,27 @@
+{
+    "appid": "2280060",
+    "type": "Game",
+    "name": "Tenebris: Terra Incognita",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103113",
+    "update_time": "2025-05-21 19:59:31",
+    "depot": {
+        "2280061": {
+            "manifests": {
+                "public": {
+                    "gid": "1195632326200878489",
+                    "size": "1716897779",
+                    "download": "1470299872"
+                }
+            },
+            "decryptionkey": "a8928c3e35f1b486b7e6601779a46aba034470b87b29c84e6035c53ef8da4597"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548900",
+                "timeupdated": "1747828766"
+            }
+        }
+    }
+}
