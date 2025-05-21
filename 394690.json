@@ -1,0 +1,74 @@
+{
+    "appid": "394690",
+    "type": "Game",
+    "name": "Tower Unite",
+    "schinese_name": "塔楼",
+    "isfreeapp": "0",
+    "change_number": "29093268",
+    "update_time": "2025-05-21 08:55:17",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "394690",
+        "394691": {
+            "manifests": {
+                "public": {
+                    "gid": "4289744699665228956",
+                    "size": "0",
+                    "download": "0"
+                },
+                "beta": {
+                    "gid": "4289744699665228956",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "77565668760b81bec885715428a57f31c3f5e1a131ddcb8c105a83fec6401d97"
+        },
+        "394692": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3235001351335710301",
+                    "size": "29063052334",
+                    "download": "28124173792"
+                },
+                "beta": {
+                    "gid": "3235001351335710301",
+                    "size": "29063052334",
+                    "download": "28124173792"
+                }
+            },
+            "decryptionkey": "be1149768a298865cf712fe8c1bb9ca533b6a528f7fb6c7fca4a3bd92b835223"
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18493883",
+                "timeupdated": "1747440153"
+            },
+            "beta": {
+                "buildid": "18493883",
+                "description": "Public Beta",
+                "timeupdated": "1747421532"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "455de1bb0ae3349f6f2ded0b040fab9e1af70d42dab7576d05a944a3daf51349"
+    }
+}
