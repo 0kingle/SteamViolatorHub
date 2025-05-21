@@ -1,0 +1,59 @@
+{
+    "appid": "1151680",
+    "type": "Game",
+    "name": "Galactic Rangers VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984517",
+    "update_time": "2025-05-14 23:53:22",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "1",
+        "1151681": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2869496395024042129",
+                    "size": "2696364695",
+                    "download": "2392036288"
+                }
+            },
+            "decryptionkey": "9c3b090c80f3bae0c68654bb00deba26bc71f3a00917bb4fe45e17c92954f61c"
+        },
+        "1231230": {
+            "config": {
+                "language": ""
+            },
+            "dlcappid": "1231230"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7938175",
+                "timeupdated": "1640370156"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
