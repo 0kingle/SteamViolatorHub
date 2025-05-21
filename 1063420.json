@@ -1,0 +1,28 @@
+{
+    "appid": "1063420",
+    "type": "Game",
+    "name": "Void Crew",
+    "schinese_name": "虚空航船",
+    "isfreeapp": "0",
+    "change_number": "29085602",
+    "update_time": "2025-05-20 23:51:57",
+    "depot": {
+        "1063421": {
+            "manifests": {
+                "public": {
+                    "gid": "7752559823634730048",
+                    "size": "6864577828",
+                    "download": "2564204960"
+                }
+            },
+            "decryptionkey": "754b7cae0a06bd6a6391e3fffbbfeca890dd71f7827f8c01544f070518324142"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18264716",
+                "timeupdated": "1745841764"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
