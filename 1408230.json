@@ -1,0 +1,31 @@
+{
+    "appid": "1408230",
+    "type": "Game",
+    "name": "Walkabout Mini Golf",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095212",
+    "update_time": "2025-05-21 19:21:42",
+    "depot": {
+        "1408231": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9191526897092162493",
+                    "size": "20299977757",
+                    "download": "7129219600"
+                }
+            },
+            "decryptionkey": "801d8b1cbfc15f01db9306fd2300d43d12ac7cfa46ffde9b86425538d1966813"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18351927",
+                "timeupdated": "1746549407"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
