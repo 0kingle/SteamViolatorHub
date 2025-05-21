@@ -1,0 +1,41 @@
+{
+    "appid": "3603800",
+    "type": "Game",
+    "name": "Get  To Gold",
+    "schinese_name": "Get  To Gold  少女与黄金",
+    "isfreeapp": "0",
+    "change_number": "29074275",
+    "update_time": "2025-05-20 12:05:03",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3603801": {
+            "manifests": {
+                "public": {
+                    "gid": "6387585090847970421",
+                    "size": "3428736804",
+                    "download": "3250187040"
+                }
+            },
+            "decryptionkey": "bb59c6ee360b4cd949d3e03ee789c058a6b514aa6851ef4d019d25fca19033fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17862657",
+                "timeupdated": "1742969567"
+            }
+        }
+    }
+}
