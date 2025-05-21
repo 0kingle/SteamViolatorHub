@@ -1,0 +1,30 @@
+{
+    "appid": "1044720",
+    "type": "Game",
+    "name": "Farthest Frontier",
+    "schinese_name": "最远的边陲",
+    "isfreeapp": "0",
+    "change_number": "29095547",
+    "update_time": "2025-05-21 19:23:29",
+    "depot": {
+        "1044721": {
+            "manifests": {
+                "public": {
+                    "gid": "2254336722827067251",
+                    "size": "13953467960",
+                    "download": "2497251664"
+                }
+            },
+            "decryptionkey": "2a605d9a2257c347b93162b67aa9844b9719d858501c8df4bcf4982565069ab7"
+        },
+        "workshopdepot": "1044720",
+        "branches": {
+            "public": {
+                "buildid": "18477643",
+                "timeupdated": "1747327955"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "80c177162f7bd99385d7da291b7b6c430b54b2e6e470d2a25a26b4344efb5fbe"
+    }
+}
