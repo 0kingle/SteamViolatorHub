@@ -1,0 +1,92 @@
+{
+    "appid": "1504980",
+    "type": "Demo",
+    "name": "It Takes Two Friend's Pass",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29079103",
+    "update_time": "2025-05-20 17:58:14",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1426211": {
+            "manifests": {
+                "public": {
+                    "gid": "5290425664756095500",
+                    "size": "48103037798",
+                    "download": "47190674656"
+                }
+            },
+            "depotfromapp": "1426210",
+            "decryptionkey": "c450c44e032e27d0308cf864259fb2af91bcfc58401a0caf33bb8efba85bb323"
+        },
+        "1426212": {
+            "depotfromapp": "1426210"
+        },
+        "1426213": {
+            "depotfromapp": "1426210"
+        },
+        "1426214": {
+            "depotfromapp": "1426210"
+        },
+        "1426215": {
+            "depotfromapp": "1426210"
+        },
+        "1426216": {
+            "depotfromapp": "1426210"
+        },
+        "1426217": {
+            "depotfromapp": "1426210"
+        },
+        "1426218": {
+            "depotfromapp": "1426210"
+        },
+        "1426219": {
+            "depotfromapp": "1426210"
+        },
+        "1503450": {
+            "depotfromapp": "1426210"
+        },
+        "1503451": {
+            "depotfromapp": "1426210"
+        },
+        "1503452": {
+            "depotfromapp": "1426210"
+        },
+        "1503453": {
+            "depotfromapp": "1426210"
+        },
+        "1504981": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5076663446351708450",
+                    "size": "503306776",
+                    "download": "258179456"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "14256215",
+                "timeupdated": "1716998593"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
