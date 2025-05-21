@@ -1,0 +1,27 @@
+{
+    "appid": "2271750",
+    "type": "Game",
+    "name": "3001: A MILF Odyssey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010338",
+    "update_time": "2025-05-16 03:42:41",
+    "depot": {
+        "2271751": {
+            "manifests": {
+                "public": {
+                    "gid": "6794021281560825859",
+                    "size": "1992743755",
+                    "download": "1850649680"
+                }
+            },
+            "decryptionkey": "dc313fe6da4067def1715e162b21af5a3fd917b5a9a6bf8ee40632c2a53c8076"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13429638",
+                "timeupdated": "1707703808"
+            }
+        }
+    }
+}
