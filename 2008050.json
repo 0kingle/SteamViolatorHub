@@ -1,0 +1,28 @@
+{
+    "appid": "2008050",
+    "type": "Game",
+    "name": "Right and Down",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29000665",
+    "update_time": "2025-05-15 19:10:04",
+    "depot": {
+        "2008051": {
+            "manifests": {
+                "public": {
+                    "gid": "6465851527890319700",
+                    "size": "730640307",
+                    "download": "171859584"
+                }
+            },
+            "decryptionkey": "71a6f80b45894d5626f38794636a99dcd59d98d32cb8f9a3bba6eeb3d812ed66"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10401089",
+                "timeupdated": "1674662012"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
