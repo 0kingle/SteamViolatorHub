@@ -1,0 +1,41 @@
+{
+    "appid": "3285350",
+    "type": "Music",
+    "name": "Windblown: Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091501",
+    "update_time": "2025-05-21 06:24:31",
+    "depot": {
+        "3285351": {
+            "manifests": {
+                "public": {
+                    "gid": "2796982394516684642",
+                    "size": "173946510",
+                    "download": "171546080"
+                }
+            },
+            "decryptionkey": "a132e363e6d4cdf9075ce07b2873b83164f5f01320cb0157a4a93e68b209c8d6"
+        },
+        "3285352": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8885180194511946254",
+                    "size": "955611073",
+                    "download": "966851568"
+                }
+            },
+            "decryptionkey": "9f272aae070ba5fe5a1abdd128d2d5a907fe255096e2708efc106395fec68c1b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18472268",
+                "timeupdated": "1747324586"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
