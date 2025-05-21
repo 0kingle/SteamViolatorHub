@@ -1,0 +1,28 @@
+{
+    "appid": "2438680",
+    "type": "Game",
+    "name": "Airborne Empire",
+    "schinese_name": "空中帝国",
+    "isfreeapp": "0",
+    "change_number": "29100066",
+    "update_time": "2025-05-21 19:33:45",
+    "depot": {
+        "2438681": {
+            "manifests": {
+                "public": {
+                    "gid": "6820424338176170044",
+                    "size": "2497505700",
+                    "download": "644671488"
+                }
+            },
+            "decryptionkey": "b7a82611f534e7ff628612421bf94d88ea2921ab8ccc5a9f27943b17e85c3092"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18311076",
+                "timeupdated": "1746202788"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
