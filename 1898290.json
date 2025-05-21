@@ -1,0 +1,79 @@
+{
+    "appid": "1898290",
+    "type": "Game",
+    "name": "LEGO® Bricktales",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102303",
+    "update_time": "2025-05-21 19:38:19",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1898291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9118243392470687648",
+                    "size": "1081260489",
+                    "download": "302043168"
+                }
+            },
+            "decryptionkey": "0d2fbdae03623a225c394a15ce2505d6b3d72cc604563f131bcf2370d5195991"
+        },
+        "1898292": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7032291904263957492",
+                    "size": "1261492992",
+                    "download": "337244192"
+                }
+            },
+            "decryptionkey": "0976b5441d1b2e1a9d3344f141f53d1a0b79c825c77cfb0585a1a0c5840c9f9c"
+        },
+        "1898293": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4978248365058475867",
+                    "size": "1151772250",
+                    "download": "314017200"
+                }
+            },
+            "decryptionkey": "8348c331194d94325f92e8abcca8e8b21fe27e2c236d0bbcfbbd7f5999c59bd2"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,danish",
+        "branches": {
+            "public": {
+                "buildid": "18356320",
+                "timeupdated": "1746697786"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
