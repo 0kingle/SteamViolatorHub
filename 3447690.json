@@ -1,0 +1,42 @@
+{
+    "appid": "3447690",
+    "type": "Game",
+    "name": "iDigging",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098239",
+    "update_time": "2025-05-21 19:29:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3447691": {
+            "manifests": {
+                "public": {
+                    "gid": "4163062455668743323",
+                    "size": "1537646426",
+                    "download": "1337503424"
+                }
+            },
+            "decryptionkey": "1f84872c8b0009e840668c4bbb969a273f70e17064a6743b2370be6988d5520d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18516554",
+                "timeupdated": "1747651902"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
