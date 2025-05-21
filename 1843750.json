@@ -1,0 +1,50 @@
+{
+    "appid": "1843750",
+    "type": "Game",
+    "name": "Sphere Game Epic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28457392",
+    "update_time": "2025-04-14 06:50:35",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1843751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4306852677347849614",
+                    "size": "388087419",
+                    "download": "209108208"
+                }
+            },
+            "decryptionkey": "afc729888ba167060c7733615dad923cdfe2c921a7318d132059329e564432c5"
+        },
+        "1843752": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4014730167994303841",
+                    "size": "364942959",
+                    "download": "208168656"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18092489",
+                "timeupdated": "1744584631"
+            }
+        }
+    }
+}
