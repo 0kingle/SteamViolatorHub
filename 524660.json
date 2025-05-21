@@ -1,0 +1,137 @@
+{
+    "appid": "524660",
+    "type": "Application",
+    "name": "RutonyChat",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067519",
+    "update_time": "2025-05-20 04:35:14",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,tchinese,russian",
+        "workshopdepot": "524660",
+        "hasdepotsindlc": "1",
+        "524661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "793507759969287816",
+                    "size": "1539461290",
+                    "download": "702603376"
+                },
+                "1may": {
+                    "gid": "5974454579324152735",
+                    "size": "469281894",
+                    "download": "203646960"
+                },
+                "stable_prev": {
+                    "gid": "2554909080422896953",
+                    "size": "434976734",
+                    "download": "187814096"
+                },
+                "test": {
+                    "gid": "5865966677939363058",
+                    "size": "704869248",
+                    "download": "589352176"
+                },
+                "test_new_browser": {
+                    "gid": "5865966677939363058",
+                    "size": "704869248",
+                    "download": "589352176"
+                },
+                "test_prev": {
+                    "gid": "3875927871833275109",
+                    "size": "520547073",
+                    "download": "216325536"
+                }
+            },
+            "decryptionkey": "667216d1e037ad6011ef1b1a2cd8dc91df816ab8a544df61f5c9f367e2be95fe"
+        },
+        "649390": {
+            "config": {
+                "oslist": "windows"
+            },
+            "dlcappid": "649390",
+            "manifests": {
+                "public": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "1may": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "stable_prev": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "test": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "test_new_browser": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                },
+                "test_prev": {
+                    "gid": "89436204134636782",
+                    "size": "12465365",
+                    "download": "3770944"
+                }
+            },
+            "decryptionkey": "7b2dd837de7ec7b4d3b39054626ad925b23f5c9699e12052ef1189b416e92c8e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18163418",
+                "timeupdated": "1745022207"
+            },
+            "1may": {
+                "buildid": "11130396",
+                "description": "Last version with Win7 support",
+                "timeupdated": "1694702141"
+            },
+            "stable_prev": {
+                "buildid": "13906889",
+                "description": "Прошлая стабильная версия (часть функционала уже сломано)",
+                "timeupdated": "1744762486"
+            },
+            "test": {
+                "buildid": "18484826",
+                "description": "Public test branch",
+                "timeupdated": "1747361515"
+            },
+            "test_new_browser": {
+                "buildid": "18484826",
+                "description": "test_new_browser",
+                "timeupdated": "1747361524"
+            },
+            "test_prev": {
+                "buildid": "16245778",
+                "description": "Previous test version",
+                "timeupdated": "1739557831"
+            }
+        },
+        "workshopdepotdecryptionkey": "2cc207d3f50b430a5201ad265964ace09fbb69280244994e2a8c223702035192"
+    }
+}
