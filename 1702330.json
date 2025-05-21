@@ -1,0 +1,36 @@
+{
+    "appid": "1702330",
+    "type": "Game",
+    "name": "Rune Factory 5",
+    "schinese_name": "符文工厂5",
+    "isfreeapp": "0",
+    "change_number": "28989266",
+    "update_time": "2025-05-15 04:39:53",
+    "depot": {
+        "baselanguages": "",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1702331": {
+            "manifests": {
+                "public": {
+                    "gid": "6580132214016269972",
+                    "size": "9265592236",
+                    "download": "7882963712"
+                }
+            },
+            "decryptionkey": "b8d15bd8808333d12fc5b91c1963429c6c5d544b5a43925efd97f49c631ac4fc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8769758",
+                "timeupdated": "1653026667"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
