@@ -1,0 +1,46 @@
+{
+    "appid": "2306030",
+    "type": "Game",
+    "name": "EBOLA VILLAGE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067531",
+    "update_time": "2025-05-20 04:35:20",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,russian",
+        "2306031": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1679870979733564336",
+                    "size": "26370019046",
+                    "download": "25808370880"
+                }
+            },
+            "decryptionkey": "b717b1927d90220e4e426ec6f87854f67e2b94fa99b29aafbab8568e0eacb1db"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18508635",
+                "timeupdated": "1747573050"
+            }
+        }
+    }
+}
