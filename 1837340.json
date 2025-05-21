@@ -1,0 +1,74 @@
+{
+    "appid": "1837340",
+    "type": "Game",
+    "name": "Grimgrad",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:15",
+    "depot": {
+        "baselanguages": "english,german,spanish,schinese,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1837341": {
+            "manifests": {
+                "public": {
+                    "gid": "6033822105434806376",
+                    "size": "5065213957",
+                    "download": "1725467248"
+                },
+                "development": {
+                    "gid": "6033822105434806376",
+                    "size": "5065213957",
+                    "download": "1725467248"
+                }
+            },
+            "decryptionkey": "24ba207f9fb9574d2121090df3a114cc545532a4e21e8271a9a7d85632388ffc"
+        },
+        "1837342": {
+            "manifests": {
+                "public": {
+                    "gid": "3661274861880851296",
+                    "size": "7",
+                    "download": "64"
+                },
+                "development": {
+                    "gid": "3661274861880851296",
+                    "size": "7",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "ccab1f21885b1fee2bd7ac3cc0b75f453ce30b637dced1cef7e6d74482abe8c2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18357883",
+                "timeupdated": "1746527078"
+            },
+            "development": {
+                "buildid": "18357883",
+                "description": "Development version",
+                "timeupdated": "1746527008"
+            }
+        }
+    }
+}
