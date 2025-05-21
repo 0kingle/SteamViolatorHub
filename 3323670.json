@@ -1,0 +1,46 @@
+{
+    "appid": "3323670",
+    "type": "Game",
+    "name": "Last Shift",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052760",
+    "update_time": "2025-05-19 06:12:10",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3323671": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8175269468607838919",
+                    "size": "1362065663",
+                    "download": "1052858048"
+                }
+            },
+            "decryptionkey": "cd89d5d6a9d7f284c37cfca75126d48d15787c3897a9529c56d8a8dd810e70b9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16580047",
+                "timeupdated": "1732890314"
+            }
+        }
+    }
+}
