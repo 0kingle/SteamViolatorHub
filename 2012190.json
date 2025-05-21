@@ -1,0 +1,30 @@
+{
+    "appid": "2012190",
+    "type": "Game",
+    "name": "Kaiserpunk",
+    "schinese_name": "凯撒朋克",
+    "isfreeapp": "0",
+    "change_number": "29048948",
+    "update_time": "2025-05-18 21:15:20",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,thai,japanese,polish,swedish,brazilian,ukrainian",
+        "hasdepotsindlc": "1",
+        "2012191": {
+            "manifests": {
+                "public": {
+                    "gid": "1410222991679200974",
+                    "size": "4621687877",
+                    "download": "2742638464"
+                }
+            },
+            "decryptionkey": "d563cc1e972880af6c0ef3a7d0074401446803137170f7d69b35db1a59764936"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18462507",
+                "timeupdated": "1747238450"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
