@@ -1,0 +1,54 @@
+{
+    "appid": "2094320",
+    "type": "Game",
+    "name": "Escape First Alchemist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28830846",
+    "update_time": "2025-05-06 06:29:17",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2094321": {
+            "manifests": {
+                "public": {
+                    "gid": "2785528913100896856",
+                    "size": "7689856531",
+                    "download": "3396648432"
+                },
+                "beta": {
+                    "gid": "2785528913100896856",
+                    "size": "7689856531",
+                    "download": "3396648432"
+                },
+                "lowenddevicebuild": {
+                    "gid": "2787528490512487757",
+                    "size": "7671836039",
+                    "download": "3395760608"
+                }
+            },
+            "decryptionkey": "a63622e56018d921236c2277ddf2ed8c9f5f81d3fed97e881945abd76ebc98d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18263364",
+                "timeupdated": "1745834629"
+            },
+            "beta": {
+                "buildid": "18263364",
+                "description": "we test here",
+                "timeupdated": "1745834109"
+            },
+            "lowenddevicebuild": {
+                "buildid": "13404094",
+                "description": "Low quality build for lower-end devices",
+                "timeupdated": "1724869396"
+            }
+        }
+    }
+}
