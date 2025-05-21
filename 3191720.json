@@ -1,0 +1,31 @@
+{
+    "appid": "3191720",
+    "type": "Game",
+    "name": "Sea Of Radiation 2",
+    "schinese_name": "辐射之海2",
+    "isfreeapp": "0",
+    "change_number": "29016408",
+    "update_time": "2025-05-16 12:12:49",
+    "depot": {
+        "3191721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6135613019132701484",
+                    "size": "995459818",
+                    "download": "87738752"
+                }
+            },
+            "decryptionkey": "4960bfc7d1d95a452f332849b470babe71918b2bbc695bf6bce601e5f5730b1a"
+        },
+        "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "18260279",
+                "timeupdated": "1745811495"
+            }
+        }
+    }
+}
