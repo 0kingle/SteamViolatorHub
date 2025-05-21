@@ -1,0 +1,42 @@
+{
+    "appid": "2357000",
+    "type": "Game",
+    "name": "Kill It With Fire 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011111",
+    "update_time": "2025-05-16 04:36:50",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2357001": {
+            "manifests": {
+                "public": {
+                    "gid": "7834679060607184275",
+                    "size": "1657910434",
+                    "download": "1423780416"
+                }
+            },
+            "decryptionkey": "0dd7f5515621a34cfe7b442968604f3f84f8036b9cfd507eff7e86e3cec4013a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18118184",
+                "timeupdated": "1744819035"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
