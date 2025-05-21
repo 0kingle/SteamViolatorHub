@@ -1,0 +1,58 @@
+{
+    "appid": "2750480",
+    "type": "Game",
+    "name": "7 Minutes in Hell",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091216",
+    "update_time": "2025-05-21 05:38:22",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2750481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "644862898517205601",
+                    "size": "5026207299",
+                    "download": "2179146368"
+                }
+            },
+            "decryptionkey": "f01f94e09726519bcbeffde35399fd8f602f92e4e13f9cc0989cf6ca9fa82413"
+        },
+        "2750482": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7696872544180054937",
+                    "size": "5026207299",
+                    "download": "2179135392"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18273557",
+                "timeupdated": "1745939609"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
