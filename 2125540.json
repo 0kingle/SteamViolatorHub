@@ -1,0 +1,45 @@
+{
+    "appid": "2125540",
+    "type": "Game",
+    "name": "Kādomon: Hyper Auto Battlers",
+    "schinese_name": "卡多梦:超能自走棋",
+    "isfreeapp": "0",
+    "change_number": "29104160",
+    "update_time": "2025-05-21 20:53:34",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2125542": {
+            "manifests": {
+                "public": {
+                    "gid": "8851847967389713174",
+                    "size": "3470759049",
+                    "download": "615500688"
+                },
+                "experimental": {
+                    "gid": "1205086195454566862",
+                    "size": "2891538835",
+                    "download": "554988384"
+                }
+            },
+            "decryptionkey": "03a982baa6facb2d155f1c861f5e2155178d77af05bd836c26d8898cfcd8f910"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548799",
+                "timeupdated": "1747832009"
+            },
+            "experimental": {
+                "buildid": "18109224",
+                "description": "Public Experimental Branch (Updates may have stability issues)",
+                "timeupdated": "1744697287"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
