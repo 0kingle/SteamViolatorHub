@@ -1,0 +1,33 @@
+{
+    "appid": "2537010",
+    "type": "Game",
+    "name": "MISTERY",
+    "schinese_name": "幽霾",
+    "isfreeapp": "0",
+    "change_number": "29076530",
+    "update_time": "2025-05-20 15:29:22",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "",
+        "2537011": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4289110208876067129",
+                    "size": "10190965912",
+                    "download": "7690268736"
+                }
+            },
+            "decryptionkey": "93216e5e4d6dc2a636ca63d1861ef4e448bf3296f40f79cc3827ddc939a0fb61"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18290266",
+                "timeupdated": "1745988168"
+            }
+        }
+    }
+}
