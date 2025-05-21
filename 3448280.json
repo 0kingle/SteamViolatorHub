@@ -1,0 +1,42 @@
+{
+    "appid": "3448280",
+    "type": "Demo",
+    "name": "Gothic 1 Remake - Demo (Nyras Prologue)",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103153",
+    "update_time": "2025-05-21 20:01:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3448281": {
+            "manifests": {
+                "public": {
+                    "gid": "1791827861486107805",
+                    "size": "10846238674",
+                    "download": "8818404608"
+                }
+            },
+            "decryptionkey": "613993f0b8166b3e2aa1306217ad55fac964a30e0f505be7239d11829a3390a6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18396085",
+                "timeupdated": "1746791627"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
