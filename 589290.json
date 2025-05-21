@@ -1,0 +1,44 @@
+{
+    "appid": "589290",
+    "type": "Game",
+    "name": "Holdfast: Nations At War",
+    "schinese_name": "坚守：国家战争",
+    "isfreeapp": "0",
+    "change_number": "29094082",
+    "update_time": "2025-05-21 10:02:18",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "workshopdepot": "589290",
+        "589291": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7347448915523204047",
+                    "size": "21287273465",
+                    "download": "7542276160"
+                },
+                "beta": {
+                    "gid": "4411901177738146505",
+                    "size": "18329941371",
+                    "download": "7405252800"
+                }
+            },
+            "decryptionkey": "a7c1417721600265bba5c83ede099119af0a65f1e2f3b341cc26c5cc7987b7b3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18042168",
+                "timeupdated": "1744208610"
+            },
+            "beta": {
+                "buildid": "18462741",
+                "description": "Open beta branch",
+                "timeupdated": "1747299947"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "58a30bb608730ed424304e2b8ded677da7ae400499e692e37118d61fadbd6e4a"
+    }
+}
