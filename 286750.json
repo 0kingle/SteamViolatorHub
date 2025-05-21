@@ -1,0 +1,28 @@
+{
+    "appid": "286750",
+    "type": "Game",
+    "name": "Zoo Empire",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28971347",
+    "update_time": "2025-05-14 09:27:50",
+    "depot": {
+        "overridescddb": "1",
+        "286751": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3042604237552119154",
+                    "size": "1094437450",
+                    "download": "493149168"
+                }
+            },
+            "decryptionkey": "ad35ebe06d06cdbb32da511a7b9cf74748692f50bc37103f4d84195f522040e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "734310"
+            }
+        }
+    }
+}
