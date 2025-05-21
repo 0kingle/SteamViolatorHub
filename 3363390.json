@@ -1,0 +1,42 @@
+{
+    "appid": "3363390",
+    "type": "Game",
+    "name": "PASSIONERS",
+    "schinese_name": "激情乘客",
+    "isfreeapp": "0",
+    "change_number": "29016664",
+    "update_time": "2025-05-16 12:42:42",
+    "depot": {
+        "3363391": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6424517757932383736",
+                    "size": "1873165986",
+                    "download": "1718041776"
+                }
+            },
+            "decryptionkey": "3a19f039ae4cd58b555794f312c8c88b5064a47c3ea11332012e1b801a46678f"
+        },
+        "3363392": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5739044201007224987",
+                    "size": "1860994548",
+                    "download": "1718113104"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18007501",
+                "timeupdated": "1744007833"
+            }
+        }
+    }
+}
