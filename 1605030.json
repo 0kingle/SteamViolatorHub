@@ -1,0 +1,45 @@
+{
+    "appid": "1605030",
+    "type": "Game",
+    "name": "Cannonball Crew",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29069832",
+    "update_time": "2025-05-20 05:16:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "hasdepotsindlc": "0",
+        "1605031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4259660738280170688",
+                    "size": "3425299182",
+                    "download": "2762416160"
+                }
+            },
+            "decryptionkey": "ba931cca75bd8e44b3789cd61bbedfe35cc672455ae3ac01d55e59c15068111c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18413375",
+                "timeupdated": "1746869861"
+            }
+        }
+    }
+}
