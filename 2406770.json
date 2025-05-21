@@ -1,0 +1,53 @@
+{
+    "appid": "2406770",
+    "type": "Game",
+    "name": "Bodycam",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29076736",
+    "update_time": "2025-05-20 15:39:52",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2406771": {
+            "manifests": {
+                "public": {
+                    "gid": "100473726127154370",
+                    "size": "61858621960",
+                    "download": "61201729488"
+                },
+                "publicbeta": {
+                    "gid": "6634908307061687336",
+                    "size": "65914104629",
+                    "download": "65258107360"
+                }
+            },
+            "decryptionkey": "0456324ba6c023dafc26bedc6005e6145a7b03bfe59a6d2806bf7e07ef54e6c2"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18511434",
+                "timeupdated": "1747618490"
+            },
+            "publicbeta": {
+                "buildid": "18479878",
+                "description": "Bodycam Public Beta Version - Join the Reissad Studio Discord for more information.",
+                "timeupdated": "1747348711"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
