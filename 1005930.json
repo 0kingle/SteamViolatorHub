@@ -1,0 +1,341 @@
+{
+    "appid": "1005930",
+    "type": "Game",
+    "name": "Timeflow",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982217",
+    "update_time": "2025-05-14 22:51:16",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "1005931": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "25170075438962907",
+                    "size": "631849668",
+                    "download": "155194464"
+                },
+                "beta": {
+                    "gid": "7432429635541269580",
+                    "size": "501023092",
+                    "download": "132749568"
+                }
+            },
+            "decryptionkey": "cbe3839f604d84b24f9c489a5600250b68c3963abebb6d799eb8331693732ab4"
+        },
+        "1005936": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5747004061098061380",
+                    "size": "606802116",
+                    "download": "147267840"
+                },
+                "beta": {
+                    "gid": "265822830611454436",
+                    "size": "469504304",
+                    "download": "121982224"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1005932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4350299406880872651",
+                    "size": "825996556",
+                    "download": "177323392"
+                },
+                "beta": {
+                    "gid": "5371273114893998493",
+                    "size": "665066481",
+                    "download": "152735408"
+                }
+            }
+        },
+        "1005933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2132008828282621193",
+                    "size": "907504320",
+                    "download": "185389584"
+                },
+                "beta": {
+                    "gid": "4480153456206537094",
+                    "size": "714541222",
+                    "download": "156621776"
+                }
+            }
+        },
+        "1005937": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "157045152329819206",
+                    "size": "631849668",
+                    "download": "155145952"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1005934": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "8070905106157438871",
+                    "size": "606802116",
+                    "download": "147204880"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1005935": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "535072359794784981",
+                    "size": "825996556",
+                    "download": "177082752"
+                }
+            }
+        },
+        "1005938": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "beta": {
+                    "gid": "8903240066513084421",
+                    "size": "907504320",
+                    "download": "185423344"
+                }
+            }
+        },
+        "1986180": {
+            "dlcappid": "1986180",
+            "manifests": {
+                "public": {
+                    "gid": "7388781645463418468",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "7388781645463418468",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "d2a0deeb24c7195ec515e7f8c885b8ada200d4657b952a7c40a3966170aa07a4"
+        },
+        "1184200": {
+            "dlcappid": "1184200",
+            "manifests": {
+                "public": {
+                    "gid": "3600831817151496953",
+                    "size": "17",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "3600831817151496953",
+                    "size": "17",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": "dcbc840a1f929656700e2b86fe98432b66465621b27048331d4b5e31cf0adf34"
+        },
+        "1986181": {
+            "dlcappid": "1986181",
+            "manifests": {
+                "public": {
+                    "gid": "2309169492561583503",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "2309169492561583503",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986182": {
+            "dlcappid": "1986182",
+            "manifests": {
+                "public": {
+                    "gid": "1003658602714563982",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "1003658602714563982",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986183": {
+            "dlcappid": "1986183",
+            "manifests": {
+                "public": {
+                    "gid": "5391371281344662273",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "5391371281344662273",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986184": {
+            "dlcappid": "1986184",
+            "manifests": {
+                "public": {
+                    "gid": "6101597828134448927",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "6101597828134448927",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986190": {
+            "dlcappid": "1986190",
+            "manifests": {
+                "public": {
+                    "gid": "2256718396862451979",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "2256718396862451979",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986191": {
+            "dlcappid": "1986191",
+            "manifests": {
+                "public": {
+                    "gid": "5645168830905468458",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "5645168830905468458",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986192": {
+            "dlcappid": "1986192",
+            "manifests": {
+                "public": {
+                    "gid": "9216336535902524468",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "9216336535902524468",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986193": {
+            "dlcappid": "1986193",
+            "manifests": {
+                "public": {
+                    "gid": "6452120096238554592",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "6452120096238554592",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986194": {
+            "dlcappid": "1986194",
+            "manifests": {
+                "public": {
+                    "gid": "5252890712230127417",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "5252890712230127417",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1986195": {
+            "dlcappid": "1986195",
+            "manifests": {
+                "public": {
+                    "gid": "1665060994830528999",
+                    "size": "11",
+                    "download": "64"
+                },
+                "beta": {
+                    "gid": "1665060994830528999",
+                    "size": "11",
+                    "download": "64"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18268622",
+                "timeupdated": "1745861300"
+            },
+            "beta": {
+                "buildid": "18260877",
+                "description": "Beta test branch",
+                "timeupdated": "1745818022"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
