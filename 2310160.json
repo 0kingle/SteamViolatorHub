@@ -1,0 +1,29 @@
+{
+    "appid": "2310160",
+    "type": "Game",
+    "name": "Operation: Polygon Storm",
+    "schinese_name": "兵团突击：现代战争",
+    "isfreeapp": "0",
+    "change_number": "28878059",
+    "update_time": "2025-05-08 16:40:51",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2310161": {
+            "manifests": {
+                "public": {
+                    "gid": "3758900630750220617",
+                    "size": "2112873710",
+                    "download": "878940208"
+                }
+            },
+            "decryptionkey": "d9e66eb033b40fd60533dc60970313ca9fa354a0c6edcb559cffea6b9094d0ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18101067",
+                "timeupdated": "1744645518"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
