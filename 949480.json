@@ -1,0 +1,81 @@
+{
+    "appid": "949480",
+    "type": "Game",
+    "name": "BROK the InvestiGator",
+    "schinese_name": "BROK the InvestiGator 鳄鱼侦探布罗格",
+    "isfreeapp": "0",
+    "change_number": "29091620",
+    "update_time": "2025-05-21 06:31:46",
+    "depot": {
+        "baselanguages": "english",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "949481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1287772633440728547",
+                    "size": "2449792000",
+                    "download": "2163048176"
+                },
+                "32bit": {
+                    "gid": "8888103650104402991",
+                    "size": "1974695950",
+                    "download": "1853309408"
+                }
+            },
+            "decryptionkey": "c39417b905a3de13b679da5a9d9e17c0bc2d9f84be09b97b985642f060312b2f"
+        },
+        "949482": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3831364087535529778",
+                    "size": "2397620219",
+                    "download": "2094330752"
+                }
+            },
+            "decryptionkey": "e0afc3e55d920946a3e03aaec6880686fc856608774b3d761b5a9af8aaee721d"
+        },
+        "2156870": {
+            "dlcappid": "2156870",
+            "manifests": {
+                "public": {
+                    "gid": "7528961184936029067",
+                    "size": "466887269",
+                    "download": "377050160"
+                }
+            },
+            "decryptionkey": "6ccd08e03b96507a6d90ee0e3aedcbd494f56c46eeb8246dfe759d741c45b356"
+        },
+        "2931330": {
+            "dlcappid": "2931330",
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "workshopdepot": "949480",
+        "branches": {
+            "public": {
+                "buildid": "18097900",
+                "timeupdated": "1744628325"
+            },
+            "32bit": {
+                "buildid": "9514517",
+                "description": "Last 32 bit compatible version for BROK (1.0.13)",
+                "timeupdated": "1663192740"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
