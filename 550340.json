@@ -1,0 +1,98 @@
+{
+    "appid": "550340",
+    "type": "Game",
+    "name": "Umineko: Golden Fantasia",
+    "schinese_name": "海猫：黄金梦想曲",
+    "isfreeapp": "0",
+    "change_number": "28974714",
+    "update_time": "2025-05-14 22:36:30",
+    "depot": {
+        "baselanguages": "english,japanese",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "550341": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "25311086339845674",
+                    "size": "2703250212",
+                    "download": "2305266096"
+                },
+                "community": {
+                    "gid": "25311086339845674",
+                    "size": "2703250212",
+                    "download": "2305266096"
+                },
+                "community-netplay": {
+                    "gid": "25311086339845674",
+                    "size": "2703250212",
+                    "download": "2305266096"
+                }
+            },
+            "decryptionkey": "58454efda034f20404cbe031d52f3d53115b30c5abeafc087c614ccecee90e4b"
+        },
+        "550342": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "community": {
+                    "gid": "941567258373372348",
+                    "size": "2750963906",
+                    "download": "2308366208"
+                }
+            },
+            "decryptionkey": "ae41825923aa46bf19b0b6e453f64aa72a5a766fe36532aebef46bd6e4ef18c3"
+        },
+        "550343": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "community-netplay": {
+                    "gid": "1741315251848707437",
+                    "size": "2750985795",
+                    "download": "2310841088"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2615651",
+                "timeupdated": "1521465754"
+            },
+            "community": {
+                "buildid": "18057508",
+                "description": "Community Edition",
+                "timeupdated": "1744293902"
+            },
+            "community-netplay": {
+                "buildid": "18057609",
+                "description": "Community version with incompatible netplay fixes",
+                "timeupdated": "1744294388"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
