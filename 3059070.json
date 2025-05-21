@@ -1,0 +1,45 @@
+{
+    "appid": "3059070",
+    "type": "Game",
+    "name": "The Headliners",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29069832",
+    "update_time": "2025-05-20 05:16:17",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3059071": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8847923096105561718",
+                    "size": "7591410008",
+                    "download": "7326283264"
+                }
+            },
+            "decryptionkey": "dc69975bdb4fe70b03c46dcb49e561b4b72524fb28d919a95faa8d1f5f987e5b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18475408",
+                "timeupdated": "1747311517"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
