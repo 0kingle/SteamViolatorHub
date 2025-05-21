@@ -1,0 +1,41 @@
+{
+    "appid": "1822450",
+    "type": "Game",
+    "name": "The Slaverian Trucker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990220",
+    "update_time": "2025-05-15 05:46:35",
+    "depot": {
+        "1822451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5924487528972252012",
+                    "size": "1903300688",
+                    "download": "1634810192"
+                },
+                "windows7": {
+                    "gid": "5924487528972252012",
+                    "size": "1903300688",
+                    "download": "1634810192"
+                }
+            },
+            "decryptionkey": "ac1bc66a8296ddbbe3681f93583d29e4e08988dc3b53187dcd2b000b74001104"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17887726",
+                "timeupdated": "1743102091"
+            },
+            "windows7": {
+                "buildid": "17887726",
+                "description": "Update Test",
+                "timeupdated": "1743102058"
+            }
+        }
+    }
+}
