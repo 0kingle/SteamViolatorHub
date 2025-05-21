@@ -1,0 +1,28 @@
+{
+    "appid": "3347310",
+    "type": "Game",
+    "name": "Let's Build Wonders: Galaxy",
+    "schinese_name": "一起建奇迹: 星系",
+    "isfreeapp": "0",
+    "change_number": "29018326",
+    "update_time": "2025-05-16 15:05:36",
+    "depot": {
+        "3347311": {
+            "manifests": {
+                "public": {
+                    "gid": "1768530129105049176",
+                    "size": "1733142882",
+                    "download": "531892944"
+                }
+            },
+            "decryptionkey": "83e9cf34043b939ebd4dbb8c89205d58592e3ef8c7e883142329ca4974a70d08"
+        },
+        "baselanguages": "english,schinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18487076",
+                "timeupdated": "1747379133"
+            }
+        }
+    }
+}
