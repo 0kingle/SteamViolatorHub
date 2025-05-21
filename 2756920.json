@@ -1,0 +1,38 @@
+{
+    "appid": "2756920",
+    "type": "Game",
+    "name": "Keep Driving",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052426",
+    "update_time": "2025-05-19 05:15:42",
+    "depot": {
+        "2756921": {
+            "manifests": {
+                "public": {
+                    "gid": "7731324007973562136",
+                    "size": "2667522996",
+                    "download": "2173645232"
+                },
+                "test": {
+                    "gid": "7731324007973562136",
+                    "size": "2667522996",
+                    "download": "2173645232"
+                }
+            },
+            "decryptionkey": "10032716e9015079aeec2f3447817d6aa1fb0ae3dd8273de5703282a258f0d36"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18358886",
+                "timeupdated": "1746533160"
+            },
+            "test": {
+                "buildid": "18358886",
+                "description": "Public Test Branch",
+                "timeupdated": "1746532492"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
