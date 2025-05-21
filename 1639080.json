@@ -1,0 +1,60 @@
+{
+    "appid": "1639080",
+    "type": "Game",
+    "name": "Sandwalkers",
+    "schinese_name": "沙行者 (Sandwalkers)",
+    "isfreeapp": "0",
+    "change_number": "29062199",
+    "update_time": "2025-05-20 04:21:58",
+    "depot": {
+        "1639081": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7935130953383290792",
+                    "size": "1947986063",
+                    "download": "717894144"
+                }
+            },
+            "decryptionkey": "bcd3da063c1d570ea26c3100e5cfb754972c13e4b2a5a9f5b1c5b44b2b7d4b71"
+        },
+        "1639083": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4297995715943390146",
+                    "size": "2056122147",
+                    "download": "737172992"
+                }
+            },
+            "decryptionkey": "6e337aaad4d09643b639a7a475462aa5af07237cc303b89ba035f00a82c90b72"
+        },
+        "1639084": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8453806779237178757",
+                    "size": "1921757330",
+                    "download": "715711744"
+                }
+            },
+            "decryptionkey": "717bcd1860e2cbbeb0ceba1839843d88100addfe1f61ddd52ab76fcae2bc4857"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18280231",
+                "timeupdated": "1745931491"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
