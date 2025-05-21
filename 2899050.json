@@ -1,0 +1,27 @@
+{
+    "appid": "2899050",
+    "type": "Game",
+    "name": "Desert Stalker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28938106",
+    "update_time": "2025-05-12 20:02:27",
+    "depot": {
+        "2899051": {
+            "manifests": {
+                "public": {
+                    "gid": "361248128083373848",
+                    "size": "4648662950",
+                    "download": "4180548192"
+                }
+            },
+            "decryptionkey": "a6cff3e9d965f5096403263df0125bd18d78589c82e7642e33f2f3ab3c2be3e1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18420822",
+                "timeupdated": "1746984305"
+            }
+        }
+    }
+}
