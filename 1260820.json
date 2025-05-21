@@ -1,0 +1,31 @@
+{
+    "appid": "1260820",
+    "type": "Game",
+    "name": "Third Crisis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016444",
+    "update_time": "2025-05-16 12:15:40",
+    "depot": {
+        "1260821": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4389252463517482400",
+                    "size": "5482560797",
+                    "download": "699434944"
+                }
+            },
+            "decryptionkey": "852ca57fa9da1bba259bddd26ebf6114b9ee327ffaa4c4e7197e7e30596cc99f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18412641",
+                "timeupdated": "1746861874"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
