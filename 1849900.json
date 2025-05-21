@@ -1,0 +1,28 @@
+{
+    "appid": "1849900",
+    "type": "Game",
+    "name": "Among Us 3D: VR",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102732",
+    "update_time": "2025-05-21 19:39:59",
+    "depot": {
+        "1849901": {
+            "manifests": {
+                "public": {
+                    "gid": "6811035711689174538",
+                    "size": "1873030560",
+                    "download": "330855552"
+                }
+            },
+            "decryptionkey": "b7688a6f7b2836e62a8b0562dae9ef1094061ae8f67131c49326cbf1819abdd4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18396870",
+                "timeupdated": "1747143036"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
