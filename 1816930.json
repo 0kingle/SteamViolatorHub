@@ -1,0 +1,85 @@
+{
+    "appid": "1816930",
+    "type": "Game",
+    "name": "Mad Experiments 2: Escape Room",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29088743",
+    "update_time": "2025-05-21 02:49:13",
+    "depot": {
+        "baselanguages": "",
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1816931": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1025256008477664831",
+                    "size": "1483581181",
+                    "download": "631497376"
+                }
+            },
+            "decryptionkey": "93ca31b0ccbb10ae9ebe485d6fb2c60b80e6c1f40fb8dfd8b92f6a248b398666"
+        },
+        "1816932": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7886863086229387741",
+                    "size": "1488749613",
+                    "download": "637914560"
+                }
+            }
+        },
+        "1816933": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1490488186843598158",
+                    "size": "1528243256",
+                    "download": "649491920"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18538302",
+                "timeupdated": "1747766948"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
