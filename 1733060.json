@@ -1,0 +1,124 @@
+{
+    "appid": "1733060",
+    "type": "Game",
+    "name": "Ever Seen A Cat?",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989510",
+    "update_time": "2025-05-15 04:59:57",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1733061": {
+            "config": {
+                "oslist": "windows",
+                "language": "english",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7710335829712522203",
+                    "size": "76962536",
+                    "download": "69879392"
+                },
+                "1.1.8": {
+                    "gid": "8889096356774480165",
+                    "size": "63932472",
+                    "download": "57606464"
+                },
+                "cursor-refresh": {
+                    "gid": "193648533528754278",
+                    "size": "101041384",
+                    "download": "86359120"
+                },
+                "cursor-update": {
+                    "gid": "7703049756693284670",
+                    "size": "101041320",
+                    "download": "86358656"
+                },
+                "freeze-fix": {
+                    "gid": "2219436925742633623",
+                    "size": "86726048",
+                    "download": "46028464"
+                },
+                "low-dpi": {
+                    "gid": "564234103785556489",
+                    "size": "101040568",
+                    "download": "86358672"
+                }
+            },
+            "decryptionkey": "bed9a4e5421742795eba47d7850c99600b7d505eadd718de2530a318f940553e"
+        },
+        "1733062": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7211764411587259892",
+                    "size": "78477096",
+                    "download": "70627072"
+                },
+                "1.1.8": {
+                    "gid": "6043815672167173782",
+                    "size": "65194104",
+                    "download": "58239696"
+                },
+                "cursor-refresh": {
+                    "gid": "1570022954910494486",
+                    "size": "112260904",
+                    "download": "94358208"
+                },
+                "cursor-update": {
+                    "gid": "7927286059390742811",
+                    "size": "112260840",
+                    "download": "94357744"
+                },
+                "freeze-fix": {
+                    "gid": "1774156903719479228",
+                    "size": "97701280",
+                    "download": "46743200"
+                },
+                "low-dpi": {
+                    "gid": "6674357190306970867",
+                    "size": "112260088",
+                    "download": "94357776"
+                }
+            },
+            "decryptionkey": "d938a108c3e0a43a288696d6daf3db5b9a5377a30a3ce107f49e51df8dea5429"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9844476",
+                "timeupdated": "1667653736"
+            },
+            "1.1.8": {
+                "buildid": "9541547",
+                "description": "Older release.",
+                "timeupdated": "1666019701"
+            },
+            "cursor-refresh": {
+                "buildid": "9828613",
+                "description": "A build that refreshes the cursor image often.",
+                "timeupdated": "1667061200"
+            },
+            "cursor-update": {
+                "buildid": "9828559",
+                "description": "A build that updates the cursor in a delayed wya.",
+                "timeupdated": "1667059830"
+            },
+            "freeze-fix": {
+                "buildid": "9584679",
+                "description": "Custom build that fixed game freezing at startup.  New versions should have these changes.",
+                "timeupdated": "1666020195"
+            },
+            "low-dpi": {
+                "buildid": "9828527",
+                "description": "A build that doesn't sense HiDPI.",
+                "timeupdated": "1667058981"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
