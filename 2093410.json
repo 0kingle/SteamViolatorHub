@@ -1,0 +1,128 @@
+{
+    "appid": "2093410",
+    "type": "Game",
+    "name": "Supreme Ruler 2030",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008646",
+    "update_time": "2025-05-16 01:54:45",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,portuguese,brazilian",
+        "workshopdepot": "2093410",
+        "hasdepotsindlc": "1",
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2093411": {
+            "manifests": {
+                "public": {
+                    "gid": "6926398775913349872",
+                    "size": "1967678706",
+                    "download": "809258000"
+                },
+                "fasttrack": {
+                    "gid": "3790358935688377324",
+                    "size": "1972497416",
+                    "download": "809834704"
+                }
+            },
+            "decryptionkey": "7e018bfc03085dc2017cc87ba2fab9dbe5960c906e62588ac5b44b2301a9cb8f"
+        },
+        "2702500": {
+            "dlcappid": "2702500",
+            "manifests": {
+                "public": {
+                    "gid": "4418658446276764130",
+                    "size": "263400229",
+                    "download": "120328720"
+                },
+                "fasttrack": {
+                    "gid": "6023217050152063964",
+                    "size": "295069390",
+                    "download": "128238608"
+                }
+            },
+            "decryptionkey": "e57e2ba3ce81269f58dab499f4cea75a58be0f6eed31a169d3a41061130e72bb"
+        },
+        "2648350": {
+            "dlcappid": "2648350",
+            "manifests": {
+                "public": {
+                    "gid": "1899848406752909596",
+                    "size": "42256056",
+                    "download": "17786272"
+                },
+                "fasttrack": {
+                    "gid": "7975436461666842077",
+                    "size": "42288169",
+                    "download": "17797488"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2878250": {
+            "dlcappid": "2878250",
+            "manifests": {
+                "public": {
+                    "gid": "2800479894599240403",
+                    "size": "52991521",
+                    "download": "21364576"
+                },
+                "fasttrack": {
+                    "gid": "5582469223332108499",
+                    "size": "53003122",
+                    "download": "21366352"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2878240": {
+            "dlcappid": "2878240",
+            "manifests": {
+                "public": {
+                    "gid": "6148150320557048443",
+                    "size": "176879885",
+                    "download": "87161328"
+                },
+                "fasttrack": {
+                    "gid": "2334731015683172731",
+                    "size": "167176463",
+                    "download": "80418096"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3592470": {
+            "dlcappid": "3592470",
+            "manifests": {
+                "public": {
+                    "gid": "1960806679721954870",
+                    "size": "900637",
+                    "download": "796736"
+                },
+                "fasttrack": {
+                    "gid": "2859669250540112654",
+                    "size": "845984",
+                    "download": "787664"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18226303",
+                "timeupdated": "1745510635"
+            },
+            "fasttrack": {
+                "buildid": "18406223",
+                "description": "Latest Updates Testing Branch",
+                "timeupdated": "1746810308"
+            }
+        },
+        "workshopdepotdecryptionkey": "8471c7c884dffadff2dc077d81df518d7cb678c0d6a837f14e02a1894ea203d0"
+    }
+}
