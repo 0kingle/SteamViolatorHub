@@ -1,0 +1,59 @@
+{
+    "appid": "1910860",
+    "type": "Game",
+    "name": "Grimlord",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29009564",
+    "update_time": "2025-05-16 02:47:42",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1910861": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6604793093007320939",
+                    "size": "23678178293",
+                    "download": "21637864912"
+                },
+                "grimlord_beta": {
+                    "gid": "2037026729020961243",
+                    "size": "21461956691",
+                    "download": "21060491584"
+                }
+            },
+            "decryptionkey": "188097d1cc92bb96dee16ea6fa1f400e075d0c99de8cf1d49307cc25c6215a15"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18479346",
+                "timeupdated": "1747327940"
+            },
+            "grimlord_beta": {
+                "buildid": "17104845",
+                "description": "v1.0.4 hotfix01",
+                "timeupdated": "1737634528"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
