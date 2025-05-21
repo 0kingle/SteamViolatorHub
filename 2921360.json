@@ -1,0 +1,41 @@
+{
+    "appid": "2921360",
+    "type": "Game",
+    "name": "The Mare of Jonah",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29049730",
+    "update_time": "2025-05-18 23:13:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2921361": {
+            "manifests": {
+                "public": {
+                    "gid": "3708331340061817927",
+                    "size": "4553847120",
+                    "download": "3962186752"
+                }
+            },
+            "decryptionkey": "b469983be9a29fff72aad6db057eed2755735546d86f4cc4fcf82460408228fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17189259",
+                "timeupdated": "1738266250"
+            }
+        }
+    }
+}
