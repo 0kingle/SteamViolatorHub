@@ -1,0 +1,27 @@
+{
+    "appid": "1806120",
+    "type": "Game",
+    "name": "Serena: Dark confessions",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990058",
+    "update_time": "2025-05-15 05:33:12",
+    "depot": {
+        "1806121": {
+            "manifests": {
+                "public": {
+                    "gid": "3118871402308436615",
+                    "size": "5185384446",
+                    "download": "5100201200"
+                }
+            },
+            "decryptionkey": "cedaef27b6557db2dc20e759446a5effe8c05b849934c71bc4167fca1181d862"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8268179",
+                "timeupdated": "1645712563"
+            }
+        }
+    }
+}
