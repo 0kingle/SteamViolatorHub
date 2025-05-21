@@ -1,0 +1,41 @@
+{
+    "appid": "2962330",
+    "type": "Game",
+    "name": "Kitty Collapse",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29066628",
+    "update_time": "2025-05-20 04:29:51",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2962331": {
+            "manifests": {
+                "public": {
+                    "gid": "4318406974155965734",
+                    "size": "10584660424",
+                    "download": "10259655936"
+                }
+            },
+            "decryptionkey": "a52eb792f5b39d4cde1b4dd56b1c3ee92ec7192c780d5374c96308862fd551b0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18494475",
+                "timeupdated": "1747414025"
+            }
+        }
+    }
+}
