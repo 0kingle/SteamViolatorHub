@@ -1,0 +1,98 @@
+{
+    "appid": "271590",
+    "type": "Game",
+    "name": "Grand Theft Auto V Legacy",
+    "schinese_name": "Grand Theft Auto V 传承版",
+    "isfreeapp": "0",
+    "change_number": "29087279",
+    "update_time": "2025-05-21 01:20:44",
+    "depot": {
+        "depotdeltapatches": "1",
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam",
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "271591": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3078536858461817817",
+                    "size": "77410081",
+                    "download": "50391616"
+                }
+            },
+            "decryptionkey": "baebeedec48b33c68a322fea0cbaa8d023d1dab4d2870aa909b82c33caa53941"
+        },
+        "271592": {
+            "manifests": {
+                "public": {
+                    "gid": "2329791907092268889",
+                    "size": "30974503",
+                    "download": "28643568"
+                }
+            },
+            "decryptionkey": "e34313f0ec133a608e636cf04fd879d3ac1e8e10af38542436940be1b6834bee"
+        },
+        "271593": {
+            "manifests": {
+                "public": {
+                    "gid": "4296904213986058493",
+                    "size": "17888398202",
+                    "download": "16813753584"
+                }
+            },
+            "decryptionkey": "71b57be5c50e5fbc819068a5bf31db42b653f1c75d88307da682ff0d5cae9457"
+        },
+        "271594": {
+            "manifests": {
+                "public": {
+                    "gid": "6991706980502578342",
+                    "size": "64918430495",
+                    "download": "62990281104"
+                }
+            },
+            "decryptionkey": "ae7ed6931a136d41d3aae146563368eb3b3e4e60963344f3f426c0abc74bbdab"
+        },
+        "271595": {
+            "manifests": {
+                "public": {
+                    "gid": "8334800630270461944",
+                    "size": "39435642880",
+                    "download": "39063563072"
+                }
+            },
+            "decryptionkey": "6dc0d2ce6b9dc96469ff792f6a607f759f0abd851d496cac73d71cd145c70b4d"
+        },
+        "1899671": {
+            "manifests": {
+                "public": {
+                    "gid": "4177720964978853031",
+                    "size": "230627596",
+                    "download": "187200304"
+                }
+            },
+            "depotfromapp": "1899670",
+            "decryptionkey": "b7921da5e50d00b2238d0fe870a354cb572bc5d397955fef02a439103f62827b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18223048",
+                "timeupdated": "1746522181"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
