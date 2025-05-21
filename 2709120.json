@@ -1,0 +1,27 @@
+{
+    "appid": "2709120",
+    "type": "Game",
+    "name": "Clamb",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29082518",
+    "update_time": "2025-05-20 21:14:59",
+    "depot": {
+        "2709121": {
+            "manifests": {
+                "public": {
+                    "gid": "2239956044511023410",
+                    "size": "6347071000",
+                    "download": "2607316736"
+                }
+            },
+            "decryptionkey": "a48423d534ce7da3fc796369f7aa1f6230df1a6bf0906e3e989fc8fe5b00b98f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16660419",
+                "timeupdated": "1734611700"
+            }
+        }
+    }
+}
