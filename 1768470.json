@@ -1,0 +1,30 @@
+{
+    "appid": "1768470",
+    "type": "Game",
+    "name": "世上英雄（The Heroes around Me）",
+    "schinese_name": "世上英雄",
+    "isfreeapp": "0",
+    "change_number": "28989707",
+    "update_time": "2025-05-15 05:13:08",
+    "depot": {
+        "baselanguages": "english,french,schinese,tchinese",
+        "1768471": {
+            "manifests": {
+                "public": {
+                    "gid": "5870509924028860091",
+                    "size": "2040702285",
+                    "download": "637918336"
+                }
+            },
+            "decryptionkey": "04995ea00a2c227e3903021f6747fc454900b89766e14076aa355a367a196104"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18291192",
+                "timeupdated": "1745996938"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
