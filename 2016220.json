@@ -1,0 +1,122 @@
+{
+    "appid": "2016220",
+    "type": "Game",
+    "name": "EarthRoyale",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29002907",
+    "update_time": "2025-05-15 21:10:04",
+    "depot": {
+        "2016221": {
+            "config": {
+                "language": "english",
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7104467015501228487",
+                    "size": "81499961",
+                    "download": "27978624"
+                },
+                "v13.00.06": {
+                    "gid": "2057748365858593836",
+                    "size": "77194605",
+                    "download": "25338528"
+                },
+                "v13.01.01": {
+                    "gid": "4744662121104283",
+                    "size": "77654673",
+                    "download": "25604480"
+                },
+                "v14.00.03": {
+                    "gid": "6593920553731228058",
+                    "size": "81499940",
+                    "download": "27978608"
+                }
+            },
+            "decryptionkey": "b385212ec280de52bfcafb59478094d3b8a3a6e55e3807063c0cc7a704c8bf85"
+        },
+        "2016222": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7096791951889965841",
+                    "size": "105704926",
+                    "download": "35272672"
+                },
+                "v13.00.06": {
+                    "gid": "686687865045256729",
+                    "size": "101396900",
+                    "download": "32634000"
+                },
+                "v13.01.01": {
+                    "gid": "2834119675656182575",
+                    "size": "101845204",
+                    "download": "32894000"
+                },
+                "v14.00.03": {
+                    "gid": "2356788264670776839",
+                    "size": "105704878",
+                    "download": "35272896"
+                }
+            }
+        },
+        "2016223": {
+            "config": {
+                "language": "english",
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6280273137140186431",
+                    "size": "82665733",
+                    "download": "27043152"
+                },
+                "v13.00.06": {
+                    "gid": "907401938742938868",
+                    "size": "78363939",
+                    "download": "24421248"
+                },
+                "v13.01.01": {
+                    "gid": "3699378682669341079",
+                    "size": "78803821",
+                    "download": "24672544"
+                },
+                "v14.00.03": {
+                    "gid": "2772824822237649453",
+                    "size": "82665709",
+                    "download": "27043056"
+                }
+            }
+        },
+        "workshopdepot": "2016220",
+        "branches": {
+            "public": {
+                "buildid": "12851376",
+                "timeupdated": "1701443521"
+            },
+            "v13.00.06": {
+                "buildid": "11325927",
+                "description": "Old v13.00.06",
+                "timeupdated": "1685579585"
+            },
+            "v13.01.01": {
+                "buildid": "11365131",
+                "description": "Old v13.01.01",
+                "timeupdated": "1689960722"
+            },
+            "v14.00.03": {
+                "buildid": "11977062",
+                "description": "Old v14.00.03",
+                "timeupdated": "1701443538"
+            }
+        },
+        "workshopdepotdecryptionkey": "c36c2780ef2ea5170b26401cc84da8f4e71bbe4c2d1b351d38fcc486e0f40531"
+    }
+}
