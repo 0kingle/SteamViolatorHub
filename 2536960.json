@@ -1,0 +1,140 @@
+{
+    "appid": "2536960",
+    "type": "Game",
+    "name": "Shadowveil: Legend of The Five Rings",
+    "schinese_name": "暗影帷幕：《五轮传奇》",
+    "isfreeapp": "0",
+    "change_number": "29090882",
+    "update_time": "2025-05-21 05:15:48",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2536961": {
+            "manifests": {
+                "public": {
+                    "gid": "8777360277796888985",
+                    "size": "8542756532",
+                    "download": "8004201728"
+                },
+                "backup1.0.0": {
+                    "gid": "2554737527435014843",
+                    "size": "8730035583",
+                    "download": "8211995968"
+                },
+                "backup1.0.1": {
+                    "gid": "5128746227230446265",
+                    "size": "8753119811",
+                    "download": "8233155584"
+                },
+                "backup1.0.2": {
+                    "gid": "234500497251589660",
+                    "size": "8445089674",
+                    "download": "7923099760"
+                },
+                "backup1.0.3": {
+                    "gid": "5988026651837350587",
+                    "size": "8598551636",
+                    "download": "8064126336"
+                },
+                "backup1.0.4": {
+                    "gid": "5302829533292245504",
+                    "size": "8614285714",
+                    "download": "8077360096"
+                },
+                "backup1.0.5": {
+                    "gid": "3177732698052835192",
+                    "size": "8378467827",
+                    "download": "7845389872"
+                },
+                "backup1.0.6": {
+                    "gid": "4668444332179524851",
+                    "size": "8377885327",
+                    "download": "7845233152"
+                },
+                "backup1.1.0": {
+                    "gid": "7781400878324248877",
+                    "size": "8531014290",
+                    "download": "7992493312"
+                },
+                "backup1.1.1": {
+                    "gid": "8777360277796888985",
+                    "size": "8542756532",
+                    "download": "8004201728"
+                }
+            },
+            "decryptionkey": "3df080decc628928621080b03652e6b736eb4d35e609da5e4d94a2c8877c5457"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18372543",
+                "timeupdated": "1746695421"
+            },
+            "backup1.0.0": {
+                "buildid": "17549197",
+                "description": "Patch 1.0.0",
+                "timeupdated": "1741272799"
+            },
+            "backup1.0.1": {
+                "buildid": "17632248",
+                "description": "Patch 1.0.1",
+                "timeupdated": "1741707670"
+            },
+            "backup1.0.2": {
+                "buildid": "17697704",
+                "description": "Patch 1.0.2",
+                "timeupdated": "1742199503"
+            },
+            "backup1.0.3": {
+                "buildid": "17794453",
+                "description": "Patch 1.0.3",
+                "timeupdated": "1742484061"
+            },
+            "backup1.0.4": {
+                "buildid": "17884970",
+                "description": "Patch 1.0.4",
+                "timeupdated": "1743158117"
+            },
+            "backup1.0.5": {
+                "buildid": "18039162",
+                "description": "Patch 1.0.5",
+                "timeupdated": "1744268367"
+            },
+            "backup1.0.6": {
+                "buildid": "18126000",
+                "description": "Patch 1.0.6",
+                "timeupdated": "1744810963"
+            },
+            "backup1.1.0": {
+                "buildid": "18268199",
+                "description": "Patch 1.1.0",
+                "timeupdated": "1745930713"
+            },
+            "backup1.1.1": {
+                "buildid": "18372543",
+                "description": "Patch 1.1.1",
+                "timeupdated": "1746695593"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
