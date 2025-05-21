@@ -1,0 +1,36 @@
+{
+    "appid": "1521100",
+    "type": "Game",
+    "name": "Casual Pro Wrestling",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987808",
+    "update_time": "2025-05-15 02:59:58",
+    "depot": {
+        "baselanguages": "english,german",
+        "1521101": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4915893422082251778",
+                    "size": "599024253",
+                    "download": "478228640"
+                }
+            },
+            "decryptionkey": "e5785362ab0d76d9693f1161bc6369e72dffa970be35e9d8c7d6392d8b0d1ab6"
+        },
+        "workshopdepot": "1521100",
+        "branches": {
+            "public": {
+                "buildid": "17290874",
+                "timeupdated": "1739098560"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "1f2a8782d9c801ba05b5464bc9ab0aea0d4211aca655f59fa941694bf0a169aa"
+    }
+}
