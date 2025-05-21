@@ -1,0 +1,39 @@
+{
+    "appid": "739260",
+    "type": "Game",
+    "name": "Golden Hornet",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28977915",
+    "update_time": "2025-05-14 22:43:56",
+    "depot": {
+        "739261": {
+            "manifests": {
+                "public": {
+                    "gid": "7965998181157507041",
+                    "size": "30667500",
+                    "download": "17312896"
+                }
+            },
+            "decryptionkey": "c166b071e5c9d5f73159d312bbad567f44197490ef697eabaf63650e04774f3b"
+        },
+        "739262": {
+            "config": {
+                "language": "koreana"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1801840499346370893",
+                    "size": "30667548",
+                    "download": "17262016"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "3431689",
+                "timeupdated": "1545990653"
+            }
+        }
+    }
+}
