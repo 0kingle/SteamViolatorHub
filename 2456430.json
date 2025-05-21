@@ -1,0 +1,55 @@
+{
+    "appid": "2456430",
+    "type": "Game",
+    "name": "Athena Crisis",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:43",
+    "depot": {
+        "baselanguages": "",
+        "2456432": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1496506662943405727",
+                    "size": "465745486",
+                    "download": "143574336"
+                }
+            }
+        },
+        "2456433": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1542932654991219844",
+                    "size": "306668717",
+                    "download": "97033664"
+                }
+            },
+            "decryptionkey": "7bfc8472f32933f27e76036b39c6bc3e90c34b5761b298eca4576c16f8e550d6"
+        },
+        "2456434": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4911524624067945018",
+                    "size": "291096880",
+                    "download": "87505584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17022998",
+                "timeupdated": "1737012191"
+            }
+        }
+    }
+}
