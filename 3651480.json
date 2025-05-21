@@ -1,0 +1,42 @@
+{
+    "appid": "3651480",
+    "type": "Game",
+    "name": "Only Up ! 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052871",
+    "update_time": "2025-05-19 06:30:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3651481": {
+            "manifests": {
+                "public": {
+                    "gid": "1903160389962040899",
+                    "size": "1666986670",
+                    "download": "1492984304"
+                }
+            },
+            "decryptionkey": "adef690fca07f7a0bc6924b21e18be559528a7075e071cf97b6f2e6946376ddb"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18511323",
+                "timeupdated": "1747607431"
+            }
+        }
+    }
+}
