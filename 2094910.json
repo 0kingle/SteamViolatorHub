@@ -1,0 +1,28 @@
+{
+    "appid": "2094910",
+    "type": "Game",
+    "name": "Pile Up!",
+    "schinese_name": "叠叠高城 Pile Up!",
+    "isfreeapp": "0",
+    "change_number": "29008646",
+    "update_time": "2025-05-16 01:54:48",
+    "depot": {
+        "2094911": {
+            "manifests": {
+                "public": {
+                    "gid": "5396396604450337112",
+                    "size": "583747469",
+                    "download": "170266256"
+                }
+            },
+            "decryptionkey": "db4c431edb8fa95a158d32effe156aa64371d4ccfca562cca284100fd157f6eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18183957",
+                "timeupdated": "1745265053"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
