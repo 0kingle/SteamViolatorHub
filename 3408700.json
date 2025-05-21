@@ -1,0 +1,28 @@
+{
+    "appid": "3408700",
+    "type": "Game",
+    "name": "Lovely Anime Puzzle: Lunar",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29023810",
+    "update_time": "2025-05-16 20:16:28",
+    "depot": {
+        "3408701": {
+            "manifests": {
+                "public": {
+                    "gid": "726374443880436032",
+                    "size": "497807411",
+                    "download": "475701824"
+                }
+            },
+            "decryptionkey": "a8acf8f049dbac24bfcfa6ae6af4b94c361863964d0bf37c4df3cc40b6c26206"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "17173867",
+                "timeupdated": "1738170275"
+            }
+        }
+    }
+}
