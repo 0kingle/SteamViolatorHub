@@ -1,0 +1,36 @@
+{
+    "appid": "1051300",
+    "type": "Game",
+    "name": "Parking 3D",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983254",
+    "update_time": "2025-05-14 22:52:41",
+    "depot": {
+        "1051301": {
+            "manifests": {
+                "public": {
+                    "gid": "3374155216483280896",
+                    "size": "276232258",
+                    "download": "74093248"
+                },
+                "beta": {
+                    "gid": "3374155216483280896",
+                    "size": "276232258",
+                    "download": "74093248"
+                }
+            },
+            "decryptionkey": "4171658da86c46bc3a90fe95e64a05e897a25c2d4d8a27acadb954dad4ef8089"
+        },
+        "branches": {
+            "public": {
+                "buildid": "4274102",
+                "timeupdated": "1570696784"
+            },
+            "beta": {
+                "buildid": "4274102",
+                "timeupdated": "1570696538"
+            }
+        }
+    }
+}
