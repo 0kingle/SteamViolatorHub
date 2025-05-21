@@ -1,0 +1,28 @@
+{
+    "appid": "2130060",
+    "type": "Game",
+    "name": "Tower Walker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008930",
+    "update_time": "2025-05-16 02:12:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2130061": {
+            "manifests": {
+                "public": {
+                    "gid": "7929046332608243420",
+                    "size": "2444577616",
+                    "download": "656539440"
+                }
+            },
+            "decryptionkey": "fd6dc5d7aabac85d428b2993221bd54a6573139b86110f0493d0e215b9f35491"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18345188",
+                "timeupdated": "1746442016"
+            }
+        }
+    }
+}
