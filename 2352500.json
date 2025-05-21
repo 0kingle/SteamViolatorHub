@@ -1,0 +1,51 @@
+{
+    "appid": "2352500",
+    "type": "Game",
+    "name": "Sex Simulator - Girl on Girl",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 12:15:52",
+    "depot": {
+        "2352501": {
+            "manifests": {
+                "public": {
+                    "gid": "6505471192479435159",
+                    "size": "822570882",
+                    "download": "260347680"
+                }
+            },
+            "decryptionkey": "e3a7bae21fe6500401a53e67d580f95c428b9ed0f1aefd44b2fc27223334fbd1"
+        },
+        "2352502": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "11659412368537911",
+                    "size": "814941123",
+                    "download": "257205824"
+                }
+            }
+        },
+        "2352503": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7882111479223575914",
+                    "size": "806171016",
+                    "download": "257227296"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "13854315",
+                "timeupdated": "1711441826"
+            }
+        }
+    }
+}
