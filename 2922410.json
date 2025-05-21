@@ -1,0 +1,50 @@
+{
+    "appid": "2922410",
+    "type": "Game",
+    "name": "Achilles: Survivor",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093933",
+    "update_time": "2025-05-21 09:50:36",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2922411": {
+            "manifests": {
+                "public": {
+                    "gid": "2169687235722892335",
+                    "size": "5134499065",
+                    "download": "4767328400"
+                }
+            },
+            "decryptionkey": "b9589ac336959faef6c6ef10cab6174bc34627b307d10cf57a6a05c645320ad6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18385244",
+                "timeupdated": "1746692145"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
