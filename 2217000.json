@@ -1,0 +1,76 @@
+{
+    "appid": "2217000",
+    "type": "Game",
+    "name": "Rivals of Aether II",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094160",
+    "update_time": "2025-05-21 10:09:12",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2217001": {
+            "manifests": {
+                "public": {
+                    "gid": "7625743145323318169",
+                    "size": "2875010837",
+                    "download": "2501545200"
+                },
+                "previous_version": {
+                    "gid": "4459521782269159163",
+                    "size": "2856576105",
+                    "download": "2484840416"
+                }
+            },
+            "decryptionkey": "43d69e105073277384193785bd85036890e6506f83ed959407df51df70e51922"
+        },
+        "workshopdepot": "2217000",
+        "baselanguages": "english,german,french,spanish,japanese,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18537709",
+                "timeupdated": "1747763890"
+            },
+            "previous_version": {
+                "buildid": "18448949",
+                "description": "The previously live version of the game. Use this to access invalid replays",
+                "timeupdated": "1747762233"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
