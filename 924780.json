@@ -1,0 +1,152 @@
+{
+    "appid": "924780",
+    "type": "Game",
+    "name": "How to Sing to Open Your Heart",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980613",
+    "update_time": "2025-05-14 22:49:01",
+    "depot": {
+        "baselanguages": "english",
+        "hasdepotsindlc": "1",
+        "924781": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3930061749427027762",
+                    "size": "444993694",
+                    "download": "431199552"
+                }
+            },
+            "decryptionkey": "01c6f4bce48829430975ff6a7af5628f64eed73ab3275aa8495078c8cfc5be32"
+        },
+        "924782": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8023985327610082646",
+                    "size": "457429141",
+                    "download": "433042528"
+                }
+            }
+        },
+        "924783": {
+            "config": {
+                "oslist": "windows",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3857467923769884045",
+                    "size": "444590058",
+                    "download": "430792304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "924784": {
+            "config": {
+                "oslist": "macos",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "909232982757858812",
+                    "size": "457025012",
+                    "download": "432636304"
+                }
+            }
+        },
+        "924785": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7619479304709462586",
+                    "size": "444522143",
+                    "download": "430723472"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "924786": {
+            "config": {
+                "language": "german",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8756548621841223010",
+                    "size": "456957810",
+                    "download": "432569088"
+                }
+            }
+        },
+        "924787": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3704563689418376724",
+                    "size": "448582727",
+                    "download": "434085248"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "924788": {
+            "config": {
+                "language": "french",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "242013924774274211",
+                    "size": "457830229",
+                    "download": "435007968"
+                }
+            }
+        },
+        "924789": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "762727352450484727",
+                    "size": "446153251",
+                    "download": "431607408"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1707961": {
+            "config": {
+                "language": "koreana",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8561976182173456951",
+                    "size": "455400374",
+                    "download": "432529120"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "7230177",
+                "timeupdated": "1629643443"
+            }
+        }
+    }
+}
