@@ -1,0 +1,27 @@
+{
+    "appid": "3094840",
+    "type": "Game",
+    "name": "Lust in Space 🔞🪐",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016152",
+    "update_time": "2025-05-16 11:48:49",
+    "depot": {
+        "3094841": {
+            "manifests": {
+                "public": {
+                    "gid": "2227953974912990401",
+                    "size": "6864493348",
+                    "download": "1505595168"
+                }
+            },
+            "decryptionkey": "138476d78444dc6764a51c71f3f93f260218587f7c9e3c63465cfb71bb36e852"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15481887",
+                "timeupdated": "1724514507"
+            }
+        }
+    }
+}
