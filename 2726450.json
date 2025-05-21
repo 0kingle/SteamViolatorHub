@@ -1,0 +1,60 @@
+{
+    "appid": "2726450",
+    "type": "Game",
+    "name": "Windowkill",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29053432",
+    "update_time": "2025-05-19 08:13:29",
+    "depot": {
+        "2726451": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1015350276943111137",
+                    "size": "116005035",
+                    "download": "62711600"
+                },
+                "modding": {
+                    "gid": "8693042290469414023",
+                    "size": "465773883",
+                    "download": "235149504"
+                }
+            },
+            "decryptionkey": "395c4804d47282f4081571ceed4fb5c59a21704398b49eb59455ccbbe92d0384"
+        },
+        "2726452": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9149817624923830965",
+                    "size": "138559228",
+                    "download": "67544976"
+                },
+                "modding": {
+                    "gid": "6396727810453963592",
+                    "size": "507391636",
+                    "download": "223760992"
+                }
+            }
+        },
+        "workshopdepot": "2726450",
+        "branches": {
+            "public": {
+                "buildid": "17525697",
+                "timeupdated": "1740634785"
+            },
+            "modding": {
+                "buildid": "17525865",
+                "description": "modding",
+                "timeupdated": "1740634762"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "659f27a68f0782474a738dc80536e5f5aaa0ccb3047e0d8dc5dabb1bfe467bf9"
+    }
+}
