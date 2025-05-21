@@ -1,0 +1,62 @@
+{
+    "appid": "1604800",
+    "type": "Game",
+    "name": "LIP! Lewd Idol Project Vol. 1",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28772470",
+    "update_time": "2025-05-02 01:24:39",
+    "depot": {
+        "1604801": {
+            "manifests": {
+                "public": {
+                    "gid": "4971693990038540183",
+                    "size": "3116700352",
+                    "download": "2705362224"
+                }
+            },
+            "decryptionkey": "3b4f9a9a5ae95b7fcf1e088eea3b8837311a2589b87335c7ec14b9116ae7f7c2"
+        },
+        "1604802": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6091386684995789777",
+                    "size": "3068285516",
+                    "download": "2753131680"
+                }
+            }
+        },
+        "1604803": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4068153981813342913",
+                    "size": "3097395594",
+                    "download": "2694032672"
+                }
+            }
+        },
+        "1825810": {
+            "dlcappid": "1825810",
+            "manifests": {
+                "public": {
+                    "gid": "7929116145072600861",
+                    "size": "33168569",
+                    "download": "30769472"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18311816",
+                "timeupdated": "1746120257"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
