@@ -1,0 +1,31 @@
+{
+    "appid": "3306200",
+    "type": "Game",
+    "name": "Futanari★Coffee shop",
+    "schinese_name": "扶她★咖啡店",
+    "isfreeapp": "0",
+    "change_number": "29016621",
+    "update_time": "2025-05-16 12:36:43",
+    "depot": {
+        "3306201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6311651517535591968",
+                    "size": "1385022300",
+                    "download": "348964192"
+                }
+            },
+            "decryptionkey": "df0568186ef1858d1d4323e254ded42fb10a23af7da37d4b94f848fb79948da0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18232406",
+                "timeupdated": "1745548708"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
