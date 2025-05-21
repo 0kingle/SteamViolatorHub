@@ -1,0 +1,71 @@
+{
+    "appid": "363860",
+    "type": "Game",
+    "name": "MythForce",
+    "schinese_name": "神话力量",
+    "isfreeapp": "0",
+    "change_number": "29099226",
+    "update_time": "2025-05-21 19:27:53",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "363862": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2778815742396136400",
+                    "size": "12392590076",
+                    "download": "11651691392"
+                },
+                "publictest": {
+                    "gid": "7391192652084022184",
+                    "size": "9483019500",
+                    "download": "8964744672"
+                }
+            },
+            "decryptionkey": "95d289db6425849619bee0c01f4ad1a6394913957d879f06484a6ff93384841a"
+        },
+        "2586060": {
+            "dlcappid": "2586060",
+            "manifests": {
+                "public": {
+                    "gid": "6567350903637025109",
+                    "size": "339272663",
+                    "download": "322825744"
+                },
+                "publictest": {
+                    "gid": "6567350903637025109",
+                    "size": "339272663",
+                    "download": "322825744"
+                }
+            },
+            "decryptionkey": "a26be4be39ded04c4002abfdcd3320daffbaa976a3a7a8af65c2babd18e874a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14393276",
+                "timeupdated": "1715897021"
+            },
+            "publictest": {
+                "buildid": "18416765",
+                "description": "Beta builds for testing",
+                "timeupdated": "1747076352"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
