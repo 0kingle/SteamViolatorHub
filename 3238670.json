@@ -1,0 +1,31 @@
+{
+    "appid": "3238670",
+    "type": "Game",
+    "name": "Conquest Dark",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29085326",
+    "update_time": "2025-05-20 23:37:23",
+    "depot": {
+        "3238671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7096028917815642178",
+                    "size": "530888695",
+                    "download": "256996448"
+                }
+            },
+            "decryptionkey": "13cd290bb2c0f5a7295e7fb13e3a40c979c54085244db28c2251421edde94157"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18532448",
+                "timeupdated": "1747755437"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
