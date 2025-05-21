@@ -1,0 +1,37 @@
+{
+    "appid": "1777990",
+    "type": "Game",
+    "name": "Ortharion : The Last Battle",
+    "schinese_name": "奥萨里奥：最后一战",
+    "isfreeapp": "0",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:51",
+    "depot": {
+        "1777991": {
+            "manifests": {
+                "public": {
+                    "gid": "2807181278257789316",
+                    "size": "24993367888",
+                    "download": "8372593632"
+                },
+                "test": {
+                    "gid": "9073153287812859996",
+                    "size": "25606694216",
+                    "download": "8752035328"
+                }
+            },
+            "decryptionkey": "84fe2811c0b367fb79acda1b7efc728fffb80c6a8e171ecde29a9deea0e1e278"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17654678",
+                "timeupdated": "1741553838"
+            },
+            "test": {
+                "buildid": "17319497",
+                "description": "Test build",
+                "timeupdated": "1739268687"
+            }
+        }
+    }
+}
