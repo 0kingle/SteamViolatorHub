@@ -1,0 +1,47 @@
+{
+    "appid": "3079970",
+    "type": "Game",
+    "name": "Airport X-Ray Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29096525",
+    "update_time": "2025-05-21 19:25:05",
+    "depot": {
+        "3079972": {
+            "manifests": {
+                "public": {
+                    "gid": "1919292137739002551",
+                    "size": "1415886916",
+                    "download": "434182816"
+                },
+                "beta": {
+                    "gid": "8342615950511314321",
+                    "size": "1414413026",
+                    "download": "434080368"
+                },
+                "beta_controller": {
+                    "gid": "1104447601148916616",
+                    "size": "1373048810",
+                    "download": "426548864"
+                }
+            },
+            "decryptionkey": "6f8241800e907d0ce1e40888f65e5f11c779bfe313ba840d3334e581fe8ce753"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18394373",
+                "timeupdated": "1746737322"
+            },
+            "beta": {
+                "buildid": "18373268",
+                "description": "Beta testing branch",
+                "timeupdated": "1746617422"
+            },
+            "beta_controller": {
+                "buildid": "17649373",
+                "description": "Beta branch for controller support testing. CAUTION: You run the risk of save file corruption on beta branches!",
+                "timeupdated": "1741476835"
+            }
+        }
+    }
+}
