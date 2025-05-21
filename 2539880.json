@@ -1,0 +1,30 @@
+{
+    "appid": "2539880",
+    "type": "Game",
+    "name": "C.A.R.D.S. RPG: The Misty Battlefield",
+    "schinese_name": "雾隐战记 C.A.R.D.S. RPG",
+    "isfreeapp": "0",
+    "change_number": "29055391",
+    "update_time": "2025-05-19 12:43:59",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese,polish,brazilian",
+        "2539881": {
+            "manifests": {
+                "public": {
+                    "gid": "314830641240055548",
+                    "size": "3555008560",
+                    "download": "1273606944"
+                }
+            },
+            "decryptionkey": "0d5e6f6f300cd9d10877064931ee2e463c429b55a6a185ee84653872b87b13ee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18424604",
+                "timeupdated": "1747105574"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
