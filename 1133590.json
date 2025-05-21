@@ -1,0 +1,31 @@
+{
+    "appid": "1133590",
+    "type": "Game",
+    "name": "Stilt Fella",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29076646",
+    "update_time": "2025-05-20 15:35:25",
+    "depot": {
+        "1133591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1010009737250753676",
+                    "size": "529716666",
+                    "download": "409957968"
+                }
+            },
+            "decryptionkey": "6b8f14eb4be1ed5d256dc6309a7d6ec110bccb230ccbcb3146ea40e4f03736e5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18529732",
+                "timeupdated": "1747726521"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
