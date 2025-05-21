@@ -1,0 +1,30 @@
+{
+    "appid": "3082690",
+    "type": "Game",
+    "name": "Dead Soul TowerDefense:Shadow Labyrinth",
+    "schinese_name": "亡魂塔防:暗影迷宫",
+    "isfreeapp": "0",
+    "change_number": "29102412",
+    "update_time": "2025-05-21 19:38:56",
+    "depot": {
+        "3082691": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "119138535749089222",
+                    "size": "590756858",
+                    "download": "175728464"
+                }
+            },
+            "decryptionkey": "58ddc2020aa64a62f40cfa6a53ccf9a31f194f9c22f7687452c1ae63a1479984"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18019581",
+                "timeupdated": "1744077734"
+            }
+        }
+    }
+}
