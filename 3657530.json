@@ -1,0 +1,41 @@
+{
+    "appid": "3657530",
+    "type": "Game",
+    "name": "BACKROOMS LIMINAL ESCAPE",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29081458",
+    "update_time": "2025-05-20 20:15:25",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3657531": {
+            "manifests": {
+                "public": {
+                    "gid": "7108068491591975576",
+                    "size": "5368532817",
+                    "download": "5138633408"
+                }
+            },
+            "decryptionkey": "82b57d6bca95c3ddc7767ebd156fa32a1123b619cf6039e0b84188468d266493"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18523496",
+                "timeupdated": "1747688982"
+            }
+        }
+    }
+}
