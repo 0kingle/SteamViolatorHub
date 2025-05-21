@@ -1,0 +1,38 @@
+{
+    "appid": "2815610",
+    "type": "Game",
+    "name": "Chronicon: Survivors",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29099373",
+    "update_time": "2025-05-21 19:32:08",
+    "depot": {
+        "2815611": {
+            "manifests": {
+                "public": {
+                    "gid": "8593844866807253740",
+                    "size": "522772287",
+                    "download": "501623408"
+                },
+                "test_builds": {
+                    "gid": "1457494309915693464",
+                    "size": "522727069",
+                    "download": "501597360"
+                }
+            },
+            "decryptionkey": "b6f708696964c6c9aeef289e56398b5a4420c85473b5fbb118f6292344126ecc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18441500",
+                "timeupdated": "1747125948"
+            },
+            "test_builds": {
+                "buildid": "18220402",
+                "description": "Play the upcoming updates early (may be unstable)",
+                "timeupdated": "1745482165"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
