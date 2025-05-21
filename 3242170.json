@@ -1,0 +1,39 @@
+{
+    "appid": "3242170",
+    "type": "Game",
+    "name": "My wife's cheating on me!",
+    "schinese_name": "我妻子背叛了我!",
+    "isfreeapp": "0",
+    "change_number": "29048192",
+    "update_time": "2025-05-18 19:14:27",
+    "depot": {
+        "3242171": {
+            "manifests": {
+                "public": {
+                    "gid": "3856624554291200871",
+                    "size": "1444626578",
+                    "download": "1361125216"
+                }
+            },
+            "decryptionkey": "f87f1da158d7d6b42727b48a2337d37a0524e0faa29094168b9c050cde4b49bb"
+        },
+        "3242172": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "940574500948167017",
+                    "size": "1432248632",
+                    "download": "1356484688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18007995",
+                "timeupdated": "1744011432"
+            }
+        }
+    }
+}
