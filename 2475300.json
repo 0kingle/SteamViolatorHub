@@ -1,0 +1,45 @@
+{
+    "appid": "2475300",
+    "type": "Game",
+    "name": "Carmen Sandiego",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29097384",
+    "update_time": "2025-05-21 19:26:32",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2475301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6323735079428377034",
+                    "size": "1449414048",
+                    "download": "1267959808"
+                }
+            },
+            "decryptionkey": "f473cf38e3fd909e56fc7299424141d710b4d6bac319dabc2933aed73bba21ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18124771",
+                "timeupdated": "1746457710"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
