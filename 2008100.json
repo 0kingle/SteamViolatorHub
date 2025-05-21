@@ -1,0 +1,75 @@
+{
+    "appid": "2008100",
+    "type": "Game",
+    "name": "Rule the Waves 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078091",
+    "update_time": "2025-05-20 16:58:56",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2008101": {
+            "manifests": {
+                "public": {
+                    "gid": "6247441001844673246",
+                    "size": "168428682",
+                    "download": "104348816"
+                },
+                "beta": {
+                    "gid": "4889790266376074013",
+                    "size": "168429194",
+                    "download": "104349184"
+                },
+                "legacy": {
+                    "gid": "8311027566538980760",
+                    "size": "124559281",
+                    "download": "67595744"
+                }
+            },
+            "decryptionkey": "13f30cd722bc69ec14523f5401a4e3ec55681fae33d7178fbe2ab185d6d06690"
+        },
+        "2008102": {
+            "manifests": {
+                "public": {
+                    "gid": "991968944090256150",
+                    "size": "3750735",
+                    "download": "1377392"
+                },
+                "beta": {
+                    "gid": "1150205897536727492",
+                    "size": "3751672",
+                    "download": "1378256"
+                },
+                "legacy": {
+                    "gid": "5445745606277523263",
+                    "size": "43981795",
+                    "download": "35959552"
+                }
+            },
+            "decryptionkey": "66152eff38c7eb7dcee53c21ef361af6cda1c45fc6d4d3670ed3792c07b27ea0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18235628",
+                "timeupdated": "1745857277"
+            },
+            "beta": {
+                "buildid": "18278174",
+                "description": "v1.00.85 Beta",
+                "timeupdated": "1745940802"
+            },
+            "legacy": {
+                "buildid": "16253641",
+                "description": "Legacy branch",
+                "timeupdated": "1745939590"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
