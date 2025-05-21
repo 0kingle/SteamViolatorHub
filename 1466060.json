@@ -1,0 +1,40 @@
+{
+    "appid": "1466060",
+    "type": "Game",
+    "name": "Tainted Grail: The Fall of Avalon",
+    "schinese_name": "污痕圣杯：阿瓦隆的陨落",
+    "isfreeapp": "0",
+    "change_number": "29098821",
+    "update_time": "2025-05-21 19:21:19",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,japanese,polish,czech,brazilian",
+        "1466062": {
+            "manifests": {
+                "public": {
+                    "gid": "6327621576241925202",
+                    "size": "32481614477",
+                    "download": "15955102368"
+                }
+            },
+            "decryptionkey": "b164844c9d1dcef4202a397a747eff0fc24b75b5553e21bebbd7e86042d94bca"
+        },
+        "3687050": {
+            "dlcappid": "3687050",
+            "manifests": {
+                "public": {
+                    "gid": "3877787421677591921",
+                    "size": "818012192",
+                    "download": "746529104"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18378406",
+                "timeupdated": "1746643069"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
