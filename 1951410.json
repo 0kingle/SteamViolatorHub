@@ -1,0 +1,45 @@
+{
+    "appid": "1951410",
+    "type": "Game",
+    "name": "WE ARE FOOTBALL 2024",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991188",
+    "update_time": "2025-05-15 07:06:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1951411": {
+            "manifests": {
+                "public": {
+                    "gid": "1173570962004396343",
+                    "size": "1997765078",
+                    "download": "1849735712"
+                }
+            },
+            "decryptionkey": "226dafc2cf50035575ff3261fea505b971bdfccf67470001a8522a797816fe9e"
+        },
+        "baselanguages": "english,german,french,italian,spanish,schinese,polish",
+        "workshopdepot": "1951410",
+        "branches": {
+            "public": {
+                "buildid": "18237532",
+                "timeupdated": "1746451194"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d9068b62ab469485adcc2b123231beb1d2a739d3453ddb158f7ab69c0ab426d2"
+    }
+}
