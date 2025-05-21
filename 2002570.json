@@ -1,0 +1,73 @@
+{
+    "appid": "2002570",
+    "type": "Game",
+    "name": "SeaOrama: World of Shipping",
+    "schinese_name": "纵横七海：船运世界",
+    "isfreeapp": "0",
+    "change_number": "29100204",
+    "update_time": "2025-05-21 19:34:02",
+    "depot": {
+        "2002571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4708622140468657585",
+                    "size": "4940055253",
+                    "download": "1009987472"
+                },
+                "mactest": {
+                    "gid": "4708622140468657585",
+                    "size": "4940055253",
+                    "download": "1009987472"
+                },
+                "publictest": {
+                    "gid": "541154361464365893",
+                    "size": "4960664863",
+                    "download": "1015828656"
+                }
+            },
+            "decryptionkey": "aa32c1da58ad926f546878097f7dcb24c4b1ed8e3e41e4b07f4042ce5340447f"
+        },
+        "2002572": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1526406092255553577",
+                    "size": "1620131173",
+                    "download": "1201382288"
+                },
+                "mactest": {
+                    "gid": "1526406092255553577",
+                    "size": "1620131173",
+                    "download": "1201382288"
+                },
+                "publictest": {
+                    "gid": "5587672340875113363",
+                    "size": "5090702427",
+                    "download": "1020744688"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18054968",
+                "timeupdated": "1744285809"
+            },
+            "mactest": {
+                "buildid": "18054968",
+                "description": "mac test",
+                "timeupdated": "1744281782"
+            },
+            "publictest": {
+                "buildid": "18463716",
+                "description": "For public testers",
+                "timeupdated": "1747241654"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
