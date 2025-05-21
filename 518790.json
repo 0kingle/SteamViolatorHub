@@ -1,0 +1,69 @@
+{
+    "appid": "518790",
+    "type": "Game",
+    "name": "theHunter: Call of the Wild™",
+    "schinese_name": "《猎人：荒野的召唤™》",
+    "isfreeapp": "0",
+    "change_number": "29104248",
+    "update_time": "2025-05-21 20:57:46",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese,polish,czech,brazilian",
+        "518791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1730974393226762799",
+                    "size": "100575995511",
+                    "download": "50096481104"
+                }
+            },
+            "decryptionkey": "c56059a25b086342342b536c815b9903ee3faa35b8358fe7556346fe60a9081e"
+        },
+        "528680": {
+            "dlcappid": "528680",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3042379481122450486",
+                    "size": "240",
+                    "download": "304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "518792": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1252847089391992304",
+                    "size": "2388630304",
+                    "download": "459109792"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18046297",
+                "timeupdated": "1745312339"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
