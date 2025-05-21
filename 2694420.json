@@ -1,0 +1,31 @@
+{
+    "appid": "2694420",
+    "type": "Game",
+    "name": "KILL KNIGHT",
+    "schinese_name": "射戮骑士",
+    "isfreeapp": "0",
+    "change_number": "29053145",
+    "update_time": "2025-05-19 07:24:39",
+    "depot": {
+        "2694421": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5597289098767737565",
+                    "size": "2937915485",
+                    "download": "1929293712"
+                }
+            },
+            "decryptionkey": "41b79bf0668eb35661a60a9ce93dfa31b3618636b9f20997a4ac84f765f1f1fd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18455867",
+                "timeupdated": "1747610675"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
