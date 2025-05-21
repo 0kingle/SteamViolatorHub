@@ -1,0 +1,32 @@
+{
+    "appid": "1714620",
+    "type": "Game",
+    "name": "Blocktopia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989326",
+    "update_time": "2025-05-15 04:46:38",
+    "depot": {
+        "baselanguages": "english,koreana",
+        "hasdepotsindlc": "0",
+        "1714621": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4817072872013208806",
+                    "size": "1361931970",
+                    "download": "260097872"
+                }
+            },
+            "decryptionkey": "85a186d5c0ad587b86be16d009006ef411646a2bd694bee257b0009ecadf8c8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8549903",
+                "timeupdated": "1649988248"
+            }
+        }
+    }
+}
