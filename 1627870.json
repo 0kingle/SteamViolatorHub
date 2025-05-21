@@ -1,0 +1,43 @@
+{
+    "appid": "1627870",
+    "type": "Game",
+    "name": "ODDADA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28988679",
+    "update_time": "2025-05-15 03:59:56",
+    "depot": {
+        "1627871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6408425320061413752",
+                    "size": "512716453",
+                    "download": "288238592"
+                }
+            },
+            "decryptionkey": "5035d70dce2ed8539869a79804512133d229cd722a5107339c5608737a1d448f"
+        },
+        "1627872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3875354007123018538",
+                    "size": "542137044",
+                    "download": "296108848"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17488430",
+                "timeupdated": "1740475885"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
