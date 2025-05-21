@@ -1,0 +1,59 @@
+{
+    "appid": "585420",
+    "type": "Game",
+    "name": "Trailmakers",
+    "schinese_name": "机械制造者 Trailmakers",
+    "isfreeapp": "0",
+    "change_number": "29103599",
+    "update_time": "2025-05-21 20:25:25",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "585421": {
+            "manifests": {
+                "public": {
+                    "gid": "4472423625208331844",
+                    "size": "6516708616",
+                    "download": "5439113600"
+                },
+                "expedition": {
+                    "gid": "1401415892018513847",
+                    "size": "4821358676",
+                    "download": "1564907632"
+                },
+                "previous": {
+                    "gid": "4294437317251904967",
+                    "size": "6517109892",
+                    "download": "5439272080"
+                }
+            },
+            "decryptionkey": "131cfc758986f58922fa998a0f28bda5abe20df30a8d51f9f1ff21a91e69d07e"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,brazilian",
+        "workshopdepot": "585420",
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "18357415",
+                "timeupdated": "1746618182"
+            },
+            "expedition": {
+                "buildid": "3350872",
+                "description": "Permanent Expedition",
+                "timeupdated": "1553591392"
+            },
+            "previous": {
+                "buildid": "18309968",
+                "description": "Previous build",
+                "timeupdated": "1746618371"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0d957d3babda8c319b81077f03ebecd7777661e4a130bd8a7731cc5fc05d7ab5"
+    }
+}
