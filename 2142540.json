@@ -1,0 +1,27 @@
+{
+    "appid": "2142540",
+    "type": "Game",
+    "name": "Magical Girl Clicker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28950834",
+    "update_time": "2025-05-13 09:15:24",
+    "depot": {
+        "2142541": {
+            "manifests": {
+                "public": {
+                    "gid": "3651896580971226493",
+                    "size": "402836876",
+                    "download": "174251536"
+                }
+            },
+            "decryptionkey": "b7d204c004a99df32da2c3b321aba441ac3441bdbd2e72406374174c42b6efeb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18385512",
+                "timeupdated": "1746690982"
+            }
+        }
+    }
+}
