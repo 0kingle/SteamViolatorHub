@@ -1,0 +1,27 @@
+{
+    "appid": "1387870",
+    "type": "Game",
+    "name": "Alien Cat 8",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986814",
+    "update_time": "2025-05-15 01:53:14",
+    "depot": {
+        "1387871": {
+            "manifests": {
+                "public": {
+                    "gid": "5282755836705737669",
+                    "size": "10230605",
+                    "download": "5865120"
+                }
+            },
+            "decryptionkey": "50b5660e45417276f5c770f27bd5dd63eddf8aca5b98e2a452cd3b4e18e980f3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10965038",
+                "timeupdated": "1681058778"
+            }
+        }
+    }
+}
