@@ -1,0 +1,82 @@
+{
+    "appid": "3107770",
+    "type": "Game",
+    "name": "Geo-Political Simulator 5",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28827132",
+    "update_time": "2025-05-06 01:45:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,brazilian",
+        "3107771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2461343140095837300",
+                    "size": "10962828851",
+                    "download": "5923482512"
+                }
+            },
+            "decryptionkey": "a9c6a704720ae607eff2c46f7a6e568b65b9a51151966cc1351743ae3c9e61e7"
+        },
+        "3107775": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "679390906741204255",
+                    "size": "3095424",
+                    "download": "1442352"
+                }
+            }
+        },
+        "3107772": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1772662623887788431",
+                    "size": "509553691",
+                    "download": "494876208"
+                }
+            }
+        },
+        "3107773": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8404939581049779011",
+                    "size": "60614736",
+                    "download": "56028112"
+                }
+            },
+            "decryptionkey": "a57f8f3939d20663af6c87bd50c547e03fba0b0d4d1a4895f53ad75b3305a8bd"
+        },
+        "3107774": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4796177981405653680",
+                    "size": "495708694",
+                    "download": "482166608"
+                }
+            },
+            "decryptionkey": "3fa0dcd4e8f1ea9349e4c695a828a0d304059df158d34674a9c6ddb495ce2451"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18347905",
+                "timeupdated": "1746467135"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
