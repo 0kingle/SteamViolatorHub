@@ -1,0 +1,82 @@
+{
+    "appid": "801800",
+    "type": "Game",
+    "name": "Atomfall",
+    "schinese_name": "原子陨落",
+    "isfreeapp": "0",
+    "change_number": "29095028",
+    "update_time": "2025-05-21 19:20:52",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "801801": {
+            "manifests": {
+                "public": {
+                    "gid": "1142034395237688551",
+                    "size": "300598576",
+                    "download": "191159504"
+                }
+            },
+            "decryptionkey": "90c65d444ba102f30b701ec00443031dc75907d1a98526fa98597697012055c6"
+        },
+        "801802": {
+            "manifests": {
+                "public": {
+                    "gid": "4681068504682317318",
+                    "size": "68642141254",
+                    "download": "49888586480"
+                }
+            },
+            "decryptionkey": "d5a28674f8d766073a2923af03b553720f7878451afad54be20e9c24d62406a0"
+        },
+        "801803": {
+            "manifests": {
+                "public": {
+                    "gid": "7837162529356103878",
+                    "size": "1821488",
+                    "download": "1454784"
+                }
+            },
+            "decryptionkey": "d7049ae7ee8ee2e9451254724c7169645ba6022a1d72446e2ac621c0e9eb8dbb"
+        },
+        "2217830": {
+            "dlcappid": "2217830",
+            "manifests": {
+                "public": {
+                    "gid": "1892426006429204016",
+                    "size": "3770054663",
+                    "download": "2447118048"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3047140": {
+            "dlcappid": "3047140",
+            "manifests": {
+                "public": {
+                    "gid": "2071720739646126288",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "7ebc92e9ae8bd45b1a68f502a093ee8f8769f3c27184c88438c5e202e89bc995"
+        },
+        "3252020": {
+            "dlcappid": "3252020",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18057943",
+                "timeupdated": "1744797387"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
