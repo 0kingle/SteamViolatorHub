@@ -1,0 +1,43 @@
+{
+    "appid": "2915950",
+    "type": "Game",
+    "name": "Mega Mosaic",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29015316",
+    "update_time": "2025-05-16 10:30:46",
+    "depot": {
+        "2915951": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8910963454578863069",
+                    "size": "222798013",
+                    "download": "116862832"
+                }
+            },
+            "decryptionkey": "164c5c25d6f44e3ebd4afaf8b52103ce47edcfc3f5ba4b8d0918081f19f66ada"
+        },
+        "2915952": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1648402480012206916",
+                    "size": "255721939",
+                    "download": "126555120"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17292176",
+                "timeupdated": "1739029477"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
