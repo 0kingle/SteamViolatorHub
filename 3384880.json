@@ -1,0 +1,37 @@
+{
+    "appid": "3384880",
+    "type": "Game",
+    "name": "Vox Populi: Deutschland 2025",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28934394",
+    "update_time": "2025-05-12 16:05:22",
+    "depot": {
+        "3384881": {
+            "manifests": {
+                "public": {
+                    "gid": "8761706119729039615",
+                    "size": "1398268473",
+                    "download": "191215712"
+                },
+                "v1.04.00": {
+                    "gid": "386511897648047629",
+                    "size": "1376749019",
+                    "download": "178085008"
+                }
+            },
+            "decryptionkey": "0b2fda9fdc1f1b4e214030bea7fd07872df1f9bf373684b024e243140dbdf825"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18267298",
+                "timeupdated": "1745861816"
+            },
+            "v1.04.00": {
+                "buildid": "17274339",
+                "description": "v1.04.00",
+                "timeupdated": "1745861830"
+            }
+        }
+    }
+}
