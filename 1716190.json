@@ -1,0 +1,73 @@
+{
+    "appid": "1716190",
+    "type": "Game",
+    "name": "Fill and Cross Trick or Treat 3",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989326",
+    "update_time": "2025-05-15 04:46:38",
+    "depot": {
+        "1716191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7454516196191519095",
+                    "size": "54861077",
+                    "download": "49484320"
+                }
+            },
+            "decryptionkey": "a88537e8eab8474b47134a7065712b555c40dbec25bfb3f1d81051ac6680f65c"
+        },
+        "1716192": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6850844374628568626",
+                    "size": "54861077",
+                    "download": "49484320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1716193": {
+            "config": {
+                "language": "french",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2483555725245219537",
+                    "size": "54861077",
+                    "download": "49484320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1716194": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1037398151512600480",
+                    "size": "54861077",
+                    "download": "49484320"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "baselanguages": "english,german,french,russian",
+        "branches": {
+            "public": {
+                "buildid": "7293264",
+                "timeupdated": "1630587831"
+            }
+        }
+    }
+}
