@@ -1,0 +1,29 @@
+{
+    "appid": "1998050",
+    "type": "Game",
+    "name": "The Swordbearer",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28998500",
+    "update_time": "2025-05-15 17:10:09",
+    "depot": {
+        "1998051": {
+            "manifests": {
+                "public": {
+                    "gid": "4444746652467566951",
+                    "size": "6479616483",
+                    "download": "6067995936"
+                }
+            },
+            "decryptionkey": "22bce4a131c25c52d1a0faccc1b210d9faaeefd184889344276cc6d359c015f3"
+        },
+        "1998052": {},
+        "branches": {
+            "public": {
+                "buildid": "17653751",
+                "timeupdated": "1741541562"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
