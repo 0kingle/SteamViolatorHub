@@ -1,0 +1,38 @@
+{
+    "appid": "2405530",
+    "type": "Demo",
+    "name": "Miami Hotel Sim Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28676363",
+    "update_time": "2025-04-26 06:53:59",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2405531": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5029316515744258377",
+                    "size": "6778931423",
+                    "download": "2163673488"
+                }
+            },
+            "decryptionkey": "990833f3fa4b5081928ec82d18cc1ddcb83d313b23872b7d8c07904acdfd1b35"
+        },
+        "branches": {
+            "public": {
+                "buildid": "14347279",
+                "timeupdated": "1715592072"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
