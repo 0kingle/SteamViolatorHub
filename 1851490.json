@@ -1,0 +1,39 @@
+{
+    "appid": "1851490",
+    "type": "Beta",
+    "name": "Vaultbreakers Playtest",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28810820",
+    "update_time": "2025-05-04 23:28:54",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1851491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2496347470101613560",
+                    "size": "6643980433",
+                    "download": "2002096128"
+                }
+            },
+            "decryptionkey": "a2947cf82d97f2227f5374859f4cf80214242920fd1ce6ab1ae348e006783a6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18072821",
+                "timeupdated": "1744384276"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
