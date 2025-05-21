@@ -1,0 +1,43 @@
+{
+    "appid": "2088670",
+    "type": "Game",
+    "name": "Puzzline",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008517",
+    "update_time": "2025-05-16 01:48:51",
+    "depot": {
+        "2088671": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "65383428830594831",
+                    "size": "178164334",
+                    "download": "105435952"
+                }
+            },
+            "decryptionkey": "222878297522456099ee85c6c05de5126f6a3abad126defd5c9ec9e69599c633"
+        },
+        "2088672": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1005218732337324843",
+                    "size": "201761651",
+                    "download": "112873520"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18312132",
+                "timeupdated": "1746122392"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
