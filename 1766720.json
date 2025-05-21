@@ -1,0 +1,33 @@
+{
+    "appid": "1766720",
+    "type": "Game",
+    "name": "Outlanders",
+    "schinese_name": "世外之地",
+    "isfreeapp": "0",
+    "change_number": "28989707",
+    "update_time": "2025-05-15 05:13:11",
+    "depot": {
+        "1766721": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7994102089614429661",
+                    "size": "1364305954",
+                    "download": "535648496"
+                }
+            },
+            "decryptionkey": "47efb24c9629e8b7af0f291aee5987a1817b95b9c198fa1c008cfb834fe5e695"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,dutch,turkish,arabic,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18071631",
+                "timeupdated": "1746735607"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
