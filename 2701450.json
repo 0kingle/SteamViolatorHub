@@ -1,0 +1,27 @@
+{
+    "appid": "2701450",
+    "type": "Game",
+    "name": "Skateboard Gravity",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013478",
+    "update_time": "2025-05-16 07:50:36",
+    "depot": {
+        "2701451": {
+            "manifests": {
+                "public": {
+                    "gid": "655606363356778304",
+                    "size": "20925002",
+                    "download": "14710256"
+                }
+            },
+            "decryptionkey": "a55b837dd5ed97606bce9872b4629697792d5238570723ec59f5fb987b3d50a7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12984334",
+                "timeupdated": "1702829655"
+            }
+        }
+    }
+}
