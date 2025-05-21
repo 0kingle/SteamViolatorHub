@@ -1,0 +1,27 @@
+{
+    "appid": "3162110",
+    "type": "Game",
+    "name": "Space Cycle",
+    "schinese_name": "空间循环站",
+    "isfreeapp": "0",
+    "change_number": "28816585",
+    "update_time": "2025-05-05 12:51:41",
+    "depot": {
+        "3162111": {
+            "manifests": {
+                "public": {
+                    "gid": "6148568493271763089",
+                    "size": "335944650",
+                    "download": "134987264"
+                }
+            },
+            "decryptionkey": "072f43be030489a5c4e3e5ece426eacf8c753286a70a11b08d31f308eed12497"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18299366",
+                "timeupdated": "1746033352"
+            }
+        }
+    }
+}
