@@ -1,0 +1,39 @@
+{
+    "appid": "2659050",
+    "type": "Game",
+    "name": "Movies Tycoon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102591",
+    "update_time": "2025-05-21 19:39:26",
+    "depot": {
+        "2659051": {
+            "manifests": {
+                "public": {
+                    "gid": "5754237207495789199",
+                    "size": "22851391659",
+                    "download": "16450385168"
+                }
+            },
+            "decryptionkey": "133ee3867f80351b5847389715a9e4278ec58d3fe5d7ceb9bc9d157229b05d53"
+        },
+        "3613010": {
+            "dlcappid": "3613010",
+            "manifests": {
+                "public": {
+                    "gid": "8140362035784825045",
+                    "size": "2460047822",
+                    "download": "2131068448"
+                }
+            },
+            "decryptionkey": "91b8d1e0310e331b44890527309d6225da64b84364d017c750ac65dbfbf2b47a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18547091",
+                "timeupdated": "1747826835"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
