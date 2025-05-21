@@ -1,0 +1,150 @@
+{
+    "appid": "2314650",
+    "type": "Game",
+    "name": "Gray Haven",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094887",
+    "update_time": "2025-05-21 11:16:16",
+    "depot": {
+        "baselanguages": "english,koreana,spanish,schinese,japanese",
+        "2314651": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4225534039903532814",
+                    "size": "11064827227",
+                    "download": "6646096544"
+                },
+                "beta": {
+                    "gid": "9002907202102205078",
+                    "size": "11069492628",
+                    "download": "6649964080"
+                },
+                "last_hotfix": {
+                    "gid": "8686657723407050053",
+                    "size": "10408938497",
+                    "download": "6336835632"
+                }
+            },
+            "decryptionkey": "68d513ec864bc15e837b36e68c6a4e08dd8ac3cc207832c365fb0992e52f9c25"
+        },
+        "2314652": {
+            "config": {
+                "language": "koreana",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3914946841038277268",
+                    "size": "11069336909",
+                    "download": "6645625104"
+                },
+                "beta": {
+                    "gid": "3773466956432501303",
+                    "size": "11095959507",
+                    "download": "6648249920"
+                },
+                "last_hotfix": {
+                    "gid": "7589642424821913497",
+                    "size": "10408938497",
+                    "download": "6336260304"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2314653": {
+            "config": {
+                "language": "spanish",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1335466277769294886",
+                    "size": "11064827227",
+                    "download": "6645898432"
+                },
+                "beta": {
+                    "gid": "7121363233815336110",
+                    "size": "11069492628",
+                    "download": "6649771760"
+                },
+                "last_hotfix": {
+                    "gid": "2895437313104799504",
+                    "size": "10408938497",
+                    "download": "6337632640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2314654": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2762346780824639759",
+                    "size": "11064827227",
+                    "download": "6644878704"
+                },
+                "beta": {
+                    "gid": "7732096320265565348",
+                    "size": "11069492628",
+                    "download": "6648750096"
+                },
+                "last_hotfix": {
+                    "gid": "1304536062023095176",
+                    "size": "10408938497",
+                    "download": "6337850640"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2314655": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6089614132854282037",
+                    "size": "11064827227",
+                    "download": "6645448800"
+                },
+                "beta": {
+                    "gid": "2663955357124297382",
+                    "size": "11069492628",
+                    "download": "6649306784"
+                },
+                "last_hotfix": {
+                    "gid": "9024652788927886300",
+                    "size": "10408938497",
+                    "download": "6336305360"
+                }
+            },
+            "decryptionkey": "91e65c3ff570fac34f58ace1b22a49dd3017d819e9a51f3c73543ff90ed0566c"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18397261",
+                "timeupdated": "1746774862"
+            },
+            "beta": {
+                "buildid": "18156023",
+                "description": "Beta Test",
+                "timeupdated": "1746005822"
+            },
+            "last_hotfix": {
+                "buildid": "17027169",
+                "description": "Rollback to 2.1.3 (Buiuld #17631851)",
+                "timeupdated": "1737342261"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
