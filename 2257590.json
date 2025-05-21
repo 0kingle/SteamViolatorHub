@@ -1,0 +1,73 @@
+{
+    "appid": "2257590",
+    "type": "Game",
+    "name": "Alien Agent X",
+    "schinese_name": "异星特工X",
+    "isfreeapp": "0",
+    "change_number": "29102412",
+    "update_time": "2025-05-21 19:38:55",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2257591": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7343895234950599012",
+                    "size": "8815785890",
+                    "download": "8484322048"
+                }
+            },
+            "decryptionkey": "6030654899eb4963856f04bedf210c64d290ede42c7caac7bf0cd434c5a988bc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18271677",
+                "timeupdated": "1745911747"
+            }
+        }
+    }
+}
