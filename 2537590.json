@@ -1,0 +1,46 @@
+{
+    "appid": "2537590",
+    "type": "Game",
+    "name": "Microsoft Flight Simulator 2024",
+    "schinese_name": "微软模拟飞行 2024",
+    "isfreeapp": "0",
+    "change_number": "29099527",
+    "update_time": "2025-05-21 19:30:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2537591": {
+            "manifests": {
+                "public": {
+                    "gid": "4129732293635838112",
+                    "size": "8760089579",
+                    "download": "6340388144"
+                },
+                "flight_sim_2024_beta": {
+                    "gid": "3653388308252973451",
+                    "size": "8380520858",
+                    "download": "6069301920"
+                }
+            },
+            "decryptionkey": "a149759cc259406fd0f2255297e089d9deb63fb59c263b7f2d1b7fcd7aded1a4"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese,polish,dutch,finnish,norwegian,swedish,turkish,brazilian,latam",
+        "branches": {
+            "public": {
+                "buildid": "18360086",
+                "timeupdated": "1747321423"
+            },
+            "flight_sim_2024_beta": {
+                "buildid": "18475769",
+                "description": "Sim Update 3",
+                "timeupdated": "1747416135"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
