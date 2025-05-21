@@ -1,0 +1,29 @@
+{
+    "appid": "2082810",
+    "type": "Game",
+    "name": "MAGICAL ANGEL FAIRY PRINCESS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29065428",
+    "update_time": "2025-05-20 04:30:45",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "2082811": {
+            "manifests": {
+                "public": {
+                    "gid": "3096750494415138854",
+                    "size": "1199951926",
+                    "download": "898543088"
+                }
+            },
+            "decryptionkey": "97f5ad2125781f3f56dd47db0ee2ff8e490163dd16523feeb706c75128989383"
+        },
+        "2082812": {},
+        "branches": {
+            "public": {
+                "buildid": "18411120",
+                "timeupdated": "1746857294"
+            }
+        }
+    }
+}
