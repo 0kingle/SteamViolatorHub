@@ -1,0 +1,61 @@
+{
+    "appid": "2147380",
+    "type": "Game",
+    "name": "Silence of the Siren",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29084380",
+    "update_time": "2025-05-20 22:52:18",
+    "depot": {
+        "2147381": {},
+        "2147382": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7858684776283703478",
+                    "size": "4302674518",
+                    "download": "1662914016"
+                },
+                "test": {
+                    "gid": "7858684776283703478",
+                    "size": "4302674518",
+                    "download": "1662914016"
+                }
+            },
+            "decryptionkey": "176adf9439ff6a2910198d8c854431276a869cb36bbc35a8d318df9186d07f20"
+        },
+        "2147383": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6526563544428749397",
+                    "size": "4372363806",
+                    "download": "1669751248"
+                },
+                "test": {
+                    "gid": "6526563544428749397",
+                    "size": "4372363806",
+                    "download": "1669751248"
+                }
+            }
+        },
+        "workshopdepot": "2147380",
+        "branches": {
+            "public": {
+                "buildid": "18222862",
+                "timeupdated": "1745500331"
+            },
+            "test": {
+                "buildid": "18222862",
+                "description": "staging branch for builds",
+                "timeupdated": "1745493651"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
