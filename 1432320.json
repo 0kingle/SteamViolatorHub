@@ -1,0 +1,61 @@
+{
+    "appid": "1432320",
+    "type": "Game",
+    "name": "Liftoff: Micro Drones",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987125",
+    "update_time": "2025-05-15 02:13:20",
+    "depot": {
+        "workshopdepot": "1432320",
+        "1432321": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5824640876352056007",
+                    "size": "15577176131",
+                    "download": "12882584208"
+                }
+            },
+            "decryptionkey": "99bc05320984dd6078a99518238843bb7fc37cef65bd423e3194683fbb9c4457"
+        },
+        "1432322": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3736312949741472003",
+                    "size": "15214685280",
+                    "download": "12662051792"
+                }
+            },
+            "decryptionkey": "895724ef060c75590e7961c174879706c5be370003c34a59e5f6306ba2502759"
+        },
+        "1432323": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8628136077177162398",
+                    "size": "15533431153",
+                    "download": "12855085776"
+                }
+            },
+            "decryptionkey": "551fe99e54c7a9fa061b96ff8bb42e56f2f19106f1679922ae47d087b29687c7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18155312",
+                "timeupdated": "1744964161"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8ec1bb0d94a61594f9a08f4b3aeb0373f8527dcd9c4f746ea513c3c68f262b20"
+    }
+}
