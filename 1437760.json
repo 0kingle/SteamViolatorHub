@@ -1,0 +1,31 @@
+{
+    "appid": "1437760",
+    "type": "Game",
+    "name": "Peripeteia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29088191",
+    "update_time": "2025-05-21 02:14:52",
+    "depot": {
+        "1437761": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1413523919536882671",
+                    "size": "5796547965",
+                    "download": "3252223696"
+                }
+            },
+            "decryptionkey": "173a0f2cdea45cabbbb1228e99635022b7c099bbb6d5106ff41aebbd9b8bd586"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18117191",
+                "timeupdated": "1744738784"
+            }
+        }
+    }
+}
