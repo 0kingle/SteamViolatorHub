@@ -1,0 +1,43 @@
+{
+    "appid": "2696050",
+    "type": "Game",
+    "name": "Yarimono",
+    "schinese_name": "YARISUTEMESUBUTA ~ 一次性交易大师 ~",
+    "isfreeapp": "0",
+    "change_number": "29014012",
+    "update_time": "2025-05-16 08:30:52",
+    "depot": {
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "hasdepotsindlc": "1",
+        "3171570": {
+            "dlcappid": "3171570",
+            "manifests": {
+                "public": {
+                    "gid": "6273957131003220084",
+                    "size": "70918255",
+                    "download": "15589792"
+                }
+            },
+            "decryptionkey": "006677b4d7eb93ef97bd8ade42a0c84efe2ca2a7983f406b1f79b4bcfeabe666"
+        },
+        "2696055": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1478240780007961904",
+                    "size": "974981474",
+                    "download": "700906704"
+                }
+            },
+            "decryptionkey": "25043be4f82f396d723a71516561347bda08810502afdc20dea5cbe5b75a2bc8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18140729",
+                "timeupdated": "1744876910"
+            }
+        }
+    }
+}
