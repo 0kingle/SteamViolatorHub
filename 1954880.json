@@ -1,0 +1,28 @@
+{
+    "appid": "1954880",
+    "type": "Game",
+    "name": "剑冢 Swords Tomb",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 23:47:41",
+    "depot": {
+        "1954881": {
+            "manifests": {
+                "public": {
+                    "gid": "663203116931818604",
+                    "size": "527406599",
+                    "download": "156911648"
+                }
+            },
+            "decryptionkey": "14097baa8857bd4bfd4c5209ebdaaa6572847918304c12535efc32329870e565"
+        },
+        "baselanguages": "schinese",
+        "branches": {
+            "public": {
+                "buildid": "8885901",
+                "timeupdated": "1654588947"
+            }
+        }
+    }
+}
