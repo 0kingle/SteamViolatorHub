@@ -1,0 +1,67 @@
+{
+    "appid": "1516050",
+    "type": "Application",
+    "name": "PixageFX Studio",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28926683",
+    "update_time": "2025-05-11 23:34:51",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228985": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "0",
+        "1516051": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1187566281634700562",
+                    "size": "9335417009",
+                    "download": "4446869696"
+                }
+            },
+            "decryptionkey": "96151a246dc4a04e6d2e2481aa98a60faa9e57bf60027058fc5fc752c06d8a43"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18420649",
+                "timeupdated": "1746977686"
+            }
+        },
+        "workshopdepotdecryptionkey": ""
+    }
+}
