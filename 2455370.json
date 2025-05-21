@@ -1,0 +1,81 @@
+{
+    "appid": "2455370",
+    "type": "Game",
+    "name": "Russian Village Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012208",
+    "update_time": "2025-05-16 05:54:42",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229012": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229030": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2455371": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3278840567096248880",
+                    "size": "12261021065",
+                    "download": "11917526064"
+                }
+            },
+            "decryptionkey": "89920015b1a4d1ef8c015d9cc606b763475fefa8eeecedbbe2f35286efa2deda"
+        },
+        "2455375": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8952835314671940751",
+                    "size": "12261021065",
+                    "download": "11949923424"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "16314213",
+                "timeupdated": "1730896894"
+            }
+        }
+    }
+}
