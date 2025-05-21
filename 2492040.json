@@ -1,0 +1,52 @@
+{
+    "appid": "2492040",
+    "type": "Game",
+    "name": "FATAL FURY: City of the Wolves",
+    "schinese_name": "饿狼传说：群狼之城",
+    "isfreeapp": "0",
+    "change_number": "29094491",
+    "update_time": "2025-05-21 10:39:18",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,arabic,brazilian,latam",
+        "2492041": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1262579674824355186",
+                    "size": "35898010355",
+                    "download": "32205160720"
+                }
+            },
+            "decryptionkey": "22de4afa6bcad3761cbb58d3ba24b93045b264b33a9bf659ac64b3782375e691"
+        },
+        "3141970": {
+            "dlcappid": "3141970"
+        },
+        "3141980": {
+            "dlcappid": "3141980"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18318519",
+                "timeupdated": "1746244842"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
