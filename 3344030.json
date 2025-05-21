@@ -1,0 +1,46 @@
+{
+    "appid": "3344030",
+    "type": "Game",
+    "name": "VIDeoPHOBIA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29007771",
+    "update_time": "2025-05-16 01:11:07",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3344031": {
+            "manifests": {
+                "public": {
+                    "gid": "4959802010966112115",
+                    "size": "6467034309",
+                    "download": "6016829488"
+                }
+            },
+            "decryptionkey": "8026dddb7501baecd42b93b511516ad372dbd71ed6c0957abda8b4ad17a8a5d3"
+        },
+        "3683990": {
+            "dlcappid": "3683990",
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18111576",
+                "timeupdated": "1744974072"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
