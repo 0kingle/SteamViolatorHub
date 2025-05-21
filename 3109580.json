@@ -1,0 +1,29 @@
+{
+    "appid": "3109580",
+    "type": "Game",
+    "name": "I Am Legion: Stand Survivors",
+    "schinese_name": "我即军团：替身幸存者",
+    "isfreeapp": "0",
+    "change_number": "29065613",
+    "update_time": "2025-05-20 04:31:13",
+    "depot": {
+        "3109581": {
+            "manifests": {
+                "public": {
+                    "gid": "7893641311736693572",
+                    "size": "226298765",
+                    "download": "85664544"
+                }
+            },
+            "decryptionkey": "26fd25bacad89c9d9480c88f1deb7f1c694b6e54eb101e3bf2f5a3e62b725f8c"
+        },
+        "baselanguages": "",
+        "branches": {
+            "public": {
+                "buildid": "18154605",
+                "timeupdated": "1745238259"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
