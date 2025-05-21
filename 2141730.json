@@ -1,0 +1,76 @@
+{
+    "appid": "2141730",
+    "type": "Game",
+    "name": "Backrooms: Escape Together",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094544",
+    "update_time": "2025-05-21 10:44:42",
+    "depot": {
+        "baselanguages": "english",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2141731": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "553615528304740248",
+                    "size": "10423996439",
+                    "download": "9551596256"
+                },
+                "beta": {
+                    "gid": "553615528304740248",
+                    "size": "10423996439",
+                    "download": "9551596256"
+                }
+            },
+            "decryptionkey": "cfcbb1b05a371faabeb03500c308dbae345a2c7d9a45417a910283c9201e084d"
+        },
+        "2141732": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6866044377255604924",
+                    "size": "20151449702",
+                    "download": "7801338224"
+                },
+                "beta": {
+                    "gid": "6866044377255604924",
+                    "size": "20151449702",
+                    "download": "7801338224"
+                }
+            },
+            "decryptionkey": "1038f744a70ce5b445cdbfc9ce77601ae45a36279d0a9ad02b59b714acfba762"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18351667",
+                "timeupdated": "1746481923"
+            },
+            "beta": {
+                "buildid": "18351667",
+                "description": "Beta builds for testing",
+                "timeupdated": "1746481937"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
