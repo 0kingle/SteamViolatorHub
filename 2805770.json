@@ -1,0 +1,28 @@
+{
+    "appid": "2805770",
+    "type": "Game",
+    "name": "Elements Divided",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29071175",
+    "update_time": "2025-05-20 07:14:11",
+    "depot": {
+        "2805771": {
+            "manifests": {
+                "public": {
+                    "gid": "3082158121233018005",
+                    "size": "5057926786",
+                    "download": "1444218768"
+                }
+            },
+            "decryptionkey": "4730c358fb32598b2cdbea801335f5fdb58f96a90c75fb0b796316290592f4aa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18383925",
+                "timeupdated": "1746738538"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
