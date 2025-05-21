@@ -1,0 +1,43 @@
+{
+    "appid": "2478640",
+    "type": "Game",
+    "name": "Spider Fox",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012394",
+    "update_time": "2025-05-16 06:12:53",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2478641": {
+            "manifests": {
+                "public": {
+                    "gid": "8377632992617126851",
+                    "size": "2842562673",
+                    "download": "2718647552"
+                }
+            },
+            "decryptionkey": "c5612ee10762f78964097173e9edace10767521dd59d39feab8e7ae61de971b7"
+        },
+        "baselanguages": "english,german,french,spanish,schinese,russian,japanese",
+        "branches": {
+            "public": {
+                "buildid": "14316756",
+                "timeupdated": "1716210244"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
