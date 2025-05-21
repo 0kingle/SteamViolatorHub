@@ -1,0 +1,58 @@
+{
+    "appid": "895400",
+    "type": "Game",
+    "name": "Deadside",
+    "schinese_name": "生死相依",
+    "isfreeapp": "0",
+    "change_number": "29095118",
+    "update_time": "2025-05-21 19:21:19",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,russian,latam",
+        "895401": {
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2751060010751476835",
+                    "size": "37687102593",
+                    "download": "19309074704"
+                },
+                "public_test_server": {
+                    "gid": "2751060010751476835",
+                    "size": "37687102593",
+                    "download": "19309074704"
+                }
+            },
+            "decryptionkey": "10e8c6628cb78fe20e8190863a7ce05f1b450c52f48a5820f8f172faf68c65a6"
+        },
+        "workshopdepot": "895400",
+        "branches": {
+            "public": {
+                "buildid": "18265316",
+                "timeupdated": "1745917161"
+            },
+            "public_test_server": {
+                "buildid": "18265316",
+                "description": "PTS",
+                "timeupdated": "1745844216"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
