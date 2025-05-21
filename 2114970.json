@@ -1,0 +1,27 @@
+{
+    "appid": "2114970",
+    "type": "Game",
+    "name": "Skinny & Franko: Fists of Violence",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29008846",
+    "update_time": "2025-05-16 02:06:47",
+    "depot": {
+        "2114971": {
+            "manifests": {
+                "public": {
+                    "gid": "4822925154621377648",
+                    "size": "7812044251",
+                    "download": "6575344864"
+                }
+            },
+            "decryptionkey": "e613e50b3155b7587c4ae7d2984574e70cae90c10afb44d053f708bc169639e6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17155946",
+                "timeupdated": "1738083722"
+            }
+        }
+    }
+}
