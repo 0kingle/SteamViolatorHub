@@ -1,0 +1,66 @@
+{
+    "appid": "423870",
+    "type": "Game",
+    "name": "Astervoid 2000",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29054311",
+    "update_time": "2025-05-19 10:11:46",
+    "depot": {
+        "423871": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8918797739690401226",
+                    "size": "341030318",
+                    "download": "212126224"
+                }
+            },
+            "decryptionkey": "aa24962644b316359ec6cd876f347a32c09356b3e5806a5cc4c2941608388c4b"
+        },
+        "423872": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1280305943190568138",
+                    "size": "350409144",
+                    "download": "213983392"
+                }
+            }
+        },
+        "423873": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "854778834988902037",
+                    "size": "375970225",
+                    "download": "222092592"
+                }
+            }
+        },
+        "563590": {
+            "manifests": {
+                "public": {
+                    "gid": "4474979744526091804",
+                    "size": "146272400",
+                    "download": "142161072"
+                }
+            },
+            "dlcappid": "563590",
+            "decryptionkey": ""
+        },
+        "hasdepotsindlc": "1",
+        "branches": {
+            "public": {
+                "buildid": "1512610",
+                "timeupdated": "1481518355"
+            }
+        }
+    }
+}
