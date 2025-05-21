@@ -1,0 +1,103 @@
+{
+    "appid": "1787090",
+    "type": "Application",
+    "name": "MyDockFinder",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103835",
+    "update_time": "2025-05-21 20:36:34",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,dutch,swedish,hungarian,czech,turkish,arabic,brazilian,bulgarian,greek,ukrainian,vietnamese",
+        "workshopdepot": "1787090",
+        "hasdepotsindlc": "1",
+        "1787091": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1979618590280891214",
+                    "size": "199444016",
+                    "download": "126193872"
+                },
+                "v1.9.7.7": {
+                    "gid": "1233479017008926626",
+                    "size": "48020066",
+                    "download": "9729280"
+                },
+                "v1.9.9.7": {
+                    "gid": "463524793844084038",
+                    "size": "103397224",
+                    "download": "19953136"
+                },
+                "testversion": {
+                    "gid": "1979618590280891214",
+                    "size": "199444016",
+                    "download": "126193872"
+                },
+                "v1.9.9.8": {
+                    "gid": "4022701773837980726",
+                    "size": "90377402",
+                    "download": "19550800"
+                },
+                "v1.9.9.9": {
+                    "gid": "7684456207223563133",
+                    "size": "87020673",
+                    "download": "17462064"
+                }
+            },
+            "decryptionkey": "89e81a11a8a9323dc60060cb60eb73aea9b74b25d1c2a40f1bc86e5c67339b06"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18549408",
+                "timeupdated": "1747830886"
+            },
+            "v1.9.7.7": {
+                "sc_schinese": "旧版本1.9.7.7",
+                "buildid": "10591863",
+                "description": "old-version1.9.7.7",
+                "timeupdated": "1678021032"
+            },
+            "v1.9.9.7": {
+                "sc_schinese": "旧版本1.9.9.7",
+                "buildid": "13563494",
+                "description": "old-version1.9.9.7",
+                "timeupdated": "1713095753"
+            },
+            "testversion": {
+                "sc_schinese": "新版本测试通道 1.10.9.2",
+                "buildid": "18549408",
+                "description": "new version test 1.10.9.2",
+                "timeupdated": "1747830852"
+            },
+            "v1.9.9.8": {
+                "sc_schinese": "旧版本1.9.9.8",
+                "buildid": "14518632",
+                "description": "old-version1.9.9.8",
+                "timeupdated": "1720959322"
+            },
+            "v1.9.9.9": {
+                "sc_schinese": "旧版本1.9.9.9",
+                "buildid": "16313638",
+                "description": "old-version1.9.9.9",
+                "timeupdated": "1733316717"
+            }
+        },
+        "workshopdepotdecryptionkey": "b73aacc1923ae6095b2b9a1892738fa98c1ef57355894e41ac8414b3070fd208"
+    }
+}
