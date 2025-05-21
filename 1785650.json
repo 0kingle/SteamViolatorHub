@@ -1,0 +1,35 @@
+{
+    "appid": "1785650",
+    "type": "Game",
+    "name": "TopSpin 2K25",
+    "schinese_name": "《TOPSPIN 2K25》",
+    "isfreeapp": "0",
+    "change_number": "28994052",
+    "update_time": "2025-05-15 11:12:24",
+    "depot": {
+        "228984": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1785651": {
+            "manifests": {
+                "public": {
+                    "gid": "8602937547752847301",
+                    "size": "31415035221",
+                    "download": "27578266720"
+                }
+            },
+            "decryptionkey": "378291ca5d9f448851858d96883fd163188369d47a68b51012798acd9dc5e5b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17309615",
+                "timeupdated": "1744193150"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
