@@ -1,0 +1,79 @@
+{
+    "appid": "313480",
+    "type": "Game",
+    "name": "Blitzkrieg Anthology",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28947243",
+    "update_time": "2025-05-13 04:30:11",
+    "depot": {
+        "baselanguages": "english,german,russian",
+        "313481": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6138950786934825086",
+                    "size": "4841231979",
+                    "download": "2041053696"
+                },
+                "local": {
+                    "gid": "7975950432101375141",
+                    "size": "4826829988",
+                    "download": "1187821529943"
+                }
+            },
+            "decryptionkey": "fa22448830197efb76e505a074a62d398bfbe99413da8acb2a393f8370f0b83c"
+        },
+        "313482": {
+            "config": {
+                "language": "german",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5253902432902419552",
+                    "size": "4854925607",
+                    "download": "2047752544"
+                },
+                "local": {
+                    "gid": "7213015201103433615",
+                    "size": "4840522184",
+                    "download": "1318546336514"
+                }
+            }
+        },
+        "313483": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7720743453562762830",
+                    "size": "9242400152",
+                    "download": "3976863072"
+                },
+                "local": {
+                    "gid": "3966938438599752794",
+                    "size": "9206791193",
+                    "download": "21975650624769"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "2969225",
+                "timeupdated": "1532695794"
+            },
+            "local": {
+                "buildid": "350338",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
