@@ -1,0 +1,44 @@
+{
+    "appid": "2904000",
+    "type": "Game",
+    "name": "The Spell Brigade",
+    "schinese_name": "咒语旅团",
+    "isfreeapp": "0",
+    "change_number": "29058797",
+    "update_time": "2025-05-19 17:30:15",
+    "depot": {
+        "2904001": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4685018066388793986",
+                    "size": "2886071424",
+                    "download": "533665552"
+                }
+            },
+            "decryptionkey": "1cea3f47529b0e53e7add1f7e63dcdf14634adfde24faf952128ad1034ee90e8"
+        },
+        "2904002": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4936270597990808662",
+                    "size": "3004057803",
+                    "download": "575484752"
+                }
+            },
+            "decryptionkey": "de0044598316af4e08b7d4552491ebb9a7e3ad4e36d1705fc82b0510f1c01acc"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18155886",
+                "timeupdated": "1744978564"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
