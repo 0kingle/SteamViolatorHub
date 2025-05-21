@@ -1,0 +1,54 @@
+{
+    "appid": "520010",
+    "type": "Game",
+    "name": "Climbey",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28974216",
+    "update_time": "2025-05-14 13:57:48",
+    "depot": {
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "520011": {
+            "manifests": {
+                "public": {
+                    "gid": "5593977519383980551",
+                    "size": "478266172",
+                    "download": "156674880"
+                },
+                "prereleasetest": {
+                    "gid": "5593977519383980551",
+                    "size": "478266172",
+                    "download": "156674880"
+                }
+            },
+            "decryptionkey": "440514d6b253325af0c21da38287579b5d685fa51de2711a46a705045166c904"
+        },
+        "workshopdepot": "520010",
+        "branches": {
+            "public": {
+                "buildid": "18361520",
+                "timeupdated": "1746545923"
+            },
+            "prereleasetest": {
+                "buildid": "18361520",
+                "description": "Pre-release test branch",
+                "timeupdated": "1746545939"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "69e8a44459c653131790382bcb1f1d2f5e34663a521bbdb9594ae3546d5534ce"
+    }
+}
