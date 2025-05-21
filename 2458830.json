@@ -1,0 +1,42 @@
+{
+    "appid": "2458830",
+    "type": "Game",
+    "name": "Towerborne",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29088822",
+    "update_time": "2025-05-21 02:54:13",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2458831": {
+            "manifests": {
+                "public": {
+                    "gid": "1207418541228815178",
+                    "size": "15033482798",
+                    "download": "13491004640"
+                }
+            },
+            "decryptionkey": "2568fc72975f6f7f70842960f59dc2c606ef7c24c2babaed575f688b24bfd26e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18361254",
+                "timeupdated": "1746575333"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
