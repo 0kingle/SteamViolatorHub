@@ -1,0 +1,29 @@
+{
+    "appid": "3409980",
+    "type": "Game",
+    "name": "你的女友",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28604872",
+    "update_time": "2025-04-22 23:59:18",
+    "depot": {
+        "3409981": {
+            "manifests": {
+                "public": {
+                    "gid": "1072499336584697908",
+                    "size": "1130817162",
+                    "download": "267616944"
+                }
+            },
+            "decryptionkey": "0bcc2db745ba45e756e94bb7d3bc8c949b2598e72b2f9a0174c451a10abc9158"
+        },
+        "workshopdepot": "3409980",
+        "branches": {
+            "public": {
+                "buildid": "18075207",
+                "timeupdated": "1744389861"
+            }
+        },
+        "workshopdepotdecryptionkey": "8fa3889b51e4527735eb875bc26d0f57835e25ba5b263b4516b35f9f1e54ef01"
+    }
+}
