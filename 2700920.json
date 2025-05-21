@@ -1,0 +1,94 @@
+{
+    "appid": "2700920",
+    "type": "Demo",
+    "name": "Troublemaker 2: Beyond Dream Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29083331",
+    "update_time": "2025-05-20 21:57:33",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229032": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2700921": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6795533895460616328",
+                    "size": "5352893041",
+                    "download": "4926858304"
+                }
+            },
+            "decryptionkey": "b11b3b0e202153884e017b272cc272864f1cf8de719b803ac23c4c7a7533ca48"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18442450",
+                "timeupdated": "1747150500"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
