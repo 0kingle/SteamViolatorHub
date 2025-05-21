@@ -1,0 +1,39 @@
+{
+    "appid": "1339410",
+    "type": "Game",
+    "name": "雾之本境S",
+    "schinese_name": "雾之本境S",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 12:14:57",
+    "depot": {
+        "baselanguages": "schinese,tchinese",
+        "1339411": {
+            "manifests": {
+                "public": {
+                    "gid": "6252867304160376657",
+                    "size": "1301001273",
+                    "download": "1239177392"
+                }
+            },
+            "decryptionkey": "d70381c730fb6c5609bce75daa7893ef232d3f213f40f1e5f7fad70f4fbef802"
+        },
+        "2078000": {
+            "dlcappid": "2078000",
+            "manifests": {
+                "public": {
+                    "gid": "5202035701901662303",
+                    "size": "39035392",
+                    "download": "39558624"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "11738344",
+                "timeupdated": "1689776422"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
