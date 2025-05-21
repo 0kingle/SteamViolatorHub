@@ -1,0 +1,42 @@
+{
+    "appid": "3324600",
+    "type": "Demo",
+    "name": "Slitterhead Demo",
+    "schinese_name": "野狗子: Slitterhead 试玩版",
+    "isfreeapp": "0",
+    "change_number": "28873052",
+    "update_time": "2025-05-08 09:37:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3324601": {
+            "manifests": {
+                "public": {
+                    "gid": "1388463228361515786",
+                    "size": "15524590205",
+                    "download": "15361114192"
+                }
+            },
+            "decryptionkey": "e34300405ffd6ec4f1df8ea37336c2a23478c9a54c8b32ee01ea75afb30ca7ed"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18186722",
+                "timeupdated": "1746668263"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
