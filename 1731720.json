@@ -1,0 +1,38 @@
+{
+    "appid": "1731720",
+    "type": "Game",
+    "name": "FURRY SEX: Cabaret 💋🔞",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989417",
+    "update_time": "2025-05-15 04:53:20",
+    "depot": {
+        "1731721": {
+            "manifests": {
+                "public": {
+                    "gid": "7304084832877895577",
+                    "size": "296743864",
+                    "download": "73029696"
+                }
+            },
+            "decryptionkey": "6c540d3edaea8a817fe965c6ff78635f228960c8a131c8561ed28f71e6dde6ba"
+        },
+        "1812350": {
+            "dlcappid": "1812350",
+            "manifests": {
+                "public": {
+                    "gid": "3828310712492549921",
+                    "size": "66769657",
+                    "download": "67270944"
+                }
+            },
+            "decryptionkey": "7b0c5110b36a50a62e7c29d3dca7e71f7d1101e649a82b01f26e7926cfcc302b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7730104",
+                "timeupdated": "1637167180"
+            }
+        }
+    }
+}
