@@ -1,0 +1,31 @@
+{
+    "appid": "1001590",
+    "type": "Game",
+    "name": "Grab Lab",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28982217",
+    "update_time": "2025-05-14 22:51:16",
+    "depot": {
+        "1001591": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6517537249506922843",
+                    "size": "379049200",
+                    "download": "32438416"
+                }
+            },
+            "decryptionkey": "e243060c36f6169ae1b72c8bae5719db3884ec60311c6c5298907151197a9214"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3907722",
+                "timeupdated": "1560429164"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
