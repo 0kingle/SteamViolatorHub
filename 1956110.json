@@ -1,0 +1,72 @@
+{
+    "appid": "1956110",
+    "type": "Game",
+    "name": "LandPort",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28455850",
+    "update_time": "2025-04-14 03:04:39",
+    "depot": {
+        "baselanguages": "english,schinese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1956111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5447293264159803709",
+                    "size": "243939185",
+                    "download": "145272032"
+                }
+            },
+            "decryptionkey": "1ed1e5c5a23cf1c43f04c1be9bfdd6644446c6c764112f71b41478f1ee56cc80"
+        },
+        "1956112": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1694583299250732316",
+                    "size": "346264485",
+                    "download": "159350272"
+                }
+            }
+        },
+        "1956113": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3613846545170825968",
+                    "size": "200291401",
+                    "download": "193709600"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18059999",
+                "timeupdated": "1744305901"
+            }
+        }
+    }
+}
