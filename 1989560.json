@@ -1,0 +1,59 @@
+{
+    "appid": "1989560",
+    "type": "Game",
+    "name": "Endless waves survival",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29014715",
+    "update_time": "2025-05-16 09:35:54",
+    "depot": {
+        "baselanguages": "english,tchinese,portuguese",
+        "1989561": {},
+        "1989562": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3811223644625805920",
+                    "size": "133548373",
+                    "download": "63582304"
+                }
+            }
+        },
+        "1989563": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2516790235247063274",
+                    "size": "128402248",
+                    "download": "62213824"
+                }
+            },
+            "decryptionkey": "dee4f472b11297fb11721e833642e31abe91b7076c3e333b8f29294d112cdd1d"
+        },
+        "1989564": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4468506365890557331",
+                    "size": "174094159",
+                    "download": "73073712"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18449491",
+                "timeupdated": "1747162961"
+            }
+        }
+    }
+}
