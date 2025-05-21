@@ -1,0 +1,44 @@
+{
+    "appid": "1387460",
+    "type": "Game",
+    "name": "Melancholy Love",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-16 04:54:04",
+    "depot": {
+        "1387461": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7741751131296903126",
+                    "size": "1050528477",
+                    "download": "831797536"
+                }
+            },
+            "decryptionkey": "ff95a740fec2165d3b8842c8bb73e1137f4e4c04d760a9e2372c46bbf66de792"
+        },
+        "1387462": {
+            "config": {
+                "oslist": "macos",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7343520822751348215",
+                    "size": "1660989690",
+                    "download": "1433119248"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6121064",
+                "timeupdated": "1611295218"
+            }
+        }
+    }
+}
