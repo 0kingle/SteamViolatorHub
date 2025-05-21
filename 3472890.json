@@ -1,0 +1,27 @@
+{
+    "appid": "3472890",
+    "type": "Game",
+    "name": "Joyquarium",
+    "schinese_name": "欢乐水族馆",
+    "isfreeapp": "0",
+    "change_number": "29099378",
+    "update_time": "2025-05-21 19:32:16",
+    "depot": {
+        "3472891": {
+            "manifests": {
+                "public": {
+                    "gid": "4036699736067033580",
+                    "size": "1396577387",
+                    "download": "227907344"
+                }
+            },
+            "decryptionkey": "4e0c91b4bfcb2e79472b04e7e9d10aa9524c6db2981cc2befbc7bed7b5ed5d2d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18527903",
+                "timeupdated": "1747713027"
+            }
+        }
+    }
+}
