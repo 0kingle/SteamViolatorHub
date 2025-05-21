@@ -1,0 +1,28 @@
+{
+    "appid": "1453900",
+    "type": "Game",
+    "name": "Curse of the Sea Rats",
+    "schinese_name": "海鼠诅咒",
+    "isfreeapp": "0",
+    "change_number": "28922789",
+    "update_time": "2025-05-11 12:33:10",
+    "depot": {
+        "1453901": {
+            "manifests": {
+                "public": {
+                    "gid": "6629707996385309587",
+                    "size": "18881209676",
+                    "download": "2699412416"
+                }
+            },
+            "decryptionkey": "a1762c219ede8c1a1e369377ef627781aea930f8b8da2d9ff1f4197ad6894187"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17486180",
+                "timeupdated": "1741862998"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
