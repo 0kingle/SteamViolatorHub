@@ -1,0 +1,84 @@
+{
+    "appid": "489360",
+    "type": "Game",
+    "name": "CASE: Animatronics",
+    "schinese_name": "案件：电动玩偶",
+    "isfreeapp": "0",
+    "change_number": "28973933",
+    "update_time": "2025-05-14 13:27:50",
+    "depot": {
+        "baselanguages": "english,german,spanish,russian",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "489365": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7141779321461244466",
+                    "size": "1403128378",
+                    "download": "405456096"
+                }
+            }
+        },
+        "489366": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1994073987966910047",
+                    "size": "1394215498",
+                    "download": "402793392"
+                }
+            }
+        },
+        "489362": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5253998858573532249",
+                    "size": "1090990575",
+                    "download": "436510432"
+                }
+            },
+            "decryptionkey": "2e908236f5546ccd20b64332b5f49c12056cca89d848f7b9a54cd06cc4dae3b2"
+        },
+        "489363": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2756210343979071505",
+                    "size": "1083117463",
+                    "download": "433995232"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18208451",
+                "timeupdated": "1745414958"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
