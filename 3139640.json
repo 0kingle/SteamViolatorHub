@@ -1,0 +1,76 @@
+{
+    "appid": "3139640",
+    "type": "Game",
+    "name": "야옹 미션",
+    "schinese_name": "喵咪任务",
+    "isfreeapp": "0",
+    "change_number": "28704436",
+    "update_time": "2025-04-28 18:51:43",
+    "depot": {
+        "baselanguages": "",
+        "3139641": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1864970718562796696",
+                    "size": "150076782",
+                    "download": "81330864"
+                }
+            },
+            "decryptionkey": "0ca487cb2210ed1fd08f7f7e1aaf4f03a105056a2015f0476561f8c14838627b"
+        },
+        "3139642": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7945319844004816996",
+                    "size": "166470334",
+                    "download": "88256240"
+                }
+            }
+        },
+        "3139643": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1763071734949105664",
+                    "size": "145424011",
+                    "download": "79514800"
+                }
+            }
+        },
+        "3461700": {
+            "manifests": {
+                "public": {
+                    "gid": "7272515948286404055",
+                    "size": "38510804",
+                    "download": "35925936"
+                }
+            }
+        },
+        "3483380": {
+            "dlcappid": "3483380",
+            "manifests": {
+                "public": {
+                    "gid": "765660314987422470",
+                    "size": "52854389",
+                    "download": "46451568"
+                }
+            }
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18053642",
+                "timeupdated": "1745226559"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
