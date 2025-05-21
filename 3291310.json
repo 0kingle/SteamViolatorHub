@@ -1,0 +1,55 @@
+{
+    "appid": "3291310",
+    "type": "Game",
+    "name": "Mutant College",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29092249",
+    "update_time": "2025-05-21 07:19:22",
+    "depot": {
+        "baselanguages": "english",
+        "3291311": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6182281254071046351",
+                    "size": "4065614655",
+                    "download": "3953240368"
+                }
+            },
+            "decryptionkey": "f137b720fd39f59fc8411b65d19046ce77fb6431e06a514d548d25e20fd3775c"
+        },
+        "3291312": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5533817539028028528",
+                    "size": "4054575507",
+                    "download": "3949506208"
+                }
+            }
+        },
+        "3291313": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "275034748625112876",
+                    "size": "4086389076",
+                    "download": "3958514768"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18532867",
+                "timeupdated": "1747760210"
+            }
+        }
+    }
+}
