@@ -1,0 +1,32 @@
+{
+    "appid": "3234140",
+    "type": "Game",
+    "name": "Erotica",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016528",
+    "update_time": "2025-05-16 12:24:44",
+    "depot": {
+        "baselanguages": "english",
+        "3234141": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2535451742131053114",
+                    "size": "4125085042",
+                    "download": "4015029648"
+                }
+            },
+            "decryptionkey": "cd9608abe2fac4d4d2b69b6971f65ed13c2af425bda6fa2d548681b5e679caa6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15755097",
+                "timeupdated": "1726742107"
+            }
+        }
+    }
+}
