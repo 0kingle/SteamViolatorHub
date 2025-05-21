@@ -1,0 +1,41 @@
+{
+    "appid": "3235530",
+    "type": "Game",
+    "name": "虚衝 - Kyosho",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095283",
+    "update_time": "2025-05-21 19:22:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3235531": {
+            "manifests": {
+                "public": {
+                    "gid": "8297982134092518309",
+                    "size": "1048518354",
+                    "download": "895753536"
+                }
+            },
+            "decryptionkey": "8ec4bb05aca79e7efd48df6e6422ab3c995258507aca1b13a5033e5c4dad57bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18543186",
+                "timeupdated": "1747796888"
+            }
+        }
+    }
+}
