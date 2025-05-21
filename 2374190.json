@@ -1,0 +1,45 @@
+{
+    "appid": "2374190",
+    "type": "Game",
+    "name": "Nikoderiko: The Magical World — Director’s Cut",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011300",
+    "update_time": "2025-05-16 04:48:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2374191": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5415135879913778268",
+                    "size": "14009505698",
+                    "download": "12505128368"
+                }
+            },
+            "decryptionkey": "6824d28cc3d5b903cd58d0828d1d25ecf7062324b07b5aba906dbf36b9a7a1e7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18097949",
+                "timeupdated": "1744707686"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
