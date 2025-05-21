@@ -1,0 +1,56 @@
+{
+    "appid": "1097770",
+    "type": "Game",
+    "name": "Aeolis Tournament",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984048",
+    "update_time": "2025-05-14 23:26:50",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "1097771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1214563873009249274",
+                    "size": "600195897",
+                    "download": "381381264"
+                }
+            },
+            "decryptionkey": "f3351bf86ef164e808894a27bff38f638a26a6c0668db3285eb95c32eb6abaa4"
+        },
+        "1097772": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1724373115159661027",
+                    "size": "689743172",
+                    "download": "431781952"
+                }
+            }
+        },
+        "1097773": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7265446459076168751",
+                    "size": "623199796",
+                    "download": "388005264"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6201204",
+                "timeupdated": "1612717595"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
