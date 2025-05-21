@@ -1,0 +1,37 @@
+{
+    "appid": "2824660",
+    "type": "Game",
+    "name": "Old School Rally",
+    "schinese_name": "旧日飞车",
+    "isfreeapp": "0",
+    "change_number": "29078508",
+    "update_time": "2025-05-20 17:24:32",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2824661": {
+            "manifests": {
+                "public": {
+                    "gid": "979258300398909058",
+                    "size": "939482595",
+                    "download": "347938848"
+                }
+            },
+            "decryptionkey": "60f3ee3e365512571665fdfec50bd3b1c8f2d4e4fb747a610b4a9b6e83aea870"
+        },
+        "workshopdepot": "2824660",
+        "branches": {
+            "public": {
+                "buildid": "18241191",
+                "timeupdated": "1745986598"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "25bea5aac06f14c375495315cd7d5af3135eea8f07145250637898f29a09c536"
+    }
+}
