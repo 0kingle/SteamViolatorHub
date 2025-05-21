@@ -1,0 +1,59 @@
+{
+    "appid": "2946030",
+    "type": "Game",
+    "name": "Choo-Choose",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29006621",
+    "update_time": "2025-05-16 00:12:41",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "0",
+        "2946031": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5438407483510073103",
+                    "size": "351871455",
+                    "download": "70495536"
+                }
+            },
+            "decryptionkey": "7e81ac081f94f0a1de80d15ef3a74b86b006c6f149897ae0994f26056eec90db"
+        },
+        "3384850": {
+            "dlcappid": "3384850",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2183749431958216091",
+                    "size": "0",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2946032": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2212535086508097258",
+                    "size": "348483240",
+                    "download": "68698624"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18297850",
+                "timeupdated": "1746026129"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
