@@ -1,0 +1,28 @@
+{
+    "appid": "2446600",
+    "type": "Game",
+    "name": "Dark Deity 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29069832",
+    "update_time": "2025-05-20 05:16:11",
+    "depot": {
+        "2446601": {
+            "manifests": {
+                "public": {
+                    "gid": "5652117260788160356",
+                    "size": "656360528",
+                    "download": "595816272"
+                }
+            },
+            "decryptionkey": "0650a9f501109efa45fda14c3e72dc2705e04483e64b8959d584831341cc965f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18364573",
+                "timeupdated": "1747077933"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
