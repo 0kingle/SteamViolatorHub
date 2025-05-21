@@ -1,0 +1,41 @@
+{
+    "appid": "1324270",
+    "type": "Game",
+    "name": "Space Station Tycoon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:19:58",
+    "depot": {
+        "1324271": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7626104648158144709",
+                    "size": "5015823686",
+                    "download": "1076817824"
+                },
+                "testing": {
+                    "gid": "8473128982477413534",
+                    "size": "5016781830",
+                    "download": "1076991584"
+                }
+            },
+            "decryptionkey": "db686cd9e358c31424f7d02dee2261186a9eda07c3288188b1e8276864d59ae4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12634073",
+                "timeupdated": "1699309028"
+            },
+            "testing": {
+                "buildid": "12592525",
+                "description": "Public testing branch",
+                "timeupdated": "1698847281"
+            }
+        }
+    }
+}
