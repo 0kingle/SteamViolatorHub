@@ -1,0 +1,27 @@
+{
+    "appid": "1867280",
+    "type": "Game",
+    "name": "Cyberpunk Girls",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990570",
+    "update_time": "2025-05-15 06:13:08",
+    "depot": {
+        "1867281": {
+            "manifests": {
+                "public": {
+                    "gid": "2736821616584986841",
+                    "size": "340804487",
+                    "download": "209452480"
+                }
+            },
+            "decryptionkey": "2a67260ca8970b52727baf1ebd787b57396fce1bef61600e7a833f688a0fb82d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "8049310",
+                "timeupdated": "1642615468"
+            }
+        }
+    }
+}
