@@ -1,0 +1,169 @@
+{
+    "appid": "597760",
+    "type": "Game",
+    "name": "Yuppie Psycho",
+    "schinese_name": "雅皮士精神",
+    "isfreeapp": "0",
+    "change_number": "28975409",
+    "update_time": "2025-05-14 22:38:57",
+    "depot": {
+        "baselanguages": "english,french,spanish",
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "597767": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4103123344052764285",
+                    "size": "1558425718",
+                    "download": "1371545744"
+                },
+                "beta": {
+                    "gid": "1255562614409822785",
+                    "size": "1558481994",
+                    "download": "1371572976"
+                },
+                "previous": {
+                    "gid": "7310522589258287340",
+                    "size": "1528087861",
+                    "download": "1372132304"
+                },
+                "previous_2_x": {
+                    "gid": "4103123344052764285",
+                    "size": "1558425718",
+                    "download": "1371545744"
+                },
+                "pre_dlc": {
+                    "gid": "7871208705351615547",
+                    "size": "868716885",
+                    "download": "715923632"
+                },
+                "legacy": {
+                    "gid": "3966713122304742635",
+                    "size": "1722805980",
+                    "download": "1501558576"
+                }
+            },
+            "decryptionkey": "3495b90fa17cdad0d768467ebd5223eee0eecaca9c056fda4a6375a77f0e973f"
+        },
+        "597768": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1633891002501882809",
+                    "size": "1564402322",
+                    "download": "1372404656"
+                },
+                "beta": {
+                    "gid": "2501903391592343895",
+                    "size": "1564147199",
+                    "download": "1372364656"
+                },
+                "previous": {
+                    "gid": "7679455675404401509",
+                    "size": "1576886219",
+                    "download": "1389848432"
+                },
+                "previous_2_x": {
+                    "gid": "2501903391592343895",
+                    "size": "1564147199",
+                    "download": "1372364656"
+                },
+                "pre_dlc": {
+                    "gid": "227831285514538765",
+                    "size": "842989750",
+                    "download": "713283632"
+                },
+                "legacy": {
+                    "gid": "2469779027125291726",
+                    "size": "1698673788",
+                    "download": "1490975664"
+                }
+            },
+            "decryptionkey": "1ba75cf0eb42c1c154e6fe399753f4b074dab3185614497193a9e826e66b792e"
+        },
+        "597769": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "80403378122705302",
+                    "size": "1570478148",
+                    "download": "1374648336"
+                },
+                "beta": {
+                    "gid": "7186905718464983532",
+                    "size": "1570738305",
+                    "download": "1374744784"
+                },
+                "previous": {
+                    "gid": "6739855828258921762",
+                    "size": "1538800694",
+                    "download": "1375126288"
+                },
+                "previous_2_x": {
+                    "gid": "80403378122705302",
+                    "size": "1570478148",
+                    "download": "1374648336"
+                },
+                "pre_dlc": {
+                    "gid": "2553879101673502264",
+                    "size": "990149405",
+                    "download": "767717776"
+                },
+                "legacy": {
+                    "gid": "2051509189476638344",
+                    "size": "1753684356",
+                    "download": "1556044912"
+                }
+            },
+            "decryptionkey": "b8f9f19de2d90aaee5a4287d6bd25f636116b2a36e25470d8ce368e496be7e34"
+        },
+        "workshopdepot": "597760",
+        "branches": {
+            "public": {
+                "buildid": "14148849",
+                "timeupdated": "1714067673"
+            },
+            "beta": {
+                "buildid": "17782649",
+                "description": "feeling adventurous ?",
+                "timeupdated": "1742400216"
+            },
+            "previous": {
+                "buildid": "11356711",
+                "description": "Previous version of the game",
+                "timeupdated": "1702375686"
+            },
+            "previous_2_x": {
+                "buildid": "18070623",
+                "description": "Last 2.5+ version",
+                "timeupdated": "1744369425"
+            },
+            "pre_dlc": {
+                "buildid": "4731626",
+                "description": "Branch that contains the game before the dlc update using the old engine",
+                "timeupdated": "1604047836"
+            },
+            "legacy": {
+                "buildid": "8185684",
+                "description": "Branch that contains the game using the old engine",
+                "timeupdated": "1647018190"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
