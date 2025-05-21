@@ -1,0 +1,64 @@
+{
+    "appid": "1836730",
+    "type": "Game",
+    "name": "Echo Point Nova",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990304",
+    "update_time": "2025-05-15 05:53:16",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1836731": {
+            "manifests": {
+                "public": {
+                    "gid": "3194420318159955122",
+                    "size": "3088763469",
+                    "download": "2859831696"
+                },
+                "decktest": {
+                    "gid": "372220488810528734",
+                    "size": "3648540403",
+                    "download": "2956316656"
+                },
+                "islandtest": {
+                    "gid": "3194420318159955122",
+                    "size": "3088763469",
+                    "download": "2859831696"
+                }
+            },
+            "decryptionkey": "3cb8d34f2b9a803179612fabdc6ea345bcbc6486081c8620e8263944ba2d7824"
+        },
+        "workshopdepot": "1836730",
+        "branches": {
+            "public": {
+                "buildid": "18101078",
+                "timeupdated": "1744645370"
+            },
+            "decktest": {
+                "buildid": "17642498",
+                "description": "testing Deck UI",
+                "timeupdated": "1741391967"
+            },
+            "islandtest": {
+                "buildid": "18101078",
+                "description": "testing new island logic",
+                "timeupdated": "1744644484"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "d1559abbe55902780b20e69e97aa8817a6460347770169365920236c76348a1b"
+    }
+}
