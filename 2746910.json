@@ -1,0 +1,48 @@
+{
+    "appid": "2746910",
+    "type": "Game",
+    "name": "Three Kingdoms: The Blood Moon",
+    "schinese_name": "蜀末：血月三国",
+    "isfreeapp": "0",
+    "change_number": "29099203",
+    "update_time": "2025-05-21 19:31:37",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "2746911": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4756084090250735556",
+                    "size": "274555169",
+                    "download": "163241904"
+                }
+            },
+            "decryptionkey": "c62479b5db201f6ec039e35cf67977255a07650de17d569ef379209ce617c261"
+        },
+        "2746912": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1216790906558669154",
+                    "size": "394111451",
+                    "download": "185622960"
+                }
+            },
+            "decryptionkey": "01bb6f3726e1977dd3cdf8b43c78edddc7857f4e13559a0cbce77bca9cb4704a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18512349",
+                "timeupdated": "1747620453"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
