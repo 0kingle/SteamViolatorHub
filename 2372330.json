@@ -1,0 +1,28 @@
+{
+    "appid": "2372330",
+    "type": "Game",
+    "name": "Poetry of Blood: Eclipse",
+    "schinese_name": "血之诗：月之蚀",
+    "isfreeapp": "0",
+    "change_number": "29060168",
+    "update_time": "2025-05-19 18:54:06",
+    "depot": {
+        "2372331": {
+            "manifests": {
+                "public": {
+                    "gid": "3216212034635359083",
+                    "size": "1264778144",
+                    "download": "833075840"
+                }
+            },
+            "decryptionkey": "07f41754bba0b990ab7cb40d3b98264155d8095234b71eed3a3e2fca7dbf3462"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18508685",
+                "timeupdated": "1747652040"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
