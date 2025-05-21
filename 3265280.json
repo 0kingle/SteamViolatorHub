@@ -1,0 +1,38 @@
+{
+    "appid": "3265280",
+    "type": "Game",
+    "name": "Pic-Me!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29016574",
+    "update_time": "2025-05-16 12:30:48",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3265281": {
+            "manifests": {
+                "public": {
+                    "gid": "2373668027415750181",
+                    "size": "674965168",
+                    "download": "213754800"
+                }
+            },
+            "decryptionkey": "c493caa2dc1caab54d2c3175e98e8967a73ef8b572aa3b9446c768fb9a0d9cee"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,turkish,brazilian,ukrainian",
+        "workshopdepot": "3265280",
+        "branches": {
+            "public": {
+                "buildid": "18001015",
+                "timeupdated": "1744314966"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "19cad51ff7b4923bb589ebb01130e7ef46404d0d0e2a396910205e25e2ab8bb2"
+    }
+}
