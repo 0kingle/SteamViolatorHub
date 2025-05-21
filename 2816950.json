@@ -1,0 +1,29 @@
+{
+    "appid": "2816950",
+    "type": "Game",
+    "name": "Yaoling: Mythical Journey",
+    "schinese_name": "妖之乡",
+    "isfreeapp": "0",
+    "change_number": "29095009",
+    "update_time": "2025-05-21 19:20:49",
+    "depot": {
+        "2816951": {
+            "manifests": {
+                "public": {
+                    "gid": "5953238286724796109",
+                    "size": "9318991454",
+                    "download": "6461694928"
+                }
+            },
+            "decryptionkey": "1821d0a58d878d0c38d0df188d51e486f885a0e63cb8c70d3a1ac4c7a9740bc1"
+        },
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18155519",
+                "timeupdated": "1744969896"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
