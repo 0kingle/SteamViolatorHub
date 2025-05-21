@@ -1,0 +1,59 @@
+{
+    "appid": "2634560",
+    "type": "Game",
+    "name": "OMUSUBI",
+    "schinese_name": "缘结迷境",
+    "isfreeapp": "0",
+    "change_number": "28568643",
+    "update_time": "2025-04-20 10:59:19",
+    "depot": {
+        "baselanguages": "english,schinese,japanese",
+        "2634561": {
+            "config": {
+                "oslist": "windows",
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5180953488940511995",
+                    "size": "565571831",
+                    "download": "420375040"
+                }
+            }
+        },
+        "2634562": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3769033099427856320",
+                    "size": "560914990",
+                    "download": "412524240"
+                }
+            }
+        },
+        "2634563": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "793915980006339347",
+                    "size": "563786668",
+                    "download": "415461184"
+                }
+            },
+            "decryptionkey": "1910381c1ad39eec875f738f5fa571e58b8c45b2430415b3f9e4af84c70b77bd"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18163380",
+                "timeupdated": "1745035902"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
