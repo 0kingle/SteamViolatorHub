@@ -1,0 +1,36 @@
+{
+    "appid": "2063480",
+    "type": "Game",
+    "name": "Voltage High Society",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29001479",
+    "update_time": "2025-05-15 19:55:33",
+    "depot": {
+        "baselanguages": "english",
+        "2063481": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9214847956587566415",
+                    "size": "989490726",
+                    "download": "314414944"
+                }
+            },
+            "decryptionkey": "cd600a63a9234e1797f4c5e30d51c4b224e7f32a3636a2825e16362bb91f70a2"
+        },
+        "2063482": {
+            "config": {
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18443281",
+                "timeupdated": "1747132912"
+            }
+        }
+    }
+}
