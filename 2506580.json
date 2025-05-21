@@ -1,0 +1,79 @@
+{
+    "appid": "2506580",
+    "type": "Game",
+    "name": "Gearbits",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29012627",
+    "update_time": "2025-05-16 06:30:50",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2506581": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "250786487334826710",
+                    "size": "953328027",
+                    "download": "385092768"
+                },
+                "patchtesting": {
+                    "gid": "2777309987713315671",
+                    "size": "952969139",
+                    "download": "385058464"
+                }
+            },
+            "decryptionkey": "06ad8fd6b7308881521e58549fa53078ae1c9e9faa6aa0406d689c19fb1f63bf"
+        },
+        "2506582": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4326655577521290214",
+                    "size": "1002190606",
+                    "download": "389108400"
+                },
+                "patchtesting": {
+                    "gid": "7585156816528983170",
+                    "size": "1001831718",
+                    "download": "389078640"
+                }
+            }
+        },
+        "2506583": {
+            "config": {
+                "language": "english",
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4195040953554063950",
+                    "size": "976550663",
+                    "download": "392595872"
+                },
+                "patchtesting": {
+                    "gid": "4454492977565330442",
+                    "size": "976191775",
+                    "download": "392561760"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18057393",
+                "timeupdated": "1744295755"
+            },
+            "patchtesting": {
+                "buildid": "17741679",
+                "description": "Test branch for patches before they go public",
+                "timeupdated": "1742113987"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
