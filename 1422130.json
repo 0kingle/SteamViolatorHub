@@ -1,0 +1,126 @@
+{
+    "appid": "1422130",
+    "type": "Game",
+    "name": "SimRail - The Railway Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,russian,polish,hungarian,czech,ukrainian",
+        "workshopdepot": "1422130",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1422131": {
+            "manifests": {
+                "public": {
+                    "gid": "645317784359968526",
+                    "size": "1195117530",
+                    "download": "748600656"
+                },
+                "next": {
+                    "gid": "645317784359968526",
+                    "size": "1195117530",
+                    "download": "748600656"
+                }
+            },
+            "decryptionkey": "1619b6c1fac954e2ca5ad8b46b1e5073af05feea9be14ef642832dc14e76a5d1"
+        },
+        "1422133": {
+            "manifests": {
+                "public": {
+                    "gid": "9078882144508363902",
+                    "size": "20144100380",
+                    "download": "17093680992"
+                },
+                "next": {
+                    "gid": "9078882144508363902",
+                    "size": "20144100380",
+                    "download": "17093680992"
+                }
+            },
+            "decryptionkey": "03e8f3d92041be292986b8d84398fa901e2679f3eb8ebbea2fdef8ef623b3eaa"
+        },
+        "1422134": {
+            "manifests": {
+                "public": {
+                    "gid": "4743157558475308341",
+                    "size": "372538223",
+                    "download": "286573472"
+                },
+                "next": {
+                    "gid": "4743157558475308341",
+                    "size": "372538223",
+                    "download": "286573472"
+                }
+            },
+            "decryptionkey": "94a2e078e11a6ba3a441b41c83704e96dd97b8581f49fa6d0fd5116167e7b5ff"
+        },
+        "1422132": {
+            "manifests": {
+                "public": {
+                    "gid": "7971067380264156322",
+                    "size": "47947719842",
+                    "download": "32862321456"
+                },
+                "next": {
+                    "gid": "7971067380264156322",
+                    "size": "47947719842",
+                    "download": "32862321456"
+                }
+            },
+            "decryptionkey": "5ba05793cfe06281329404679e35c9916f808892b239e8e11f26360f0a6614af"
+        },
+        "3580250": {
+            "dlcappid": "3580250",
+            "manifests": {
+                "public": {
+                    "gid": "7301629744355006888",
+                    "size": "17618214239",
+                    "download": "12532930256"
+                },
+                "next": {
+                    "gid": "7301629744355006888",
+                    "size": "17618214239",
+                    "download": "12532930256"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "3583200": {
+            "dlcappid": "3583200",
+            "manifests": {
+                "public": {
+                    "gid": "6715500264731107275",
+                    "size": "8856297735",
+                    "download": "6024441904"
+                },
+                "next": {
+                    "gid": "6715500264731107275",
+                    "size": "8856297735",
+                    "download": "6024441904"
+                }
+            },
+            "decryptionkey": "35592f2d0dede2624b2620b56c4ee6070629e682ca1de506136164a6bd3260f3"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18435444",
+                "timeupdated": "1747175870"
+            },
+            "next": {
+                "buildid": "18435444",
+                "description": "Testing of next update",
+                "timeupdated": "1747086815"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
