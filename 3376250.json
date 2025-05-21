@@ -1,0 +1,27 @@
+{
+    "appid": "3376250",
+    "type": "Game",
+    "name": "Nine-Ball Roulette",
+    "schinese_name": "九球轮盘赌",
+    "isfreeapp": "0",
+    "change_number": "29053116",
+    "update_time": "2025-05-19 07:16:48",
+    "depot": {
+        "3376251": {
+            "manifests": {
+                "public": {
+                    "gid": "2016465237783743712",
+                    "size": "1073943288",
+                    "download": "590923200"
+                }
+            },
+            "decryptionkey": "b8e4a7ce69ae5aef69562f43522ae837dd6bb3b36efb3a3d923d874afa21397d"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18511498",
+                "timeupdated": "1747610205"
+            }
+        }
+    }
+}
