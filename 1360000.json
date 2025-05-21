@@ -1,0 +1,53 @@
+{
+    "appid": "1360000",
+    "type": "Game",
+    "name": "The Infected",
+    "schinese_name": "被感染者",
+    "isfreeapp": "0",
+    "change_number": "28986440",
+    "update_time": "2025-05-15 01:33:16",
+    "depot": {
+        "baselanguages": "english",
+        "1360001": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "971375393221896105",
+                    "size": "8363107183",
+                    "download": "3647703104"
+                },
+                "v13branch": {
+                    "gid": "4589091352365755909",
+                    "size": "6816951087",
+                    "download": "2682452512"
+                },
+                "beta": {
+                    "gid": "971375393221896105",
+                    "size": "8363107183",
+                    "download": "3647703104"
+                }
+            },
+            "decryptionkey": "75516c3077794330ba3a9c5d117ae0a3e26afd8137ade1df24743136af5712d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18460567",
+                "timeupdated": "1747229611"
+            },
+            "v13branch": {
+                "buildid": "9571656",
+                "description": "V13 (no support)",
+                "timeupdated": "1682696291"
+            },
+            "beta": {
+                "buildid": "18460567",
+                "description": "Beta Branch",
+                "timeupdated": "1747229626"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
