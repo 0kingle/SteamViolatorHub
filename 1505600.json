@@ -1,0 +1,34 @@
+{
+    "appid": "1505600",
+    "type": "Game",
+    "name": "RETRIS",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28689988",
+    "update_time": "2025-04-27 15:44:51",
+    "depot": {
+        "1505601": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9132196712910967790",
+                    "size": "128744082",
+                    "download": "79926416"
+                }
+            },
+            "decryptionkey": "be8697cc24c7ab120a391e496da77e6f370b433d0a4b6863832938a19bf23dee"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "18249910",
+                "timeupdated": "1745677049"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
