@@ -1,0 +1,44 @@
+{
+    "appid": "2879570",
+    "type": "Game",
+    "name": "Barrage",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29091331",
+    "update_time": "2025-05-21 05:48:32",
+    "depot": {
+        "2879571": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1883388654211090918",
+                    "size": "265321976",
+                    "download": "111930192"
+                }
+            },
+            "decryptionkey": "f5db8d8abacffeb4128ea60446b82daa6b2710961d872a56ef702a5b1d17fec1"
+        },
+        "2879572": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7559988045848378298",
+                    "size": "258704487",
+                    "download": "110220144"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18540371",
+                "timeupdated": "1747777705"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
