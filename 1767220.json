@@ -1,0 +1,28 @@
+{
+    "appid": "1767220",
+    "type": "Game",
+    "name": "The Kids We Were",
+    "schinese_name": "变成大人也不要忘记",
+    "isfreeapp": "0",
+    "change_number": "28989707",
+    "update_time": "2025-05-15 05:13:13",
+    "depot": {
+        "1767221": {
+            "manifests": {
+                "public": {
+                    "gid": "3343163330114875859",
+                    "size": "1891633994",
+                    "download": "413435712"
+                }
+            },
+            "decryptionkey": "962221c2f68faa558804a40263dca78a7560d5d18dd440fe07d34e6cbbd4992c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10726205",
+                "timeupdated": "1679283059"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
