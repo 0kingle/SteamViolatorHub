@@ -1,0 +1,79 @@
+{
+    "appid": "991170",
+    "type": "Game",
+    "name": "BarnFinders",
+    "schinese_name": "废品大亨",
+    "isfreeapp": "0",
+    "change_number": "29061917",
+    "update_time": "2025-05-20 04:21:04",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229005": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "991171": {
+            "manifests": {
+                "public": {
+                    "gid": "4287005467070808858",
+                    "size": "24406255681",
+                    "download": "10583282544"
+                }
+            },
+            "decryptionkey": "4ee4065953e41adc175e0e877c6be766730aaf3a3606ae4d7d29d6139d351336"
+        },
+        "1424060": {
+            "dlcappid": "1424060",
+            "manifests": {
+                "public": {
+                    "gid": "1598052975041647530",
+                    "size": "1647020489",
+                    "download": "1626465744"
+                }
+            },
+            "decryptionkey": "3d2dfafe236dd736a3de689b896016bcb3d47c4241d72ca54c4e0e1f3aa79bb0"
+        },
+        "1554910": {
+            "dlcappid": "1554910",
+            "manifests": {
+                "public": {
+                    "gid": "1446540409588208247",
+                    "size": "3728262790",
+                    "download": "3643004448"
+                }
+            },
+            "decryptionkey": "8b1427199ef7b033f88bb6d3f4bfa862668fa62f990c711161b3926db33a730b"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18426876",
+                "timeupdated": "1747659331"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
