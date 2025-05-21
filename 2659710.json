@@ -1,0 +1,114 @@
+{
+    "appid": "2659710",
+    "type": "Game",
+    "name": "Carnaval Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28790360",
+    "update_time": "2025-05-03 02:02:16",
+    "depot": {
+        "2659711": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6852601937575010631",
+                    "size": "13612147564",
+                    "download": "11420242912"
+                },
+                "1.0.11": {
+                    "gid": "4824134808856621139",
+                    "size": "8847154862",
+                    "download": "2887444512"
+                },
+                "1.0.13": {
+                    "gid": "4418805976761472824",
+                    "size": "8880719650",
+                    "download": "2890892304"
+                },
+                "1.0.6": {
+                    "gid": "1062631658082426177",
+                    "size": "8693760907",
+                    "download": "2829344608"
+                },
+                "1.0.8.2": {
+                    "gid": "6853563035541605958",
+                    "size": "8846581955",
+                    "download": "2886991104"
+                },
+                "1.1.4": {
+                    "gid": "1864622351336896737",
+                    "size": "9621825014",
+                    "download": "5597423808"
+                },
+                "1.1.5": {
+                    "gid": "8858580480967694328",
+                    "size": "9657418563",
+                    "download": "5605340208"
+                },
+                "1.2.3": {
+                    "gid": "5985400679786513499",
+                    "size": "7168280078",
+                    "download": "5858664800"
+                },
+                "open_beta": {
+                    "gid": "6852601937575010631",
+                    "size": "13612147564",
+                    "download": "11420242912"
+                }
+            },
+            "decryptionkey": "bff9a0e45d94c58c21e39be8f808acf92e96d3583b688817da2ae33fc0a96145"
+        },
+        "hasdepotsindlc": "0",
+        "workshopdepot": "2659710",
+        "baselanguages": "english,german,french,italian,spanish,portuguese,dutch",
+        "branches": {
+            "public": {
+                "buildid": "18324848",
+                "timeupdated": "1746208931"
+            },
+            "1.0.11": {
+                "buildid": "13627459",
+                "description": "1.0.11 beta",
+                "timeupdated": "1709590455"
+            },
+            "1.0.13": {
+                "buildid": "13690346",
+                "description": "1.0.13 beta",
+                "timeupdated": "1714129482"
+            },
+            "1.0.6": {
+                "buildid": "13306646",
+                "description": "1.0.6 beta",
+                "timeupdated": "1706973536"
+            },
+            "1.0.8.2": {
+                "buildid": "13357017",
+                "description": "1.0.8.2 beta",
+                "timeupdated": "1707453827"
+            },
+            "1.1.4": {
+                "buildid": "14202052",
+                "description": "1.1.4 beta",
+                "timeupdated": "1715527874"
+            },
+            "1.1.5": {
+                "buildid": "14365972",
+                "description": "1.1.5 beta",
+                "timeupdated": "1736842315"
+            },
+            "1.2.3": {
+                "buildid": "17122652",
+                "description": "1.2.3 beta",
+                "timeupdated": "1741209928"
+            },
+            "open_beta": {
+                "buildid": "18324848",
+                "description": "Open beta",
+                "timeupdated": "1746208918"
+            }
+        },
+        "workshopdepotdecryptionkey": "080368c670e231fa3d2e3b8e81bca142b1e2f21ac286a3875be347c0687ae1dd"
+    }
+}
