@@ -1,0 +1,29 @@
+{
+    "appid": "2649800",
+    "type": "Game",
+    "name": "Vinecard",
+    "schinese_name": "唐草卡 Vinecard",
+    "isfreeapp": "0",
+    "change_number": "29103416",
+    "update_time": "2025-05-21 20:15:46",
+    "depot": {
+        "2649801": {
+            "manifests": {
+                "public": {
+                    "gid": "6400778552877560596",
+                    "size": "5642719412",
+                    "download": "970598992"
+                }
+            },
+            "decryptionkey": "9684e996016beca183f204ee7259982a0db5674359252e46dc60f16ecac407f5"
+        },
+        "baselanguages": "english,schinese,tchinese",
+        "branches": {
+            "public": {
+                "buildid": "18549120",
+                "timeupdated": "1747829741"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
