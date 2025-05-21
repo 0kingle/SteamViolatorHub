@@ -1,0 +1,27 @@
+{
+    "appid": "2550890",
+    "type": "Game",
+    "name": "Mad King: Prologue",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013005",
+    "update_time": "2025-05-16 07:06:44",
+    "depot": {
+        "2550891": {
+            "manifests": {
+                "public": {
+                    "gid": "5380642414432231875",
+                    "size": "1896916780",
+                    "download": "670953360"
+                }
+            },
+            "decryptionkey": "22e655f4e1a1a267e3717e77af3f6c57fcb2dd98d54ef9417013fac5a4b39cd0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "13049771",
+                "timeupdated": "1703644394"
+            }
+        }
+    }
+}
