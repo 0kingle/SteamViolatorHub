@@ -1,0 +1,47 @@
+{
+    "appid": "2142790",
+    "type": "Game",
+    "name": "Fields of Mistria",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089550",
+    "update_time": "2025-05-21 03:42:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2142791": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7361307065991971193",
+                    "size": "402357809",
+                    "download": "204779568"
+                }
+            },
+            "decryptionkey": "b0773c2441743d1c8975c20922ec8e1bfc9122d75cff9bb8cdb6e99ba5c0d030"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18300540",
+                "timeupdated": "1746040576"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
