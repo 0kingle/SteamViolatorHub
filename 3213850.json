@@ -1,0 +1,29 @@
+{
+    "appid": "3213850",
+    "type": "Game",
+    "name": "gogh: Focus with Your Avatar",
+    "schinese_name": "gogh: 虚拟形象与专注",
+    "isfreeapp": "0",
+    "change_number": "29065435",
+    "update_time": "2025-05-20 04:30:52",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3213851": {
+            "manifests": {
+                "public": {
+                    "gid": "405806368744333629",
+                    "size": "1154212369",
+                    "download": "836973968"
+                }
+            },
+            "decryptionkey": "096cd494378b8ab62d21a7eadcf9a1736f7fe130b6f9bef9d2bb894074ab1bce"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18515668",
+                "timeupdated": "1747648000"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
