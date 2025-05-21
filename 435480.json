@@ -1,0 +1,78 @@
+{
+    "appid": "435480",
+    "type": "Game",
+    "name": "Trials of the Blood Dragon",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28973443",
+    "update_time": "2025-05-14 12:37:40",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,russian,japanese,dutch,brazilian",
+        "228982": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "435481": {
+            "manifests": {
+                "public": {
+                    "gid": "8878452333353069251",
+                    "size": "16239624140",
+                    "download": "15838859232"
+                }
+            }
+        },
+        "435482": {
+            "manifests": {
+                "public": {
+                    "gid": "7067021476071087495",
+                    "size": "19919390",
+                    "download": "12732208"
+                }
+            }
+        },
+        "435483": {
+            "manifests": {
+                "public": {
+                    "gid": "6293025891225060986",
+                    "size": "18394828",
+                    "download": "11394080"
+                }
+            }
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11447215",
+                "timeupdated": "1686742408"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
