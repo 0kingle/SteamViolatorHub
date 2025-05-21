@@ -1,0 +1,131 @@
+{
+    "appid": "536990",
+    "type": "Game",
+    "name": "Redie",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "28974487",
+    "update_time": "2025-05-14 14:17:52",
+    "depot": {
+        "baselanguages": "english,german,russian",
+        "228986": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229020": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "536991": {
+            "manifests": {
+                "public": {
+                    "gid": "966381001048632650",
+                    "size": "209955141",
+                    "download": "189147712"
+                }
+            },
+            "decryptionkey": "6d9a42c95e0ea2e4ce32bf221029f18af9323791efd0f517054b9dd74215ae48"
+        },
+        "536994": {
+            "manifests": {
+                "public": {
+                    "gid": "3976590293119259270",
+                    "size": "793227",
+                    "download": "159424"
+                }
+            }
+        },
+        "536997": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6270917691131021089",
+                    "size": "62096625",
+                    "download": "15362112"
+                }
+            }
+        },
+        "536993": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "817521276103387548",
+                    "size": "4202010",
+                    "download": "1126160"
+                }
+            }
+        },
+        "536996": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1554268188339163096",
+                    "size": "40357679",
+                    "download": "11326464"
+                }
+            },
+            "decryptionkey": "335a239ed30725c89dd1c93895d5af6185483064863b8c74817135083702951d"
+        },
+        "536992": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6235430233434407099",
+                    "size": "5131680",
+                    "download": "3865648"
+                }
+            }
+        },
+        "536995": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8632374104173242915",
+                    "size": "28041007",
+                    "download": "8172160"
+                }
+            }
+        },
+        "536998": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "11158169015553274",
+                    "size": "3637024",
+                    "download": "3029536"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "1511190",
+                "timeupdated": "1481413916"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
