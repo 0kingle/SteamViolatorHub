@@ -1,0 +1,65 @@
+{
+    "appid": "2069310",
+    "type": "Game",
+    "name": "RealFlight Evolution",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29072342",
+    "update_time": "2025-05-20 09:05:23",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2069311": {
+            "manifests": {
+                "public": {
+                    "gid": "6237264857141491036",
+                    "size": "16126683408",
+                    "download": "7805550304"
+                },
+                "directx9_deprecated": {
+                    "gid": "782187648783236523",
+                    "size": "13277587231",
+                    "download": "5863911872"
+                },
+                "publicbeta": {
+                    "gid": "6237264857141491036",
+                    "size": "16126683408",
+                    "download": "7805550304"
+                },
+                "publicbeta_directx11": {
+                    "gid": "6237264857141491036",
+                    "size": "16126683408",
+                    "download": "7805550304"
+                }
+            },
+            "decryptionkey": "f7c10cf67e59ca711014eb225bff0dd5b23321981134b4a51f54d255632bab00"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18300747",
+                "timeupdated": "1746138336"
+            },
+            "directx9_deprecated": {
+                "buildid": "12704724",
+                "description": "Final DirectX 9-based version for computers that don't support DirectX 11",
+                "timeupdated": "1700011806"
+            },
+            "publicbeta": {
+                "buildid": "18300747",
+                "description": "Distribution of public beta versions",
+                "timeupdated": "1746138195"
+            },
+            "publicbeta_directx11": {
+                "buildid": "18300747",
+                "description": "DirectX 11 public beta",
+                "timeupdated": "1746138224"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
