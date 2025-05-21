@@ -1,0 +1,28 @@
+{
+    "appid": "3288270",
+    "type": "Game",
+    "name": "Monster Care Simulator",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103379",
+    "update_time": "2025-05-21 20:13:46",
+    "depot": {
+        "3288271": {
+            "manifests": {
+                "public": {
+                    "gid": "702198714984923217",
+                    "size": "3054920775",
+                    "download": "1021861280"
+                }
+            },
+            "decryptionkey": "3fb90eeaf9bded22b7e94db0b157e734d017d6c5409e84add5ae511ce9958730"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18546960",
+                "timeupdated": "1747829618"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
