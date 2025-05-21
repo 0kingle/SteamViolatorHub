@@ -1,0 +1,38 @@
+{
+    "appid": "2252680",
+    "type": "Game",
+    "name": "Farlands",
+    "schinese_name": "星球田园诗",
+    "isfreeapp": "0",
+    "change_number": "29077532",
+    "update_time": "2025-05-20 16:26:48",
+    "depot": {
+        "2252681": {
+            "manifests": {
+                "public": {
+                    "gid": "8390412320794537281",
+                    "size": "4802842804",
+                    "download": "204730240"
+                },
+                "experimental": {
+                    "gid": "8390412320794537281",
+                    "size": "4802842804",
+                    "download": "204730240"
+                }
+            },
+            "decryptionkey": "73dbb18df72b601184646e91f441676cbac196f1540ba71c5b16a639e4bae4c0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18529684",
+                "timeupdated": "1747729604"
+            },
+            "experimental": {
+                "buildid": "18529684",
+                "description": "Experimental Builds",
+                "timeupdated": "1747729538"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
