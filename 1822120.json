@@ -1,0 +1,27 @@
+{
+    "appid": "1822120",
+    "type": "Game",
+    "name": "Life and Sex in Men's Сollege - Season 1 💕🔞",
+    "schinese_name": "男子大学的生活与性 - 第一季💕🔞",
+    "isfreeapp": "0",
+    "change_number": "28574328",
+    "update_time": "2025-04-21 02:59:11",
+    "depot": {
+        "1822121": {
+            "manifests": {
+                "public": {
+                    "gid": "7813976726222400017",
+                    "size": "228078454",
+                    "download": "73800016"
+                }
+            },
+            "decryptionkey": "bd96fd89afd5496aeb0da997cee9953435052dc8dabe32bdc42ed75e2e69acfa"
+        },
+        "branches": {
+            "public": {
+                "buildid": "11855276",
+                "timeupdated": "1691046525"
+            }
+        }
+    }
+}
