@@ -1,0 +1,46 @@
+{
+    "appid": "2146720",
+    "type": "Game",
+    "name": "EON Fighter",
+    "schinese_name": "深空幸存者",
+    "isfreeapp": "0",
+    "change_number": "29009139",
+    "update_time": "2025-05-16 02:24:43",
+    "depot": {
+        "baselanguages": "english,spanish",
+        "2146721": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5288023493730816412",
+                    "size": "615776086",
+                    "download": "413423120"
+                },
+                "windows7": {
+                    "gid": "3824388349724976955",
+                    "size": "619984691",
+                    "download": "413875424"
+                }
+            },
+            "decryptionkey": "c9817d89ec4aef7769c42dfa195224f3b621892dbf5f42c58b4302762c2d5b51"
+        },
+        "2146722": {
+            "config": {
+                "oslist": "linux"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18432599",
+                "timeupdated": "1747070365"
+            },
+            "windows7": {
+                "buildid": "16751316",
+                "description": "Windows 7 users",
+                "timeupdated": "1740740859"
+            }
+        }
+    }
+}
