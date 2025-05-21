@@ -1,0 +1,27 @@
+{
+    "appid": "3584190",
+    "type": "Game",
+    "name": "Three Sisters",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29081458",
+    "update_time": "2025-05-20 20:15:24",
+    "depot": {
+        "3584191": {
+            "manifests": {
+                "public": {
+                    "gid": "7913902775318842593",
+                    "size": "884886943",
+                    "download": "727942928"
+                }
+            },
+            "decryptionkey": "6170b384d1c20210417b87519a3a287d734640a60e194e2f980a9909b25d7eb8"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18211045",
+                "timeupdated": "1745427603"
+            }
+        }
+    }
+}
