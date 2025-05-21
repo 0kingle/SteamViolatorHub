@@ -1,0 +1,112 @@
+{
+    "appid": "504130",
+    "type": "Game",
+    "name": "Manual Samuel - Last Tuesday Edition",
+    "schinese_name": "手动的塞缪尔 - 特别版",
+    "isfreeapp": "0",
+    "change_number": "29089989",
+    "update_time": "2025-05-21 04:14:20",
+    "depot": {
+        "504131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3498605525760808475",
+                    "size": "521041035",
+                    "download": "371822336"
+                },
+                "classic": {
+                    "gid": "4149085045384820028",
+                    "size": "2209654623",
+                    "download": "477682816"
+                }
+            },
+            "decryptionkey": "220064b93804e73f1790909d8988c139ed1582f73c04fac674b0a33e29d2e141"
+        },
+        "504132": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9176124854122277470",
+                    "size": "762241547",
+                    "download": "418222560"
+                },
+                "classic": {
+                    "gid": "5815435147543821496",
+                    "size": "2222956047",
+                    "download": "479808112"
+                }
+            },
+            "decryptionkey": "fd084af23a8b89b37907b159cd4867c15cd23a2d5fd9d8e03dae9b0a4f6f5331"
+        },
+        "504133": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "458700999373212256",
+                    "size": "566283725",
+                    "download": "377544768"
+                },
+                "classic": {
+                    "gid": "6241390488341930164",
+                    "size": "2217472430",
+                    "download": "478798000"
+                }
+            },
+            "decryptionkey": "fc9ef2baafa4a13347d5ebf54b7e68ad4119f6bc4b547a215b840fafe9a4c204"
+        },
+        "536760": {
+            "manifests": {
+                "public": {
+                    "gid": "3596938882169743406",
+                    "size": "84566044",
+                    "download": "63741968"
+                },
+                "classic": {
+                    "gid": "3596938882169743406",
+                    "size": "84566044",
+                    "download": "63741968"
+                }
+            },
+            "dlcappid": "536760",
+            "decryptionkey": "0944690797f243f9f7c0ceeadc4923a98f81c0af8f193a50a506eb7c9312a2d5"
+        },
+        "504134": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4642836128939131003",
+                    "size": "666899498",
+                    "download": "460974000"
+                },
+                "classic": {
+                    "gid": "7173688730491457941",
+                    "size": "2209654623",
+                    "download": "477691104"
+                }
+            },
+            "decryptionkey": "df4ebdaca129cd492e3376950a4a9163cd6792b1538242d0db2cf5515fa5dba6"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18262148",
+                "timeupdated": "1745867680"
+            },
+            "classic": {
+                "buildid": "18030382",
+                "description": "Manual Samuel 2016",
+                "timeupdated": "1744137171"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
