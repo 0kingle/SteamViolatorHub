@@ -1,0 +1,49 @@
+{
+    "appid": "2950190",
+    "type": "Game",
+    "name": "BloodLight",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29069070",
+    "update_time": "2025-05-20 04:38:57",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2950191": {
+            "manifests": {
+                "public": {
+                    "gid": "8397104958937419070",
+                    "size": "1995803681",
+                    "download": "1800870880"
+                }
+            },
+            "decryptionkey": "d61a74ecbb571974a0f77a459f6b7aefdb228d98f21bc8e0480e646a0b2213d5"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18063041",
+                "timeupdated": "1744323265"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
