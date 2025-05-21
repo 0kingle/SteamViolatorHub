@@ -1,0 +1,45 @@
+{
+    "appid": "3423050",
+    "type": "Game",
+    "name": "An alien girl fell on my head, and now I must save our world by demonstrating great and beautiful love",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010842",
+    "update_time": "2025-05-16 04:16:07",
+    "depot": {
+        "3423051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4571555991583699195",
+                    "size": "3565991627",
+                    "download": "635792976"
+                }
+            },
+            "decryptionkey": "91b6d1aac63b21b849d1dad52e3cc2766fbfa0cf62594572cb94a8fa3b047fae"
+        },
+        "3423052": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2878264974543238626",
+                    "size": "3642362502",
+                    "download": "652500624"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18008912",
+                "timeupdated": "1744286260"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
