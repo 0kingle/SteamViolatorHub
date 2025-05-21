@@ -1,0 +1,31 @@
+{
+    "appid": "750770",
+    "type": "Game",
+    "name": "Labyronia Elements",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29013462",
+    "update_time": "2025-05-16 07:49:24",
+    "depot": {
+        "baselanguages": "english",
+        "750771": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4555390961693915138",
+                    "size": "732860043",
+                    "download": "725600192"
+                }
+            },
+            "decryptionkey": "f66baa73cc1ec6db4cf5da5d392afb02fdf642e81544a1b8d0963bce5e65da8c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "3310527",
+                "timeupdated": "1542294839"
+            }
+        }
+    }
+}
