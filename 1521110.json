@@ -1,0 +1,83 @@
+{
+    "appid": "1521110",
+    "type": "Game",
+    "name": "Black Baby",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28815610",
+    "update_time": "2025-05-05 10:08:30",
+    "depot": {
+        "1521111": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5452759945838780309",
+                    "size": "259327316",
+                    "download": "93222672"
+                }
+            },
+            "decryptionkey": "eb6f22756b510fec718e89d8a35c2d630c91ff69fe3fd689b576fbcab889f22c"
+        },
+        "1521112": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2774568045265967610",
+                    "size": "274533865",
+                    "download": "98016864"
+                }
+            }
+        },
+        "1521113": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5658109259844881225",
+                    "size": "271443114",
+                    "download": "101978288"
+                }
+            }
+        },
+        "1521114": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4066582838393439081",
+                    "size": "253730132",
+                    "download": "91283440"
+                }
+            }
+        },
+        "1521115": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4007862207972075906",
+                    "size": "271205998",
+                    "download": "101440784"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18046492",
+                "timeupdated": "1744231279"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
