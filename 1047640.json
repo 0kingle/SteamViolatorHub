@@ -1,0 +1,72 @@
+{
+    "appid": "1047640",
+    "type": "Game",
+    "name": "Helios",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28983254",
+    "update_time": "2025-05-14 22:52:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229002": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "",
+        "workshopdepot": "1047640",
+        "1047641": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "498673255800474949",
+                    "size": "2387269305",
+                    "download": "1840218160"
+                },
+                "developer": {
+                    "gid": "8389348402089881164",
+                    "size": "2514163780",
+                    "download": "1687233728"
+                }
+            },
+            "decryptionkey": "26fa1733fad4e39886d7b28a13d586c88ffbbdc73e4b1e2dc249f3db5b3581b1"
+        },
+        "branches": {
+            "public": {
+                "buildid": "12898059",
+                "timeupdated": "1701935715"
+            },
+            "developer": {
+                "buildid": "12098020",
+                "description": "developer developer developer",
+                "timeupdated": "1693713318"
+            }
+        },
+        "workshopdepotdecryptionkey": "e596562ff7d606104b7da3e048d41334796c0e66b058c00ad8ffbe44ba26f2b3"
+    }
+}
