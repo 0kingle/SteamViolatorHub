@@ -1,0 +1,79 @@
+{
+    "appid": "2058730",
+    "type": "Game",
+    "name": "The Darkest Files",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29093190",
+    "update_time": "2025-05-21 08:47:35",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "baselanguages": "english",
+        "2058731": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2296580167184441",
+                    "size": "1794400578",
+                    "download": "966580304"
+                },
+                "betarelease": {
+                    "gid": "5249564732134999922",
+                    "size": "1784380356",
+                    "download": "960402480"
+                },
+                "oldbeta": {
+                    "gid": "8659160552406393024",
+                    "size": "1501549224",
+                    "download": "781237616"
+                }
+            },
+            "decryptionkey": "f3c7453bcd57bbbad6ba89fc2cf37a0d69922f0fdc6393b9a4b03b6434d61657"
+        },
+        "2058732": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2450850898891319193",
+                    "size": "1821236850",
+                    "download": "974745328"
+                },
+                "betarelease": {
+                    "gid": "3754865781966250435",
+                    "size": "1810897623",
+                    "download": "968518112"
+                },
+                "oldbeta": {
+                    "gid": "1849657347556580049",
+                    "size": "1528159259",
+                    "download": "789608640"
+                }
+            }
+        },
+        "2644690": {
+            "dlcappid": "2644690"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18121439",
+                "timeupdated": "1744799914"
+            },
+            "betarelease": {
+                "buildid": "17986609",
+                "description": "Branch containing the beta of the next release",
+                "timeupdated": "1743778647"
+            },
+            "oldbeta": {
+                "buildid": "14540460",
+                "description": "Branch containing the first closed beta",
+                "timeupdated": "1733831474"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
