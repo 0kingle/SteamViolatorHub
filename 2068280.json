@@ -1,0 +1,149 @@
+{
+    "appid": "2068280",
+    "type": "Game",
+    "name": "Nordic Ashes",
+    "schinese_name": "北欧的灰烬：诸神黄昏幸存者",
+    "isfreeapp": "0",
+    "change_number": "29104326",
+    "update_time": "2025-05-21 21:00:43",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2068281": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1146568312212318255",
+                    "size": "638368656",
+                    "download": "518036112"
+                }
+            },
+            "decryptionkey": "ee7ffd7c9029c2c860eab9bb927eba2a68583d2327418c1fa50e13a0aa0e3534"
+        },
+        "2068282": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8059862946755660588",
+                    "size": "740139326",
+                    "download": "538431184"
+                }
+            },
+            "decryptionkey": "01210614ee8eafe7be521b727beab3aefa41b46c6a42ba8299ee4478f6c890df"
+        },
+        "2068283": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1819969691988550512",
+                    "size": "676857887",
+                    "download": "520519824"
+                }
+            },
+            "decryptionkey": "df31c8266051f43e78990b5d97bd3b9eb293126391b671e1b14a051d460bf91b"
+        },
+        "2952100": {
+            "dlcappid": "2952100",
+            "manifests": {
+                "public": {
+                    "gid": "3476854364480595768",
+                    "size": "162777475",
+                    "download": "140908912"
+                }
+            },
+            "decryptionkey": "288f3607fd60a1291dc7c8ac494a41f2f85aa8c9ca7cffc02e25fcbe4489ecf5"
+        },
+        "3312220": {
+            "dlcappid": "3312220",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6404997703055802125",
+                    "size": "100074",
+                    "download": "101472"
+                }
+            },
+            "decryptionkey": "bab077fa19c68ee5c41735feff8f93076ae2d6c43631a8394311c453d1c7644a"
+        },
+        "3312221": {
+            "dlcappid": "3312220",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8141255087922911130",
+                    "size": "100180",
+                    "download": "101552"
+                }
+            }
+        },
+        "3312222": {
+            "dlcappid": "3312220",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5141057283641433393",
+                    "size": "100019",
+                    "download": "101408"
+                }
+            }
+        },
+        "3636780": {
+            "dlcappid": "3636780",
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5889876048268518936",
+                    "size": "10360448",
+                    "download": "10502064"
+                }
+            },
+            "decryptionkey": "cb00c6cd0e5c55518a12fac8bf4339a6ad9580427e363e3f54cd97403ebbd75a"
+        },
+        "3636781": {
+            "dlcappid": "3636780",
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8581065065986664282",
+                    "size": "11409544",
+                    "download": "11565520"
+                }
+            }
+        },
+        "3636782": {
+            "dlcappid": "3636780",
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4914104943878966614",
+                    "size": "11411779",
+                    "download": "11567872"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18509836",
+                "timeupdated": "1747589977"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
