@@ -1,0 +1,38 @@
+{
+    "appid": "1936360",
+    "type": "Game",
+    "name": "Escape From Mandrillia",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29103227",
+    "update_time": "2025-05-21 20:05:30",
+    "depot": {
+        "1936361": {
+            "manifests": {
+                "public": {
+                    "gid": "6557590800280705785",
+                    "size": "3574323210",
+                    "download": "1200645440"
+                },
+                "experimental": {
+                    "gid": "7730720174262920153",
+                    "size": "3603633556",
+                    "download": "1204438512"
+                }
+            },
+            "decryptionkey": "f1b2dfcac606c0839d46c944796ba0f9a3503bec8967ff6afc4e070cdf043f4a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18511010",
+                "timeupdated": "1747603537"
+            },
+            "experimental": {
+                "buildid": "18548992",
+                "description": "Crazy stuff happens here",
+                "timeupdated": "1747829122"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
