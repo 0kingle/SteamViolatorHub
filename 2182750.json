@@ -1,0 +1,42 @@
+{
+    "appid": "2182750",
+    "type": "Game",
+    "name": "Fallen Arena",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28579933",
+    "update_time": "2025-04-21 15:46:43",
+    "depot": {
+        "2182751": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7039924470665468499",
+                    "size": "426255385",
+                    "download": "314103472"
+                }
+            },
+            "decryptionkey": "0a07ab399c6bea9ae5ac92196ab8fefc87b546c167cef4e11084452265cfd780"
+        },
+        "2182752": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7845058692038289090",
+                    "size": "425414352",
+                    "download": "311069584"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9743822",
+                "timeupdated": "1666078945"
+            }
+        }
+    }
+}
