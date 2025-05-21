@@ -1,0 +1,43 @@
+{
+    "appid": "3444800",
+    "type": "Demo",
+    "name": "Dragonkin: The Banished Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102172",
+    "update_time": "2025-05-21 19:37:43",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3444801": {
+            "manifests": {
+                "public": {
+                    "gid": "4454845682004876925",
+                    "size": "27975438844",
+                    "download": "23564123760"
+                }
+            },
+            "decryptionkey": "86f3c1a5ee32c5e9255fe23fe767ba19429842c856b75a41504e422d87f85e03"
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "17366510",
+                "timeupdated": "1739809273"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
