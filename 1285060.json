@@ -1,0 +1,54 @@
+{
+    "appid": "1285060",
+    "type": "Game",
+    "name": "Winter Falling",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28980660",
+    "update_time": "2025-05-14 22:49:05",
+    "depot": {
+        "1285061": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9147109445300006163",
+                    "size": "722106954",
+                    "download": "123569616"
+                }
+            },
+            "decryptionkey": "7f826998ff403c45b281a641907131c94562e1198f8f9e6426952f35ee5d1589"
+        },
+        "1285062": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6340176794102218158",
+                    "size": "746375038",
+                    "download": "130663504"
+                }
+            }
+        },
+        "1285063": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5441500925585195964",
+                    "size": "764323894",
+                    "download": "123917792"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18330947",
+                "timeupdated": "1746263399"
+            }
+        }
+    }
+}
