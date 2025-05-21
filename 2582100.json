@@ -1,0 +1,41 @@
+{
+    "appid": "2582100",
+    "type": "Game",
+    "name": "Demon Of The Dark",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29080466",
+    "update_time": "2025-05-20 19:14:44",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2582101": {
+            "manifests": {
+                "public": {
+                    "gid": "674820185173993288",
+                    "size": "1931324087",
+                    "download": "1813674192"
+                }
+            },
+            "decryptionkey": "8375f8e305c3bb08983dc49446f07f8692144535ae6573284293adacd6c032f4"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15248995",
+                "timeupdated": "1722674055"
+            }
+        }
+    }
+}
