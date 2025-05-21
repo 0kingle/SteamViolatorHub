@@ -1,0 +1,42 @@
+{
+    "appid": "2455680",
+    "type": "Game",
+    "name": "Ayako's Mission",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 06:25:53",
+    "depot": {
+        "2455681": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3638816713367535876",
+                    "size": "37996266",
+                    "download": "27455728"
+                }
+            },
+            "decryptionkey": "1d4611a139f48373ad28d958dc8683ae6ce0109f8d368728d45d018107ce229d"
+        },
+        "2455682": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7212059697558909",
+                    "size": "36944521",
+                    "download": "26757744"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "16591792",
+                "timeupdated": "1733040473"
+            }
+        }
+    }
+}
