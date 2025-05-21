@@ -1,0 +1,27 @@
+{
+    "appid": "1492140",
+    "type": "Game",
+    "name": "Club Hentai: Girls, Love, Sex",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987627",
+    "update_time": "2025-05-15 02:46:42",
+    "depot": {
+        "1492141": {
+            "manifests": {
+                "public": {
+                    "gid": "4507781500405957729",
+                    "size": "1318213929",
+                    "download": "267227440"
+                }
+            },
+            "decryptionkey": "6caad09749092994f17a3b8bc453a3e1439b31744b0dc63ba436fc08f0ee5e8f"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18025282",
+                "timeupdated": "1744112691"
+            }
+        }
+    }
+}
