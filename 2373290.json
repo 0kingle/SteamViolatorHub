@@ -1,0 +1,28 @@
+{
+    "appid": "2373290",
+    "type": "Game",
+    "name": "安妮的游戏 The Game of Annie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28893373",
+    "update_time": "2025-05-09 09:43:35",
+    "depot": {
+        "2373291": {
+            "manifests": {
+                "public": {
+                    "gid": "9097668287721000655",
+                    "size": "16952925028",
+                    "download": "5837447040"
+                }
+            },
+            "decryptionkey": "79289c51bceed40bd46b866de1da991c615a833cd014f3dbbc3481cf0f90cc5c"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18396796",
+                "timeupdated": "1746755012"
+            }
+        }
+    }
+}
