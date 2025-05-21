@@ -1,0 +1,71 @@
+{
+    "appid": "3187770",
+    "type": "Game",
+    "name": "NAGAISAN",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28432949",
+    "update_time": "2025-04-12 00:10:52",
+    "depot": {
+        "baselanguages": "english,schinese,russian,japanese",
+        "3187771": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1844386674424346973",
+                    "size": "283926302",
+                    "download": "221436064"
+                }
+            },
+            "decryptionkey": "8348a57dddcc3d8472c4d6c957d885a824672f7e2e580d5bd1617207ebc011c0"
+        },
+        "3187772": {
+            "config": {
+                "language": "schinese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2727443518777671657",
+                    "size": "283926171",
+                    "download": "221437872"
+                }
+            },
+            "decryptionkey": "5e078a358ddfc8165d524642344bf6a98064849c04c295e5cf93ddcf05ea230b"
+        },
+        "3187773": {
+            "config": {
+                "language": "russian",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6085454698895178234",
+                    "size": "283934495",
+                    "download": "221430448"
+                }
+            }
+        },
+        "3187774": {
+            "config": {
+                "language": "japanese",
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5033319174942480775",
+                    "size": "283928501",
+                    "download": "221434592"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17959153",
+                "timeupdated": "1743619420"
+            }
+        }
+    }
+}
