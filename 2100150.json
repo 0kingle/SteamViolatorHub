@@ -1,0 +1,28 @@
+{
+    "appid": "2100150",
+    "type": "Game",
+    "name": "Shadow of the Depth",
+    "schinese_name": "深渊之影",
+    "isfreeapp": "0",
+    "change_number": "29008735",
+    "update_time": "2025-05-16 02:00:41",
+    "depot": {
+        "2100151": {
+            "manifests": {
+                "public": {
+                    "gid": "5863164819340678477",
+                    "size": "941836657",
+                    "download": "712431472"
+                }
+            },
+            "decryptionkey": "4c275f0c8c843b7c9d9636e1929dd2cd1ee1ce0f1d0ffb0746cc2c0468f2b161"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18142447",
+                "timeupdated": "1744885327"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
