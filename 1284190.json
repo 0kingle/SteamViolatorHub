@@ -1,0 +1,38 @@
+{
+    "appid": "1284190",
+    "type": "Game",
+    "name": "The Planet Crafter",
+    "schinese_name": "星球工匠",
+    "isfreeapp": "0",
+    "change_number": "29104027",
+    "update_time": "2025-05-21 20:46:36",
+    "depot": {
+        "1284192": {
+            "manifests": {
+                "public": {
+                    "gid": "6746489428001864692",
+                    "size": "5039072390",
+                    "download": "2995961888"
+                },
+                "development": {
+                    "gid": "1500215319569367280",
+                    "size": "5040932548",
+                    "download": "2995927568"
+                }
+            },
+            "decryptionkey": "1f10eb10bfc54e336b5f2e2a5c05001817700491d0c79a7931637a9158c41dc0"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18519152",
+                "timeupdated": "1747664637"
+            },
+            "development": {
+                "buildid": "18549535",
+                "description": "Dev branch. This is a work in progress branch. May contains bugs & broken features. May affect or corrupt save files..",
+                "timeupdated": "1747831590"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
