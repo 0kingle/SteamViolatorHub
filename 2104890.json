@@ -1,0 +1,45 @@
+{
+    "appid": "2104890",
+    "type": "Game",
+    "name": "RoadCraft",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100379",
+    "update_time": "2025-05-21 19:24:59",
+    "depot": {
+        "2104891": {
+            "manifests": {
+                "public": {
+                    "gid": "6682696923648315772",
+                    "size": "35647177274",
+                    "download": "28625243424"
+                }
+            },
+            "decryptionkey": "7aae8e21e13a76d7d261e23592399805131dbb2dc4678b5c40b335e6f131b3a7"
+        },
+        "2104899": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "3510890": {
+            "dlcappid": "3510890",
+            "manifests": {
+                "public": {
+                    "gid": "8716409139232890468",
+                    "size": "28746535703",
+                    "download": "28693224608"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18376840",
+                "timeupdated": "1747728390"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
