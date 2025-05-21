@@ -1,0 +1,71 @@
+{
+    "appid": "2693940",
+    "type": "Game",
+    "name": "NEODUEL: Backpack Monsters ",
+    "schinese_name": "背包精灵：决斗者",
+    "isfreeapp": "0",
+    "change_number": "29097062",
+    "update_time": "2025-05-21 19:25:53",
+    "depot": {
+        "2693941": {
+            "manifests": {
+                "public": {
+                    "gid": "6480739735447584520",
+                    "size": "2427625555",
+                    "download": "463686928"
+                },
+                "staging": {
+                    "gid": "6480739735447584520",
+                    "size": "2427625555",
+                    "download": "463686928"
+                }
+            },
+            "decryptionkey": "4911dead727df5a837596e27ff83bb201ef0dd16a2c12bc4fa41a4dd3eac690d"
+        },
+        "2693942": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1769343318669191409",
+                    "size": "2454125289",
+                    "download": "471325152"
+                },
+                "staging": {
+                    "gid": "1769343318669191409",
+                    "size": "2454125289",
+                    "download": "471325152"
+                }
+            }
+        },
+        "2693943": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "610349584779769928",
+                    "size": "2434974438",
+                    "download": "463799216"
+                },
+                "staging": {
+                    "gid": "610349584779769928",
+                    "size": "2434974438",
+                    "download": "463799216"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18424677",
+                "timeupdated": "1747093380"
+            },
+            "staging": {
+                "buildid": "18424677",
+                "description": "staging branch of NEODuel, usually full of bugs!",
+                "timeupdated": "1747093290"
+            }
+        }
+    }
+}
