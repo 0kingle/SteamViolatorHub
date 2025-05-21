@@ -1,0 +1,38 @@
+{
+    "appid": "2181950",
+    "type": "Game",
+    "name": "Zero Division",
+    "schinese_name": "零异机动队",
+    "isfreeapp": "0",
+    "change_number": "29086124",
+    "update_time": "2025-05-21 00:16:45",
+    "depot": {
+        "2181951": {
+            "manifests": {
+                "public": {
+                    "gid": "2525301287506284328",
+                    "size": "1778946021",
+                    "download": "590458272"
+                },
+                "beta": {
+                    "gid": "2525301287506284328",
+                    "size": "1778946021",
+                    "download": "590458272"
+                }
+            },
+            "decryptionkey": "0dc1bbb61ef526c6414a658bfc273f863bcc19294d006b130f3119b807e0b475"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18365356",
+                "timeupdated": "1746566899"
+            },
+            "beta": {
+                "buildid": "18365356",
+                "description": "Beta branch",
+                "timeupdated": "1746566795"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
