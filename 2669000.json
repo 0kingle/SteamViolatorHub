@@ -1,0 +1,43 @@
+{
+    "appid": "2669000",
+    "type": "Game",
+    "name": "Dee's Nuts 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29078295",
+    "update_time": "2025-05-20 17:12:46",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2669001": {
+            "manifests": {
+                "public": {
+                    "gid": "7722377229434840818",
+                    "size": "711366113",
+                    "download": "534651264"
+                }
+            },
+            "decryptionkey": "a9c1a1dd32eff7227af571b0f4e027956c3c8cb8221e2c433a1ded0dad976dee"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "14175999",
+                "timeupdated": "1714066454"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
