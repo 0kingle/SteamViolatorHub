@@ -1,0 +1,44 @@
+{
+    "appid": "2637070",
+    "type": "Game",
+    "name": "Crawling Lab",
+    "schinese_name": "爬行实验室",
+    "isfreeapp": "0",
+    "change_number": "29085539",
+    "update_time": "2025-05-20 23:48:16",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2637071": {
+            "manifests": {
+                "public": {
+                    "gid": "1352293100308278084",
+                    "size": "2133444517",
+                    "download": "1800336912"
+                }
+            },
+            "decryptionkey": "0f6991cf277e81d9f71b651e4e56c3a98f9b61391fac3bd276845bbfe09cf741"
+        },
+        "workshopdepot": "2637070",
+        "branches": {
+            "public": {
+                "buildid": "18535324",
+                "timeupdated": "1747756091"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
