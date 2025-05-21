@@ -1,0 +1,28 @@
+{
+    "appid": "2978470",
+    "type": "Game",
+    "name": "Where wh..?",
+    "schinese_name": "何处",
+    "isfreeapp": "0",
+    "change_number": "29015559",
+    "update_time": "2025-05-16 10:54:46",
+    "depot": {
+        "2978471": {
+            "manifests": {
+                "public": {
+                    "gid": "6847347512268961565",
+                    "size": "3047217025",
+                    "download": "2134480336"
+                }
+            },
+            "decryptionkey": "2f7a703b29c5c247d27c850240edcbee643482df215f47d58dd3107fab6a6c9d"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "17073716",
+                "timeupdated": "1737463100"
+            }
+        }
+    }
+}
