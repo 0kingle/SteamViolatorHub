@@ -1,0 +1,35 @@
+{
+    "appid": "2103510",
+    "type": "Game",
+    "name": "Spear Song",
+    "schinese_name": "棋枪颂歌",
+    "isfreeapp": "0",
+    "change_number": "28562841",
+    "update_time": "2025-04-19 20:32:07",
+    "depot": {
+        "baselanguages": "english,russian",
+        "hasdepotsindlc": "1",
+        "2103511": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4118915573154763948",
+                    "size": "6914350786",
+                    "download": "4263818704"
+                }
+            },
+            "decryptionkey": "a8335fae431b595479800b85ef52a9a758f66ad49ec5b4724823b5adbfa64c5f"
+        },
+        "3286970": {
+            "dlcappid": "3286970"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18167019",
+                "timeupdated": "1745065924"
+            }
+        }
+    }
+}
