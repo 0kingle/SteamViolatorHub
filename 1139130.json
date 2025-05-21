@@ -1,0 +1,54 @@
+{
+    "appid": "1139130",
+    "type": "Game",
+    "name": "BioMech",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 06:17:06",
+    "depot": {
+        "1139131": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4114213839288753780",
+                    "size": "237018298",
+                    "download": "97827168"
+                }
+            },
+            "decryptionkey": "f4f5e7326babd027c8c6cb1811bd51f142dc4505e6788b3c779773407ac06e35"
+        },
+        "1139134": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5617808420519392720",
+                    "size": "279626889",
+                    "download": "97637776"
+                }
+            }
+        },
+        "1139135": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6086988341195701874",
+                    "size": "292558325",
+                    "download": "105474480"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "6709775",
+                "timeupdated": "1621232617"
+            }
+        }
+    }
+}
