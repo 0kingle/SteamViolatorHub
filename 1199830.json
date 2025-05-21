@@ -1,0 +1,59 @@
+{
+    "appid": "1199830",
+    "type": "Game",
+    "name": "How To Hack In?",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28984968",
+    "update_time": "2025-05-15 00:13:19",
+    "depot": {
+        "baselanguages": "",
+        "1199831": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7258754020566720857",
+                    "size": "2027778511",
+                    "download": "584299568"
+                }
+            },
+            "decryptionkey": "2efb4a433566b2a1b91bfe21ba42526fb5afa40be38dcc24ed4de6a0be7ddf59"
+        },
+        "1199834": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6605045074476844220",
+                    "size": "1988591559",
+                    "download": "576746688"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1199832": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2446971890978169837",
+                    "size": "3198192366",
+                    "download": "762800896"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "17930261",
+                "timeupdated": "1743454266"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
