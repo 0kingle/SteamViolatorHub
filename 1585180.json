@@ -1,0 +1,65 @@
+{
+    "appid": "1585180",
+    "type": "Game",
+    "name": "Drova - Forsaken Kin",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29098249",
+    "update_time": "2025-05-21 19:29:01",
+    "depot": {
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1585180",
+        "1585182": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3028857314096909511",
+                    "size": "3642921992",
+                    "download": "1158837968"
+                }
+            },
+            "decryptionkey": "e3f3f5b9271ecc5008846fdb91f891cfec142053bee010982ef6927466254c52"
+        },
+        "1585181": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7984230180066610582",
+                    "size": "3539190187",
+                    "download": "1140170512"
+                }
+            }
+        },
+        "1585183": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6277738526832887337",
+                    "size": "3832973694",
+                    "download": "1191343376"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18461987",
+                "timeupdated": "1747235327"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "8c7c416113de482ba6d04c627f3da230066d1305b14dd95a62945b6d5d9f0eee"
+    }
+}
