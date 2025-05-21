@@ -1,0 +1,58 @@
+{
+    "appid": "1319550",
+    "type": "Game",
+    "name": "Power of Ten",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 22:31:05",
+    "depot": {
+        "1319551": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9054057660483462992",
+                    "size": "153322827",
+                    "download": "123489488"
+                },
+                "test": {
+                    "gid": "9054057660483462992",
+                    "size": "153322827",
+                    "download": "123489488"
+                }
+            },
+            "decryptionkey": "3dc5201c062b371196a7c77b73fbdee94f22802e4691420461398d7c5132f862"
+        },
+        "1319552": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3462136600267107835",
+                    "size": "186306753",
+                    "download": "130777808"
+                },
+                "test": {
+                    "gid": "3462136600267107835",
+                    "size": "186306753",
+                    "download": "130777808"
+                }
+            },
+            "decryptionkey": "b97c562f1be19999c34e8f28f451c7eca8c561ca62cd29058c4a2ae8c21085eb"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17491268",
+                "timeupdated": "1740437685"
+            },
+            "test": {
+                "buildid": "17491268",
+                "description": "dev testing",
+                "timeupdated": "1740437539"
+            }
+        }
+    }
+}
