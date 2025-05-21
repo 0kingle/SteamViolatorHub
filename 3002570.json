@@ -1,0 +1,57 @@
+{
+    "appid": "3002570",
+    "type": "Game",
+    "name": "Nymphomaniac - Sex Addict",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102066",
+    "update_time": "2025-05-21 19:33:31",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229033": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3002571": {
+            "manifests": {
+                "public": {
+                    "gid": "1300078660848002874",
+                    "size": "16468346591",
+                    "download": "15431910880"
+                }
+            },
+            "decryptionkey": "e6978a8a04524482ba060c58ba0f45e185f278af036c31730452acee6a40ccb9"
+        },
+        "3411041": {
+            "dlcappid": "3411040",
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18493656",
+                "timeupdated": "1747421637"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
