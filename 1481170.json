@@ -1,0 +1,175 @@
+{
+    "appid": "1481170",
+    "type": "Game",
+    "name": "ZEPHON",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090387",
+    "update_time": "2025-05-21 04:38:38",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "workshopdepot": "1481170",
+        "baselanguages": "english,german,french,koreana,spanish,schinese,russian,polish",
+        "1481171": {
+            "manifests": {
+                "public": {
+                    "gid": "4352259577296221588",
+                    "size": "4710642775",
+                    "download": "1962760240"
+                },
+                "1.0.x": {
+                    "gid": "6200445090490405520",
+                    "size": "4322687146",
+                    "download": "1793326848"
+                },
+                "beta": {
+                    "gid": "4352259577296221588",
+                    "size": "4710642775",
+                    "download": "1962760240"
+                },
+                "debug": {
+                    "gid": "4304634263797572022",
+                    "size": "4324478852",
+                    "download": "1795157840"
+                }
+            },
+            "decryptionkey": "ab7865cbd2a8f2f7849cbd33921b1240846241cb2d269f9aacb275fe03a08147"
+        },
+        "1481172": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7108771705749657656",
+                    "size": "130237519",
+                    "download": "30172240"
+                },
+                "1.0.x": {
+                    "gid": "504785261336937225",
+                    "size": "128567887",
+                    "download": "30010832"
+                },
+                "beta": {
+                    "gid": "7108771705749657656",
+                    "size": "130237519",
+                    "download": "30172240"
+                },
+                "debug": {
+                    "gid": "9059898715860547523",
+                    "size": "127662967",
+                    "download": "29783120"
+                }
+            },
+            "decryptionkey": "9a3ffa2d182a63014568fa620607a4f6f2d873b15ed7dea23b6918c5bcea5d69"
+        },
+        "1481173": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7756159883973780938",
+                    "size": "129221427",
+                    "download": "30700208"
+                },
+                "1.0.x": {
+                    "gid": "767911117179082725",
+                    "size": "127121363",
+                    "download": "30485616"
+                },
+                "beta": {
+                    "gid": "7756159883973780938",
+                    "size": "129221427",
+                    "download": "30700208"
+                },
+                "debug": {
+                    "gid": "1513122065775052200",
+                    "size": "126864331",
+                    "download": "30482304"
+                }
+            }
+        },
+        "3301470": {
+            "dlcappid": "3301470",
+            "manifests": {
+                "public": {
+                    "gid": "8520414856758569898",
+                    "size": "1019363907",
+                    "download": "498319568"
+                },
+                "1.0.x": {
+                    "gid": "8520414856758569898",
+                    "size": "1019363907",
+                    "download": "498319568"
+                },
+                "beta": {
+                    "gid": "8520414856758569898",
+                    "size": "1019363907",
+                    "download": "498319568"
+                },
+                "debug": {
+                    "gid": "8520414856758569898",
+                    "size": "1019363907",
+                    "download": "498319568"
+                }
+            },
+            "decryptionkey": "78e7364c6c382811cee9ac213efb1422278b33d673aa157271f30f2c3679d6c2"
+        },
+        "3607430": {
+            "dlcappid": "3607430",
+            "manifests": {
+                "public": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                },
+                "1.0.x": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                },
+                "beta": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                },
+                "debug": {
+                    "gid": "6135102898699654847",
+                    "size": "128",
+                    "download": "192"
+                }
+            },
+            "decryptionkey": "c19547136da494638305653481437fe3d585d1c6f9cf3a268a5f2f697b5b00f2"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18539561",
+                "timeupdated": "1747773374"
+            },
+            "1.0.x": {
+                "buildid": "17780019",
+                "description": "Old version.",
+                "timeupdated": "1745855782"
+            },
+            "beta": {
+                "buildid": "18539561",
+                "description": "Beta.",
+                "timeupdated": "1747773215"
+            },
+            "debug": {
+                "buildid": "17780031",
+                "description": "Debug.",
+                "timeupdated": "1742386894"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "0701ce75269f4446b0c7c8df2fd000a608b3a23754b14a909cc5ed8f369dda87"
+    }
+}
