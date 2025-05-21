@@ -1,0 +1,30 @@
+{
+    "appid": "2168680",
+    "type": "Game",
+    "name": "Nuclear Option",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100491",
+    "update_time": "2025-05-21 19:34:49",
+    "depot": {
+        "2168681": {
+            "manifests": {
+                "public": {
+                    "gid": "7533740249865731305",
+                    "size": "1809489121",
+                    "download": "847767392"
+                }
+            },
+            "decryptionkey": "b4bbb514bb5576382bea279cb1eab6977bfccd957b53ad9db9ab5d85c34606c5"
+        },
+        "workshopdepot": "2168680",
+        "branches": {
+            "public": {
+                "buildid": "17951950",
+                "timeupdated": "1743584737"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "92168767b9b934989434da644520284459667f077886eb68bbaa4156f3e9633c"
+    }
+}
