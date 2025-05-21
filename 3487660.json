@@ -1,0 +1,31 @@
+{
+    "appid": "3487660",
+    "type": "Game",
+    "name": "The Bunker",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29067535",
+    "update_time": "2025-05-20 04:31:44",
+    "depot": {
+        "3487661": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "499158053670732321",
+                    "size": "397855161",
+                    "download": "135472720"
+                }
+            },
+            "decryptionkey": "87b69472cff1d543dc34c87f551cf34b73c3aad356cd710f54999b842e6db186"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18505801",
+                "timeupdated": "1747672723"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
