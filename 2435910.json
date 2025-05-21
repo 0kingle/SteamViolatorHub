@@ -1,0 +1,39 @@
+{
+    "appid": "2435910",
+    "type": "Game",
+    "name": "Ghoul Smash",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29011954",
+    "update_time": "2025-05-16 05:36:47",
+    "depot": {
+        "2435911": {
+            "config": {
+                "oslist": "windows",
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1419020882379461103",
+                    "size": "212514392",
+                    "download": "164213840"
+                }
+            },
+            "decryptionkey": "f6aeb63af3f8790fda96f89c8020662dd47a04e829ea8e76bb8477bdb4ed4284"
+        },
+        "2435912": {
+            "config": {
+                "language": "english",
+                "oslist": "linux"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "16843092",
+                "timeupdated": "1735044834"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
