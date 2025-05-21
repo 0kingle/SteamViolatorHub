@@ -1,0 +1,27 @@
+{
+    "appid": "1790260",
+    "type": "Game",
+    "name": "Eden: New Dawn Free Edition",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989950",
+    "update_time": "2025-05-15 05:26:38",
+    "depot": {
+        "1790261": {
+            "manifests": {
+                "public": {
+                    "gid": "9132461877724532058",
+                    "size": "5458348193",
+                    "download": "2003209968"
+                }
+            },
+            "decryptionkey": "6c1eefa195c677c71e88e4decb31a735d892ad35fe7b69cc3525d54e67e1f482"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7688463",
+                "timeupdated": "1636541475"
+            }
+        }
+    }
+}
