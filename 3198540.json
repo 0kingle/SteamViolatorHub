@@ -1,0 +1,44 @@
+{
+    "appid": "3198540",
+    "type": "Game",
+    "name": "Dungeon Antiqua",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28543588",
+    "update_time": "2025-04-18 13:47:01",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "3198541": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6336265157467600130",
+                    "size": "17071714",
+                    "download": "17014448"
+                }
+            },
+            "decryptionkey": "6037ffcb473a54d652719d616e39cea54898d05069040c6aa2147a50d32384e0"
+        },
+        "3198542": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6803846578018931077",
+                    "size": "16020850",
+                    "download": "15969824"
+                }
+            },
+            "decryptionkey": "15982dd30b110b556d17a594cd3424344a63455fd9288e09592c41339ea60e13"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18153987",
+                "timeupdated": "1744955217"
+            }
+        }
+    }
+}
