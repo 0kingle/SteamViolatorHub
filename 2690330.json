@@ -1,0 +1,80 @@
+{
+    "appid": "2690330",
+    "type": "DLC",
+    "name": "Vampire Survivors: Emergency Meeting",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29075893",
+    "update_time": "2025-05-20 14:35:49",
+    "depot": {
+        "2690331": {
+            "config": {
+                "oslist": "windows,linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "841122630352246738",
+                    "size": "19145474",
+                    "download": "13740256"
+                },
+                "public-beta": {
+                    "gid": "841122630352246738",
+                    "size": "19145474",
+                    "download": "13740256"
+                }
+            },
+            "dlcappid": "2690330",
+            "decryptionkey": "09822b168eeb05c438b31f60b76fd5950c7c14544a39134692c129d6f4c7e105"
+        },
+        "2690332": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6587915587797625814",
+                    "size": "19147129",
+                    "download": "13741152"
+                },
+                "public-beta": {
+                    "gid": "6587915587797625814",
+                    "size": "19147129",
+                    "download": "13741152"
+                }
+            },
+            "dlcappid": "2690330",
+            "decryptionkey": "994a55d68c41e8619e392b1f6b218aa5db3741f0db1c0dc50f278ad7296f6b4e"
+        },
+        "2690333": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6269809294882051135",
+                    "size": "19163638",
+                    "download": "13754736"
+                },
+                "public-beta": {
+                    "gid": "6269809294882051135",
+                    "size": "19163638",
+                    "download": "13754736"
+                }
+            },
+            "dlcappid": "2690330",
+            "decryptionkey": "7df8a8ddc5c8e37e64f2f59972fdc175a5f78246b38fcfd3280fd945746db92e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18193890",
+                "timeupdated": "1745576899"
+            },
+            "public-beta": {
+                "buildid": "18193890",
+                "description": "Public Beta",
+                "timeupdated": "1745492941"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
