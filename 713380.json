@@ -1,0 +1,31 @@
+{
+    "appid": "713380",
+    "type": "Game",
+    "name": "Mr. Barrel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28748153",
+    "update_time": "2025-04-30 19:51:19",
+    "depot": {
+        "713381": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2414136064232240727",
+                    "size": "128008070",
+                    "download": "48533552"
+                }
+            },
+            "decryptionkey": "4d1f13bb8bf662b6871a6adfcf6c9bcda34e4a599c673f79aa5257779a6c2a7a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18294943",
+                "timeupdated": "1746013248"
+            }
+        }
+    }
+}
