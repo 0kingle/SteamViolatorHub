@@ -1,0 +1,27 @@
+{
+    "appid": "3591680",
+    "type": "Game",
+    "name": "Nursing Back to Pleasure",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29090006",
+    "update_time": "2025-05-21 04:15:14",
+    "depot": {
+        "3591681": {
+            "manifests": {
+                "public": {
+                    "gid": "8359305219377813678",
+                    "size": "2762271529",
+                    "download": "2702928832"
+                }
+            },
+            "decryptionkey": "83e1939e3f49a1fd14c10bef0e91cb309caf8517204a825e3d2d197ad60bf3d3"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17748317",
+                "timeupdated": "1742195877"
+            }
+        }
+    }
+}
