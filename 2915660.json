@@ -1,0 +1,37 @@
+{
+    "appid": "2915660",
+    "type": "Game",
+    "name": "Pennon and Battle",
+    "schinese_name": "旗帜与战火",
+    "isfreeapp": "0",
+    "change_number": "29099373",
+    "update_time": "2025-05-21 19:32:10",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2915661": {
+            "manifests": {
+                "public": {
+                    "gid": "3495519496929152898",
+                    "size": "1333974311",
+                    "download": "1125003824"
+                }
+            },
+            "decryptionkey": "f0bf2571d787ba3210d43491c0d778fff7c3e19f2bf42ccb09f7ca2fac8f338c"
+        },
+        "baselanguages": "",
+        "workshopdepot": "2915660",
+        "branches": {
+            "public": {
+                "buildid": "18235000",
+                "timeupdated": "1745567724"
+            }
+        },
+        "workshopdepotdecryptionkey": "78e0137665149f805412aa879e683d1af22b5a0339bf9e46aeb75ac79ed79871"
+    }
+}
