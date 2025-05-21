@@ -1,0 +1,51 @@
+{
+    "appid": "3176060",
+    "type": "Game",
+    "name": "Emissary Zero",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29073772",
+    "update_time": "2025-05-20 11:12:24",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3176061": {
+            "manifests": {
+                "public": {
+                    "gid": "7193368094109870926",
+                    "size": "4670914146",
+                    "download": "4482514432"
+                },
+                "1.0.23": {
+                    "gid": "5643150784293406198",
+                    "size": "4670822205",
+                    "download": "4471243248"
+                }
+            },
+            "decryptionkey": "87ccd43a7ff83224384228a50111bc6cfee10144e93af2284c27dcdae12d5e38"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18449959",
+                "timeupdated": "1747165918"
+            },
+            "1.0.23": {
+                "buildid": "18312262",
+                "description": "1.0.23, no steam sockets",
+                "timeupdated": "1747028610"
+            }
+        }
+    }
+}
