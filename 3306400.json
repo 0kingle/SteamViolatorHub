@@ -1,0 +1,49 @@
+{
+    "appid": "3306400",
+    "type": "Game",
+    "name": "琉隐神渡",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29052424",
+    "update_time": "2025-05-19 05:15:12",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3306401": {
+            "manifests": {
+                "public": {
+                    "gid": "8573542878939658074",
+                    "size": "6298649550",
+                    "download": "6140200848"
+                }
+            },
+            "decryptionkey": "e16ab6f68f421d0e9a1d6d99dd126873879b1be5c09ed9f7b9152fedcee2a768"
+        },
+        "baselanguages": "english,schinese",
+        "branches": {
+            "public": {
+                "buildid": "18304228",
+                "timeupdated": "1747097919"
+            }
+        }
+    }
+}
