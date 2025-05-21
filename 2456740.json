@@ -1,0 +1,43 @@
+{
+    "appid": "2456740",
+    "type": "Game",
+    "name": "inZOI",
+    "schinese_name": "云族裔",
+    "isfreeapp": "0",
+    "change_number": "29048541",
+    "update_time": "2025-05-18 20:16:02",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2456741": {
+            "manifests": {
+                "public": {
+                    "gid": "8321490079515316932",
+                    "size": "23993746033",
+                    "download": "21806375632"
+                }
+            },
+            "decryptionkey": "e91cba2d1d471bdfb115bee76ac997858f84e6ab0a82af5f17d0054f8a3c9686"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,brazilian",
+        "branches": {
+            "public": {
+                "buildid": "18265403",
+                "timeupdated": "1745902819"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
