@@ -1,0 +1,46 @@
+{
+    "appid": "2668970",
+    "type": "Demo",
+    "name": "Dusty Derby Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28896061",
+    "update_time": "2025-05-09 14:29:18",
+    "depot": {
+        "baselanguages": "english,koreana,japanese",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2668971": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4818235560868711102",
+                    "size": "3277528079",
+                    "download": "3141431456"
+                }
+            },
+            "decryptionkey": "c3efee8e155526c53d795d216d9d2540056def17ddd21012fd3cb0ba34b84821"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18398649",
+                "timeupdated": "1746769049"
+            }
+        }
+    }
+}
