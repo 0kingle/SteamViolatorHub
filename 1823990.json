@@ -1,0 +1,34 @@
+{
+    "appid": "1823990",
+    "type": "Game",
+    "name": "Gravelord",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990220",
+    "update_time": "2025-05-15 05:46:39",
+    "depot": {
+        "1823991": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1262075364734562693",
+                    "size": "4573422120",
+                    "download": "2622822272"
+                }
+            },
+            "decryptionkey": "59aab942d9821df15cd3b042a7faf96222812f5afd2be7ae1eda30961ef4bccf"
+        },
+        "workshopdepot": "1823990",
+        "branches": {
+            "public": {
+                "buildid": "18115436",
+                "timeupdated": "1744730963"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": ""
+    }
+}
