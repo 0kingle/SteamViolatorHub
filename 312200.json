@@ -1,0 +1,133 @@
+{
+    "appid": "312200",
+    "type": "Game",
+    "name": "Chasm",
+    "schinese_name": "深渊矿坑",
+    "isfreeapp": "0",
+    "change_number": "28971668",
+    "update_time": "2025-05-14 09:57:48",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229006": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,german,french,italian,spanish,hungarian,brazilian",
+        "312201": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8749412130000578926",
+                    "size": "912501063",
+                    "download": "524182688"
+                },
+                "alpha2015": {
+                    "gid": "7279030483084572549",
+                    "size": "223624303",
+                    "download": "88184800"
+                },
+                "default_previous": {
+                    "gid": "6179024252824745188",
+                    "size": "911018005",
+                    "download": "523747568"
+                },
+                "test_branch": {
+                    "gid": "8749412130000578926",
+                    "size": "912501063",
+                    "download": "524182688"
+                }
+            },
+            "decryptionkey": "c140804a963f7b0a7211923ea963c92f2c0ae36957f00588c90c067b58ed146c"
+        },
+        "312202": {
+            "config": {
+                "oslist": "linux"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8488092534200519881",
+                    "size": "940159409",
+                    "download": "532263552"
+                },
+                "alpha2015": {
+                    "gid": "7136429931710833455",
+                    "size": "265037304",
+                    "download": "104414752"
+                },
+                "default_previous": {
+                    "gid": "6524806414975889296",
+                    "size": "937875847",
+                    "download": "531592080"
+                },
+                "test_branch": {
+                    "gid": "8488092534200519881",
+                    "size": "940159409",
+                    "download": "532263552"
+                }
+            },
+            "decryptionkey": "86b7d6c78eef2a3622d4a46cf34dcb40140484ad6f81865e33c017ed1edf83c8"
+        },
+        "312203": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1954423603609555634",
+                    "size": "943235870",
+                    "download": "532882256"
+                },
+                "alpha2015": {
+                    "gid": "8773668514636853196",
+                    "size": "245373774",
+                    "download": "96093552"
+                },
+                "default_previous": {
+                    "gid": "2948632868348873918",
+                    "size": "951946068",
+                    "download": "534564800"
+                },
+                "test_branch": {
+                    "gid": "1954423603609555634",
+                    "size": "943235870",
+                    "download": "532882256"
+                }
+            },
+            "decryptionkey": "4e0908b76debb249c97043810474e0e2145ee9276ce8ff9f0b9bff7bf808f230"
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18492298",
+                "timeupdated": "1747403897"
+            },
+            "alpha2015": {
+                "buildid": "521285",
+                "description": "2015 Early Access release for Backers",
+                "timeupdated": "1532196570"
+            },
+            "default_previous": {
+                "buildid": "16446729",
+                "description": "Last build before current",
+                "timeupdated": "1747084817"
+            },
+            "test_branch": {
+                "buildid": "18492298",
+                "description": "Public testing for upcoming releases",
+                "timeupdated": "1747404009"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
