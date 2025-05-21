@@ -1,0 +1,47 @@
+{
+    "appid": "1334500",
+    "type": "Game",
+    "name": "RP7: Spin Your Own Encounter",
+    "schinese_name": "七键骑士 RP7",
+    "isfreeapp": "0",
+    "change_number": "29050650",
+    "update_time": "2025-05-19 01:12:41",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1334501": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5630246534383070350",
+                    "size": "418705323",
+                    "download": "297082576"
+                }
+            },
+            "decryptionkey": "70a46b4d52c61e8bc9730fc5c7021ae98d65ceb3e30adb437e678e0fee063075"
+        },
+        "baselanguages": "english,koreana,schinese,tchinese,japanese",
+        "branches": {
+            "public": {
+                "buildid": "18314881",
+                "timeupdated": "1746164769"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
