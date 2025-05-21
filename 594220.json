@@ -1,0 +1,39 @@
+{
+    "appid": "594220",
+    "type": "Game",
+    "name": "The Living Remain",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29066547",
+    "update_time": "2025-05-20 04:32:47",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "594221": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1505819823523134120",
+                    "size": "20657527397",
+                    "download": "11107612256"
+                }
+            },
+            "decryptionkey": "e12024e39b25cbe4f3e5527a7b3420f1f793e10cf567702bc9ebea4afff06fd6"
+        },
+        "594222": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18510294",
+                "timeupdated": "1747674665"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
