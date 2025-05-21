@@ -1,0 +1,46 @@
+{
+    "appid": "3546740",
+    "type": "Game",
+    "name": "Champions Tactics Reforged",
+    "schinese_name": "",
+    "isfreeapp": "1",
+    "change_number": "29104152",
+    "update_time": "2025-05-21 20:53:04",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3546741": {
+            "manifests": {
+                "public": {
+                    "gid": "427295753222248784",
+                    "size": "3830336686",
+                    "download": "1898121072"
+                }
+            }
+        },
+        "1716751": {
+            "manifests": {
+                "public": {
+                    "gid": "3341282173115166582",
+                    "size": "239900768",
+                    "download": "241746080"
+                }
+            },
+            "depotfromapp": "1716750",
+            "decryptionkey": "84780b728a23b1dabbe8b064807ccd3dbd40c67139ed569101104a418c581675"
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,turkish,brazilian,vietnamese",
+        "branches": {
+            "public": {
+                "buildid": "18488288",
+                "timeupdated": "1747640895"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
