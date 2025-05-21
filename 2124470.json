@@ -1,0 +1,31 @@
+{
+    "appid": "2124470",
+    "type": "Application",
+    "name": "活字引擎",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 22:06:25",
+    "depot": {
+        "2124471": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3674522507150106005",
+                    "size": "1306002551",
+                    "download": "303277200"
+                }
+            },
+            "decryptionkey": "4c3ec96a2aa8bbfda44115368df5c73425ae463975e95064b2cf75486007a20e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16522940",
+                "timeupdated": "1732532308"
+            }
+        }
+    }
+}
