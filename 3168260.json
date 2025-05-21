@@ -1,0 +1,56 @@
+{
+    "appid": "3168260",
+    "type": "Game",
+    "name": "Blackthorn Arena: Reforged",
+    "schinese_name": "黑荆棘角斗场：重铸版",
+    "isfreeapp": "0",
+    "change_number": "29062541",
+    "update_time": "2025-05-20 04:23:44",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "3168261": {
+            "manifests": {
+                "public": {
+                    "gid": "5745119011601979534",
+                    "size": "32787786372",
+                    "download": "25597974416"
+                },
+                "betatest": {
+                    "gid": "5745119011601979534",
+                    "size": "32787786372",
+                    "download": "25597974416"
+                }
+            },
+            "decryptionkey": "749bf7e07a235e19744c49d9e52c28077f3b903fa05cd3ca4f42f5dd1f949448"
+        },
+        "3168262": {},
+        "3168263": {
+            "dlcappid": "3363660",
+            "manifests": {
+                "public": {
+                    "gid": "38769581019021493",
+                    "size": "519917148",
+                    "download": "249287856"
+                },
+                "betatest": {
+                    "gid": "38769581019021493",
+                    "size": "519917148",
+                    "download": "249287856"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18486159",
+                "timeupdated": "1747477223"
+            },
+            "betatest": {
+                "buildid": "18486159",
+                "description": "this is for beta test",
+                "timeupdated": "1747372082"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
