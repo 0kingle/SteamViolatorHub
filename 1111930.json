@@ -1,0 +1,27 @@
+{
+    "appid": "1111930",
+    "type": "Game",
+    "name": "Underspace",
+    "schinese_name": "空间之下",
+    "isfreeapp": "0",
+    "change_number": "28984162",
+    "update_time": "2025-05-14 23:33:24",
+    "depot": {
+        "1111931": {
+            "manifests": {
+                "public": {
+                    "gid": "8797077905229226579",
+                    "size": "12870635306",
+                    "download": "4437865600"
+                }
+            },
+            "decryptionkey": "706597de7cd9dd2b7c65b15cc6c365e43553ecebda513be74f31eac28600f624"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18014236",
+                "timeupdated": "1744044685"
+            }
+        }
+    }
+}
