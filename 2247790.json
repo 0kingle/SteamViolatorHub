@@ -1,0 +1,27 @@
+{
+    "appid": "2247790",
+    "type": "Game",
+    "name": "Snake Robot",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29010099",
+    "update_time": "2025-05-16 03:24:47",
+    "depot": {
+        "2247791": {
+            "manifests": {
+                "public": {
+                    "gid": "4716287980746368713",
+                    "size": "160232793",
+                    "download": "40091344"
+                }
+            },
+            "decryptionkey": "f3d21903d6e5499c8c7727af629c0284ab3283a676c0828f1eceaf5974b29a57"
+        },
+        "branches": {
+            "public": {
+                "buildid": "10316995",
+                "timeupdated": "1673625015"
+            }
+        }
+    }
+}
