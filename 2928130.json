@@ -1,0 +1,33 @@
+{
+    "appid": "2928130",
+    "type": "Game",
+    "name": "梦恋依心 Yixin",
+    "schinese_name": "梦恋依心",
+    "isfreeapp": "0",
+    "change_number": "29103636",
+    "update_time": "2025-05-21 20:26:57",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "hasdepotsindlc": "0",
+        "2928131": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7511863156712115861",
+                    "size": "12984900827",
+                    "download": "11255586464"
+                }
+            },
+            "decryptionkey": "dad5f54e73042084feb63f842b01d33d4d0909bd59c226054d12567546e0c063"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18549289",
+                "timeupdated": "1747830412"
+            }
+        }
+    }
+}
