@@ -1,0 +1,38 @@
+{
+    "appid": "601070",
+    "type": "Demo",
+    "name": "VoiceAttack Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27954848",
+    "update_time": "2025-03-16 06:17:02",
+    "depot": {
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "601071": {
+            "config": {
+                "language": "english",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3514997299489885610",
+                    "size": "46189265",
+                    "download": "18137888"
+                }
+            },
+            "decryptionkey": "e6385c341a2889e5c9f1146ff067671009a9b749f1cedbbb13d540940e488302"
+        },
+        "branches": {
+            "public": {
+                "buildid": "17494421",
+                "timeupdated": "1740541946"
+            }
+        }
+    }
+}
