@@ -1,0 +1,58 @@
+{
+    "appid": "1222300",
+    "type": "Game",
+    "name": "Into The Flames",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28450279",
+    "update_time": "2025-04-13 11:52:23",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english",
+        "1222301": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3002786923119991479",
+                    "size": "5809868368",
+                    "download": "5580549648"
+                },
+                "testing": {
+                    "gid": "1730388099333135690",
+                    "size": "5845450841",
+                    "download": "5615661568"
+                }
+            },
+            "decryptionkey": "21dd651ba7ff6d43543c53112d5dfe96d4e425d31065d714776233eb737aa3b6"
+        },
+        "workshopdepot": "1222300",
+        "branches": {
+            "public": {
+                "buildid": "16895600",
+                "timeupdated": "1735864492"
+            },
+            "testing": {
+                "buildid": "18087545",
+                "description": "Update 2077 Early play testing",
+                "timeupdated": "1744516338"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
