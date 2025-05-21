@@ -1,0 +1,29 @@
+{
+    "appid": "1966220",
+    "type": "Game",
+    "name": "Pampas & Selene: The Maze of Demons",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28992630",
+    "update_time": "2025-05-15 09:10:03",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "1966221": {
+            "manifests": {
+                "public": {
+                    "gid": "3447094059692926110",
+                    "size": "179465742",
+                    "download": "169407856"
+                }
+            },
+            "decryptionkey": "ef568c960e90f1007e1251ae7d9e9448646e17ef3eb60f5782d881a5f07dcb6e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "15848940",
+                "timeupdated": "1727432572"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
