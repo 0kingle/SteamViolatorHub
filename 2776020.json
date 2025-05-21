@@ -1,0 +1,49 @@
+{
+    "appid": "2776020",
+    "type": "Demo",
+    "name": "Survive the Fall Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29057457",
+    "update_time": "2025-05-19 16:06:04",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2776021": {
+            "manifests": {
+                "public": {
+                    "gid": "6447165119251310451",
+                    "size": "17251023277",
+                    "download": "6199761248"
+                }
+            },
+            "decryptionkey": "2e8fcb29a8fd00b683dc5e362071e3184e5aa77e107625d4a291271596ceb763"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18056541",
+                "timeupdated": "1744387569"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
