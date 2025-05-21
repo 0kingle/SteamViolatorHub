@@ -1,0 +1,31 @@
+{
+    "appid": "1258870",
+    "type": "Game",
+    "name": "Aura Kingdom 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28985548",
+    "update_time": "2025-05-15 00:46:46",
+    "depot": {
+        "1258871": {
+            "config": {
+                "oslist": "windows",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4684748263261894037",
+                    "size": "1515328413",
+                    "download": "1122588512"
+                }
+            },
+            "decryptionkey": "3f2ace7291fcf1e9f11ab50a56463e9baae9e384d8c4bdd7d056502157c0fd3a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "5241464",
+                "timeupdated": "1593670004"
+            }
+        }
+    }
+}
