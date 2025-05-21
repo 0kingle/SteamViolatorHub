@@ -1,0 +1,43 @@
+{
+    "appid": "3498270",
+    "type": "Game",
+    "name": "Better Mart",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102517",
+    "update_time": "2025-05-21 19:37:47",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3498271": {
+            "manifests": {
+                "public": {
+                    "gid": "934368948970199450",
+                    "size": "3280276924",
+                    "download": "2883220288"
+                }
+            },
+            "decryptionkey": "f9a8672f59ce9964e872dfb6e6bfaff3baa16dad3ddc7f2b2fb12bd5b1e66ad3"
+        },
+        "baselanguages": "english,french",
+        "branches": {
+            "public": {
+                "buildid": "18548101",
+                "timeupdated": "1747826583"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
