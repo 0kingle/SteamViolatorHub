@@ -1,0 +1,45 @@
+{
+    "appid": "2015270",
+    "type": "Game",
+    "name": "Rotwood",
+    "schinese_name": "熔炉密林",
+    "isfreeapp": "0",
+    "change_number": "29099723",
+    "update_time": "2025-05-21 19:33:00",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2015271": {
+            "manifests": {
+                "public": {
+                    "gid": "2783645635724920218",
+                    "size": "1038538971",
+                    "download": "1000482528"
+                },
+                "publicbeta": {
+                    "gid": "939488001597460836",
+                    "size": "1037243852",
+                    "download": "999487296"
+                }
+            },
+            "decryptionkey": "52e97957aab04bacd50fec8149cc4c447b6cfdf455482b37ab728cb7d14779fe"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18148275",
+                "timeupdated": "1745266075"
+            },
+            "publicbeta": {
+                "buildid": "17772622",
+                "description": "Public-facing beta tests for upcoming update",
+                "timeupdated": "1742343145"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
