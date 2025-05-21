@@ -1,0 +1,29 @@
+{
+    "appid": "227260",
+    "type": "Application",
+    "name": "DisplayFusion",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28605003",
+    "update_time": "2025-04-23 00:03:56",
+    "depot": {
+        "227261": {
+            "systemdefined": "1",
+            "manifests": {
+                "public": {
+                    "gid": "3039158356502526314",
+                    "size": "310234146",
+                    "download": "169627744"
+                }
+            },
+            "decryptionkey": "6026f54075a119ee0f391621f65b1c1a91d3eb751f7971e68f5338d692ac08d4"
+        },
+        "overridescddb": "1",
+        "branches": {
+            "public": {
+                "buildid": "18195633",
+                "timeupdated": "1745337829"
+            }
+        }
+    }
+}
