@@ -1,0 +1,32 @@
+{
+    "appid": "2876800",
+    "type": "Game",
+    "name": "Tenfold Loop",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 10:04:37",
+    "depot": {
+        "2876801": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5166142872939920670",
+                    "size": "477201914",
+                    "download": "159532032"
+                }
+            },
+            "decryptionkey": "658bcccd6f0efb9eea7f6f9bd9da03f237a6dcff8048cbbed8713b988e9b3603"
+        },
+        "baselanguages": "english",
+        "branches": {
+            "public": {
+                "buildid": "14258140",
+                "timeupdated": "1714756400"
+            }
+        }
+    }
+}
