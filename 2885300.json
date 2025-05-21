@@ -1,0 +1,41 @@
+{
+    "appid": "2885300",
+    "type": "Music",
+    "name": "Headquarters: World War II Soundtrack",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28496382",
+    "update_time": "2025-04-16 06:17:08",
+    "depot": {
+        "2885301": {
+            "manifests": {
+                "public": {
+                    "gid": "216694775890539814",
+                    "size": "75648981",
+                    "download": "74763056"
+                }
+            },
+            "decryptionkey": "8cd6c3cbbf85b1862106acea365460a4000b19738321f243b3b35d8c171937e3"
+        },
+        "2885302": {
+            "config": {
+                "highqualityaudio": "1"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4454539431810602419",
+                    "size": "331723408",
+                    "download": "222666464"
+                }
+            },
+            "decryptionkey": "5b20c9916cda55b04976bd43f29f4c50212f9ff248105cfafcc1c6e78c0eadde"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18025175",
+                "timeupdated": "1744376509"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
