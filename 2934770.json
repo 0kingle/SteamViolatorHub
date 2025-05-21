@@ -1,0 +1,42 @@
+{
+    "appid": "2934770",
+    "type": "Tool",
+    "name": "Baldur's Gate 3 Toolkit",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29089170",
+    "update_time": "2025-05-21 03:18:30",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2934771": {
+            "manifests": {
+                "public": {
+                    "gid": "514636135357827812",
+                    "size": "576862532",
+                    "download": "166155888"
+                }
+            },
+            "decryptionkey": "d5583f14ada87ead3bba7f9f6ebd0978c1ed0a99b2a841283406fe36aa913dee"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18526258",
+                "timeupdated": "1747768703"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
