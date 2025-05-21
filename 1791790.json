@@ -1,0 +1,37 @@
+{
+    "appid": "1791790",
+    "type": "Game",
+    "name": "Fire & Steel",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989950",
+    "update_time": "2025-05-15 05:26:36",
+    "depot": {
+        "baselanguages": "english",
+        "1791791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6481264147684696782",
+                    "size": "13433844361",
+                    "download": "5572064592"
+                }
+            },
+            "decryptionkey": "630a4d6dbe3c389b58045030e605a0075c45891dcad20eccfb7ccde51dba5b88"
+        },
+        "1791792": {
+            "config": {
+                "oslist": "macos"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "9410641",
+                "timeupdated": "1661807025"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
