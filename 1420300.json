@@ -1,0 +1,80 @@
+{
+    "appid": "1420300",
+    "type": "Game",
+    "name": "No More Heroes 2: Desperate Struggle",
+    "schinese_name": "英雄不再2：垂死挣扎",
+    "isfreeapp": "0",
+    "change_number": "29002944",
+    "update_time": "2025-05-15 21:11:55",
+    "depot": {
+        "baselanguages": "english,german,french,italian,spanish,schinese,tchinese,japanese",
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229004": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1420301": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8289298222981378948",
+                    "size": "3888105784",
+                    "download": "2119467232"
+                },
+                "2021-07-12": {
+                    "gid": "248379257181428444",
+                    "size": "3939248115",
+                    "download": "2129352320"
+                },
+                "2025-04-08": {
+                    "gid": "6285551758215279716",
+                    "size": "3887721993",
+                    "download": "2119381856"
+                }
+            },
+            "decryptionkey": "a60b2013357bb6850214cc837c14505b5af9c1cf6ba7021b26ee0050ab4d2422"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18189414",
+                "timeupdated": "1745949370"
+            },
+            "2021-07-12": {
+                "buildid": "7018796",
+                "description": "Jul 12, 2021 version",
+                "timeupdated": "1742609921"
+            },
+            "2025-04-08": {
+                "buildid": "18029287",
+                "description": "Apr 8, 2025 version",
+                "timeupdated": "1744476040"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
