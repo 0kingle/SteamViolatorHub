@@ -1,0 +1,43 @@
+{
+    "appid": "2195120",
+    "type": "Game",
+    "name": "Go-Go Town!",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29100039",
+    "update_time": "2025-05-21 19:24:01",
+    "depot": {
+        "baselanguages": "english",
+        "2195121": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2360759869238449065",
+                    "size": "979179198",
+                    "download": "808035344"
+                },
+                "preview": {
+                    "gid": "3089411024232568708",
+                    "size": "979180566",
+                    "download": "808046448"
+                }
+            },
+            "decryptionkey": "94d3a57270a0d1f85e33c7108de0457196cf7b7fd4ee7c45b233972ba6d3b962"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18019070",
+                "timeupdated": "1744083410"
+            },
+            "preview": {
+                "buildid": "17829905",
+                "description": "unstable “pre-release” branch",
+                "timeupdated": "1742862906"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
