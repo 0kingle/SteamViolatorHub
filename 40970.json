@@ -1,0 +1,208 @@
+{
+    "appid": "40970",
+    "type": "Game",
+    "name": "Stronghold Crusader HD",
+    "schinese_name": "要塞：十字军东征 高清版",
+    "isfreeapp": "0",
+    "change_number": "29001026",
+    "update_time": "2025-05-15 19:30:03",
+    "depot": {
+        "overridescddb": "1",
+        "markdlcdepots": "1",
+        "baselanguages": "",
+        "40971": {
+            "systemdefined": "1",
+            "config": {
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "525458190910597971",
+                    "size": "761283344",
+                    "download": "602800560"
+                },
+                "local": {
+                    "gid": "8920045877222520588",
+                    "size": "714407372",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "1ab22cddc3062aeca5f0c8d85d609c7f9731b32467e41e86160cf61a7b0378d2"
+        },
+        "40972": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7873539755524760233",
+                    "size": "75792848",
+                    "download": "66967920"
+                },
+                "local": {
+                    "gid": "2912057564293983162",
+                    "size": "74231146",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "d297393760d6142d3a8210b17ad315bf97c9fac265b4ca7b22ee376ec5ccddd6"
+        },
+        "40973": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2485217463421324780",
+                    "size": "70602364",
+                    "download": "59838480"
+                },
+                "local": {
+                    "gid": "9199496905638011279",
+                    "size": "69038262",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "beaa9c34cc1725a4b4587f23e834b964cc80eeb28edde613209e8bffda515d8a"
+        },
+        "40974": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2900828197235929914",
+                    "size": "69714614",
+                    "download": "60859696"
+                },
+                "local": {
+                    "gid": "281833772870534830",
+                    "size": "68146108",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "72d6d861c92a2d781a31fb8aedb582b314f1885c9655f6c20ffa56cea3e00a36"
+        },
+        "40975": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3117932823397205443",
+                    "size": "66740156",
+                    "download": "58883600"
+                },
+                "local": {
+                    "gid": "1251828031078456733",
+                    "size": "65176618",
+                    "download": "0"
+                }
+            },
+            "decryptionkey": "64bfb8585b7ac89fe2ff62fd48b12fe25d30f62c9be5d8243a4d9748c3de827d"
+        },
+        "40976": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1956325291113616834",
+                    "size": "77079968",
+                    "download": "67181376"
+                }
+            },
+            "decryptionkey": "79fa97ad827a2261dfbd91bd3258ecfa25ef71133c4cbb59658028651be55659"
+        },
+        "40977": {
+            "config": {
+                "language": "english"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2574846866425962204",
+                    "size": "72020066",
+                    "download": "63582928"
+                }
+            },
+            "decryptionkey": "a52775b8ca650109990bc1d0377ec6eb88ea153c9aeb7965d83e0ef860bcb694"
+        },
+        "40978": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7140998736208230591",
+                    "size": "80501291",
+                    "download": "61870784"
+                }
+            },
+            "decryptionkey": "af23527587236f6555cab4fd271d5b2d08918557bd5e71c0cd5e6465d7637d66"
+        },
+        "40979": {
+            "config": {
+                "language": "schinese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1392030047135391660",
+                    "size": "80351538",
+                    "download": "61852128"
+                }
+            },
+            "decryptionkey": "0ed6fbcd9edb19352762a65a43dac9716a313b95cc789656348b0d504d4c9056"
+        },
+        "588520": {
+            "config": {
+                "language": "russian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "440571064334325362",
+                    "size": "307128692",
+                    "download": "246631968"
+                }
+            },
+            "decryptionkey": "29832dfa882b35cb1fec2e56d61fe2914130ce5b4b3f65cf70d79faefda943b1"
+        },
+        "588521": {
+            "config": {
+                "language": "ukrainian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5114458414665378497",
+                    "size": "80418348",
+                    "download": "61862208"
+                }
+            },
+            "decryptionkey": "6e5074fd39d6e5ebcb632fdeec1584002af69fa7354424142e3f592478c2d0f7"
+        },
+        "588522": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4146633319597449918",
+                    "size": "72024362",
+                    "download": "61028304"
+                }
+            },
+            "decryptionkey": "2d9a5a1dc25a4769af391decdc79e0b57f16dc0f08e3280ce5d8ef333c2c3bef"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18464264",
+                "timeupdated": "1747308600"
+            },
+            "local": {
+                "buildid": "112343",
+                "description": "Local Content Server",
+                "lcsrequired": "1"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
