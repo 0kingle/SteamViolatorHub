@@ -1,0 +1,35 @@
+{
+    "appid": "1440670",
+    "type": "Game",
+    "name": "Zeepkist",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29081737",
+    "update_time": "2025-05-20 20:32:06",
+    "depot": {
+        "workshopdepot": "1440670",
+        "hasdepotsindlc": "1",
+        "1440671": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "2453883502519806338",
+                    "size": "2960149311",
+                    "download": "628389568"
+                }
+            },
+            "decryptionkey": "155b8265af52ed31033c00e1caa583211219df22e5cddbe58ec6f271865349df"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18533558",
+                "timeupdated": "1747744321"
+            }
+        },
+        "privatebranches": "1",
+        "workshopdepotdecryptionkey": "925a5b62f832c1b67c6e6635ea094cb9992c6d47c9c7e9e094011ba9386692e2"
+    }
+}
