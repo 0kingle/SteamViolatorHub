@@ -1,0 +1,46 @@
+{
+    "appid": "1422300",
+    "type": "Game",
+    "name": "IWOCon 2021",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28987020",
+    "update_time": "2025-05-15 02:06:40",
+    "depot": {
+        "228988": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1422301": {
+            "config": {
+                "language": "english",
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5892245435460881930",
+                    "size": "30519362182",
+                    "download": "9585200928"
+                }
+            },
+            "decryptionkey": "1363fc0830c3dd403a88729dac4c03c484eb50df1570ec0165a065778d16fa0a"
+        },
+        "branches": {
+            "public": {
+                "buildid": "6488123",
+                "timeupdated": "1617541566"
+            }
+        }
+    }
+}
