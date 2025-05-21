@@ -1,0 +1,43 @@
+{
+    "appid": "3126150",
+    "type": "Game",
+    "name": "BOKURA: planet",
+    "schinese_name": "不同的星球",
+    "isfreeapp": "0",
+    "change_number": "29084867",
+    "update_time": "2025-05-20 23:15:17",
+    "depot": {
+        "3126151": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7729566964443357551",
+                    "size": "513354604",
+                    "download": "265878384"
+                }
+            },
+            "decryptionkey": "a1229d225c3d9ff8b5910f0c023a48eddb981d3d45ea1bd4b13c9d63868c9950"
+        },
+        "3126152": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3364990618121724006",
+                    "size": "506606351",
+                    "download": "263936976"
+                }
+            }
+        },
+        "hasdepotsindlc": "0",
+        "branches": {
+            "public": {
+                "buildid": "18509534",
+                "timeupdated": "1747585540"
+            }
+        }
+    }
+}
