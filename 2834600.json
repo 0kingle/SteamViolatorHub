@@ -1,0 +1,28 @@
+{
+    "appid": "2834600",
+    "type": "Game",
+    "name": "My Little Life",
+    "schinese_name": "我的小小人生",
+    "isfreeapp": "0",
+    "change_number": "29014838",
+    "update_time": "2025-05-16 09:48:43",
+    "depot": {
+        "2834601": {
+            "manifests": {
+                "public": {
+                    "gid": "6057783851622042012",
+                    "size": "68630951",
+                    "download": "48398288"
+                }
+            },
+            "decryptionkey": "62ae7fadc4e1253f5eae565b2eb6548b98c5f0c4485357983c7243e4ba5561d9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18091815",
+                "timeupdated": "1744576417"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
