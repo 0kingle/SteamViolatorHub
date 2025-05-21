@@ -1,0 +1,27 @@
+{
+    "appid": "407320",
+    "type": "Game",
+    "name": "My Little Kitties",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "27924129",
+    "update_time": "2025-03-15 06:05:21",
+    "depot": {
+        "407321": {
+            "manifests": {
+                "public": {
+                    "gid": "2401670022024133465",
+                    "size": "219521622",
+                    "download": "188571296"
+                }
+            },
+            "decryptionkey": "ad0c7bc8dd3fc1d0c311cdda0d411aca6b955eee9943e37520d5ed7589394d10"
+        },
+        "branches": {
+            "public": {
+                "buildid": "1182769",
+                "timeupdated": "1466020889"
+            }
+        }
+    }
+}
