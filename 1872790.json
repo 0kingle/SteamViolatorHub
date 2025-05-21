@@ -1,0 +1,56 @@
+{
+    "appid": "1872790",
+    "type": "Game",
+    "name": "Luckitown",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28990651",
+    "update_time": "2025-05-15 06:19:50",
+    "depot": {
+        "228983": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1872791": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1976865527773193966",
+                    "size": "208151237",
+                    "download": "151200848"
+                }
+            },
+            "decryptionkey": "be0b16b969e62ffb6f18dd43d03c60e30bd945952b4c74577b76d6679bf6b19e"
+        },
+        "1872792": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3438055906325262807",
+                    "size": "225560110",
+                    "download": "155859536"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "8097744",
+                "timeupdated": "1643293389"
+            }
+        }
+    }
+}
