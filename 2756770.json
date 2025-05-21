@@ -1,0 +1,54 @@
+{
+    "appid": "2756770",
+    "type": "Game",
+    "name": "Tavern Manager Simulator",
+    "schinese_name": "酒馆经理模拟器",
+    "isfreeapp": "0",
+    "change_number": "29059509",
+    "update_time": "2025-05-19 18:14:22",
+    "depot": {
+        "baselanguages": "english",
+        "2756771": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7319229234900918628",
+                    "size": "2317372653",
+                    "download": "981577312"
+                }
+            },
+            "decryptionkey": "0c1c614022f82e0e0bd88cecdff31567aece1953e21109bd4e7d91b1d304f67f"
+        },
+        "2756772": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1583781845843511375",
+                    "size": "2317372653",
+                    "download": "981445808"
+                }
+            },
+            "decryptionkey": "c5c4a4c8cb3322c1d1ff087adcf81e06729df57f37ba64586782ec5e2bd64e46"
+        },
+        "3387950": {
+            "dlcappid": "3387950",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18386764",
+                "timeupdated": "1746697156"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
