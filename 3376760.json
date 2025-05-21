@@ -1,0 +1,41 @@
+{
+    "appid": "3376760",
+    "type": "Game",
+    "name": "PANELKA",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29062470",
+    "update_time": "2025-05-20 04:23:31",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3376761": {
+            "manifests": {
+                "public": {
+                    "gid": "3966865117438683353",
+                    "size": "2954563476",
+                    "download": "2734557312"
+                }
+            },
+            "decryptionkey": "6312e77faa59685d239a3811eff6c2732f6996bf83dd4bc26f9aa057884d3cff"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18518178",
+                "timeupdated": "1747661421"
+            }
+        }
+    }
+}
