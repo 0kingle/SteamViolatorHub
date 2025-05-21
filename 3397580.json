@@ -1,0 +1,48 @@
+{
+    "appid": "3397580",
+    "type": "Game",
+    "name": "Trump Cake Mania",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29066628",
+    "update_time": "2025-05-20 04:30:14",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229000": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "3397581": {
+            "manifests": {
+                "public": {
+                    "gid": "2494922624353258569",
+                    "size": "1218136755",
+                    "download": "350173648"
+                }
+            },
+            "decryptionkey": "a5dc6bb9c371b10e67b6aa6275f3c5813f31b1d7030a86ecaec96143386a917e"
+        },
+        "branches": {
+            "public": {
+                "buildid": "16720353",
+                "timeupdated": "1734002519"
+            }
+        }
+    }
+}
