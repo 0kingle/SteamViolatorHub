@@ -1,0 +1,59 @@
+{
+    "appid": "2066250",
+    "type": "Game",
+    "name": "HBDIE: 2",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29082522",
+    "update_time": "2025-05-20 21:15:04",
+    "depot": {
+        "hasdepotsindlc": "1",
+        "2066251": {
+            "config": {
+                "osarch": "64",
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4417838827010593118",
+                    "size": "1158134987",
+                    "download": "627062128"
+                }
+            },
+            "decryptionkey": "2ba50758d8326925027807c349129e267c529dcf779e2d68b848078a267d0460"
+        },
+        "2066252": {
+            "config": {
+                "language": "english",
+                "oslist": "macos",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4967689061144423961",
+                    "size": "1167849987",
+                    "download": "630514112"
+                }
+            }
+        },
+        "2066253": {
+            "config": {
+                "oslist": "linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "920723087390407947",
+                    "size": "1181805336",
+                    "download": "635031152"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18534084",
+                "timeupdated": "1747746878"
+            }
+        }
+    }
+}
