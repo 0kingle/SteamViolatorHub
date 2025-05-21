@@ -1,0 +1,55 @@
+{
+    "appid": "1328190",
+    "type": "Game",
+    "name": "BATTLESHIP APOLLO",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28986197",
+    "update_time": "2025-05-15 01:19:59",
+    "depot": {
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1328192": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "9010195007968181964",
+                    "size": "293721027",
+                    "download": "56705168"
+                }
+            },
+            "decryptionkey": "d58919eec8e110dc561534da8dac4fea69ec76676358f55d1d1e21c685f7ca68"
+        },
+        "1328193": {
+            "config": {
+                "oslist": "macos",
+                "osarch": "64",
+                "language": ""
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8174021305950299540",
+                    "size": "331401905",
+                    "download": "66218096"
+                }
+            }
+        },
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,russian,japanese,portuguese",
+        "branches": {
+            "public": {
+                "buildid": "7270056",
+                "timeupdated": "1630336922"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
