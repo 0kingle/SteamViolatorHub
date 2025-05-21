@@ -1,0 +1,48 @@
+{
+    "appid": "2174050",
+    "type": "Demo",
+    "name": "The Classrooms Demo",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29095110",
+    "update_time": "2025-05-21 19:21:17",
+    "depot": {
+        "hasdepotsindlc": "0",
+        "2099111": {
+            "config": {
+                "oslist": "windows,linux",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5328832329044979460",
+                    "size": "12230834490",
+                    "download": "4345179184"
+                }
+            },
+            "depotfromapp": "2099110",
+            "decryptionkey": "f72beb8416791f32f5214aeca544d8e2b30321b3310de239f9ae824182d2a5a7"
+        },
+        "2174051": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7574399680873400817",
+                    "size": "4375762690",
+                    "download": "2094845632"
+                }
+            },
+            "decryptionkey": "e50a3f9eb9b8c25bcb18b10cd90d661a91a9486aa2a8ffdabdc739eb2d9a72e9"
+        },
+        "branches": {
+            "public": {
+                "buildid": "9993737",
+                "timeupdated": "1669142394"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
