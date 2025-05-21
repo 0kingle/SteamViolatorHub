@@ -1,0 +1,74 @@
+{
+    "appid": "1940410",
+    "type": "Game",
+    "name": "Starri",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29092851",
+    "update_time": "2025-05-21 08:17:36",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "1940411": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4554815095032791506",
+                    "size": "809794088",
+                    "download": "583745696"
+                },
+                "local": {
+                    "gid": "8682994621781669171",
+                    "size": "3162670332",
+                    "download": "715381184"
+                }
+            },
+            "decryptionkey": "9b8e637a79b05d4e54c8110ac2e616d78b821790597d08f8502e655a65077fad"
+        },
+        "1940412": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8281543611882625993",
+                    "size": "1004396133",
+                    "download": "602077696"
+                }
+            }
+        },
+        "1940413": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "4224060450411040010",
+                    "size": "819602424",
+                    "download": "585621600"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "branches": {
+            "public": {
+                "buildid": "18123532",
+                "timeupdated": "1745908628"
+            },
+            "local": {
+                "buildid": "10231398",
+                "description": "Local Content Server",
+                "lcsrequired": "1",
+                "timeupdated": "1672378143"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
