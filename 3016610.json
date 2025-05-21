@@ -1,0 +1,49 @@
+{
+    "appid": "3016610",
+    "type": "Game",
+    "name": "Bopp File",
+    "schinese_name": "波普档案",
+    "isfreeapp": "0",
+    "change_number": "28383258",
+    "update_time": "2025-04-09 17:46:28",
+    "depot": {
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "228990": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "229007": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "baselanguages": "english,schinese",
+        "3016611": {
+            "manifests": {
+                "public": {
+                    "gid": "330613298493669003",
+                    "size": "4091976132",
+                    "download": "3800896288"
+                }
+            },
+            "decryptionkey": "60937b43e073402885bbb33c7dc6ca59bbf7193d9756c4d5b5e88a0c26a31154"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18038885",
+                "timeupdated": "1744191984"
+            }
+        }
+    }
+}
