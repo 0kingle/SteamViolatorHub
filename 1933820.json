@@ -1,0 +1,68 @@
+{
+    "appid": "1933820",
+    "type": "Game",
+    "name": "SGS Korean War",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28991051",
+    "update_time": "2025-05-15 06:53:11",
+    "depot": {
+        "1933821": {
+            "manifests": {
+                "public": {
+                    "gid": "8418951638437195289",
+                    "size": "1091605360",
+                    "download": "894887616"
+                }
+            },
+            "decryptionkey": "3d918997ab933176bdf82ddaa5a95301f09add1988b12c55b9f5f6561af52ba5"
+        },
+        "1933822": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "32"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "8818947719174437622",
+                    "size": "605114533",
+                    "download": "210929280"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "1933823": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5367402729440936924",
+                    "size": "618779383",
+                    "download": "214994672"
+                }
+            },
+            "decryptionkey": "ade643d2d2fc55e006072251c91e6fd97b78de1c1b18537e471c1523cca1dcb4"
+        },
+        "1933824": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7857159333611396022",
+                    "size": "614708117",
+                    "download": "214987408"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18154984",
+                "timeupdated": "1744962610"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
