@@ -1,0 +1,43 @@
+{
+    "appid": "1789490",
+    "type": "Game",
+    "name": "Love, Ghostie",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989950",
+    "update_time": "2025-05-15 05:26:36",
+    "depot": {
+        "1789491": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "6799983037001439142",
+                    "size": "1005395277",
+                    "download": "172043856"
+                }
+            },
+            "decryptionkey": "48f43dd39088d216a726ed8f19bf9dc7a5d3f97b3468bbbd2cb46121e0342e82"
+        },
+        "1789492": {
+            "config": {
+                "oslist": "macos"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "3614028791419406651",
+                    "size": "1030863652",
+                    "download": "179273040"
+                }
+            }
+        },
+        "branches": {
+            "public": {
+                "buildid": "18163190",
+                "timeupdated": "1745022898"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
