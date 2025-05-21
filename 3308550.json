@@ -1,0 +1,27 @@
+{
+    "appid": "3308550",
+    "type": "Game",
+    "name": "Sky End Market",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29094590",
+    "update_time": "2025-05-21 10:49:16",
+    "depot": {
+        "3308551": {
+            "manifests": {
+                "public": {
+                    "gid": "5038721795224021356",
+                    "size": "232154705",
+                    "download": "89654192"
+                }
+            },
+            "decryptionkey": "5b5aa1204c361ba263216225aa96c111290227d271cd317fdabe6af3ea232251"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18542999",
+                "timeupdated": "1747795751"
+            }
+        }
+    }
+}
