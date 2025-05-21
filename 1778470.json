@@ -1,0 +1,27 @@
+{
+    "appid": "1778470",
+    "type": "Game",
+    "name": "Hidden Town",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "28989826",
+    "update_time": "2025-05-15 05:19:54",
+    "depot": {
+        "1778471": {
+            "manifests": {
+                "public": {
+                    "gid": "6115244086880998214",
+                    "size": "7973658212",
+                    "download": "297905616"
+                }
+            },
+            "decryptionkey": "c1a1a55c520b6ebbca18e196b9bf69c2798a66e4df7cfd7be3640827a801f0ac"
+        },
+        "branches": {
+            "public": {
+                "buildid": "7752527",
+                "timeupdated": "1637539293"
+            }
+        }
+    }
+}
