@@ -1,0 +1,27 @@
+{
+    "appid": "3420140",
+    "type": "Game",
+    "name": "Hentai Emiko",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29083036",
+    "update_time": "2025-05-20 21:41:42",
+    "depot": {
+        "3420141": {
+            "manifests": {
+                "public": {
+                    "gid": "6822430718992709385",
+                    "size": "137288136",
+                    "download": "65083216"
+                }
+            },
+            "decryptionkey": "8d2de9fd53b08a83ac40475b50eca0bb9b783086d52c80f84a5802972663199c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18534283",
+                "timeupdated": "1747747745"
+            }
+        }
+    }
+}
