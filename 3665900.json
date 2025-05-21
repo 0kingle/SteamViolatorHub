@@ -1,0 +1,31 @@
+{
+    "appid": "3665900",
+    "type": "Game",
+    "name": "砲撃少女",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29084148",
+    "update_time": "2025-05-20 22:39:39",
+    "depot": {
+        "baselanguages": "english,schinese,tchinese,japanese",
+        "3665901": {
+            "config": {
+                "oslist": "windows"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1024008677221752065",
+                    "size": "2524993399",
+                    "download": "471088480"
+                }
+            },
+            "decryptionkey": "2280997bf0f1ae7b876c67f97d7d8cd4fc6db1321716264b62f6d8b804d1d1d7"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18535171",
+                "timeupdated": "1747751971"
+            }
+        }
+    }
+}
