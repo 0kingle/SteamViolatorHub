@@ -1,0 +1,38 @@
+{
+    "appid": "2416770",
+    "type": "Game",
+    "name": "UnderSupernova",
+    "schinese_name": "",
+    "isfreeapp": "0",
+    "change_number": "29102444",
+    "update_time": "2025-05-21 19:37:54",
+    "depot": {
+        "baselanguages": "schinese",
+        "2416771": {
+            "manifests": {
+                "public": {
+                    "gid": "7740089996793114177",
+                    "size": "191189099",
+                    "download": "107416064"
+                },
+                "experimental": {
+                    "gid": "7740089996793114177",
+                    "size": "191189099",
+                    "download": "107416064"
+                }
+            },
+            "decryptionkey": "b2e1b82195c932c73e3c2992bb2ed7a1a43eded7254c4ad47134559bcd5de30c"
+        },
+        "branches": {
+            "public": {
+                "buildid": "18548105",
+                "timeupdated": "1747826321"
+            },
+            "experimental": {
+                "buildid": "18548179",
+                "description": "for experimental dev",
+                "timeupdated": "1747825219"
+            }
+        }
+    }
+}
