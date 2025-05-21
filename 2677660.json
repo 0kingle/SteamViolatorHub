@@ -1,0 +1,186 @@
+{
+    "appid": "2677660",
+    "type": "Game",
+    "name": "Indiana Jones and the Great Circle",
+    "schinese_name": "夺宝奇兵：古老之圈 ",
+    "isfreeapp": "0",
+    "change_number": "29097382",
+    "update_time": "2025-05-21 19:26:01",
+    "depot": {
+        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam",
+        "228989": {
+            "config": {
+                "oslist": "windows"
+            },
+            "depotfromapp": "228980",
+            "sharedinstall": "1"
+        },
+        "2677661": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5042195164182342064",
+                    "size": "121221178395",
+                    "download": "112942512624"
+                }
+            },
+            "decryptionkey": "0abf0860b7a1d53e5ae7b3ed8d7e97e668fa5619be6a6ad74c140c53871868bd"
+        },
+        "2677662": {
+            "manifests": {
+                "public": {
+                    "gid": "6831917657948528277",
+                    "size": "409359568",
+                    "download": "185965360"
+                }
+            },
+            "decryptionkey": "b4089fc44110008f2b07bc97f30e298c1ae457fa69964cdb239f480259baec84"
+        },
+        "2677663": {
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7250624421023760061",
+                    "size": "559459328",
+                    "download": "106143936"
+                }
+            },
+            "decryptionkey": ""
+        },
+        "2830501": {
+            "manifests": {
+                "public": {
+                    "gid": "6662355324070304373",
+                    "size": "213028898",
+                    "download": "185732480"
+                }
+            },
+            "decryptionkey": "43cf88c0f48b755f8cb8d54bf6f3a04a2ed5551120d29b81c8ae098f26edbb0e"
+        },
+        "2830502": {
+            "config": {
+                "language": "german"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5448201813523494044",
+                    "size": "294033065",
+                    "download": "260779584"
+                }
+            },
+            "decryptionkey": "c9fbb0008c00893bad5a3815793a4439d6a7d3ebcdc9bc6fe187a30f2ab326c7"
+        },
+        "2830503": {
+            "config": {
+                "language": "spanish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1458159576047134417",
+                    "size": "304722942",
+                    "download": "271760496"
+                }
+            },
+            "decryptionkey": "02d24f8070e356ac90fac5df5692432ee3e0ea0c1558e6bb78e76aade721cf68"
+        },
+        "2830504": {
+            "config": {
+                "language": "latam"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7266227290161751726",
+                    "size": "303037435",
+                    "download": "269497600"
+                }
+            },
+            "decryptionkey": "ab46ce36b2648707946bc7ff2e1562491060503e25487e60fcc60e4a692f5c7b"
+        },
+        "2830505": {
+            "config": {
+                "language": "french"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "1342774415612904380",
+                    "size": "294118771",
+                    "download": "261003488"
+                }
+            },
+            "decryptionkey": "3a2de50a20a1204b2d32c00deb6b5f5082560e4e7ef80e78236b4a25299a5486"
+        },
+        "2830506": {
+            "config": {
+                "language": "italian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "693980898691867769",
+                    "size": "309843234",
+                    "download": "275185616"
+                }
+            },
+            "decryptionkey": "1de09055224b1a241e117533dccab28c234008abe60653c30cd44f9ebf48e9f5"
+        },
+        "2830507": {
+            "config": {
+                "language": "japanese"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "640811313163609149",
+                    "size": "298878387",
+                    "download": "261295664"
+                }
+            },
+            "decryptionkey": "fbde4f908358404a6544359f9c8c402bb8a40a336fb00fa92074cf4bf30143b2"
+        },
+        "2830508": {
+            "config": {
+                "language": "polish"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "7390468751589638582",
+                    "size": "293152024",
+                    "download": "259984192"
+                }
+            },
+            "decryptionkey": "f1808e29d18c4de5461e51d4e7d3f65b9a7eee466b91359150ad4588bdbbabe6"
+        },
+        "2830509": {
+            "config": {
+                "language": "brazilian"
+            },
+            "manifests": {
+                "public": {
+                    "gid": "5248135763137395051",
+                    "size": "290805210",
+                    "download": "257195376"
+                }
+            },
+            "decryptionkey": "7d4266463917726e639937e41582b2ba629c710a3a415dfaea90997ffd35e241"
+        },
+        "2830500": {
+            "dlcappid": "2830500",
+            "config": {
+                "oslist": "windows",
+                "osarch": "64"
+            },
+            "manifests": {}
+        },
+        "branches": {
+            "public": {
+                "buildid": "18323595",
+                "timeupdated": "1746716457"
+            }
+        },
+        "privatebranches": "1"
+    }
+}
